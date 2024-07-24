@@ -7,10 +7,11 @@ void Awake() {
 		
 		// Optional: Keeps the instance alive across scenes 
 		 DontDestroyOnLoad(gameObject); 
-		 
-	} else if (instance != this) { 
+	} 
+	else if (instance != this) { 
 		// Optional: Ensures only one instance exists
 		Destroy(gameObject); 
 	}
 }
+
 ```

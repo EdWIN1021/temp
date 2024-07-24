@@ -1,16 +1,31 @@
 {
 	"nodes":[
-		{"id":"97b5792f01b0c940","type":"group","x":-1056,"y":-2400,"width":1296,"height":800,"label":"Caching"},
-		{"id":"bb40ce7a21840ab2","type":"group","x":-1060,"y":-1280,"width":580,"height":660,"label":"next/navigation"},
-		{"id":"7896f84eacc245ea","type":"group","x":1040,"y":-1840,"width":360,"height":400,"label":"modes"},
-		{"id":"7f81cbf058f74e22","type":"file","file":"Next.js/caching/revalidate.md","x":-996,"y":-2320,"width":556,"height":166},
-		{"id":"b788a38609db7bed","type":"file","file":"Next.js/caching/revalidatePath.md","x":-996,"y":-2061,"width":465,"height":216},
-		{"id":"05cd8e8d1bc0360f","type":"file","file":"Next.js/Image.md","x":440,"y":-2398,"width":383,"height":307},
-		{"id":"6ae51210c2471180","type":"file","file":"Next.js/navigation/notFound.md","x":-1020,"y":-1240,"width":480,"height":214},
-		{"id":"7ea9dba8cff3201e","type":"file","file":"Next.js/navigation/redirect.md","x":-1012,"y":-960,"width":472,"height":163},
-		{"id":"01cc25dba0e00429","type":"file","file":"Next.js/modes/production.md","x":1080,"y":-1800,"width":274,"height":126},
-		{"id":"cfc4c2970486aa4e","type":"file","file":"Next.js/path helper.md","x":1041,"y":-1307,"width":627,"height":429},
-		{"id":"9254a406e1912c90","type":"file","file":"Next.js/caching/request memoization.md","x":-400,"y":-2319,"width":600,"height":645}
+		{"id":"9bbc346b74b5ba52","type":"group","x":118,"y":-1426,"width":1550,"height":1186,"label":"Hooks"},
+		{"id":"3c90f66f32124e98","x":-2120,"y":-5160,"width":1680,"height":760,"type":"group","label":"Routing"},
+		{"id":"97b5792f01b0c940","type":"group","x":-2134,"y":-3920,"width":1296,"height":793,"label":"Caching"},
+		{"id":"32a34374d716ec54","type":"group","x":-1128,"y":-1840,"width":880,"height":587,"label":"Server Action"},
+		{"id":"bb40ce7a21840ab2","type":"group","x":-1776,"y":-1840,"width":580,"height":660,"label":"next/navigation"},
+		{"id":"58e2eefe95dbe608","type":"group","x":-2040,"y":-5040,"width":600,"height":520,"label":"Static Routes"},
+		{"id":"7896f84eacc245ea","type":"group","x":1680,"y":-2720,"width":360,"height":400,"label":"modes"},
+		{"id":"6ae51210c2471180","type":"file","file":"Next.js/navigation/notFound.md","x":-1736,"y":-1800,"width":480,"height":214},
+		{"id":"7ea9dba8cff3201e","type":"file","file":"Next.js/navigation/redirect.md","x":-1728,"y":-1520,"width":472,"height":163},
+		{"id":"d588c76dae0615d5","type":"file","file":"Next.js/server action/Passing Additional Arguments.md","x":-1048,"y":-1739,"width":726,"height":413},
+		{"id":"05cd8e8d1bc0360f","type":"file","file":"Next.js/Image.md","x":1668,"y":-3220,"width":383,"height":307},
+		{"id":"01cc25dba0e00429","type":"file","file":"Next.js/modes/production.md","x":1720,"y":-2680,"width":274,"height":126},
+		{"id":"cfc4c2970486aa4e","type":"file","file":"Next.js/path helper.md","x":1668,"y":-2122,"width":627,"height":429},
+		{"id":"a41ea3c0a6871a44","type":"file","file":"Next.js/Hooks/useFormStatus.md","x":208,"y":-1326,"width":584,"height":500},
+		{"id":"0667a47c53a8e350","type":"file","file":"Next.js/Hooks/useFormState.md","x":880,"y":-1326,"width":660,"height":500},
+		{"id":"eac48731f8b7d8b8","type":"file","file":"Next.js/Hooks/useSearchParams.md","x":208,"y":-720,"width":656,"height":380},
+		{"id":"bac17227fe4eddae","type":"file","file":"Next.js/API Routes.md","x":-1719,"y":-806,"width":1119,"height":606},
+		{"id":"2e7a5448c73d7af4","type":"file","file":"Next.js/routes/static route/generateStaticParams.md","x":-1998,"y":-4987,"width":500,"height":380},
+		{"id":"565219091c9dd2d0","type":"file","file":"Next.js/middleware.md","x":1424,"y":-4947,"width":593,"height":340},
+		{"id":"a0c5248d9a6d7617","x":-1360,"y":-5040,"width":862,"height":573,"type":"file","file":"Next.js/Dynamic Route.md"},
+		{"id":"44b2332bf3a407a4","type":"file","file":"Next.js/Full Route Cache System.md","x":-1889,"y":-6040,"width":960,"height":560},
+		{"id":"9254a406e1912c90","type":"file","file":"Next.js/caching/request memoization.md","x":-1478,"y":-3846,"width":620,"height":645},
+		{"id":"7f81cbf058f74e22","type":"file","file":"Next.js/caching/revalidate.md","x":-2074,"y":-3847,"width":556,"height":166},
+		{"id":"b788a38609db7bed","type":"file","file":"Next.js/caching/revalidatePath.md","x":-2074,"y":-3588,"width":465,"height":216}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c79c3ff8a7e4a5ab","fromNode":"3c90f66f32124e98","fromSide":"top","toNode":"44b2332bf3a407a4","toSide":"bottom"}
+	]
 }

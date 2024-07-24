@@ -9,17 +9,18 @@ export type CommentWithAuthor = Comment & {
 }; 
 	
 export const fetchCommentsByPostId = cache( 
-(postId: string): Promise<CommentWithAuthor[]> => { 
-	return db.comment.findMany({ 
-		where: { postId }, 
-		include: { 
-			user: { 
-				select: { 
-					name: true, 
-					image: true, }, 
+	(postId: string): Promise<CommentWithAuthor[]> => { 
+		return db.comment.findMany({ 
+			where: { postId }, 
+			include: { 
+				user: { 
+					select: { 
+						name: true, 
+						image: true, }, 
+					}, 
 				}, 
-			}, 
-		}); 
+			}
+		); 
 	}
 );
 ```
