@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Python.canvas",
+                "file": "python/canvas.canvas",
                 "viewState": {
-                  "x": -860.7833394160579,
-                  "y": -172.73195230450136,
-                  "zoom": -0.9613123778638983
+                  "x": -370.44098214676654,
+                  "y": -403.74333262691806,
+                  "zoom": -2.377412324855192
                 }
               }
             }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sting to list.md",
+                "file": "python/list/append.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.canvas",
+                "file": "python/canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.canvas",
+                "file": "python/canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.canvas"
+                "file": "python/canvas.canvas"
               }
             }
           }
@@ -163,19 +163,36 @@
   },
   "active": "20da88b92fbe285a",
   "lastOpenFiles": [
-    "sting to list.md",
-    "integer to string.md",
-    "Python.canvas",
-    "min number.md",
-    "list comprehension.md",
-    "split.md",
-    "strip.md",
-    "copy.md",
+    "python/dictionary/values.md",
+    "python/dictionary/keys.md",
+    "python/dictionary/items.md",
+    "python/canvas.canvas",
+    "python/dictionary",
+    "python/class.md",
+    "python/deque/pop.md",
+    "python/list/append.md",
+    "python/type conversion/list to set.md",
+    "python/string/reverse string.md",
+    "python/deque/remove.md",
+    "python/deque/popleft.md",
+    "python/list/copy.md",
+    "python/set/add.md",
+    "python/deque",
+    "python/type conversion/sting to list.md",
+    "python/set",
+    "python/negative infinity.md",
+    "python/type conversion",
+    "python/list",
+    "python/string",
+    "python",
+    "python/type conversion/integer to string.md",
+    "python/list/list comprehension.md",
+    "python/string/split.md",
+    "python/string/strip.md",
     "README.md",
-    "Untitled",
     "UnrealUnitry.canvas",
     "Python.md",
-    "Python",
+    "python",
     "Unity.canvas"
   ]
 }
