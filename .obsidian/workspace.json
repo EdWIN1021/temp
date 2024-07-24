@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6876f76c967c6572",
+        "id": "6b7286b51b906e90",
         "type": "tabs",
         "children": [
           {
-            "id": "caa0029312b85912",
+            "id": "78e180e15f8b185c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Next.js.canvas",
-                "viewState": {
-                  "x": -195.7831144914407,
-                  "y": -1739.3588487959978,
-                  "zoom": -0.7871635118095204
-                }
+                "file": "Next.js/path helper.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Next.js.canvas",
+                "file": "Next.js/path helper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Next.js.canvas",
+                "file": "Next.js/path helper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Next.js.canvas"
+                "file": "Next.js/path helper.md"
               }
             }
           }
@@ -149,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa0029312b85912",
+  "active": "78e180e15f8b185c",
   "lastOpenFiles": [
-    "Next.js/caching/request memoization.md",
+    "Canvas/Postgres.canvas",
     "Canvas/Next.js.canvas",
+    "Canvas/Python.canvas",
+    "Canvas/Unity.canvas",
+    "Next.js/Server Action.md",
+    "Next.js/caching/request memoization.md",
     "Next.js/caching/revalidatePath.md",
     "Next.js/caching/revalidate.md",
     "Next.js/caching",
@@ -164,11 +165,8 @@
     "unity/Create Singleton Pattern.md",
     "Canvas/Javascript.canvas",
     "Next.js/modes/production.md",
-    "Canvas/Unity.canvas",
     "Next.js/modes",
     "Next.js",
-    "Canvas/Python.canvas",
-    "Canvas/Postgres.canvas",
     "README.md",
     "UnrealUnitry.canvas",
     "Canvas/MongoDB.canvas",
@@ -191,7 +189,6 @@
     "mongoDB/list all users.md",
     "mongoDB",
     "javascript/export Untitled",
-    "python/list/append.md",
     "javascript"
   ]
 }
