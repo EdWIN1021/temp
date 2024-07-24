@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"97b5792f01b0c940","type":"group","x":-1056,"y":-2400,"width":1296,"height":880,"label":"Caching"},
+		{"id":"bb40ce7a21840ab2","type":"group","x":-960,"y":-1240,"width":720,"height":660,"label":"next/navigation"},
+		{"id":"7896f84eacc245ea","type":"group","x":-520,"y":-320,"width":360,"height":400,"label":"modes"},
+		{"id":"01cc25dba0e00429","type":"file","file":"Next.js/modes/production.md","x":-480,"y":-280,"width":274,"height":126},
+		{"id":"cfc4c2970486aa4e","type":"file","file":"Next.js/path helper.md","x":-40,"y":-431,"width":627,"height":429},
+		{"id":"05cd8e8d1bc0360f","type":"file","file":"Next.js/Image.md","x":417,"y":-2107,"width":383,"height":307},
+		{"id":"7f81cbf058f74e22","type":"file","file":"Next.js/caching/revalidate.md","x":-996,"y":-2320,"width":556,"height":166},
+		{"id":"b788a38609db7bed","type":"file","file":"Next.js/caching/revalidatePath.md","x":-996,"y":-2061,"width":465,"height":216},
+		{"id":"9254a406e1912c90","x":-400,"y":-2245,"width":600,"height":645,"type":"file","file":"Next.js/caching/request memoization.md"},
+		{"id":"6ae51210c2471180","type":"file","file":"Next.js/navigation/notFound.md","x":-920,"y":-1200,"width":480,"height":214},
+		{"id":"7ea9dba8cff3201e","type":"file","file":"Next.js/navigation/redirect.md","x":-912,"y":-920,"width":472,"height":163}
+	],
+	"edges":[]
+}

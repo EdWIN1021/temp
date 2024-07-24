@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "becb4aa890d0d039",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "mongoDB/MongoDB.canvas",
-                "viewState": {
-                  "x": 120,
-                  "y": 20,
-                  "zoom": -0.4186788527170817
-                }
-              }
-            }
-          },
-          {
             "id": "caa0029312b85912",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "postgres/Postgres.canvas",
+                "file": "Canvas/Next.js.canvas",
                 "viewState": {
-                  "x": -3.6934374999999746,
-                  "y": -215.16390625000008,
-                  "zoom": 0
+                  "x": -195.7831144914407,
+                  "y": -1739.3588487959978,
+                  "zoom": -0.7871635118095204
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres/switching databases.md",
+                "file": "Canvas/Next.js.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgres/switching databases.md",
+                "file": "Canvas/Next.js.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgres/switching databases.md"
+                "file": "Canvas/Next.js.canvas"
               }
             }
           }
@@ -167,47 +151,47 @@
   },
   "active": "caa0029312b85912",
   "lastOpenFiles": [
+    "Next.js/caching/request memoization.md",
+    "Canvas/Next.js.canvas",
+    "Next.js/caching/revalidatePath.md",
+    "Next.js/caching/revalidate.md",
+    "Next.js/caching",
+    "Next.js/Image.md",
+    "Next.js/navigation/redirect.md",
+    "Next.js/navigation/notFound.md",
+    "Next.js/navigation",
+    "Next.js/path helper.md",
+    "unity/Create Singleton Pattern.md",
+    "Canvas/Javascript.canvas",
+    "Next.js/modes/production.md",
+    "Canvas/Unity.canvas",
+    "Next.js/modes",
+    "Next.js",
+    "Canvas/Python.canvas",
+    "Canvas/Postgres.canvas",
+    "README.md",
+    "UnrealUnitry.canvas",
+    "Canvas/MongoDB.canvas",
+    "Canvas",
+    "unity/Input/GetKeyDown.md",
+    "javascript/export.md",
     "postgres/connecting to a database.md",
     "postgres/listing tables.md",
     "postgres/switching databases.md",
     "postgres/listing databases.md",
     "postgres/system user.md",
     "postgres/cli.md",
-    "postgres/Postgres.canvas",
     "prisma.md",
     "postgres",
-    "mongoDB/MongoDB.canvas",
     "prisma",
     "mongoDB/lists all the databases.md",
     "mongoDB/shell.md",
     "mongoDB/switch to a database.md",
     "mongoDB/authenticate.md",
     "mongoDB/list all users.md",
-    "javascript/Javascript.canvas",
     "mongoDB",
-    "javascript/export.md",
     "javascript/export Untitled",
     "python/list/append.md",
-    "unity/Unity.canvas",
-    "javascript",
-    "unity/Create Singleton Pattern.md",
-    "unity/Input/GetKeyDown.md",
-    "python/Python.canvas",
-    "unity/Input",
-    "unity",
-    "python/dictionary/values.md",
-    "python/dictionary/keys.md",
-    "python/dictionary/items.md",
-    "python/dictionary",
-    "python/class.md",
-    "python/deque/pop.md",
-    "python/type conversion/list to set.md",
-    "python/string/reverse string.md",
-    "python/deque/remove.md",
-    "python/deque/popleft.md",
-    "python/list/copy.md",
-    "python/deque",
-    "python/set",
-    "UnrealUnitry.canvas"
+    "javascript"
   ]
 }

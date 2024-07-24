@@ -1,3 +1,3 @@
-```c#
+```csharp
 Input.GetKeyDown(keyCode.R);
 ```
