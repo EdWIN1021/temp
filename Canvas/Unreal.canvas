@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e02325729cf8103d","type":"group","x":-720,"y":-300,"width":1080,"height":660,"label":"Brushes"},
+		{"id":"ba40f782b361ab72","type":"file","file":"unreal/Brushes.md","x":-660,"y":-260,"width":200,"height":380},
+		{"id":"3aa49730bb06e015","type":"text","text":"Brush Type","x":-430,"y":29,"width":150,"height":56},
+		{"id":"ebcb962ad3a88a7f","type":"text","text":"Subtractive ![[Screenshot 2024-07-24 at 7.15.02 PM.png]]\n","x":40,"y":-154,"width":272,"height":71},
+		{"id":"d23c60939d1c90e6","type":"text","text":"Hollow\n![[Screenshot 2024-07-24 at 7.11.28 PM.png]]","x":-355,"y":-260,"width":240,"height":106}
+	],
+	"edges":[
+		{"id":"a959d86cda7a08a9","fromNode":"ba40f782b361ab72","fromSide":"right","toNode":"d23c60939d1c90e6","toSide":"left"},
+		{"id":"71c8411aaa3e28a3","fromNode":"3aa49730bb06e015","fromSide":"right","toNode":"ebcb962ad3a88a7f","toSide":"left","label":"create holes, tunnels, or other negative spaces "}
+	]
+}
