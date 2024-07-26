@@ -1,5 +1,5 @@
 
 ```py
 q.pop()
-# deque([1, 2, 3])
+# output: deque([1, 2, 3])
 ```

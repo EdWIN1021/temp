@@ -1,4 +1,4 @@
-![[Screenshot 2024-07-24 at 2.24.27 PM 1.png]]
+![[Screenshot 2024-07-24 at 2.24.27 PM.png]]
 
 check `Is Trigger`
 

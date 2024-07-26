@@ -1,5 +1,7 @@
 {
   "livePreview": false,
   "defaultViewMode": "preview",
-  "tabSize": 2
+  "tabSize": 2,
+  "foldHeading": true,
+  "showInlineTitle": false
 }

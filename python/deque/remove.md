@@ -1,4 +1,4 @@
 ```py
 q.remove(3)
-# deque([1, 2, 4])
+# output: deque([1, 2, 4])
 ```

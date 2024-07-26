@@ -1,4 +1,4 @@
 ```py
 q.popleft()
-# deque([2, 3, 4])
+# output: deque([2, 3, 4])
 ```

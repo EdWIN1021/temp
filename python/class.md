@@ -10,5 +10,6 @@ class Circle():
 	def get_circumference(self): 
 		return self.radius * self.pi * 2 
 
-c = Circle(30) c.get_circumference()
+c = Circle(30) 
+c.get_circumference()
 ```
