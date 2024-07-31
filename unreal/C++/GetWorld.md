@@ -1,0 +1,3 @@
+```cpp
+UWorld* World = GetWorld();
+```

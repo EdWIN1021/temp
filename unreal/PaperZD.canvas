@@ -1,13 +1,68 @@
 {
-	"nodes":[
-		{"id":"656d80e429e2ca95","x":-596,"y":-302,"width":436,"height":50,"type":"text","text":"Spirte Actions > Apply Paper 2D Texture Settings"},
-		{"id":"c6f1827a94077d85","x":-536,"y":-80,"width":316,"height":50,"type":"text","text":"Select Sprites > Create Flipbook"},
-		{"id":"4c0d7d771c9077db","x":-58,"y":-81,"width":138,"height":51,"type":"text","text":"Flipbook\n"},
-		{"id":"db044417e78eb563","x":289,"y":-247,"width":211,"height":50,"type":"text","text":"Frame Per Second"}
-	],
-	"edges":[
-		{"id":"0c863f7936699eef","fromNode":"656d80e429e2ca95","fromSide":"bottom","toNode":"c6f1827a94077d85","toSide":"top"},
-		{"id":"c061bb60645ab331","fromNode":"c6f1827a94077d85","fromSide":"right","toNode":"4c0d7d771c9077db","toSide":"left"},
-		{"id":"8351271bffc90832","fromNode":"4c0d7d771c9077db","fromSide":"right","toNode":"db044417e78eb563","toSide":"left"}
-	]
+  "nodes": [
+    {
+      "id": "656d80e429e2ca95",
+      "type": "text",
+      "text": "Spirte Actions > Apply Paper 2D Texture Settings",
+      "styleAttributes": {},
+      "x": -596,
+      "y": -302,
+      "width": 436,
+      "height": 50
+    },
+    {
+      "id": "c6f1827a94077d85",
+      "type": "text",
+      "text": "Select Sprites > Create Flipbook",
+      "styleAttributes": {},
+      "x": -536,
+      "y": -80,
+      "width": 316,
+      "height": 50
+    },
+    {
+      "id": "4c0d7d771c9077db",
+      "type": "text",
+      "text": "Flipbook\n",
+      "styleAttributes": {},
+      "x": -58,
+      "y": -81,
+      "width": 138,
+      "height": 51
+    },
+    {
+      "id": "db044417e78eb563",
+      "type": "text",
+      "text": "Frame Per Second",
+      "styleAttributes": {},
+      "x": 289,
+      "y": -247,
+      "width": 211,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "0c863f7936699eef",
+      "fromNode": "656d80e429e2ca95",
+      "fromSide": "bottom",
+      "toNode": "c6f1827a94077d85",
+      "toSide": "top"
+    },
+    {
+      "id": "c061bb60645ab331",
+      "fromNode": "c6f1827a94077d85",
+      "fromSide": "right",
+      "toNode": "4c0d7d771c9077db",
+      "toSide": "left"
+    },
+    {
+      "id": "8351271bffc90832",
+      "fromNode": "4c0d7d771c9077db",
+      "fromSide": "right",
+      "toNode": "db044417e78eb563",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
 }

@@ -11,31 +11,15 @@
             "id": "b24711c531798431",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "unreal/Animation.canvas",
-                "viewState": {
-                  "x": -1595.7658587800584,
-                  "y": -26.60633472494315,
-                  "zoom": -0.28574656199397186
-                }
-              }
-            }
-          },
-          {
-            "id": "5cfb10e2bb49e64f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal/C++/Socket.md",
+                "file": "unreal/C++/Snippets/How to create a Camera.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 469.5,
+    "collapsed": true
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/C++/Socket.md",
+                "file": "unreal/C++/Snippets/How to create a Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/C++/Socket.md",
+                "file": "unreal/C++/Snippets/How to create a Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/C++/Socket.md"
+                "file": "unreal/C++/Snippets/How to create a Camera.md"
               }
             }
           }
@@ -162,17 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cfb10e2bb49e64f",
+  "active": "b24711c531798431",
   "lastOpenFiles": [
-    "unreal/Animation.canvas",
-    "unreal/C++/Socket.md",
-    "unreal/C++/UPROPERTY.md",
-    "unreal/C++/UE_LOG.md",
-    "unreal/C++/AddOnScreenDebugMessage.md",
-    "unreal/IK (Inverse Kinematics).canvas",
-    "unreal/PaperZD.canvas",
-    "unreal/Mesh.canvas",
+    "unreal/C++/Snippets/How to create a SpringArm.md",
+    "unreal/C++/Snippets/Function Template.md",
+    "unreal/C++/Snippets/How to create a Camera.md",
+    "unreal/C++/Snippets/How to create a CapsuleComponent.md",
+    "unreal/C++/Snippets/How to create a Socket.md",
+    "unreal/C++/Snippets/How to create a USkeletalMeshComponent.md",
+    "unreal/C++/AddMovementInput.md",
+    "unreal/Unreal.canvas",
+    "unreal/C++/UFUNCTION.md",
     "prisma.md",
+    "unreal/C++/CreateDefaultSubobject.md",
+    "unreal/C++/AddOnScreenDebugMessage.md",
+    "unreal/C++/GetName.md",
+    "unreal/C++/SetActorRotation.md",
+    "unreal/C++/SetActorLocation.md",
+    "unreal/C++/GetWorld.md",
+    "unreal/C++/SetCollisionEnabled.md",
+    "unreal/C++/SetupAttachment.md",
+    "unreal/C++/GetActorLocation.md",
+    "unreal/C++/GetActorForwardVector.md",
+    "unreal/C++/UE_LOG.md",
+    "unreal/C++/UPROPERTY.md",
+    "unreal/C++/Snippets",
+    "unreal/PaperZD.canvas",
+    "unreal/IK (Inverse Kinematics).canvas",
+    "unreal/Mesh.canvas",
     "unreal/C++",
     "Screenshot 2024-07-27 at 12.37.05 PM.png",
     "Screenshot 2024-07-27 at 12.31.58 PM.png",
@@ -188,8 +190,6 @@
     "canvas/Unity.canvas",
     "unity/Input System",
     "unity/Untitled.md",
-    "unity/Time.deltaTime.md",
-    "unity/Collider/Box Collider 2D.md",
     "canvas/Python.canvas",
     "assets/Screenshot 2024-06-07 at 2.12.28 PM.png",
     "assets/Screenshot 2024-07-24 at 2.24.27 PM.png",
@@ -198,26 +198,12 @@
     "canvas/Javascript.canvas",
     "unreal",
     "canvas/Unreal.canvas",
-    "javascript/array_string/indexOf.md",
     "javascript/array_string",
     "javascript/array/string",
     "canvas/MongoDB.canvas",
     "canvas/Next.js.canvas",
-    "javascript/export.md",
-    "javascript/string/repeat.md",
     "javascript/string",
-    "javascript/array/unshift.md",
-    "javascript/array/Array.md",
-    "javascript/array/Array.of.md",
-    "javascript/array/Array.from.md",
-    "javascript/array/Array.isArray.md",
     "javascript/array",
-    "javascript/IIFE.md",
-    "python/deque/remove.md",
-    "python/deque/popleft.md",
-    "python/deque/pop.md",
-    "python/deque/append.md",
-    "assets",
-    "unreal"
+    "assets"
   ]
 }

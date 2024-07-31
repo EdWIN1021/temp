@@ -3,5 +3,6 @@
   "defaultViewMode": "preview",
   "tabSize": 2,
   "foldHeading": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": false
 }

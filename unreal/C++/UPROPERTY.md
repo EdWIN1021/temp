@@ -1,4 +1,4 @@
-```c++
+```cpp
 // blueprint
 UPROPERTY(EditDefaultsOnly)
 
@@ -12,4 +12,13 @@ UPROPERTY(EditAnywhere)
 UPROPERTY(VisibleDefaultOnly)
 
 UPROPERTY(VisibleInstanceOnly)
+
+UPROPERTY(VisibleAnywhere)
+
+protected:
+  UPROPERTY(EditAnywhere, BlueprintReadWrite)
+  
+private:
+  UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Combat", meta=(AllowPrivateAccess = "true"))
+
 ```

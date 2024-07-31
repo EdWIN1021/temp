@@ -1,0 +1,3 @@
+```cpp
+FString Name = GetName();
+```
