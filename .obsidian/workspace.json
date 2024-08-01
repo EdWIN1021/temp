@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6b882d1029053b",
+        "id": "87845ad022a2a836",
         "type": "tabs",
         "children": [
           {
-            "id": "2190c8f09b16d437",
+            "id": "392f3b5313ebfb74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal/C++/Snippets/How to make Character MoveForward.md",
+                "file": "unreal/C++/Snippets/Animation/How to get Character Movement.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/C++/Snippets/How to make Character MoveForward.md",
+                "file": "unreal/C++/Snippets/Animation/How to get Character Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/C++/Snippets/How to make Character MoveForward.md",
+                "file": "unreal/C++/Snippets/Animation/How to get Character Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/C++/Snippets/How to make Character MoveForward.md"
+                "file": "unreal/C++/Snippets/Animation/How to get Character Movement.md"
               }
             }
           }
@@ -146,47 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2190c8f09b16d437",
+  "active": "392f3b5313ebfb74",
   "lastOpenFiles": [
+    "unreal/C++/Snippets/Animation/How to get Ground Speed.md",
+    "unreal/C++/Snippets/Animation/How to get Character Movement.md",
+    "unreal/C++/Snippets/Animation/NativeInitializeAnimation.md",
+    "unreal/C++/Snippets/Animation/NativeUpdateAnimation.md",
+    "unreal/C++/Snippets/Animation",
+    "unreal/How to create a Animation Instance.md",
+    "unreal/Blueprint/How to get Character Movement.md",
+    "unreal/Blueprint/How to get Character GroundSpeed.md",
+    "assets/Screenshot 2024-07-26 at 1.50.53 PM.png",
+    "assets/Screenshot 2024-08-01 at 10.17.26 AM.png",
+    "assets/Screenshot 2024-08-01 at 10.16.45 AM.png",
+    "unreal/Blueprint",
+    "unreal/C++/UFUNCTION.md",
+    "unreal/C++/Editor",
+    "unreal/C++/Untitled.md",
+    "unreal/C++/SetActorRotation.md",
+    "unreal/C++/SetActorLocation.md",
+    "unreal/C++/RotationRate.md",
+    "unreal/C++/GetName.md",
+    "unreal/C++/GetCharacterMovement.md",
+    "unreal/C++/GetActorLocation.md",
+    "unreal/C++/CreateDefaultSubobject.md",
+    "unreal/C++/bOrientRotationToMovement.md",
+    "unreal/C++/AddOnScreenDebugMessage.md",
+    "unreal/C++/AddMovementInput.md",
+    "unreal/Unreal.canvas",
+    "unreal/PaperZD.canvas",
+    "unreal/C++/UseControllerRotation.md",
+    "unreal/C++/Snippets/How to make Character Turn.md",
     "unreal/C++/Snippets/How to make Character MoveRight.md",
     "unreal/C++/Snippets/How to make Character MoveForward.md",
     "unreal/C++/Snippets/How to make Character LookUp.md",
-    "unreal/C++/Snippets/How to make Character Turn.md",
-    "Screenshot 2024-07-31 at 7.26.51 PM.png",
-    "Screenshot 2024-07-31 at 7.25.51 PM.png",
+    "assets/Screenshot 2024-07-31 at 7.26.51 PM.png",
+    "assets/Screenshot 2024-07-31 at 7.25.51 PM.png",
     "unreal/C++/Snippets/How to create a USkeletalMeshComponent.md",
-    "Screenshot 2024-07-31 at 7.23.52 PM.png",
-    "Screenshot 2024-07-31 at 7.05.52 PM.png",
-    "unreal/C++/AddOnScreenDebugMessage.md",
-    "Screenshot 2024-07-31 at 7.18.57 PM.png",
+    "assets/Screenshot 2024-07-31 at 7.23.52 PM.png",
+    "assets/Screenshot 2024-07-31 at 7.05.52 PM.png",
+    "assets/Screenshot 2024-07-31 at 7.18.57 PM.png",
     "unreal/C++/Snippets/How to create a SpringArm.md",
-    "unreal/C++/Snippets/How to create a Camera.md",
-    "unreal/C++/RotationRate.md",
-    "unreal/C++/Untitled.md",
-    "unreal/C++/bOrientRotationToMovement.md",
-    "unreal/C++/GetCharacterMovement.md",
-    "unreal/C++/RotationRate 1.md",
-    "unreal/C++/GetActorForwardVector.md",
-    "unreal/C++/UseControllerRotation.md",
-    "unreal/C++/GetName.md",
-    "unreal/C++/GetActorLocation.md",
-    "unreal/C++/CreateDefaultSubobject.md",
-    "Screenshot 2024-07-31 at 7.04.28 PM 1.png",
-    "Screenshot 2024-07-31 at 7.02.30 PM 2.png",
-    "Screenshot 2024-07-31 at 7.04.28 PM.png",
-    "unreal/C++/SetupAttachment.md",
-    "unreal/C++/SetActorLocation.md",
-    "Screenshot 2024-07-31 at 7.02.30 PM 1.png",
-    "Screenshot 2024-07-31 at 7.02.30 PM.png",
-    "unreal/C++/Snippets/Function Template.md",
-    "unreal/C++/Snippets/Untitled",
-    "unreal/C++/Snippets/How to create a Socket.md",
-    "unreal/C++/Snippets/How to create a CapsuleComponent.md",
-    "unreal/C++/AddMovementInput.md",
-    "unreal/Unreal.canvas",
-    "unreal/C++/UFUNCTION.md",
+    "assets/Screenshot 2024-07-31 at 7.04.28 PM 1.png",
+    "assets/Screenshot 2024-07-31 at 7.02.30 PM 2.png",
     "unreal/C++/Snippets",
-    "unreal/PaperZD.canvas",
     "unreal/IK (Inverse Kinematics).canvas",
     "unreal/Mesh.canvas",
     "unreal/C++",
@@ -200,8 +203,6 @@
     "javascript/array_string",
     "javascript/array/string",
     "canvas/MongoDB.canvas",
-    "canvas/Next.js.canvas",
-    "javascript/string",
-    "javascript/array"
+    "canvas/Next.js.canvas"
   ]
 }
