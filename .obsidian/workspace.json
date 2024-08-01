@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7641ecb8636e7aee",
+        "id": "4c6b882d1029053b",
         "type": "tabs",
         "children": [
           {
-            "id": "b24711c531798431",
+            "id": "2190c8f09b16d437",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal/C++/Snippets/How to create a Camera.md",
+                "file": "unreal/C++/Snippets/How to make Character MoveForward.md",
                 "mode": "preview",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/C++/Snippets/How to create a Camera.md",
+                "file": "unreal/C++/Snippets/How to make Character MoveForward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/C++/Snippets/How to create a Camera.md",
+                "file": "unreal/C++/Snippets/How to make Character MoveForward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/C++/Snippets/How to create a Camera.md"
+                "file": "unreal/C++/Snippets/How to make Character MoveForward.md"
               }
             }
           }
@@ -147,54 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b24711c531798431",
+  "active": "2190c8f09b16d437",
   "lastOpenFiles": [
-    "unreal/C++/Snippets/How to create a SpringArm.md",
-    "unreal/C++/Snippets/Function Template.md",
-    "unreal/C++/Snippets/How to create a Camera.md",
-    "unreal/C++/Snippets/How to create a CapsuleComponent.md",
-    "unreal/C++/Snippets/How to create a Socket.md",
+    "unreal/C++/Snippets/How to make Character MoveRight.md",
+    "unreal/C++/Snippets/How to make Character MoveForward.md",
+    "unreal/C++/Snippets/How to make Character LookUp.md",
+    "unreal/C++/Snippets/How to make Character Turn.md",
+    "Screenshot 2024-07-31 at 7.26.51 PM.png",
+    "Screenshot 2024-07-31 at 7.25.51 PM.png",
     "unreal/C++/Snippets/How to create a USkeletalMeshComponent.md",
+    "Screenshot 2024-07-31 at 7.23.52 PM.png",
+    "Screenshot 2024-07-31 at 7.05.52 PM.png",
+    "unreal/C++/AddOnScreenDebugMessage.md",
+    "Screenshot 2024-07-31 at 7.18.57 PM.png",
+    "unreal/C++/Snippets/How to create a SpringArm.md",
+    "unreal/C++/Snippets/How to create a Camera.md",
+    "unreal/C++/RotationRate.md",
+    "unreal/C++/Untitled.md",
+    "unreal/C++/bOrientRotationToMovement.md",
+    "unreal/C++/GetCharacterMovement.md",
+    "unreal/C++/RotationRate 1.md",
+    "unreal/C++/GetActorForwardVector.md",
+    "unreal/C++/UseControllerRotation.md",
+    "unreal/C++/GetName.md",
+    "unreal/C++/GetActorLocation.md",
+    "unreal/C++/CreateDefaultSubobject.md",
+    "Screenshot 2024-07-31 at 7.04.28 PM 1.png",
+    "Screenshot 2024-07-31 at 7.02.30 PM 2.png",
+    "Screenshot 2024-07-31 at 7.04.28 PM.png",
+    "unreal/C++/SetupAttachment.md",
+    "unreal/C++/SetActorLocation.md",
+    "Screenshot 2024-07-31 at 7.02.30 PM 1.png",
+    "Screenshot 2024-07-31 at 7.02.30 PM.png",
+    "unreal/C++/Snippets/Function Template.md",
+    "unreal/C++/Snippets/Untitled",
+    "unreal/C++/Snippets/How to create a Socket.md",
+    "unreal/C++/Snippets/How to create a CapsuleComponent.md",
     "unreal/C++/AddMovementInput.md",
     "unreal/Unreal.canvas",
     "unreal/C++/UFUNCTION.md",
-    "prisma.md",
-    "unreal/C++/CreateDefaultSubobject.md",
-    "unreal/C++/AddOnScreenDebugMessage.md",
-    "unreal/C++/GetName.md",
-    "unreal/C++/SetActorRotation.md",
-    "unreal/C++/SetActorLocation.md",
-    "unreal/C++/GetWorld.md",
-    "unreal/C++/SetCollisionEnabled.md",
-    "unreal/C++/SetupAttachment.md",
-    "unreal/C++/GetActorLocation.md",
-    "unreal/C++/GetActorForwardVector.md",
-    "unreal/C++/UE_LOG.md",
-    "unreal/C++/UPROPERTY.md",
     "unreal/C++/Snippets",
     "unreal/PaperZD.canvas",
     "unreal/IK (Inverse Kinematics).canvas",
     "unreal/Mesh.canvas",
     "unreal/C++",
-    "Screenshot 2024-07-27 at 12.37.05 PM.png",
-    "Screenshot 2024-07-27 at 12.31.58 PM.png",
-    "Screenshot 2024-07-27 at 12.28.28 PM.png",
-    "Screenshot 2024-07-27 at 12.17.21 PM.png",
-    "unreal/IK (Inverse Kinematics).md",
-    "unity/Input System/Input Actions.md",
-    "Screenshot 2024-07-26 at 1.50.53 PM.png",
-    "assets/Screenshot 2024-07-26 at 1.48.44 PM.png",
-    "Screenshot 2024-07-26 at 1.49.22 PM.png",
-    "unity/Material/Physics Material 2D.md",
-    "unity/Create Singleton Pattern.md",
     "canvas/Unity.canvas",
     "unity/Input System",
-    "unity/Untitled.md",
     "canvas/Python.canvas",
-    "assets/Screenshot 2024-06-07 at 2.12.28 PM.png",
-    "assets/Screenshot 2024-07-24 at 2.24.27 PM.png",
     "unity/Material",
-    "assets/Screenshot 2024-07-24 at 7.11.28 PM.png",
     "canvas/Javascript.canvas",
     "unreal",
     "canvas/Unreal.canvas",
@@ -203,7 +202,6 @@
     "canvas/MongoDB.canvas",
     "canvas/Next.js.canvas",
     "javascript/string",
-    "javascript/array",
-    "assets"
+    "javascript/array"
   ]
 }
