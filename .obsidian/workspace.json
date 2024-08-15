@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87845ad022a2a836",
+        "id": "ab86548c08ef88db",
         "type": "tabs",
         "children": [
           {
-            "id": "392f3b5313ebfb74",
+            "id": "7883201c6addc59c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "unreal/Blueprint/How to trace and get hit result.md",
-                "mode": "preview",
-                "source": true
+                "file": "Unreal.canvas",
+                "viewState": {
+                  "x": -2138.836164381355,
+                  "y": 2190.4925533218584,
+                  "zoom": -3.580213350022736
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/Blueprint/How to trace and get hit result.md",
+                "file": "Unreal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/Blueprint/How to trace and get hit result.md",
+                "file": "Unreal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/Blueprint/How to trace and get hit result.md"
+                "file": "Unreal.canvas"
               }
             }
           }
@@ -146,63 +149,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "392f3b5313ebfb74",
+  "active": "7883201c6addc59c",
   "lastOpenFiles": [
-    "Screenshot 2024-08-06 at 12.28.50 PM.png",
-    "unreal/C++/UE_LOG.md",
-    "unreal/Blueprint/How to trace and get hit result.md",
-    "unreal/C++/SetupAttachment.md",
-    "unreal/C++/UPROPERTY.md",
-    "unreal/Blueprint/How to make a montage notify.md",
-    "Screenshot 2024-08-04 at 7.38.57 PM.png",
-    "unreal/Blueprint/How to attach a item to a socket.md",
-    "unreal/Blueprint/How to play a montage.md",
-    "Screenshot 2024-08-04 at 3.10.44 PM.png",
-    "Screenshot 2024-08-04 at 3.10.20 PM.png",
-    "unreal/C++/UFUNCTION.md",
-    "Screenshot 2024-08-03 at 3.05.51 PM.png",
-    "unreal/Blueprint/How to get Character GroundSpeed.md",
-    "unreal/Unreal.canvas",
+    "Unity.canvas",
+    "Unreal.canvas",
+    "assets/Screenshot 2024-08-15 at 9.28.08 AM.png",
+    "assets/Screenshot 2024-08-09 at 11.04.37 AM.png",
+    "assets/Screenshot 2024-08-06 at 12.28.50 PM.png",
+    "assets/Screenshot 2024-08-04 at 7.38.57 PM.png",
+    "assets/Screenshot 2024-08-04 at 3.10.44 PM.png",
+    "assets/Screenshot 2024-08-04 at 3.10.20 PM.png",
+    "assets/Screenshot 2024-08-03 at 3.05.51 PM.png",
+    "assets/Screenshot 2024-08-01 at 11.09.03 AM.png",
+    "assets/Screenshot 2024-08-01 at 11.08.44 AM.png",
+    "assets/Screenshot 2024-08-01 at 10.17.26 AM 1.png",
+    "unreal/IK (Inverse Kinematics).canvas",
+    "README.md",
     "unreal/PaperZD.canvas",
-    "unreal/C++/Snippets/How to make Character Jump.md",
-    "unreal/Blueprint/How to make Character Jump.md",
-    "unreal/Blueprint/How to get Character Movement.md",
-    "Screenshot 2024-08-01 at 11.09.03 AM.png",
-    "Screenshot 2024-08-01 at 10.17.26 AM.png",
-    "Screenshot 2024-08-01 at 11.08.44 AM.png",
-    "unreal/C++/Snippets/How to make Character MoveRight.md",
-    "unreal/C++/Snippets/How to make Character Turn.md",
-    "unreal/C++/Snippets/How to make Character MoveForward.md",
-    "unreal/C++/Snippets/How to make Character LookUp.md",
-    "unreal/C++/Snippets/How to create a USkeletalMeshComponent.md",
-    "unreal/C++/Snippets/How to create a SpringArm.md",
-    "unreal/C++/Snippets/How to create a Socket.md",
-    "unreal/C++/Snippets/How to create a CapsuleComponent.md",
-    "unreal/C++/Snippets/How to create a Camera.md",
-    "unreal/C++/Snippets/Function Template.md",
-    "unreal/C++/SetActorLocation.md",
-    "unreal/C++/SetCollisionEnabled.md",
-    "unreal/C++/UseControllerRotation.md",
+    "Canvas/Python.canvas",
+    "Canvas/Postgres.canvas",
+    "Canvas/Next.js.canvas",
+    "Canvas/MongoDB.canvas",
+    "Canvas/Javascript.canvas",
+    "books/Blueprints Visual Scripting for Unreal Engine 5- Unleash the -- Marcos Romero, Brenden Sewell, Luis Cataldi -- 3, 2022 -- Packt Publishing Ltd -- 180181158X -- 989af6fb0bb7c430647f7abcaf626802 -- .pdf",
+    "books",
+    "mongoDB.zip",
+    "Next.js.zip",
+    "postgres.zip",
+    "python.zip",
+    "prisma.md",
+    "mongoDB/switch to a database.md",
+    "mongoDB/shell.md",
+    "mongoDB/lists all the databases.md",
+    "mongoDB/list all users.md",
+    "mongoDB/authenticate.md",
+    "javascript/IIFE.md",
+    "javascript/export.md",
+    "javascript/string/repeat.md",
+    "javascript/array_string/indexOf.md",
+    "javascript/array/unshift.md",
+    "javascript/array/Array.of.md",
+    "javascript/array/Array.isArray.md",
+    "javascript/array/Array.from.md",
+    "javascript/array/Array.md",
+    "python/deque/remove.md",
+    "python/deque/popleft.md",
+    "python/deque/pop.md",
+    "python/deque/append.md",
+    "unreal/Blueprint/Construction Script.md",
+    "unreal/Blueprint/Blueprint Class.md",
+    "unity/Collider/Box Collider 2D.md",
+    "unreal/Blueprint/Macros vs Functions vs Events.md",
+    "unreal/Blueprint/Pure function.md",
+    "Canvas/Unity.canvas",
     "unreal/C++/Snippets/Animation",
-    "assets/Screenshot 2024-07-26 at 1.50.53 PM.png",
-    "assets/Screenshot 2024-08-01 at 10.17.26 AM.png",
-    "assets/Screenshot 2024-08-01 at 10.16.45 AM.png",
     "unreal/Blueprint",
     "unreal/C++/Editor",
-    "unreal/C++/Snippets",
-    "unreal/IK (Inverse Kinematics).canvas",
-    "unreal/Mesh.canvas",
-    "unreal/C++",
-    "canvas/Unity.canvas",
-    "unity/Input System",
-    "canvas/Python.canvas",
-    "unity/Material",
-    "canvas/Javascript.canvas",
-    "unreal",
-    "canvas/Unreal.canvas",
-    "javascript/array_string",
-    "javascript/array/string",
-    "canvas/MongoDB.canvas",
-    "canvas/Next.js.canvas"
+    "unreal/C++/Snippets"
   ]
 }
