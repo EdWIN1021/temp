@@ -6,8 +6,4 @@ Whenever you use new in a constructor to allocate memory, you should use delete 
 StringBad::StringBad(const char * s) { 
   str = new char[len + 1]; 
 }
-
-StringBad::~StringBad(){ 
-  delete[] str; 
-}
 ```

@@ -1,4 +1,7 @@
-==You should initialize a reference variable when you declare it.==
+
+```ad-warning
+You should initialize a reference variable when you declare it.
+```
 
 - A reference is a name that acts as an alias, or an alternative name, for a previously defined variables.
 

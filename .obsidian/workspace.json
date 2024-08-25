@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "659c5627cde2d6d5",
+        "id": "13830017615f7044",
         "type": "tabs",
         "children": [
           {
-            "id": "5e11386d066be1f5",
+            "id": "611a673ef50153c2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "C++.canvas",
                 "viewState": {
-                  "x": -814.3645380628876,
-                  "y": 415.5731284206286,
-                  "zoom": -1.2166107530885846
+                  "x": -541.4699452910168,
+                  "y": 2760.9713344685397,
+                  "zoom": -0.6488338458451377
                 }
               }
             }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.50390243530273
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Class/Member initializer list.md",
+                "file": "C++/Functions/Passing by Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Class/Member initializer list.md",
+                "file": "C++/Functions/Passing by Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Class/Member initializer list.md"
+                "file": "C++/Functions/Passing by Reference.md"
               }
             }
           }
@@ -149,47 +149,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e11386d066be1f5",
+  "active": "611a673ef50153c2",
   "lastOpenFiles": [
-    "C++/Dynamic Memory Allocation.md",
+    "C++/Functions/Passing by Pointer.md",
     "C++.canvas",
-    "C++/Variables/Pointer/Deferencing.md",
-    "C++/Variables/Pointer",
+    "C++/Functions/Passing by Reference.md",
+    "Unity.canvas",
+    "C++/Static Class Member.md",
+    "C++/Primitive Types.md",
+    "C++/new.md",
+    "C++/Macros.md",
+    "C++/Dynamic Memory Allocation.md",
+    "C++/Reference/Reference Variables.md",
+    "C++/Reference",
+    "C++/Type Aliases.md",
+    "C++/Untitled.md",
+    "C++/Functions/Return Type.md",
+    "C++/Functions",
+    "C++/Const Qualifier.md",
     "C++/Variables/Pointer/Pointer.md",
+    "C++/Variables/Pointer/Deferencing.md",
+    "C++/Variables/C-Style String/C-Style String.md",
+    "C++/Variables/Array/Array.md",
+    "C++/Variables/Array",
+    "README.md",
+    "C++/delete.md",
     "C++/Variables/Int.md",
+    "C++/Variables/Pointer",
     "C++/cmath/round.md",
     "C++/cmath/floor.md",
     "C++/cmath/ceil.md",
     "C++/cmath/cos.md",
     "C++/cmath/sin.md",
     "C++/cmath/cbrt.md",
-    "C++/cmath/pow.md",
-    "C++/cmath/sqrt.md",
-    "C++/new.md",
     "C++/cmath",
     "Unreal.canvas",
-    "Unity.canvas",
-    "C++/Inline Function.md",
-    "C++/Variables/C++ String/length.md",
-    "C++/Variables/C++ String/clear.md",
-    "C++/Variables/C++ String/erase.md",
-    "C++/Variables/C++ String/find.md",
-    "C++/Variables/C++ String/substr.md",
-    "C++/Variables/C++ String/C++ String.md",
     "C++/Variables/C++ String",
-    "C++/Variables/Character/toupper.md",
-    "C++/Variables/Character/tolower.md",
-    "C++/Variables/Character/isspace.md",
-    "C++/Variables/Character/isupper.md",
-    "C++/Variables/Character/ispunct.md",
     "C++/Variables/Character",
     "C++/Class",
     "C++/Variables/Vector",
     "C++/Variables/C-Style String",
-    "C++/Variables",
     "unreal/IK (Inverse Kinematics).canvas",
-    "references/CPP_Primer_Plus.pdf",
-    "references/Blueprints Visual Scripting for Unreal Engine 5- Unleash the -- Marcos Romero, Brenden Sewell, Luis Cataldi -- 3, 2022 -- Packt Publishing Ltd -- 180181158X -- 989af6fb0bb7c430647f7abcaf626802 -- .pdf",
     "screenshots/Screenshot 2024-07-31 at 7.05.52 PM.png",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",

@@ -1,21 +1,51 @@
 {
   "nodes": [
     {
+      "id": "f8cd99e6e373f296",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 1160,
+      "width": 2720,
+      "height": 1420,
+      "label": "Function"
+    },
+    {
       "id": "7bd8d99d25643445",
       "type": "group",
       "styleAttributes": {},
-      "x": -800,
+      "x": -880,
       "y": -1153,
-      "width": 1160,
-      "height": 953,
+      "width": 2360,
+      "height": 1233,
       "label": "Initializing Variables"
+    },
+    {
+      "id": "7a0c9b890e27b270",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 300,
+      "y": 240,
+      "width": 1180,
+      "height": 400,
+      "label": "Reference"
+    },
+    {
+      "id": "e9f4fff5d3f44e95",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": 2740,
+      "width": 1440,
+      "height": 300,
+      "label": "Class"
     },
     {
       "id": "42a10ba48efa773e",
       "type": "group",
       "styleAttributes": {},
-      "x": 720,
-      "y": -906,
+      "x": 560,
+      "y": -1760,
       "width": 640,
       "height": 460,
       "label": "Methods"
@@ -24,11 +54,21 @@
       "id": "d89718f2a054020d",
       "type": "group",
       "styleAttributes": {},
-      "x": -1440,
-      "y": -820,
+      "x": -1920,
+      "y": -840,
       "width": 400,
       "height": 213,
       "label": "methods"
+    },
+    {
+      "id": "43438228d85e87cd",
+      "type": "file",
+      "file": "C++/new.md",
+      "styleAttributes": {},
+      "x": -2427,
+      "y": 40,
+      "width": 500,
+      "height": 340
     },
     {
       "id": "d5c1de2bb110c1f2",
@@ -37,79 +77,49 @@
       "styleAttributes": {
         "border": null
       },
-      "x": -770,
+      "x": -850,
       "y": -1093,
       "width": 490,
       "height": 178
     },
     {
-      "id": "98996c7cb684bf55",
+      "id": "c3ae59a6901dd29e",
       "type": "file",
-      "file": "C++/Variables/Pointer/Pointer.md",
+      "file": "C++/Dynamic Memory Allocation.md",
       "styleAttributes": {},
-      "x": -770,
-      "y": -475,
-      "width": 423,
-      "height": 218
-    },
-    {
-      "id": "b1b9e48c9ba318a9",
-      "type": "file",
-      "file": "C++/Variables/C-Style String/C-Style String.md",
-      "styleAttributes": {},
-      "x": -770,
-      "y": -815,
-      "width": 370,
-      "height": 205
-    },
-    {
-      "id": "6104df70bb5fde0b",
-      "type": "file",
-      "file": "C++/Variables/C-Style String/strlen.md",
-      "styleAttributes": {},
-      "x": -1400,
-      "y": -753,
-      "width": 300,
-      "height": 94
-    },
-    {
-      "id": "689d65e178d9bb99",
-      "type": "file",
-      "file": "C++/Variables/Pointer/Deferencing.md",
-      "styleAttributes": {},
-      "x": -1920,
-      "y": -510,
-      "width": 720,
-      "height": 288,
+      "x": -1520,
+      "y": 180,
+      "width": 545,
+      "height": 270,
       "color": "1"
-    },
-    {
-      "id": "562cbe37ad6b33e0",
-      "type": "file",
-      "file": "C++/Variables/Vector/Vector.md",
-      "styleAttributes": {},
-      "x": -240,
-      "y": -780,
-      "width": 502,
-      "height": 170
     },
     {
       "id": "de239ad2eff794ed",
       "type": "file",
       "file": "C++/Variables/C++ String/C++ String.md",
       "styleAttributes": {},
-      "x": -240,
-      "y": -1093,
+      "x": -228,
+      "y": -1076,
       "width": 428,
       "height": 261
+    },
+    {
+      "id": "e35aa1b449d18b99",
+      "type": "file",
+      "file": "C++/Reference/Reference Variables.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -402,
+      "width": 560,
+      "height": 400
     },
     {
       "id": "bb98a10289cf5255",
       "type": "file",
       "file": "C++/Variables/Vector/push_back.md",
       "styleAttributes": {},
-      "x": 760,
-      "y": -848,
+      "x": 600,
+      "y": -1702,
       "width": 540,
       "height": 102
     },
@@ -118,48 +128,150 @@
       "type": "file",
       "file": "C++/Variables/Vector/size.md",
       "styleAttributes": {},
-      "x": 760,
-      "y": -685,
+      "x": 600,
+      "y": -1539,
       "width": 382,
       "height": 102
     },
     {
-      "id": "c3ae59a6901dd29e",
-      "x": -1149,
-      "y": -80,
-      "width": 1182,
-      "height": 440,
+      "id": "6104df70bb5fde0b",
       "type": "file",
-      "file": "C++/Dynamic Memory Allocation.md"
+      "file": "C++/Variables/C-Style String/strlen.md",
+      "styleAttributes": {},
+      "x": -1880,
+      "y": -773,
+      "width": 300,
+      "height": 94
     },
     {
-      "id": "43438228d85e87cd",
+      "id": "689d65e178d9bb99",
       "type": "file",
-      "file": "C++/new.md",
+      "file": "C++/Variables/Pointer/Deferencing.md",
       "styleAttributes": {},
-      "x": -1900,
-      "y": 960,
-      "width": 616,
-      "height": 400
+      "x": -2050,
+      "y": -394,
+      "width": 720,
+      "height": 298,
+      "color": "1"
+    },
+    {
+      "id": "b1b9e48c9ba318a9",
+      "type": "file",
+      "file": "C++/Variables/C-Style String/C-Style String.md",
+      "styleAttributes": {},
+      "x": -850,
+      "y": -815,
+      "width": 370,
+      "height": 255
+    },
+    {
+      "id": "98996c7cb684bf55",
+      "type": "file",
+      "file": "C++/Variables/Pointer/Pointer.md",
+      "styleAttributes": {},
+      "x": -849,
+      "y": -402,
+      "width": 529,
+      "height": 314
+    },
+    {
+      "id": "2f08e63818cd9fa7",
+      "type": "file",
+      "file": "C++/Const Qualifier.md",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 400,
+      "width": 460,
+      "height": 280
+    },
+    {
+      "id": "09b3e943c73328b5",
+      "type": "file",
+      "file": "C++/Variables/Array/Array.md",
+      "styleAttributes": {},
+      "x": -212,
+      "y": -402,
+      "width": 640,
+      "height": 384
+    },
+    {
+      "id": "6d4ba294e030b279",
+      "type": "file",
+      "file": "C++/delete.md",
+      "styleAttributes": {},
+      "x": -2427,
+      "y": 515,
+      "width": 377,
+      "height": 270
+    },
+    {
+      "id": "30a20d262c14888b",
+      "type": "file",
+      "file": "C++/Macros.md",
+      "styleAttributes": {},
+      "x": -1927,
+      "y": 954,
+      "width": 800,
+      "height": 206
+    },
+    {
+      "id": "562cbe37ad6b33e0",
+      "type": "file",
+      "file": "C++/Variables/Vector/Vector.md",
+      "styleAttributes": {},
+      "x": -212,
+      "y": -695,
+      "width": 502,
+      "height": 170
+    },
+    {
+      "id": "6d5ac759124e9ab5",
+      "type": "file",
+      "file": "C++/Functions/Passing by Pointer.md",
+      "styleAttributes": {},
+      "x": -849,
+      "y": 1240,
+      "width": 369,
+      "height": 560
     },
     {
       "id": "8e440e3fbea792d2",
       "type": "file",
-      "file": "C++/Inline Function.md",
+      "file": "C++/Functions/Inline Function.md",
       "styleAttributes": {},
-      "x": -1900,
-      "y": 640,
+      "x": -849,
+      "y": 2280,
       "width": 680,
       "height": 200,
       "color": "5"
+    },
+    {
+      "id": "6ac2077a91738e11",
+      "type": "file",
+      "file": "C++/Functions/Return Type.md",
+      "styleAttributes": {},
+      "x": -861,
+      "y": 1880,
+      "width": 631,
+      "height": 271
+    },
+    {
+      "id": "a9cf0b681b4136de",
+      "type": "file",
+      "file": "C++/Functions/Passing by Reference.md",
+      "styleAttributes": {},
+      "x": -400,
+      "y": 1240,
+      "width": 436,
+      "height": 280
     },
     {
       "id": "64c92604d3f2112b",
       "type": "file",
       "file": "C++/Class/Member initializer list.md",
       "styleAttributes": {},
-      "x": -1040,
-      "y": 1040,
+      "x": -960,
+      "y": 2820,
       "width": 1219,
       "height": 79
     }
@@ -196,6 +308,46 @@
       "fromSide": "bottom",
       "toNode": "c3ae59a6901dd29e",
       "toSide": "top"
+    },
+    {
+      "id": "4da20b0983732545",
+      "styleAttributes": {},
+      "fromNode": "43438228d85e87cd",
+      "fromSide": "right",
+      "toNode": "c3ae59a6901dd29e",
+      "toSide": "left"
+    },
+    {
+      "id": "10cd79f570bb0998",
+      "styleAttributes": {},
+      "fromNode": "6d4ba294e030b279",
+      "fromSide": "right",
+      "toNode": "c3ae59a6901dd29e",
+      "toSide": "left"
+    },
+    {
+      "id": "2c875d38c59bebb2",
+      "styleAttributes": {},
+      "fromNode": "98996c7cb684bf55",
+      "fromSide": "bottom",
+      "toNode": "2f08e63818cd9fa7",
+      "toSide": "top"
+    },
+    {
+      "id": "01c08d1f336c20f5",
+      "styleAttributes": {},
+      "fromNode": "98996c7cb684bf55",
+      "fromSide": "bottom",
+      "toNode": "6d5ac759124e9ab5",
+      "toSide": "top"
+    },
+    {
+      "id": "6f8adf36b392d854",
+      "styleAttributes": {},
+      "fromNode": "7a0c9b890e27b270",
+      "fromSide": "top",
+      "toNode": "e35aa1b449d18b99",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
