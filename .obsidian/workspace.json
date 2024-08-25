@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ab86548c08ef88db",
+        "id": "659c5627cde2d6d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7883201c6addc59c",
+            "id": "5e11386d066be1f5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Unreal.canvas",
+                "file": "C++.canvas",
                 "viewState": {
-                  "x": -2138.836164381355,
-                  "y": 2190.4925533218584,
-                  "zoom": -3.580213350022736
+                  "x": -814.3645380628876,
+                  "y": 415.5731284206286,
+                  "zoom": -1.2166107530885846
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Cpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal.canvas",
+                "file": "C++/Class/Member initializer list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal.canvas",
+                "file": "C++/Class/Member initializer list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal.canvas"
+                "file": "C++/Class/Member initializer list.md"
               }
             }
           }
@@ -149,62 +149,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7883201c6addc59c",
+  "active": "5e11386d066be1f5",
   "lastOpenFiles": [
-    "Unity.canvas",
+    "C++/Dynamic Memory Allocation.md",
+    "C++.canvas",
+    "C++/Variables/Pointer/Deferencing.md",
+    "C++/Variables/Pointer",
+    "C++/Variables/Pointer/Pointer.md",
+    "C++/Variables/Int.md",
+    "C++/cmath/round.md",
+    "C++/cmath/floor.md",
+    "C++/cmath/ceil.md",
+    "C++/cmath/cos.md",
+    "C++/cmath/sin.md",
+    "C++/cmath/cbrt.md",
+    "C++/cmath/pow.md",
+    "C++/cmath/sqrt.md",
+    "C++/new.md",
+    "C++/cmath",
     "Unreal.canvas",
-    "assets/Screenshot 2024-08-15 at 9.28.08 AM.png",
-    "assets/Screenshot 2024-08-09 at 11.04.37 AM.png",
-    "assets/Screenshot 2024-08-06 at 12.28.50 PM.png",
-    "assets/Screenshot 2024-08-04 at 7.38.57 PM.png",
-    "assets/Screenshot 2024-08-04 at 3.10.44 PM.png",
-    "assets/Screenshot 2024-08-04 at 3.10.20 PM.png",
-    "assets/Screenshot 2024-08-03 at 3.05.51 PM.png",
-    "assets/Screenshot 2024-08-01 at 11.09.03 AM.png",
-    "assets/Screenshot 2024-08-01 at 11.08.44 AM.png",
-    "assets/Screenshot 2024-08-01 at 10.17.26 AM 1.png",
+    "Unity.canvas",
+    "C++/Inline Function.md",
+    "C++/Variables/C++ String/length.md",
+    "C++/Variables/C++ String/clear.md",
+    "C++/Variables/C++ String/erase.md",
+    "C++/Variables/C++ String/find.md",
+    "C++/Variables/C++ String/substr.md",
+    "C++/Variables/C++ String/C++ String.md",
+    "C++/Variables/C++ String",
+    "C++/Variables/Character/toupper.md",
+    "C++/Variables/Character/tolower.md",
+    "C++/Variables/Character/isspace.md",
+    "C++/Variables/Character/isupper.md",
+    "C++/Variables/Character/ispunct.md",
+    "C++/Variables/Character",
+    "C++/Class",
+    "C++/Variables/Vector",
+    "C++/Variables/C-Style String",
+    "C++/Variables",
     "unreal/IK (Inverse Kinematics).canvas",
-    "README.md",
+    "references/CPP_Primer_Plus.pdf",
+    "references/Blueprints Visual Scripting for Unreal Engine 5- Unleash the -- Marcos Romero, Brenden Sewell, Luis Cataldi -- 3, 2022 -- Packt Publishing Ltd -- 180181158X -- 989af6fb0bb7c430647f7abcaf626802 -- .pdf",
+    "screenshots/Screenshot 2024-07-31 at 7.05.52 PM.png",
+    "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
+    "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
+    "screenshots/Screenshot 2024-08-04 at 7.38.57 PM.png",
+    "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
+    "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png",
+    "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
+    "screenshots/Screenshot 2024-08-06 at 12.28.50 PM.png",
+    "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
+    "screenshots/Screenshot 2024-08-01 at 11.09.03 AM.png",
     "unreal/PaperZD.canvas",
     "Canvas/Python.canvas",
     "Canvas/Postgres.canvas",
     "Canvas/Next.js.canvas",
     "Canvas/MongoDB.canvas",
-    "Canvas/Javascript.canvas",
-    "books/Blueprints Visual Scripting for Unreal Engine 5- Unleash the -- Marcos Romero, Brenden Sewell, Luis Cataldi -- 3, 2022 -- Packt Publishing Ltd -- 180181158X -- 989af6fb0bb7c430647f7abcaf626802 -- .pdf",
-    "books",
-    "mongoDB.zip",
-    "Next.js.zip",
-    "postgres.zip",
-    "python.zip",
-    "prisma.md",
-    "mongoDB/switch to a database.md",
-    "mongoDB/shell.md",
-    "mongoDB/lists all the databases.md",
-    "mongoDB/list all users.md",
-    "mongoDB/authenticate.md",
-    "javascript/IIFE.md",
-    "javascript/export.md",
-    "javascript/string/repeat.md",
-    "javascript/array_string/indexOf.md",
-    "javascript/array/unshift.md",
-    "javascript/array/Array.of.md",
-    "javascript/array/Array.isArray.md",
-    "javascript/array/Array.from.md",
-    "javascript/array/Array.md",
-    "python/deque/remove.md",
-    "python/deque/popleft.md",
-    "python/deque/pop.md",
-    "python/deque/append.md",
-    "unreal/Blueprint/Construction Script.md",
-    "unreal/Blueprint/Blueprint Class.md",
-    "unity/Collider/Box Collider 2D.md",
-    "unreal/Blueprint/Macros vs Functions vs Events.md",
-    "unreal/Blueprint/Pure function.md",
-    "Canvas/Unity.canvas",
-    "unreal/C++/Snippets/Animation",
-    "unreal/Blueprint",
-    "unreal/C++/Editor",
-    "unreal/C++/Snippets"
+    "Canvas/Javascript.canvas"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "livePreview": false,
-  "defaultViewMode": "preview",
-  "tabSize": 2,
   "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
   "showInlineTitle": false,
-  "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "defaultViewMode": "preview",
+  "tabSize": 2
 }
