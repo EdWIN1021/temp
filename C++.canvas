@@ -1,14 +1,14 @@
 {
   "nodes": [
     {
-      "id": "f8cd99e6e373f296",
+      "id": "e9f4fff5d3f44e95",
       "type": "group",
       "styleAttributes": {},
-      "x": -960,
-      "y": 1160,
-      "width": 2720,
-      "height": 1420,
-      "label": "Function"
+      "x": 480,
+      "y": 1320,
+      "width": 4320,
+      "height": 2280,
+      "label": "Object-Oriented Programming"
     },
     {
       "id": "7bd8d99d25643445",
@@ -21,24 +21,44 @@
       "label": "Initializing Variables"
     },
     {
-      "id": "7a0c9b890e27b270",
+      "id": "f8cd99e6e373f296",
       "type": "group",
       "styleAttributes": {},
-      "x": 300,
-      "y": 240,
-      "width": 1180,
-      "height": 400,
-      "label": "Reference"
+      "x": -1680,
+      "y": 800,
+      "width": 1120,
+      "height": 1400,
+      "label": "Function"
     },
     {
-      "id": "e9f4fff5d3f44e95",
+      "id": "80bd83fc25f2f387",
       "type": "group",
       "styleAttributes": {},
-      "x": -1000,
-      "y": 2740,
-      "width": 1440,
-      "height": 300,
-      "label": "Class"
+      "x": 2920,
+      "y": 1390,
+      "width": 1800,
+      "height": 730,
+      "label": "Abstract Class"
+    },
+    {
+      "id": "638814e9c639fb13",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 2080,
+      "width": 1280,
+      "height": 580,
+      "label": "Operator Overloading"
+    },
+    {
+      "id": "2b9bef99940dd0dd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 1390,
+      "width": 1320,
+      "height": 530,
+      "label": "Constructor"
     },
     {
       "id": "42a10ba48efa773e",
@@ -49,6 +69,26 @@
       "width": 640,
       "height": 460,
       "label": "Methods"
+    },
+    {
+      "id": "58ba7109710c1435",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -360,
+      "y": 1120,
+      "width": 480,
+      "height": 536,
+      "label": "Preprocessor Directive"
+    },
+    {
+      "id": "9a5f9b80a044c177",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 320,
+      "width": 360,
+      "height": 420,
+      "label": "Reference"
     },
     {
       "id": "d89718f2a054020d",
@@ -69,69 +109,6 @@
       "y": 40,
       "width": 500,
       "height": 340
-    },
-    {
-      "id": "d5c1de2bb110c1f2",
-      "type": "file",
-      "file": "C++/Variables/Int.md",
-      "styleAttributes": {
-        "border": null
-      },
-      "x": -850,
-      "y": -1093,
-      "width": 490,
-      "height": 178
-    },
-    {
-      "id": "c3ae59a6901dd29e",
-      "type": "file",
-      "file": "C++/Dynamic Memory Allocation.md",
-      "styleAttributes": {},
-      "x": -1520,
-      "y": 180,
-      "width": 545,
-      "height": 270,
-      "color": "1"
-    },
-    {
-      "id": "de239ad2eff794ed",
-      "type": "file",
-      "file": "C++/Variables/C++ String/C++ String.md",
-      "styleAttributes": {},
-      "x": -228,
-      "y": -1076,
-      "width": 428,
-      "height": 261
-    },
-    {
-      "id": "e35aa1b449d18b99",
-      "type": "file",
-      "file": "C++/Reference/Reference Variables.md",
-      "styleAttributes": {},
-      "x": 600,
-      "y": -402,
-      "width": 560,
-      "height": 400
-    },
-    {
-      "id": "bb98a10289cf5255",
-      "type": "file",
-      "file": "C++/Variables/Vector/push_back.md",
-      "styleAttributes": {},
-      "x": 600,
-      "y": -1702,
-      "width": 540,
-      "height": 102
-    },
-    {
-      "id": "0595950bed6aba00",
-      "type": "file",
-      "file": "C++/Variables/Vector/size.md",
-      "styleAttributes": {},
-      "x": 600,
-      "y": -1539,
-      "width": 382,
-      "height": 102
     },
     {
       "id": "6104df70bb5fde0b",
@@ -155,6 +132,57 @@
       "color": "1"
     },
     {
+      "id": "c3ae59a6901dd29e",
+      "type": "file",
+      "file": "C++/Dynamic Memory Allocation.md",
+      "styleAttributes": {},
+      "x": -1520,
+      "y": 180,
+      "width": 545,
+      "height": 270,
+      "color": "1"
+    },
+    {
+      "id": "6d4ba294e030b279",
+      "type": "file",
+      "file": "C++/delete.md",
+      "styleAttributes": {},
+      "x": -2427,
+      "y": 515,
+      "width": 377,
+      "height": 270
+    },
+    {
+      "id": "30a20d262c14888b",
+      "type": "file",
+      "file": "C++/Macros.md",
+      "styleAttributes": {},
+      "x": -2727,
+      "y": 1174,
+      "width": 800,
+      "height": 206
+    },
+    {
+      "id": "6ac2077a91738e11",
+      "type": "file",
+      "file": "C++/Functions/Return Type.md",
+      "styleAttributes": {},
+      "x": -1581,
+      "y": 1520,
+      "width": 631,
+      "height": 271
+    },
+    {
+      "id": "6d5ac759124e9ab5",
+      "type": "file",
+      "file": "C++/Functions/Passing by Pointer.md",
+      "styleAttributes": {},
+      "x": -1569,
+      "y": 880,
+      "width": 369,
+      "height": 560
+    },
+    {
       "id": "b1b9e48c9ba318a9",
       "type": "file",
       "file": "C++/Variables/C-Style String/C-Style String.md",
@@ -163,6 +191,59 @@
       "y": -815,
       "width": 370,
       "height": 255
+    },
+    {
+      "id": "8e440e3fbea792d2",
+      "type": "file",
+      "file": "C++/Functions/Inline Function.md",
+      "styleAttributes": {},
+      "x": -1569,
+      "y": 1920,
+      "width": 680,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "a9cf0b681b4136de",
+      "type": "file",
+      "file": "C++/Functions/Passing by Reference.md",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": 880,
+      "width": 436,
+      "height": 280
+    },
+    {
+      "id": "d5c1de2bb110c1f2",
+      "type": "file",
+      "file": "C++/Variables/Int.md",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -850,
+      "y": -1093,
+      "width": 490,
+      "height": 178
+    },
+    {
+      "id": "de239ad2eff794ed",
+      "type": "file",
+      "file": "C++/Variables/C++ String/C++ String.md",
+      "styleAttributes": {},
+      "x": -228,
+      "y": -1076,
+      "width": 428,
+      "height": 261
+    },
+    {
+      "id": "6970d2843ddaabfa",
+      "type": "file",
+      "file": "C++/Preprocessor Directive/pragma once.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 1199,
+      "width": 218,
+      "height": 89
     },
     {
       "id": "98996c7cb684bf55",
@@ -185,36 +266,6 @@
       "height": 280
     },
     {
-      "id": "09b3e943c73328b5",
-      "type": "file",
-      "file": "C++/Variables/Array/Array.md",
-      "styleAttributes": {},
-      "x": -212,
-      "y": -402,
-      "width": 640,
-      "height": 384
-    },
-    {
-      "id": "6d4ba294e030b279",
-      "type": "file",
-      "file": "C++/delete.md",
-      "styleAttributes": {},
-      "x": -2427,
-      "y": 515,
-      "width": 377,
-      "height": 270
-    },
-    {
-      "id": "30a20d262c14888b",
-      "type": "file",
-      "file": "C++/Macros.md",
-      "styleAttributes": {},
-      "x": -1927,
-      "y": 954,
-      "width": 800,
-      "height": 206
-    },
-    {
       "id": "562cbe37ad6b33e0",
       "type": "file",
       "file": "C++/Variables/Vector/Vector.md",
@@ -225,55 +276,174 @@
       "height": 170
     },
     {
-      "id": "6d5ac759124e9ab5",
+      "id": "d4dc0db1b4909066",
       "type": "file",
-      "file": "C++/Functions/Passing by Pointer.md",
+      "file": "C++/OOP/Accessing Class Members.md",
       "styleAttributes": {},
-      "x": -849,
-      "y": 1240,
-      "width": 369,
-      "height": 560
+      "x": 560,
+      "y": 1400,
+      "width": 400,
+      "height": 360
     },
     {
-      "id": "8e440e3fbea792d2",
+      "id": "f891b3da2f46a9f5",
       "type": "file",
-      "file": "C++/Functions/Inline Function.md",
+      "file": "C++/OOP/Class Member Access Modifires.md",
       "styleAttributes": {},
-      "x": -849,
-      "y": 2280,
-      "width": 680,
-      "height": 200,
-      "color": "5"
+      "x": 1041,
+      "y": 1400,
+      "width": 382,
+      "height": 279
     },
     {
-      "id": "6ac2077a91738e11",
+      "id": "bb98a10289cf5255",
       "type": "file",
-      "file": "C++/Functions/Return Type.md",
+      "file": "C++/Variables/Vector/push_back.md",
       "styleAttributes": {},
-      "x": -861,
-      "y": 1880,
-      "width": 631,
-      "height": 271
+      "x": 600,
+      "y": -1702,
+      "width": 540,
+      "height": 102
     },
     {
-      "id": "a9cf0b681b4136de",
+      "id": "09b3e943c73328b5",
       "type": "file",
-      "file": "C++/Functions/Passing by Reference.md",
+      "file": "C++/Variables/Array/Array.md",
       "styleAttributes": {},
-      "x": -400,
-      "y": 1240,
-      "width": 436,
-      "height": 280
+      "x": -212,
+      "y": -402,
+      "width": 640,
+      "height": 384
+    },
+    {
+      "id": "0595950bed6aba00",
+      "type": "file",
+      "file": "C++/Variables/Vector/size.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1539,
+      "width": 382,
+      "height": 102
+    },
+    {
+      "id": "e35aa1b449d18b99",
+      "type": "file",
+      "file": "C++/Reference/Reference Variables.md",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -402,
+      "width": 560,
+      "height": 400
+    },
+    {
+      "id": "7595fff2e735e017",
+      "type": "file",
+      "file": "C++/Reference/R-Value Reference.md",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 600,
+      "width": 271,
+      "height": 105
+    },
+    {
+      "id": "755b118128fd068a",
+      "type": "file",
+      "file": "C++/Reference/L-Value Reference.md",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 380,
+      "width": 240,
+      "height": 131
+    },
+    {
+      "id": "b382f4a6de2a64e2",
+      "type": "file",
+      "file": "C++/OOP/Header File.md",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 1967,
+      "width": 388,
+      "height": 314
+    },
+    {
+      "id": "5f0f15f43ae0ea08",
+      "type": "file",
+      "file": "C++/OOP/Source File.md",
+      "styleAttributes": {},
+      "x": 1042,
+      "y": 1967,
+      "width": 381,
+      "height": 281
+    },
+    {
+      "id": "d692434ffe33f5ee",
+      "type": "file",
+      "file": "C++/OOP/Constructor/Move Constructor.md",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": 1450,
+      "width": 500,
+      "height": 147
+    },
+    {
+      "id": "fcbb84c1bb2f5648",
+      "type": "file",
+      "file": "C++/OOP/Abstract Class/Abstract Class.md",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": 1464,
+      "width": 607,
+      "height": 486
+    },
+    {
+      "id": "bf78b4f9f4f0ad44",
+      "type": "file",
+      "file": "C++/OOP/Abstract Class/Pure Virtual Function.md",
+      "styleAttributes": {},
+      "x": 3680,
+      "y": 1464,
+      "width": 400,
+      "height": 201
+    },
+    {
+      "id": "3395217f54e9de5f",
+      "type": "file",
+      "file": "C++/OOP/Abstract Class/Interface.md",
+      "styleAttributes": {},
+      "x": 3680,
+      "y": 1750,
+      "width": 640,
+      "height": 290
     },
     {
       "id": "64c92604d3f2112b",
       "type": "file",
-      "file": "C++/Class/Member initializer list.md",
+      "file": "C++/OOP/Member Initializer List.md",
       "styleAttributes": {},
-      "x": -960,
-      "y": 2820,
-      "width": 1219,
-      "height": 79
+      "x": 1560,
+      "y": 1707,
+      "width": 1260,
+      "height": 120
+    },
+    {
+      "id": "91b4095e8461148d",
+      "type": "file",
+      "file": "C++/Operator Overloading/Copy Assignment.md",
+      "styleAttributes": {},
+      "x": 1587,
+      "y": 2148,
+      "width": 533,
+      "height": 472
+    },
+    {
+      "id": "89308cdf20abf150",
+      "type": "file",
+      "file": "C++/Operator Overloading/Move Assignment.md",
+      "styleAttributes": {},
+      "x": 2160,
+      "y": 2148,
+      "width": 520,
+      "height": 432
     }
   ],
   "edges": [
@@ -342,12 +512,36 @@
       "toSide": "top"
     },
     {
-      "id": "6f8adf36b392d854",
+      "id": "978ae196cd5df81b",
       "styleAttributes": {},
-      "fromNode": "7a0c9b890e27b270",
+      "fromNode": "755b118128fd068a",
       "fromSide": "top",
       "toNode": "e35aa1b449d18b99",
       "toSide": "bottom"
+    },
+    {
+      "id": "fc7a21f9a6c52677",
+      "styleAttributes": {},
+      "fromNode": "6970d2843ddaabfa",
+      "fromSide": "right",
+      "toNode": "b382f4a6de2a64e2",
+      "toSide": "left"
+    },
+    {
+      "id": "95b409879496f138",
+      "styleAttributes": {},
+      "fromNode": "fcbb84c1bb2f5648",
+      "fromSide": "right",
+      "toNode": "bf78b4f9f4f0ad44",
+      "toSide": "left"
+    },
+    {
+      "id": "ac4ba10fa59a7a10",
+      "styleAttributes": {},
+      "fromNode": "fcbb84c1bb2f5648",
+      "fromSide": "right",
+      "toNode": "3395217f54e9de5f",
+      "toSide": "left"
     }
   ],
   "metadata": {}

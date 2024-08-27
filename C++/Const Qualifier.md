@@ -1,4 +1,4 @@
-
+## Pointer
 ```cpp
 int high_score {100};
 int low_score  {65};
@@ -12,3 +12,7 @@ int* const score_ptr { &high_score };
 score_ptr = &low_score // error
 ```
 
+## Object
+```cpp
+const Player villain {"villain", 100, 55};
+```

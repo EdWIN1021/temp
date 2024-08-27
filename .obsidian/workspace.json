@@ -11,14 +11,11 @@
             "id": "611a673ef50153c2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C++.canvas",
-                "viewState": {
-                  "x": -541.4699452910168,
-                  "y": 2760.9713344685397,
-                  "zoom": -0.6488338458451377
-                }
+                "file": "C++/Variables/Vector/Vector.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.50390243530273
+    "width": 365.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Functions/Passing by Reference.md",
+                "file": "C++/Variables/Vector/Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Functions/Passing by Reference.md",
+                "file": "C++/Variables/Vector/Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Functions/Passing by Reference.md"
+                "file": "C++/Variables/Vector/Vector.md"
               }
             }
           }
@@ -151,44 +149,44 @@
   },
   "active": "611a673ef50153c2",
   "lastOpenFiles": [
-    "C++/Functions/Passing by Pointer.md",
     "C++.canvas",
-    "C++/Functions/Passing by Reference.md",
-    "Unity.canvas",
-    "C++/Static Class Member.md",
-    "C++/Primitive Types.md",
-    "C++/new.md",
-    "C++/Macros.md",
-    "C++/Dynamic Memory Allocation.md",
-    "C++/Reference/Reference Variables.md",
-    "C++/Reference",
-    "C++/Type Aliases.md",
-    "C++/Untitled.md",
-    "C++/Functions/Return Type.md",
-    "C++/Functions",
-    "C++/Const Qualifier.md",
-    "C++/Variables/Pointer/Pointer.md",
-    "C++/Variables/Pointer/Deferencing.md",
-    "C++/Variables/C-Style String/C-Style String.md",
-    "C++/Variables/Array/Array.md",
-    "C++/Variables/Array",
-    "README.md",
+    "C++/OOP/Abstract Class/Interface.md",
+    "C++/OOP/Abstract Class/Abstract Class.md",
+    "C++/OOP/Abstract Class/Pure Virtual Function.md",
+    "C++/OOP/Abstract Class",
+    "C++/OOP/Polymorphism.md",
+    "C++/Operator Overloading/Move Assignment.md",
+    "C++/Operator Overloading/Copy Assignment.md",
     "C++/delete.md",
-    "C++/Variables/Int.md",
-    "C++/Variables/Pointer",
-    "C++/cmath/round.md",
-    "C++/cmath/floor.md",
-    "C++/cmath/ceil.md",
-    "C++/cmath/cos.md",
-    "C++/cmath/sin.md",
-    "C++/cmath/cbrt.md",
-    "C++/cmath",
+    "C++/Friend.md",
+    "C++/Operator Overloading",
+    "C++/Const Qualifier.md",
+    "C++/OOP/this.md",
+    "C++/OOP/Constructor/Move Constructor.md",
+    "C++/OOP/Constructor/Deep Copy.md",
+    "C++/OOP/Constructor/Constructor.md",
+    "C++/OOP/Constructor/Shallow Copy.md",
+    "C++/OOP/Constructor",
+    "C++/Reference/R-Value Reference.md",
+    "C++/Reference/L-Value Reference.md",
+    "C++/OOP/Member Initializer List.md",
+    "C++/OOP/Header File.md",
+    "C++/OOP/Delegating Constructor.md",
+    "C++/OOP/Class Member Access Modifires.md",
+    "C++/OOP/Accessing Class Members.md",
+    "README.md",
+    "C++/OOP/Source File.md",
+    "C++/OOP/Header File",
+    "C++/Preprocessor Directive/pragma once.md",
+    "C++/Preprocessor Directive",
     "Unreal.canvas",
-    "C++/Variables/C++ String",
-    "C++/Variables/Character",
-    "C++/Class",
-    "C++/Variables/Vector",
-    "C++/Variables/C-Style String",
+    "C++/OOP/Static Class Member.md",
+    "Unity.canvas",
+    "C++/Reference",
+    "C++/Functions",
+    "C++/Variables/Array",
+    "C++/Variables/Pointer",
+    "C++/cmath",
     "unreal/IK (Inverse Kinematics).canvas",
     "screenshots/Screenshot 2024-07-31 at 7.05.52 PM.png",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
