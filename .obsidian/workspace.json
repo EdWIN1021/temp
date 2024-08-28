@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13830017615f7044",
+        "id": "3faf6e8fd85cbf74",
         "type": "tabs",
         "children": [
           {
-            "id": "611a673ef50153c2",
+            "id": "77f69cff7fc54c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Variables/Vector/Vector.md",
+                "file": "C++/OOP/Class Template.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Cpp",
+                "query": "template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.50390243530273,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Variables/Vector/Vector.md",
+                "file": "C++/OOP/Class Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Variables/Vector/Vector.md",
+                "file": "C++/OOP/Class Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Variables/Vector/Vector.md"
+                "file": "C++/OOP/Class Template.md"
               }
             }
           }
@@ -147,46 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "611a673ef50153c2",
+  "active": "77f69cff7fc54c1e",
   "lastOpenFiles": [
+    "C++/Functions/Function Templates.md",
+    "C++/OOP/Class Template.md",
+    "C++/Functions/Inline Function.md",
+    "C++/Functions/Return Type.md",
+    "C++/Functions/Passing by Reference.md",
+    "C++/Functions/Passing by Pointer.md",
+    "unreal/C++/Snippets/Function Template.md",
+    "C++/Macros.md",
+    "C++/STL/Containers/Sequence Containers/array.md",
+    "C++/STL/Containers/Container Adapters/priority queue.md",
+    "C++/STL/reverse.md",
+    "C++/STL/Containers.md",
+    "C++/STL/Containers/Container Adapters/queue.md",
+    "C++/STL/Containers/Container Adapters/stack.md",
+    "C++/STL/Containers/Container Adapters",
+    "C++/STL/Containers/Associative Containers/set.md",
+    "C++/STL/Containers/Associative Containers/multi set.md",
+    "C++/STL/Containers/Associative Containers/map.md",
+    "C++/STL/Containers/Associative Containers/multi map.md",
+    "C++/STL/Containers/Associative Containers",
+    "C++/STL/Containers/Sequence Containers/forward_list.md",
+    "C++/STL/Containers/Sequence Containers/deque.md",
+    "C++/STL/Containers/Sequence Containers/list.md",
+    "C++/STL/Containers/Sequence Containers/vector.md",
+    "C++/STL/Containers/Sequence Containers",
+    "C++/STL/Containers",
+    "C++/STL/accumulate.md",
+    "C++/STL/sort.md",
+    "C++/Variables/Pointer/Smart Pointers/Weak Pointers.md",
+    "C++/STL",
+    "C++/Untitled.md",
+    "C++/Variables/Pointer/Smart Pointers",
     "C++.canvas",
-    "C++/OOP/Abstract Class/Interface.md",
-    "C++/OOP/Abstract Class/Abstract Class.md",
-    "C++/OOP/Abstract Class/Pure Virtual Function.md",
     "C++/OOP/Abstract Class",
-    "C++/OOP/Polymorphism.md",
-    "C++/Operator Overloading/Move Assignment.md",
-    "C++/Operator Overloading/Copy Assignment.md",
-    "C++/delete.md",
-    "C++/Friend.md",
     "C++/Operator Overloading",
-    "C++/Const Qualifier.md",
-    "C++/OOP/this.md",
-    "C++/OOP/Constructor/Move Constructor.md",
-    "C++/OOP/Constructor/Deep Copy.md",
-    "C++/OOP/Constructor/Constructor.md",
-    "C++/OOP/Constructor/Shallow Copy.md",
     "C++/OOP/Constructor",
-    "C++/Reference/R-Value Reference.md",
-    "C++/Reference/L-Value Reference.md",
-    "C++/OOP/Member Initializer List.md",
-    "C++/OOP/Header File.md",
-    "C++/OOP/Delegating Constructor.md",
-    "C++/OOP/Class Member Access Modifires.md",
-    "C++/OOP/Accessing Class Members.md",
-    "README.md",
-    "C++/OOP/Source File.md",
     "C++/OOP/Header File",
-    "C++/Preprocessor Directive/pragma once.md",
-    "C++/Preprocessor Directive",
     "Unreal.canvas",
-    "C++/OOP/Static Class Member.md",
     "Unity.canvas",
-    "C++/Reference",
-    "C++/Functions",
-    "C++/Variables/Array",
-    "C++/Variables/Pointer",
-    "C++/cmath",
     "unreal/IK (Inverse Kinematics).canvas",
     "screenshots/Screenshot 2024-07-31 at 7.05.52 PM.png",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
