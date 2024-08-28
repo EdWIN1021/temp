@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Avenir",
   "textFontFamily": "Avenir",
   "monospaceFontFamily": "Cascadia Code",

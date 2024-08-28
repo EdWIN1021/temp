@@ -85,256 +85,6 @@
       "label": "Create a socket"
     },
     {
-      "id": "06553ae6dec9e7e6",
-      "type": "text",
-      "text": "Skeletal Mesh Editor",
-      "styleAttributes": {},
-      "x": -1321,
-      "y": -202,
-      "width": 207,
-      "height": 62
-    },
-    {
-      "id": "feb5b2114ee902bc",
-      "type": "text",
-      "text": "Skeletal Meshe Assets\n\n",
-      "styleAttributes": {},
-      "x": -1720,
-      "y": -200,
-      "width": 252,
-      "height": 60
-    },
-    {
-      "id": "e67c526d47896c60",
-      "type": "text",
-      "text": "Character",
-      "styleAttributes": {},
-      "x": 2,
-      "y": -420,
-      "width": 140,
-      "height": 55
-    },
-    {
-      "id": "8e9b539436be679f",
-      "type": "text",
-      "text": "Create PlayerStart",
-      "styleAttributes": {},
-      "x": -400,
-      "y": -425,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "f399f2f1441061fc",
-      "type": "text",
-      "text": "Skeletal Meshe",
-      "styleAttributes": {},
-      "x": -2540,
-      "y": -210,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "4effd911102b2f87",
-      "type": "text",
-      "text": "Static Mesh \n- cannot be animated",
-      "styleAttributes": {},
-      "x": -2540,
-      "y": -20,
-      "width": 320,
-      "height": 115
-    },
-    {
-      "id": "cd8b87c530afef59",
-      "type": "text",
-      "text": "Material Graph",
-      "styleAttributes": {},
-      "x": -2400,
-      "y": 660,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "13affd346e9312c0",
-      "type": "text",
-      "text": "Materials",
-      "styleAttributes": {},
-      "x": -2760,
-      "y": 900,
-      "width": 159,
-      "height": 50
-    },
-    {
-      "id": "d184c85c43c853e6",
-      "type": "text",
-      "text": "World Settings\n",
-      "styleAttributes": {},
-      "x": 282,
-      "y": 80,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "597915e20bec6140",
-      "type": "text",
-      "text": "Default Pawn Class\n",
-      "styleAttributes": {},
-      "x": 828,
-      "y": 325,
-      "width": 250,
-      "height": 50
-    },
-    {
-      "id": "69520f04a2696d26",
-      "type": "text",
-      "text": "Game Mode Override\n",
-      "styleAttributes": {},
-      "x": 838,
-      "y": 80,
-      "width": 231,
-      "height": 50
-    },
-    {
-      "id": "3395f9fd6debc22c",
-      "type": "text",
-      "text": "Player_BP : PaperZDCharactrer",
-      "styleAttributes": {},
-      "x": 852,
-      "y": -641,
-      "width": 326,
-      "height": 50
-    },
-    {
-      "id": "7bb74b9fab0656c7",
-      "type": "text",
-      "text": "Game Mode Base\n",
-      "styleAttributes": {},
-      "x": 852,
-      "y": -155,
-      "width": 204,
-      "height": 60
-    },
-    {
-      "id": "63b29260109b5145",
-      "type": "text",
-      "text": "Sprite",
-      "styleAttributes": {},
-      "x": 1440,
-      "y": -769,
-      "width": 125,
-      "height": 50
-    },
-    {
-      "id": "d590f7d6a4eb0c52",
-      "type": "text",
-      "text": "Create Blueprint Class",
-      "styleAttributes": {},
-      "x": 315,
-      "y": -425,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "3b70786a00902ab8",
-      "type": "text",
-      "text": "Spring Arm",
-      "styleAttributes": {},
-      "x": 1440,
-      "y": -550,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "6b465a279413c367",
-      "type": "text",
-      "text": "Camera",
-      "styleAttributes": {},
-      "x": 1440,
-      "y": -420,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "7b7b58de8150586a",
-      "type": "file",
-      "file": "assets/Screenshot 2024-07-27 at 12.37.05 PM.png",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": -788,
-      "width": 400,
-      "height": 87
-    },
-    {
-      "id": "b37ed7bd606c119d",
-      "type": "file",
-      "file": "assets/Screenshot 2024-07-27 at 12.31.58 PM.png",
-      "styleAttributes": {},
-      "x": -2690,
-      "y": -1480,
-      "width": 400,
-      "height": 171
-    },
-    {
-      "id": "46039a5930e550d9",
-      "type": "text",
-      "text": "Jump\n",
-      "styleAttributes": {},
-      "x": -1960,
-      "y": -1220,
-      "width": 125,
-      "height": 60
-    },
-    {
-      "id": "3af68e88be4e5446",
-      "type": "file",
-      "file": "assets/Screenshot 2024-07-27 at 12.28.28 PM.png",
-      "styleAttributes": {},
-      "x": -1646,
-      "y": -996,
-      "width": 395,
-      "height": 26
-    },
-    {
-      "id": "fa7b24f91d7f31b9",
-      "type": "text",
-      "text": "Input Action Mapping Context\n",
-      "styleAttributes": {},
-      "x": -2640,
-      "y": -1120,
-      "width": 300,
-      "height": 63
-    },
-    {
-      "id": "5ade961e89ccf1ee",
-      "type": "text",
-      "text": "Input Action\n",
-      "styleAttributes": {},
-      "x": -2225,
-      "y": -1215,
-      "width": 180,
-      "height": 50
-    },
-    {
-      "id": "da8e968b8f1e3b6d",
-      "type": "text",
-      "text": "Input Action\n",
-      "styleAttributes": {},
-      "x": -2225,
-      "y": -1020,
-      "width": 165,
-      "height": 60
-    },
-    {
-      "id": "b1ce3d904f78ee37",
-      "type": "text",
-      "text": "Move\n",
-      "styleAttributes": {},
-      "x": -1960,
-      "y": -1020,
-      "width": 120,
-      "height": 60
-    },
-    {
       "id": "0359f17c8bd9b26e",
       "type": "text",
       "text": "Get Player Pawn",
@@ -351,6 +101,56 @@
       "styleAttributes": {},
       "x": -2840,
       "y": 2410,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6e3bf2b30faf83ed",
+      "type": "text",
+      "text": "\nEnable Input",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": 2410,
+      "width": 160,
+      "height": 53
+    },
+    {
+      "id": "20d075ce8a3eb9fc",
+      "type": "text",
+      "text": "Launch Character",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": 2410,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "660550654872d0a2",
+      "type": "text",
+      "text": "Construction Script\n**Called before game start**",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": 2180,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ca2a9970b84df689",
+      "type": "text",
+      "text": "Event Graph",
+      "styleAttributes": {},
+      "x": -3260,
+      "y": 2180,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "65c789e12054ee0b",
+      "type": "text",
+      "text": "Get Owning Player Pawn",
+      "styleAttributes": {},
+      "x": -3260,
+      "y": 2403,
       "width": 250,
       "height": 60
     },
@@ -423,26 +223,6 @@
       "height": 553
     },
     {
-      "id": "6e3bf2b30faf83ed",
-      "type": "text",
-      "text": "\nEnable Input",
-      "styleAttributes": {},
-      "x": -2480,
-      "y": 2410,
-      "width": 160,
-      "height": 53
-    },
-    {
-      "id": "20d075ce8a3eb9fc",
-      "type": "text",
-      "text": "Launch Character",
-      "styleAttributes": {},
-      "x": -2200,
-      "y": 2410,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "bf1ecc206fe4281b",
       "type": "file",
       "file": "unreal/C++/AddOnScreenDebugMessage.md",
@@ -473,83 +253,133 @@
       "height": 155
     },
     {
-      "id": "660550654872d0a2",
-      "type": "text",
-      "text": "Construction Script\n**Called before game start**",
+      "id": "b37ed7bd606c119d",
+      "type": "file",
+      "file": "assets/Screenshot 2024-07-27 at 12.31.58 PM.png",
       "styleAttributes": {},
-      "x": -3620,
-      "y": 2180,
-      "width": 260,
-      "height": 60
+      "x": -2690,
+      "y": -1480,
+      "width": 400,
+      "height": 171
     },
     {
-      "id": "ca2a9970b84df689",
-      "type": "text",
-      "text": "Event Graph",
-      "styleAttributes": {},
-      "x": -3260,
-      "y": 2180,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "65c789e12054ee0b",
-      "type": "text",
-      "text": "Get Owning Player Pawn",
-      "styleAttributes": {},
-      "x": -3260,
-      "y": 2403,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "edd7437825578823",
-      "type": "text",
-      "text": "Montage\n**create complex animation sequences**",
-      "styleAttributes": {},
-      "x": -3440,
-      "y": 1271,
-      "width": 403,
-      "height": 100
-    },
-    {
-      "id": "ca7e6066b78de127",
-      "type": "text",
-      "text": "Animation Blueprint",
-      "styleAttributes": {},
-      "x": -1180,
-      "y": 840,
-      "width": 228,
-      "height": 60
-    },
-    {
-      "id": "a1bfdf2f5bb39079",
-      "type": "text",
-      "text": "Run\n",
-      "styleAttributes": {},
-      "x": -1144,
-      "y": 100,
-      "width": 125,
-      "height": 60
-    },
-    {
-      "id": "1dc25fc32ee131af",
+      "id": "46039a5930e550d9",
       "type": "text",
       "text": "Jump\n",
       "styleAttributes": {},
-      "x": -1144,
-      "y": 240,
+      "x": -1960,
+      "y": -1220,
       "width": 125,
+      "height": 60
+    },
+    {
+      "id": "3af68e88be4e5446",
+      "type": "file",
+      "file": "assets/Screenshot 2024-07-27 at 12.28.28 PM.png",
+      "styleAttributes": {},
+      "x": -1646,
+      "y": -996,
+      "width": 395,
+      "height": 26
+    },
+    {
+      "id": "fa7b24f91d7f31b9",
+      "type": "text",
+      "text": "Input Action Mapping Context\n",
+      "styleAttributes": {},
+      "x": -2640,
+      "y": -1120,
+      "width": 300,
+      "height": 63
+    },
+    {
+      "id": "5ade961e89ccf1ee",
+      "type": "text",
+      "text": "Input Action\n",
+      "styleAttributes": {},
+      "x": -2225,
+      "y": -1215,
+      "width": 180,
       "height": 50
     },
     {
-      "id": "7fa89c3bb5d77ae5",
+      "id": "da8e968b8f1e3b6d",
       "type": "text",
-      "text": "Walk\n",
+      "text": "Input Action\n",
       "styleAttributes": {},
-      "x": -1155,
-      "y": -80,
-      "width": 125,
+      "x": -2225,
+      "y": -1020,
+      "width": 165,
+      "height": 60
+    },
+    {
+      "id": "b1ce3d904f78ee37",
+      "type": "text",
+      "text": "Move\n",
+      "styleAttributes": {},
+      "x": -1960,
+      "y": -1020,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "e67c526d47896c60",
+      "type": "text",
+      "text": "Character",
+      "styleAttributes": {},
+      "x": 2,
+      "y": -420,
+      "width": 140,
+      "height": 55
+    },
+    {
+      "id": "8e9b539436be679f",
+      "type": "text",
+      "text": "Create PlayerStart",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -425,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "06553ae6dec9e7e6",
+      "type": "text",
+      "text": "Skeletal Mesh Editor",
+      "styleAttributes": {},
+      "x": -1321,
+      "y": -202,
+      "width": 207,
+      "height": 62
+    },
+    {
+      "id": "feb5b2114ee902bc",
+      "type": "text",
+      "text": "Skeletal Meshe Assets\n\n",
+      "styleAttributes": {},
+      "x": -1720,
+      "y": -200,
+      "width": 252,
+      "height": 60
+    },
+    {
+      "id": "d184c85c43c853e6",
+      "type": "text",
+      "text": "World Settings\n",
+      "styleAttributes": {},
+      "x": 282,
+      "y": 80,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d590f7d6a4eb0c52",
+      "type": "text",
+      "text": "Create Blueprint Class",
+      "styleAttributes": {},
+      "x": 315,
+      "y": -425,
+      "width": 250,
       "height": 60
     },
     {
@@ -573,6 +403,26 @@
       "height": 50
     },
     {
+      "id": "a1bfdf2f5bb39079",
+      "type": "text",
+      "text": "Run\n",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 100,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "7fa89c3bb5d77ae5",
+      "type": "text",
+      "text": "Walk\n",
+      "styleAttributes": {},
+      "x": -1155,
+      "y": -80,
+      "width": 125,
+      "height": 60
+    },
+    {
       "id": "574bd5e039af314c",
       "type": "text",
       "text": "Animation Asset",
@@ -581,6 +431,46 @@
       "y": 600,
       "width": 228,
       "height": 60
+    },
+    {
+      "id": "edd7437825578823",
+      "type": "text",
+      "text": "Montage\n**create complex animation sequences**",
+      "styleAttributes": {},
+      "x": -3440,
+      "y": 1271,
+      "width": 403,
+      "height": 100
+    },
+    {
+      "id": "f399f2f1441061fc",
+      "type": "text",
+      "text": "Skeletal Meshe",
+      "styleAttributes": {},
+      "x": -2540,
+      "y": -210,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4effd911102b2f87",
+      "type": "text",
+      "text": "Static Mesh \n- cannot be animated",
+      "styleAttributes": {},
+      "x": -2540,
+      "y": -20,
+      "width": 320,
+      "height": 115
+    },
+    {
+      "id": "13affd346e9312c0",
+      "type": "text",
+      "text": "Materials",
+      "styleAttributes": {},
+      "x": -2760,
+      "y": 900,
+      "width": 159,
+      "height": 50
     },
     {
       "id": "ee7ed027dd1bc804",
@@ -601,6 +491,116 @@
       "y": 720,
       "width": 227,
       "height": 62
+    },
+    {
+      "id": "cd8b87c530afef59",
+      "type": "text",
+      "text": "Material Graph",
+      "styleAttributes": {},
+      "x": -2400,
+      "y": 660,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1dc25fc32ee131af",
+      "type": "text",
+      "text": "Jump\n",
+      "styleAttributes": {},
+      "x": -1144,
+      "y": 240,
+      "width": 125,
+      "height": 50
+    },
+    {
+      "id": "597915e20bec6140",
+      "type": "text",
+      "text": "Default Pawn Class\n",
+      "styleAttributes": {},
+      "x": 828,
+      "y": 325,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "69520f04a2696d26",
+      "type": "text",
+      "text": "Game Mode Override\n",
+      "styleAttributes": {},
+      "x": 838,
+      "y": 80,
+      "width": 231,
+      "height": 50
+    },
+    {
+      "id": "3395f9fd6debc22c",
+      "type": "text",
+      "text": "Player_BP : PaperZDCharactrer",
+      "styleAttributes": {},
+      "x": 852,
+      "y": -641,
+      "width": 326,
+      "height": 50
+    },
+    {
+      "id": "7bb74b9fab0656c7",
+      "type": "text",
+      "text": "Game Mode Base\n",
+      "styleAttributes": {},
+      "x": 852,
+      "y": -155,
+      "width": 204,
+      "height": 60
+    },
+    {
+      "id": "ca7e6066b78de127",
+      "type": "text",
+      "text": "Animation Blueprint",
+      "styleAttributes": {},
+      "x": -1180,
+      "y": 840,
+      "width": 228,
+      "height": 60
+    },
+    {
+      "id": "63b29260109b5145",
+      "type": "text",
+      "text": "Sprite",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": -769,
+      "width": 125,
+      "height": 50
+    },
+    {
+      "id": "3b70786a00902ab8",
+      "type": "text",
+      "text": "Spring Arm",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": -550,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6b465a279413c367",
+      "type": "text",
+      "text": "Camera",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": -420,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7b7b58de8150586a",
+      "type": "file",
+      "file": "assets/Screenshot 2024-07-27 at 12.37.05 PM.png",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": -788,
+      "width": 400,
+      "height": 87
     }
   ],
   "edges": [
