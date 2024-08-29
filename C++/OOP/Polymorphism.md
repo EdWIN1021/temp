@@ -1,2 +1,0 @@
-## Static Binding
-## Dynamic Binding

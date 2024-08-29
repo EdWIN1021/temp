@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Containers/Container Adapters/priority queue/size.md",
-                "mode": "source",
+                "file": "C++/OOP/Abstract Class/Abstract Class.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mult",
+                "query": "static bind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.50390243530273
+    "width": 492.50390243530273
   },
   "right": {
     "id": "619d6e2be97bb544",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Containers/Container Adapters/priority queue/size.md",
+                "file": "C++/OOP/Abstract Class/Abstract Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Containers/Container Adapters/priority queue/size.md",
+                "file": "C++/OOP/Abstract Class/Abstract Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Containers/Container Adapters/priority queue/size.md"
+                "file": "C++/OOP/Abstract Class/Abstract Class.md"
               }
             }
           }
@@ -148,8 +148,21 @@
   },
   "active": "77f69cff7fc54c1e",
   "lastOpenFiles": [
-    "C++/STL/Containers/Container Adapters/priority queue/empty.md",
+    "C++/OOP/Class Member Access Modifires.md",
+    "C++/OOP/Accessing Class Members.md",
+    "C++/OOP/Inheritance/Virtual Function.md",
+    "C++/OOP/Abstract Class/Pure Virtual Function.md",
+    "C++/OOP/Inheritance/Upcasting.md",
+    "C++/OOP/Inheritance/Polymorphism/Dynamic Binding.md",
+    "C++/OOP/Inheritance/Polymorphism/Static Binding.md",
+    "C++/OOP/Inheritance/Polymorphism/Polymorphism.md",
+    "C++/OOP/Inheritance/Polymorphism",
+    "C++/OOP/Inheritance/Virtual Destructor.md",
+    "C++/Variables/C++ String/C++ String.md",
+    "C++/OOP/Inheritance",
+    "C++/Primitive Types.md",
     "C++/STL/Containers/Container Adapters/priority queue/size.md",
+    "C++/STL/Containers/Container Adapters/priority queue/empty.md",
     "C++/STL/Containers/Container Adapters/priority queue/top.md",
     "C++/STL/Containers/Container Adapters/priority queue/pop.md",
     "C++/STL/Containers/Container Adapters/priority queue/push.md",
@@ -165,25 +178,12 @@
     "C++/STL/Containers/Container Adapters/stack/stack.md",
     "C++/STL/Containers/Container Adapters/queue",
     "C++/STL/Containers/Container Adapters/stack/size.md",
-    "C++/STL/Containers/Container Adapters/stack/empty.md",
-    "C++/STL/Containers/Container Adapters/stack/top.md",
-    "C++/STL/Containers/Container Adapters/stack/pop.md",
-    "C++/STL/Containers/Container Adapters/stack/push.md",
-    "C++/STL/Containers/Associative Containers/map/empty.md",
     "C++/STL/Containers/Container Adapters/stack",
-    "C++/STL/Containers/Associative Containers/map/clear.md",
-    "C++/STL/Containers/Associative Containers/map/count.md",
-    "C++/STL/Containers/Associative Containers/map/find.md",
-    "C++/STL/Containers/Associative Containers/map/erase.md",
-    "C++/STL/Containers/Associative Containers/map/insert.md",
-    "C++/STL/Containers/Associative Containers/map/max_size.md",
     "C++/STL/Containers/Associative Containers/map/multimap",
     "C++/STL/Containers/Associative Containers/map/unordered_multimap",
     "C++/STL/Containers/Associative Containers/map/unordered_map",
     "C++/STL/Containers/Associative Containers/map",
     "C++/STL/Iterators",
-    "C++/STL/Containers/Associative Containers/set/unordered_multiset",
-    "C++/STL/Containers/Associative Containers/set/unordered_set",
     "Unreal.canvas",
     "C++.canvas",
     "Unity.canvas",
