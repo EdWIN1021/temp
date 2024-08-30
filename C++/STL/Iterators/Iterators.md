@@ -1,3 +1,9 @@
+```ad-important
+It is an object that acts as a pointer to elements within a container (like a vector, list, or map).
+```
+
+
+
 ```cpp
 std::vector<int>::iterator it1;
 std::list<std::string>::iterator it2;

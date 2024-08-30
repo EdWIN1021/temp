@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "eeac84e7a2fb6564",
+    "id": "c1c1ce69f90fc23e",
     "type": "split",
     "children": [
       {
-        "id": "3faf6e8fd85cbf74",
+        "id": "ffb55e51bd82051b",
         "type": "tabs",
         "children": [
           {
-            "id": "77f69cff7fc54c1e",
+            "id": "c4a934f676992a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/OOP/Abstract Class/Abstract Class.md",
+                "file": "C++/STL/sort.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d9b5bab1f702c8e2",
+    "id": "8f40538da6a96471",
     "type": "split",
     "children": [
       {
-        "id": "7e2739c048d5e1dc",
+        "id": "2f602f09e075276b",
         "type": "tabs",
         "children": [
           {
-            "id": "2f20f09539b379b1",
+            "id": "906761a8f911bb3b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "3e927ca02021531b",
+            "id": "808f427b7585f066",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "static bind",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "fa383272a5daf63f",
+            "id": "7c3426a7a1319654",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.50390243530273
+    "width": 300
   },
   "right": {
-    "id": "619d6e2be97bb544",
+    "id": "724c6b05ee31144f",
     "type": "split",
     "children": [
       {
-        "id": "318ed5cc4e721593",
+        "id": "a2d8c6bbfa0103b0",
         "type": "tabs",
         "children": [
           {
-            "id": "7b836abbc5632d9d",
+            "id": "46fb9d4aa297dadd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/OOP/Abstract Class/Abstract Class.md",
+                "file": "C++/STL/sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "6a6684c45092dce6",
+            "id": "639e7d16189edf0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/OOP/Abstract Class/Abstract Class.md",
+                "file": "C++/STL/sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0e783e943f3b5724",
+            "id": "1e42e8786131721c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "6a8252d97c86d43d",
+            "id": "77072313f4dd6845",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/OOP/Abstract Class/Abstract Class.md"
+                "file": "C++/STL/sort.md"
               }
             }
           }
@@ -146,62 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77f69cff7fc54c1e",
+  "active": "c4a934f676992a27",
   "lastOpenFiles": [
-    "C++.canvas",
-    "README.md",
-    "C++/OOP/Abstract Class/Abstract Class.md",
-    "neovim/install.md",
-    "Untitled.md",
-    "neovim",
-    "C++/OOP/Class Member Access Modifires.md",
-    "C++/OOP/Accessing Class Members.md",
-    "C++/OOP/Inheritance/Virtual Function.md",
-    "C++/OOP/Abstract Class/Pure Virtual Function.md",
-    "C++/OOP/Inheritance/Upcasting.md",
-    "C++/OOP/Inheritance/Polymorphism/Dynamic Binding.md",
-    "C++/OOP/Inheritance/Polymorphism/Static Binding.md",
-    "C++/OOP/Inheritance/Polymorphism/Polymorphism.md",
-    "C++/OOP/Inheritance/Polymorphism",
-    "C++/OOP/Inheritance/Virtual Destructor.md",
-    "C++/Variables/C++ String/C++ String.md",
-    "C++/OOP/Inheritance",
-    "C++/Primitive Types.md",
-    "C++/STL/Containers/Container Adapters/priority queue/size.md",
-    "C++/STL/Containers/Container Adapters/priority queue/empty.md",
-    "C++/STL/Containers/Container Adapters/priority queue/top.md",
-    "C++/STL/Containers/Container Adapters/priority queue/pop.md",
-    "C++/STL/Containers/Container Adapters/priority queue/push.md",
-    "C++/STL/Containers/Container Adapters/priority queue/priority queue.md",
-    "C++/STL/Containers/Container Adapters/priority queue",
-    "C++/STL/Containers/Container Adapters/queue/size.md",
-    "C++/STL/Containers/Container Adapters/queue/empty.md",
-    "C++/STL/Containers/Container Adapters/queue/back.md",
-    "C++/STL/Containers/Container Adapters/queue/front.md",
-    "C++/STL/Containers/Container Adapters/queue",
-    "C++/STL/Containers/Container Adapters/stack",
-    "C++/STL/Containers/Associative Containers/map/multimap",
-    "C++/STL/Containers/Associative Containers/map/unordered_multimap",
-    "C++/STL/Containers/Associative Containers/map/unordered_map",
-    "C++/STL/Containers/Associative Containers/map",
-    "Unreal.canvas",
-    "Unity.canvas",
-    "unreal/IK (Inverse Kinematics).canvas",
-    "screenshots/Screenshot 2024-07-31 at 7.05.52 PM.png",
-    "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
-    "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 7.38.57 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
-    "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png",
-    "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
-    "screenshots/Screenshot 2024-08-06 at 12.28.50 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
-    "screenshots/Screenshot 2024-08-01 at 11.09.03 AM.png",
-    "unreal/PaperZD.canvas",
-    "Canvas/Python.canvas",
-    "Canvas/Postgres.canvas",
-    "Canvas/Next.js.canvas",
-    "Canvas/MongoDB.canvas",
-    "Canvas/Javascript.canvas"
+    "C++/STL/rand.md",
+    "C++/STL/Containers/Sequence Containers/vector/sort.md",
+    "C++/STL/for_each.md",
+    "C++/STL/random_shuffe.md",
+    "C++/STL/accumulate.md",
+    "C++/STL/pair.md",
+    "C++/STL/reverse.md",
+    "C++/STL/sort.md",
+    "C++/STL/find.md",
+    "C++/STL/Iterators/Iterators.md",
+    "C++/STL/Containers/Sequence Containers/vector/swap.md",
+    "C++/STL/Containers/Sequence Containers/vector/insert.md",
+    "C++/STL/Containers/Sequence Containers/vector/front.md",
+    "C++/STL/Containers/Sequence Containers/vector/find.md",
+    "C++/STL/Containers/Sequence Containers/vector/end.md",
+    "C++/STL/Containers/Sequence Containers/vector/erase.md",
+    "C++/STL/Containers/Sequence Containers/vector/begin.md",
+    "C++/STL/Containers/Sequence Containers/vector/size.md",
+    "C++/STL/Containers/Sequence Containers/vector/push_back.md",
+    "C++/STL/Containers/Sequence Containers/vector/vector.md",
+    "C++/STL/Containers/Sequence Containers/vector/pop_back.md",
+    "C++/STL/Containers/Sequence Containers/vector/transform.md",
+    "C++/STL/Algorithem",
+    "CPP.Primer.Plus.pdf",
+    "Highlights for CPP.Primer.Plus.md"
   ]
 }
