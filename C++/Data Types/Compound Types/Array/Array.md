@@ -1,8 +1,8 @@
 ```cpp
-int scores[] {100, 95, 89};
+int scores[] { 100, 95, 89 };
 
 // int* scores_ptr = &scores[0];
-int* scores_ptr {scores}; 
+int* scores_ptr { scores }; 
 
 // subscript notion
 scores[0]; // 100

@@ -16,3 +16,8 @@ score_ptr = &low_score // error
 ```cpp
 const Player villain {"villain", 100, 55};
 ```
+
+# int 
+```cpp
+const int Month = 12;
+```
