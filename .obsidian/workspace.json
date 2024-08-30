@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffb55e51bd82051b",
+        "id": "fb349c4e9f1b5265",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a934f676992a27",
+            "id": "16c69b9e1d1200aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C++/Data Types/Compound Types/Struct/Struct Template.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "struc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "C++/Data Types/Compound Types/Struct/Struct Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "C++/Data Types/Compound Types/Struct/Struct Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "C++/Data Types/Compound Types/Struct/Struct Template.md"
               }
             }
           }
@@ -146,36 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4a934f676992a27",
+  "active": "906761a8f911bb3b",
   "lastOpenFiles": [
+    "C++/Variables/Compound Types/Structures.md",
+    "C++/Data Types/Compound Types/Struct/Struct Template.md",
+    "C++/OOP/Constructor/Move Constructor.md",
+    "unreal/Blueprint/Construction Script.md",
+    "C++/OOP/Constructor/Constructor.md",
+    "C++/Data Types/Fundamental Types/char/00-overview.md",
+    "C++/Data Types/Compound Types/Array/Array.md",
+    "C++/Const Qualifier.md",
+    "C++/extern.md",
+    "C++/delete.md",
+    "C++/Data Types/Fundamental Types/short.md",
+    "C++/Data Types/Fundamental Types/long.md",
+    "C++/Data Types/Fundamental Types/int.md",
+    "C++/Data Types/Fundamental Types/float.md",
+    "C++/Data Types/Fundamental Types/double.md",
+    "C++/Data Types/Fundamental Types/bool.md",
+    "C++/Data Types/Fundamental Types/char/tolower.md",
+    "C++/Data Types/Fundamental Types/char/isalpha.md",
+    "C++/Data Types/Fundamental Types/char/toupper.md",
+    "C++/Data Types/Fundamental Types/char/isprint.md",
+    "C++/Data Types/Fundamental Types/char/islower.md",
+    "C++/Data Types/Fundamental Types/char/isalnum.md",
+    "C++/Variables/Fundamental Types/overview.md",
+    "C++/Variables/Fundamental Types/long long.md",
+    "C++/Variables/Fundamental Types/unsigned long long.md",
+    "C++/Variables/Fundamental Types/int/Overview.md",
+    "C++/Variables/Fundamental Types/long",
+    "C++/Variables/Fundamental Types/int",
+    "C++/Data Types/Fundamental Types",
+    "C++/Data Types/Compound Types",
+    "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
+    "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
+    "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
+    "screenshots/Screenshot 2024-08-06 at 12.28.50 PM.png",
+    "screenshots/Screenshot 2024-08-04 at 7.38.57 PM.png",
+    "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
+    "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
+    "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png",
+    "screenshots/Screenshot 2024-08-01 at 11.09.03 AM.png",
+    "screenshots/Screenshot 2024-08-01 at 11.08.44 AM.png",
     "Unity.canvas",
-    "README.md",
     "C++.canvas",
-    "C++/Variables/C-Style String/strchr.md",
     "CPP.Primer.Plus.pdf",
-    "C++/Variables/C-Style String/strcmp.md",
-    "C++/Variables/C-Style String/strcpy.md",
-    "C++/Variables/C-Style String/strlen.md",
-    "C++/Variables/C-Style String/strcat.md",
-    "C++/Variables/C-Style String/C-Style String.md",
-    "C++/STL/find.md",
-    "C++/STL/for_each.md",
-    "C++/STL/rand.md",
-    "C++/STL/sort.md",
-    "C++/STL/reverse.md",
-    "C++/STL/Containers/Associative Containers/map/size.md",
-    "C++/STL/Containers/Associative Containers/map/max_size.md",
-    "C++/Type Aliases.md",
-    "C++/Operator Overloading/Move Assignment.md",
-    "C++/Operator Overloading/Copy Assignment.md",
-    "C++/Preprocessor Directive/pragma once.md",
-    "C++/Reference/R-Value Reference.md",
-    "C++/Reference/L-Value Reference.md",
-    "C++/Reference/Reference Variables.md",
-    "C++/STL/Containers/Associative Containers/set/count.md",
-    "C++/STL/Containers/Associative Containers/set/clear.md",
-    "C++/STL/Iterators/Iterators.md",
-    "C++/STL/accumulate.md",
     "C++/STL/Algorithem"
   ]
 }

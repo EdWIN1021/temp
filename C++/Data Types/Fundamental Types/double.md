@@ -1,0 +1,4 @@
+```cpp
+double
+long double
+```
