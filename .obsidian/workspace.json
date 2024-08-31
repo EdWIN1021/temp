@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Data Types/Compound Types/C-Style String/strncpy.md",
+                "file": "C++/Type Aliases.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "56a643767af9c348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/STL/valarray/min.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Data Types/Compound Types/C-Style String/strncpy.md",
+                "file": "C++/Type Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Data Types/Compound Types/C-Style String/strncpy.md",
+                "file": "C++/Type Aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Data Types/Compound Types/C-Style String/strncpy.md"
+                "file": "C++/Type Aliases.md"
               }
             }
           }
@@ -146,39 +158,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16c69b9e1d1200aa",
+  "active": "906761a8f911bb3b",
   "lastOpenFiles": [
-    "C++/Data Types/Compound Types/C-Style String/strncat.md",
-    "C++/Data Types/Compound Types/C-Style String/strncpy.md",
-    "C++/Data Types/Compound Types/C++ String/size.md",
-    "C++/Data Types/Compound Types/C-Style String/C-Style String.md",
-    "C++/Data Types/Compound Types/C-Style String/strcat.md",
-    "C++/Data Types/Compound Types/C-Style String/strcpy.md",
-    "C++/Data Types/Compound Types/C-Style String/strlen.md",
-    "C++/Data Types/Compound Types/C-Style String/strcmp.md",
-    "C++/Data Types/Compound Types/C-Style String/strchr.md",
-    "C++/Data Types/Compound Types/Array/Array.md",
-    "C++/Operator/dynamic_cast.md",
-    "C++/Operator/static_cast.md",
-    "C++/Const Qualifier.md",
-    "C++/Data Types/Fundamental Types/int.md",
-    "C++/Operator/sizeof.md",
-    "C++/Data Types/Fundamental Types/long.md",
-    "C++/Data Types/Fundamental Types/short.md",
-    "C++/Data Types/Fundamental Types/float.md",
-    "C++/Operator",
-    "C++/Data Types/Compound Types/Struct/Struct Template.md",
-    "C++/Variables/Compound Types/Structures.md",
-    "C++/OOP/Constructor/Move Constructor.md",
-    "unreal/Blueprint/Construction Script.md",
-    "C++/OOP/Constructor/Constructor.md",
-    "C++/Data Types/Fundamental Types/char/00-overview.md",
+    "C++/Macros.md",
     "C++/extern.md",
-    "C++/delete.md",
+    "C++/Friend.md",
+    "C++/Type Aliases.md",
+    "C++/OOP/Static Class Member.md",
+    "C++/Static Class Member.md",
+    "C++/STL/<algorithm>/reverse.md",
+    "C++/STL/<cstdlib>",
+    "C++/STL/<numeric>",
+    "C++/STL/<utility>",
+    "C++/STL/Untitled.md",
+    "C++/STL/<algorithm>/find.md",
+    "C++/STL/<algorithm>/max.md",
+    "C++/STL/valarray/sum.md",
+    "C++/STL/valarray/size.md",
+    "C++/STL/valarray/min.md",
+    "C++/STL/valarray/max.md",
+    "C++/STL/<numeric>/accumulate.md",
+    "C++/STL/<cstdlib>/rand.md",
+    "C++/STL/<utility>/pair.md",
+    "C++/STL/<algorithm>/for_each.md",
+    "C++/STL/<algorithm>/sort.md",
+    "C++/STL/<algorithm>",
+    "C++/STL/<algorithm>.md",
+    "C++/Data Types/Compound Types/C-Style String/strncpy.md",
+    "C++/Data Types/Compound Types/Enumerations/Overview.md",
+    "C++/STL/valarray/Untitled",
+    "C++/STL/valarray",
+    "Pasted image 20240831114746.png",
+    "C++/Data Types/Compound Types/Unions/00.md",
+    "C++/Data Types/Compound Types/Enumerations",
+    "C++/Data Types/Compound Types/Enumerations.md",
+    "C++/Data Types/Compound Types/Structures/00.md",
+    "C++/Data Types/Compound Types/Unions",
+    "C++/Data Types/Compound Types/Structures/Struct Template.md",
+    "C++/Operator",
     "C++/Variables/Fundamental Types/long",
-    "C++/Variables/Fundamental Types/int",
-    "C++/Data Types/Fundamental Types",
-    "C++/Data Types/Compound Types",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
@@ -188,10 +206,7 @@
     "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
     "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png",
     "screenshots/Screenshot 2024-08-01 at 11.09.03 AM.png",
-    "screenshots/Screenshot 2024-08-01 at 11.08.44 AM.png",
     "Unity.canvas",
-    "C++.canvas",
-    "CPP.Primer.Plus.pdf",
-    "C++/STL/Algorithem"
+    "C++.canvas"
   ]
 }

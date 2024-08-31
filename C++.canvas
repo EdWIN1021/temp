@@ -103,7 +103,7 @@
 		{
 			"id":"43438228d85e87cd",
 			"type":"file",
-			"file":"C++/new.md",
+			"file":"C++/Operator/new.md",
 			"styleAttributes":{},
 			"x":-2427,
 			"y":40,
@@ -145,7 +145,7 @@
 		{
 			"id":"6d4ba294e030b279",
 			"type":"file",
-			"file":"C++/delete.md",
+			"file":"C++/Operator/delete.md",
 			"styleAttributes":{},
 			"x":-2427,
 			"y":515,
