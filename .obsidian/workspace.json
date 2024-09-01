@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16c69b9e1d1200aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Type Aliases.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "56a643767af9c348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/valarray/min.md",
+                "file": "C++/Data Types/Fundamental Types/char/00-overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Type Aliases.md",
+                "file": "C++/Data Types/Fundamental Types/char/00-overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Type Aliases.md",
+                "file": "C++/Data Types/Fundamental Types/char/00-overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Type Aliases.md"
+                "file": "C++/Data Types/Fundamental Types/char/00-overview.md"
               }
             }
           }
@@ -158,12 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "906761a8f911bb3b",
+  "active": "56a643767af9c348",
   "lastOpenFiles": [
+    "C++/STL/valarray/min.md",
+    "C++/Data Types/Fundamental Types/char/00-overview.md",
+    "C++/IO Library/iostream/ostream.md",
+    "C++/IO Library/iostream/istream.md",
+    "C++/IO Library/iostream/overview.md",
+    "C++/Untitled/Untitled.md",
+    "C++/IO Library",
+    "C++/OOP/Inheritance/Protected Inheritance.md",
+    "C++/iostream.md",
+    "C++/IO Library/iostream",
+    "C++/OOP/Inheritance/Multiple Inheritance.md",
+    "C++/Const Qualifier.md",
+    "C++/OOP/Inheritance/Public inheritance.md",
+    "C++/OOP/Inheritance/Private Inheritance.md",
+    "C++/Type Aliases.md",
     "C++/Macros.md",
     "C++/extern.md",
     "C++/Friend.md",
-    "C++/Type Aliases.md",
     "C++/OOP/Static Class Member.md",
     "C++/Static Class Member.md",
     "C++/STL/<algorithm>/reverse.md",
@@ -175,28 +177,14 @@
     "C++/STL/<algorithm>/max.md",
     "C++/STL/valarray/sum.md",
     "C++/STL/valarray/size.md",
-    "C++/STL/valarray/min.md",
     "C++/STL/valarray/max.md",
     "C++/STL/<numeric>/accumulate.md",
-    "C++/STL/<cstdlib>/rand.md",
-    "C++/STL/<utility>/pair.md",
-    "C++/STL/<algorithm>/for_each.md",
-    "C++/STL/<algorithm>/sort.md",
     "C++/STL/<algorithm>",
-    "C++/STL/<algorithm>.md",
-    "C++/Data Types/Compound Types/C-Style String/strncpy.md",
-    "C++/Data Types/Compound Types/Enumerations/Overview.md",
     "C++/STL/valarray/Untitled",
     "C++/STL/valarray",
     "Pasted image 20240831114746.png",
-    "C++/Data Types/Compound Types/Unions/00.md",
     "C++/Data Types/Compound Types/Enumerations",
-    "C++/Data Types/Compound Types/Enumerations.md",
-    "C++/Data Types/Compound Types/Structures/00.md",
     "C++/Data Types/Compound Types/Unions",
-    "C++/Data Types/Compound Types/Structures/Struct Template.md",
-    "C++/Operator",
-    "C++/Variables/Fundamental Types/long",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",

@@ -17,7 +17,19 @@ score_ptr = &low_score // error
 const Player villain {"villain", 100, 55};
 ```
 
-# int 
+## int 
 ```cpp
 const int Month = 12;
+```
+
+
+---
+
+```ad-important
+The `const` qualifier after the function name means that this function does not modify any member variables
+```
+
+## function
+```cpp
+const string & Student::Name() const;
 ```
