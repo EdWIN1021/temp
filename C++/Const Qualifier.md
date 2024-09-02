@@ -24,12 +24,12 @@ const int Month = 12;
 
 
 ---
+## function
 
 ```ad-important
 The `const` qualifier after the function name means that this function does not modify any member variables
 ```
 
-## function
 ```cpp
 const string & Student::Name() const;
 ```

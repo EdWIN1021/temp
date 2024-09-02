@@ -5,9 +5,6 @@ enum spectrum {
 	yellow,
 	green,
 	blue,
-	violet,
-	indigo,
-	ultraviolet
 };
 
 spectrum band = blue; // 3
