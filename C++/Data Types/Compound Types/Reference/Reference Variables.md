@@ -12,5 +12,17 @@ int rats;
 int &rodents = rats;
 ```
 
+```cpp
+const int ci = 1024;
+const int &r1 = ci;
+
+r1 = 42;       // error
+int &r2 = ci;  // error
+```
+
+
+```cpp
+const int &r2 = 42;
+```
 
 

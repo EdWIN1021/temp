@@ -1,3 +1,9 @@
+
+## Int 
+```cpp
+const int Month = 12;
+```
+
 ## Pointer
 ```cpp
 int high_score {100};
@@ -12,16 +18,16 @@ int* const score_ptr { &high_score };
 score_ptr = &low_score // error
 ```
 
-## Object
+## object
 ```cpp
 const Player villain {"villain", 100, 55};
 ```
 
-## int 
-```cpp
-const int Month = 12;
-```
 
+## external
+```cpp
+extern const int bufsize();
+```
 
 ---
 ## function

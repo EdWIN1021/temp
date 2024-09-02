@@ -33,28 +33,40 @@
               "state": {
                 "file": "C++.canvas",
                 "viewState": {
-                  "x": 93.19000805579361,
-                  "y": 1096.696302402332,
-                  "zoom": -1.962020955005449
+                  "x": -1916.8537141721451,
+                  "y": 767.2628753290606,
+                  "zoom": -0.7455225424757573
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "ec065b718d8b4cd8",
+            "id": "4c077d5dba5601cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Containers/Container Adapters/stack/stack.md",
+                "file": "C++/Type Aliases.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6ce31d96be403cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Preprocessor Directive/Preprocessor Directive.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how to create a socke",
+                "query": "const q",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5026054382324
+    "width": 259.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Const Qualifier.md",
+                "file": "C++/Preprocessor Directive/Preprocessor Directive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Const Qualifier.md",
+                "file": "C++/Preprocessor Directive/Preprocessor Directive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Const Qualifier.md"
+                "file": "C++/Preprocessor Directive/Preprocessor Directive.md"
               }
             }
           }
@@ -181,36 +194,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd83b52d149a343a",
+  "active": "6ce31d96be403cb4",
   "lastOpenFiles": [
-    "C++/STL/Containers/Container Adapters/stack/stack.md",
-    "C++/STL/Containers/Container Adapters/stack/size.md",
+    "C++/Data Types/Compound Types/Structures/Structures.md",
+    "C++/Data Types/Compound Types/Structures/Struct Template.md",
+    "C++/decltype.md",
+    "C++/Type Aliases.md",
+    "C++/constexpr.md",
+    "Unreal.canvas",
     "C++.canvas",
+    "C++/Data Types/Compound Types/Reference/Reference Variables.md",
+    "C++/Data Types/Compound Types/Reference/R-Value Reference.md",
+    "C++/Data Types/Compound Types/Reference/L-Value Reference.md",
+    "C++/Const Qualifier.md",
+    "C++/Data Types/Compound Types/Pointer/Deferencing.md",
+    "C++/extern.md",
+    "C++/Preprocessor Directive/Preprocessor Directive.md",
+    "C++/Data Types/Compound Types/Pointer/Pointer.md",
+    "C++/Preprocessor Directive/pragma once.md",
+    "Pasted image 20240902124413.png",
+    "C++/STL/Containers/Container Adapters/stack/stack.md",
+    "C++/Data Types/Fundamental Types/double.md",
+    "C++/Data Types/Default Initialization.md",
+    "C++/Data Types/List initialization.md",
+    "C++/Operator/static_cast.md",
+    "C++/Data Types/Initialization/Initialization.md",
+    "C++/Data Types/Initialization",
+    "C++/STL/Containers/Container Adapters/stack/size.md",
     "C++/STL/Iterators/Iterators.md",
     "C++/STL/Containers/Sequence Containers/array/array.md",
     "C++/STL/Containers/Sequence Containers/array/adjacent_find.md",
     "C++/STL/Containers/Sequence Containers/array/accumulate.md",
-    "C++/extern.md",
     "C++/Operator/new.md",
-    "C++/Dynamic Memory Allocation.md",
-    "C++/Friend.md",
-    "C++/Macros.md",
-    "C++/Type Aliases.md",
-    "Unreal.canvas",
-    "C++/IO Library/iostream/iostream.md",
-    "C++/IO Library/iostream/ostream.md",
-    "C++/IO Library/iostream/istream.md",
-    "C++/Data Types/Compound Types/Enumerations/Enumerations.md",
-    "C++/Data Types/Compound Types/Structures/Structures.md",
-    "C++/Data Types/Compound Types/Unions/Unions.md",
-    "C++/Data Types/Fundamental Types/char/char.md",
-    "C++/Data Types/Fundamental Types/char/toupper.md",
-    "C++/Data Types/Fundamental Types/char/tolower.md",
-    "C++/Data Types/Fundamental Types/char/isupper.md",
-    "C++/Data Types/Fundamental Types/char/isspace.md",
-    "C++/Data Types/Fundamental Types/char/ispunct.md",
-    "C++/Data Types/Fundamental Types/char/isprint.md",
-    "C++/Data Types/Fundamental Types/char/islower.md",
     "unreal/IK (Inverse Kinematics).canvas",
     "Unity.canvas",
     "Screenshot 2024-09-01 at 8.29.33 PM.png",
@@ -224,14 +239,12 @@
     "unreal/Mesh",
     "unreal/Mesh",
     "unreal/Object/Actor/Pawn",
-    "unreal/Object/Actor",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
     "screenshots/Screenshot 2024-08-06 at 12.28.50 PM.png",
     "screenshots/Screenshot 2024-08-04 at 7.38.57 PM.png",
     "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
-    "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png"
+    "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png"
   ]
 }
