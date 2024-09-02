@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb349c4e9f1b5265",
+        "id": "abb4ae022a173cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "56a643767af9c348",
+            "id": "fa33b4fcdd341ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Data Types/Fundamental Types/char/00-overview.md",
-                "mode": "source",
+                "file": "unreal/Blueprint/Blueprint Class/Controller.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Data Types/Fundamental Types/char/00-overview.md",
+                "file": "unreal/Blueprint/Blueprint Class/Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Data Types/Fundamental Types/char/00-overview.md",
+                "file": "unreal/Blueprint/Blueprint Class/Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Data Types/Fundamental Types/char/00-overview.md"
+                "file": "unreal/Blueprint/Blueprint Class/Controller.md"
               }
             }
           }
@@ -146,10 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56a643767af9c348",
+  "active": "fa33b4fcdd341ed2",
   "lastOpenFiles": [
-    "C++/STL/valarray/min.md",
+    "unreal/Blueprint/Blueprint Class/Pawn.md",
+    "unreal/Blueprint/Blueprint Class/Controller.md",
+    "Unreal.canvas",
+    "unreal/Blueprint/Blueprint Class/Blueprint Class.md",
+    "Unity.canvas",
+    "unreal/Blueprint/Blueprint Class/Actor.md",
+    "Screenshot 2024-09-01 at 8.29.33 PM.png",
+    "unreal/Blueprint/Construction Script.md",
+    "unreal/Blueprint/Set Hdden in game.md",
+    "C++/Data Types/Compound Types/C++ String/C++ String.md",
+    "C++/Data Types/Fundamental Types/int.md",
+    "unreal/Blueprint/Blueprint Class",
     "C++/Data Types/Fundamental Types/char/00-overview.md",
+    "C++/STL/valarray/min.md",
     "C++/IO Library/iostream/ostream.md",
     "C++/IO Library/iostream/istream.md",
     "C++/IO Library/iostream/overview.md",
@@ -167,24 +179,14 @@
     "C++/extern.md",
     "C++/Friend.md",
     "C++/OOP/Static Class Member.md",
-    "C++/Static Class Member.md",
-    "C++/STL/<algorithm>/reverse.md",
     "C++/STL/<cstdlib>",
     "C++/STL/<numeric>",
     "C++/STL/<utility>",
-    "C++/STL/Untitled.md",
-    "C++/STL/<algorithm>/find.md",
-    "C++/STL/<algorithm>/max.md",
-    "C++/STL/valarray/sum.md",
-    "C++/STL/valarray/size.md",
-    "C++/STL/valarray/max.md",
-    "C++/STL/<numeric>/accumulate.md",
     "C++/STL/<algorithm>",
     "C++/STL/valarray/Untitled",
     "C++/STL/valarray",
     "Pasted image 20240831114746.png",
     "C++/Data Types/Compound Types/Enumerations",
-    "C++/Data Types/Compound Types/Unions",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
@@ -193,8 +195,6 @@
     "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
     "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
     "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png",
-    "screenshots/Screenshot 2024-08-01 at 11.09.03 AM.png",
-    "Unity.canvas",
     "C++.canvas"
   ]
 }

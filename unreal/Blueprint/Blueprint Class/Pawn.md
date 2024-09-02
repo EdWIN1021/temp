@@ -1,0 +1,2 @@
+- A Pawn is an Actor that can be possessed by a Controller in the game
+- An instance of Pawn class is the physical body of the game character

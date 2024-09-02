@@ -1,6 +1,8 @@
 ```cpp
 #include <string> 
-using namespace std; 
+using namespace std;
+
+std::string book("0-201-78345-X");
 
 string s1; 
 string s2 {"Edwin"}; 

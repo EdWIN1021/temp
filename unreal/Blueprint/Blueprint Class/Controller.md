@@ -1,0 +1,2 @@
+- The Controller class represents a player or an artificial intelligence
+- An instance of the Controller class possessing it is a kind of brain of the character
