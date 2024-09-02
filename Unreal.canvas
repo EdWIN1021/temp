@@ -1,365 +1,130 @@
 {
   "nodes": [
     {
-      "id": "117e48d82c7fdd54",
+      "id": "96738e7f67b2d422",
+      "x": -14580,
+      "y": -6560,
+      "width": 3280,
+      "height": 1360,
       "type": "group",
-      "styleAttributes": {},
-      "x": -6800,
-      "y": 720,
-      "width": 3860,
-      "height": 1600,
-      "color": "5",
-      "label": "Blueprint"
+      "label": "TBD"
     },
     {
-      "id": "b8cb50326ab5ecb8",
+      "id": "a275d8c2493a3f24",
       "type": "group",
       "styleAttributes": {},
-      "x": -9920,
-      "y": -3680,
-      "width": 2502,
-      "height": 1294,
-      "color": "5",
-      "label": "C++"
+      "x": -14446,
+      "y": -2436,
+      "width": 2227,
+      "height": 880,
+      "color": "4",
+      "label": "Reflection Macros"
     },
     {
       "id": "5251cddb240b95ab",
       "type": "group",
       "styleAttributes": {},
-      "x": -3750,
-      "y": -1485,
-      "width": 1140,
-      "height": 1445,
+      "x": -6560,
+      "y": -1000,
+      "width": 1040,
+      "height": 1120,
       "color": "2",
       "label": "Animations"
+    },
+    {
+      "id": "a1eced4b2729fbe6",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -7480,
+      "y": -1620,
+      "width": 2700,
+      "height": 400,
+      "color": "1",
+      "label": "Character Members"
+    },
+    {
+      "id": "b114a7f5c81413cf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6600,
+      "y": -2000,
+      "width": 600,
+      "height": 760,
+      "color": "6",
+      "label": "Mesh"
     },
     {
       "id": "d4b34af083a51143",
       "type": "group",
       "styleAttributes": {},
-      "x": -4650,
-      "y": -2800,
-      "width": 1560,
-      "height": 820,
-      "color": "5",
+      "x": -11840,
+      "y": -2640,
+      "width": 1080,
+      "height": 408,
+      "color": "3",
       "label": "Input System"
     },
     {
-      "id": "9e1c7e5ce54f5053",
+      "id": "d602d13e9c0cfea0",
       "type": "group",
       "styleAttributes": {},
-      "x": -9778,
-      "y": -2906,
-      "width": 831,
-      "height": 440,
-      "label": "Log"
+      "x": -8720,
+      "y": -1840,
+      "width": 680,
+      "height": 600,
+      "color": "6",
+      "label": "Pawn"
     },
     {
-      "id": "ba2a44ec29e915ba",
+      "id": "6c700fcc69e6bddb",
       "type": "group",
       "styleAttributes": {},
-      "x": -4650,
-      "y": -1360,
-      "width": 710,
-      "height": 362,
-      "label": "Mesh"
+      "x": -7840,
+      "y": -3120,
+      "width": 995,
+      "height": 330,
+      "color": "#15a2d1",
+      "label": "UEngine"
     },
     {
-      "id": "9cd76e14a0f63b6a",
+      "id": "89e4b269d3c5655b",
       "type": "group",
       "styleAttributes": {},
-      "x": -8758,
-      "y": -2906,
-      "width": 831,
-      "height": 240,
-      "label": "Create a socket"
+      "x": -14446,
+      "y": -3200,
+      "width": 880,
+      "height": 352,
+      "color": "6",
+      "label": "Logging System"
     },
     {
-      "id": "5a812eb48941a07c",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -5380,
-      "y": 1151,
-      "width": 400,
-      "height": 369,
-      "label": "add to actor"
-    },
-    {
-      "id": "d2391eaffc2ad860",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -5280,
-      "y": 3360,
-      "width": 300,
-      "height": 300,
-      "label": "Untitled group"
-    },
-    {
-      "id": "13ac68003f963071",
+      "id": "574bd5e039af314c",
       "type": "text",
-      "text": "Actor Component",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": null
-      },
-      "x": -5300,
-      "y": 1231,
-      "width": 260,
+      "text": "Animation Asset",
+      "styleAttributes": {},
+      "x": -5847,
+      "y": -280,
+      "width": 228,
       "height": 60
     },
     {
-      "id": "65c789e12054ee0b",
+      "id": "ca7e6066b78de127",
       "type": "text",
-      "text": "Get Owning Player Pawn",
+      "text": "Animation Blueprint",
       "styleAttributes": {},
-      "x": -4940,
-      "y": 1150,
-      "width": 250,
+      "x": -5883,
+      "y": -40,
+      "width": 228,
       "height": 60
     },
     {
-      "id": "ad6f74982cc6d964",
+      "id": "a1bfdf2f5bb39079",
       "type": "text",
-      "text": "Game Mode",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -6190,
-      "y": 1589,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "573921f6a5dc78b7",
-      "type": "text",
-      "text": "Cast to Character",
+      "text": "Run\n",
       "styleAttributes": {},
-      "x": -4620,
-      "y": 1180,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "6e3bf2b30faf83ed",
-      "type": "text",
-      "text": "\nEnable Input",
-      "styleAttributes": {},
-      "x": -4340,
-      "y": 1210,
-      "width": 160,
-      "height": 53
-    },
-    {
-      "id": "20d075ce8a3eb9fc",
-      "type": "text",
-      "text": "Launch Character",
-      "styleAttributes": {},
-      "x": -4060,
-      "y": 1210,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "0359f17c8bd9b26e",
-      "type": "text",
-      "text": "Get Player Pawn",
-      "styleAttributes": {},
-      "x": -4720,
-      "y": 1320,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "d0e8c78b1979db1d",
-      "type": "text",
-      "text": "Scene Component\n",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": null
-      },
-      "x": -5300,
-      "y": 1411,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "660550654872d0a2",
-      "type": "text",
-      "text": "Construction Script\n**Called before game start**",
-      "styleAttributes": {},
-      "x": -4950,
-      "y": 950,
-      "width": 260,
-      "height": 90
-    },
-    {
-      "id": "edd7437825578823",
-      "type": "text",
-      "text": "Montage\n**create complex animation sequences**",
-      "styleAttributes": {},
-      "x": -5330,
-      "y": 151,
-      "width": 403,
-      "height": 100
-    },
-    {
-      "id": "c9a85d09d9a580de",
-      "type": "text",
-      "text": "Object\n",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5720,
-      "y": 1020,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5209db22e5c60838",
-      "type": "file",
-      "file": "unreal/Blueprint/Blueprint Class/Actor.md",
-      "styleAttributes": {},
-      "x": -6235,
-      "y": 1275,
-      "width": 350,
-      "height": 105
-    },
-    {
-      "id": "2e479fae77d62533",
-      "type": "file",
-      "file": "unreal/Blueprint/Blueprint Class/Controller.md",
-      "styleAttributes": {},
-      "x": -5830,
-      "y": 1589,
-      "width": 310,
-      "height": 71
-    },
-    {
-      "id": "fa7b24f91d7f31b9",
-      "type": "text",
-      "text": "Input Action Mapping Context\n",
-      "styleAttributes": {},
-      "x": -4530,
-      "y": -2240,
-      "width": 300,
-      "height": 63
-    },
-    {
-      "id": "b37ed7bd606c119d",
-      "type": "file",
-      "file": "assets/Screenshot 2024-07-27 at 12.31.58 PM.png",
-      "styleAttributes": {},
-      "x": -4580,
-      "y": -2600,
-      "width": 400,
-      "height": 171
-    },
-    {
-      "id": "506c48702914ef52",
-      "type": "file",
-      "file": "unreal/C++/UFUNCTION.md",
-      "styleAttributes": {},
-      "x": -8698,
-      "y": -3586,
-      "width": 375,
-      "height": 93
-    },
-    {
-      "id": "0ebe80bec8ca9690",
-      "type": "text",
-      "text": "UObject",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -9595,
-      "y": -1620,
-      "width": 135,
-      "height": 50
-    },
-    {
-      "id": "e81f8dfc5ada33cc",
-      "type": "text",
-      "text": "USceneComponent",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -9636,
-      "y": -1500,
-      "width": 217,
-      "height": 60
-    },
-    {
-      "id": "e844227e385e00da",
-      "type": "text",
-      "text": "UCapsuleComponent",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -9800,
-      "y": -1327,
-      "width": 236,
-      "height": 50
-    },
-    {
-      "id": "73cf8b9070b9b48f",
-      "type": "text",
-      "text": "USkeletalMeshComponent",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -9500,
-      "y": -1327,
-      "width": 260,
-      "height": 55
-    },
-    {
-      "id": "d32f5775b5d72fdd",
-      "type": "file",
-      "file": "unreal/C++/UPROPERTY.md",
-      "styleAttributes": {},
-      "x": -9798,
-      "y": -3586,
-      "width": 1000,
-      "height": 553
-    },
-    {
-      "id": "e6cb9295ecf73694",
-      "type": "file",
-      "file": "unreal/C++/Snippets/How to create a Socket.md",
-      "styleAttributes": {},
-      "x": -8707,
-      "y": -2861,
-      "width": 731,
-      "height": 155
-    },
-    {
-      "id": "465a32e159368673",
-      "type": "file",
-      "file": "unreal/C++/UE_LOG.md",
-      "styleAttributes": {},
-      "x": -9747,
-      "y": -2856,
-      "width": 595,
-      "height": 110
-    },
-    {
-      "id": "bf1ecc206fe4281b",
-      "type": "file",
-      "file": "unreal/C++/AddOnScreenDebugMessage.md",
-      "styleAttributes": {},
-      "x": -9747,
-      "y": -2706,
-      "width": 760,
-      "height": 200
-    },
-    {
-      "id": "ee7ed027dd1bc804",
-      "type": "text",
-      "text": "Create Blend Space\n",
-      "styleAttributes": {},
-      "x": -3641,
-      "y": -620,
-      "width": 250,
+      "x": -5894,
+      "y": -693,
+      "width": 125,
       "height": 60
     },
     {
@@ -367,109 +132,140 @@
       "type": "text",
       "text": "Jump\n",
       "styleAttributes": {},
-      "x": -3034,
-      "y": -880,
+      "x": -5894,
+      "y": -560,
       "width": 125,
       "height": 50
     },
     {
-      "id": "f3012667658d99ea",
+      "id": "46039a5930e550d9",
       "type": "text",
-      "text": "Animation Mode",
+      "text": "Jump\n",
       "styleAttributes": {},
-      "x": -3630,
-      "y": -400,
-      "width": 227,
-      "height": 62
-    },
-    {
-      "id": "ca7e6066b78de127",
-      "type": "text",
-      "text": "Animation Blueprint",
-      "styleAttributes": {},
-      "x": -3070,
-      "y": -280,
-      "width": 228,
+      "x": -11077,
+      "y": -2562,
+      "width": 125,
       "height": 60
     },
     {
-      "id": "63b29260109b5145",
+      "id": "b1ce3d904f78ee37",
       "type": "text",
-      "text": "Sprite",
+      "text": "Move\n",
       "styleAttributes": {},
-      "x": -450,
-      "y": -1889,
-      "width": 125,
+      "x": -11077,
+      "y": -2362,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "bbc14554345126bc",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Controller/PlayerController.md",
+      "styleAttributes": {},
+      "x": -10400,
+      "y": -2480,
+      "width": 377,
+      "height": 99,
+      "color": "1"
+    },
+    {
+      "id": "5ade961e89ccf1ee",
+      "type": "text",
+      "text": "Input Action\n",
+      "styleAttributes": {},
+      "x": -11342,
+      "y": -2557,
+      "width": 180,
       "height": 50
     },
     {
-      "id": "3b70786a00902ab8",
+      "id": "da8e968b8f1e3b6d",
       "type": "text",
-      "text": "Spring Arm",
+      "text": "Input Action\n",
       "styleAttributes": {},
-      "x": -450,
-      "y": -1670,
-      "width": 250,
+      "x": -11342,
+      "y": -2362,
+      "width": 165,
       "height": 60
     },
     {
-      "id": "6b465a279413c367",
+      "id": "fa7b24f91d7f31b9",
       "type": "text",
-      "text": "Camera",
+      "text": "Input Action Mapping Context\n",
       "styleAttributes": {},
-      "x": -450,
-      "y": -1540,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "06553ae6dec9e7e6",
-      "type": "text",
-      "text": "Skeletal Mesh Editor",
-      "styleAttributes": {},
-      "x": -3211,
-      "y": -1322,
-      "width": 207,
-      "height": 62
-    },
-    {
-      "id": "feb5b2114ee902bc",
-      "type": "text",
-      "text": "Skeletal Meshe Assets\n\n",
-      "styleAttributes": {},
-      "x": -3610,
-      "y": -1320,
-      "width": 252,
-      "height": 60
-    },
-    {
-      "id": "d3e8fe246e4024a2",
-      "type": "text",
-      "text": "Skeleton",
-      "styleAttributes": {},
-      "x": -3561,
-      "y": -1200,
-      "width": 154,
-      "height": 60
-    },
-    {
-      "id": "54966854fea06382",
-      "type": "text",
-      "text": "Animation Sequences\n",
-      "styleAttributes": {},
-      "x": -3610,
-      "y": -1010,
-      "width": 252,
+      "x": -11757,
+      "y": -2462,
+      "width": 320,
       "height": 50
     },
     {
-      "id": "a1bfdf2f5bb39079",
-      "type": "text",
-      "text": "Run\n",
+      "id": "5209db22e5c60838",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Actor.md",
       "styleAttributes": {},
-      "x": -3034,
-      "y": -1020,
-      "width": 125,
+      "x": -8745,
+      "y": -2477,
+      "width": 818,
+      "height": 129
+    },
+    {
+      "id": "13bd658fef366d35",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Controller/AIController.md",
+      "styleAttributes": {},
+      "x": -9644,
+      "y": -2935,
+      "width": 490,
+      "height": 126
+    },
+    {
+      "id": "b695e9d013bf41d9",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/GameModeBase.md",
+      "styleAttributes": {},
+      "x": -8709,
+      "y": -3015,
+      "width": 717,
+      "height": 160
+    },
+    {
+      "id": "c398ac3be967b0c9",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/UEngine/AddOnScreenDebugMessage.md",
+      "styleAttributes": {},
+      "x": -7760,
+      "y": -3015,
+      "width": 811,
+      "height": 142
+    },
+    {
+      "id": "fc789ba7f7aaff8c",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Object.md",
+      "styleAttributes": {},
+      "x": -7440,
+      "y": -2460,
+      "width": 220,
+      "height": 112
+    },
+    {
+      "id": "8e82b74d554cb05c",
+      "type": "file",
+      "file": "MovementComponent.md",
+      "styleAttributes": {},
+      "x": -7263,
+      "y": -2040,
+      "width": 420,
+      "height": 120
+    },
+    {
+      "id": "4df4bc4d7e32921e",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor Component/Scene Component/Scene Component.md",
+      "styleAttributes": {},
+      "x": -5800,
+      "y": -1890,
+      "width": 346,
       "height": 60
     },
     {
@@ -477,58 +273,159 @@
       "type": "text",
       "text": "Walk\n",
       "styleAttributes": {},
-      "x": -3045,
-      "y": -1200,
+      "x": -5894,
+      "y": -828,
       "width": 125,
       "height": 60
     },
     {
-      "id": "574bd5e039af314c",
+      "id": "feb5b2114ee902bc",
       "type": "text",
-      "text": "Animation Asset",
+      "text": "Skeletal Meshe Assets\n\n",
       "styleAttributes": {},
-      "x": -3034,
-      "y": -520,
-      "width": 228,
+      "x": -6430,
+      "y": -969,
+      "width": 252,
       "height": 60
     },
     {
-      "id": "5ade961e89ccf1ee",
+      "id": "ee7ed027dd1bc804",
       "type": "text",
-      "text": "Input Action\n",
+      "text": "Create Blend Space\n",
       "styleAttributes": {},
-      "x": -4115,
-      "y": -2335,
-      "width": 180,
+      "x": -6454,
+      "y": -380,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f3012667658d99ea",
+      "type": "text",
+      "text": "Animation Mode",
+      "styleAttributes": {},
+      "x": -6443,
+      "y": -160,
+      "width": 227,
+      "height": 62
+    },
+    {
+      "id": "d3e8fe246e4024a2",
+      "type": "text",
+      "text": "Skeleton",
+      "styleAttributes": {},
+      "x": -6381,
+      "y": -848,
+      "width": 154,
       "height": 50
     },
     {
-      "id": "7b7b58de8150586a",
+      "id": "06553ae6dec9e7e6",
+      "type": "text",
+      "text": "Skeletal Mesh Editor",
+      "styleAttributes": {},
+      "x": -5998,
+      "y": -971,
+      "width": 207,
+      "height": 62
+    },
+    {
+      "id": "54966854fea06382",
+      "type": "text",
+      "text": "Animation Sequences\n",
+      "styleAttributes": {},
+      "x": -6430,
+      "y": -688,
+      "width": 252,
+      "height": 50
+    },
+    {
+      "id": "ea99bc555b862145",
       "type": "file",
-      "file": "assets/Screenshot 2024-07-27 at 12.37.05 PM.png",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Pawn.md",
       "styleAttributes": {},
-      "x": -170,
-      "y": -1908,
-      "width": 400,
-      "height": 87
+      "x": -8611,
+      "y": -1770,
+      "width": 470,
+      "height": 120
     },
     {
-      "id": "3395f9fd6debc22c",
-      "type": "text",
-      "text": "Player_BP : PaperZDCharactrer",
+      "id": "6c8739bb4c39abae",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/Character.md",
       "styleAttributes": {},
-      "x": -1038,
-      "y": -1761,
-      "width": 326,
-      "height": 50
+      "x": -8661,
+      "y": -1470,
+      "width": 570,
+      "height": 170,
+      "color": "1"
+    },
+    {
+      "id": "465a32e159368673",
+      "type": "file",
+      "file": "unreal/C++/UE_LOG.md",
+      "styleAttributes": {},
+      "x": -14326,
+      "y": -3048,
+      "width": 640,
+      "height": 80
+    },
+    {
+      "id": "d32f5775b5d72fdd",
+      "type": "file",
+      "file": "unreal/C++/UPROPERTY.md",
+      "styleAttributes": {},
+      "x": -14251,
+      "y": -2288,
+      "width": 1000,
+      "height": 553
+    },
+    {
+      "id": "506c48702914ef52",
+      "type": "file",
+      "file": "unreal/C++/UFUNCTION.md",
+      "styleAttributes": {},
+      "x": -13111,
+      "y": -2288,
+      "width": 372,
+      "height": 92
+    },
+    {
+      "id": "2e479fae77d62533",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Controller/Controller.md",
+      "styleAttributes": {},
+      "x": -9760,
+      "y": -2485,
+      "width": 700,
+      "height": 109
+    },
+    {
+      "id": "388d4333294ce4bc",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Mesh/Static Mesh.md",
+      "styleAttributes": {},
+      "x": -6458,
+      "y": -1900,
+      "width": 280,
+      "height": 70
+    },
+    {
+      "id": "d81dc08722b7671d",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor Component/Actor Component.md",
+      "styleAttributes": {},
+      "x": -5733,
+      "y": -2440,
+      "width": 226,
+      "height": 67
     },
     {
       "id": "8e9b539436be679f",
       "type": "text",
       "text": "Create PlayerStart",
       "styleAttributes": {},
-      "x": -2390,
-      "y": -1545,
+      "x": -14500,
+      "y": -6136,
       "width": 250,
       "height": 60
     },
@@ -537,99 +434,169 @@
       "type": "text",
       "text": "Character",
       "styleAttributes": {},
-      "x": -1888,
-      "y": -1540,
+      "x": -14138,
+      "y": -6131,
       "width": 140,
       "height": 55
-    },
-    {
-      "id": "d184c85c43c853e6",
-      "type": "text",
-      "text": "World Settings\n",
-      "styleAttributes": {},
-      "x": -1608,
-      "y": -1040,
-      "width": 250,
-      "height": 60
     },
     {
       "id": "d590f7d6a4eb0c52",
       "type": "text",
       "text": "Create Blueprint Class",
       "styleAttributes": {},
-      "x": -1575,
-      "y": -1545,
+      "x": -13825,
+      "y": -6131,
       "width": 250,
       "height": 60
     },
     {
-      "id": "597915e20bec6140",
+      "id": "3395f9fd6debc22c",
       "type": "text",
-      "text": "Default Pawn Class\n",
+      "text": "Player_BP : PaperZDCharactrer",
       "styleAttributes": {},
-      "x": -1062,
-      "y": -795,
-      "width": 250,
+      "x": -13186,
+      "y": -6360,
+      "width": 326,
       "height": 50
     },
     {
-      "id": "69520f04a2696d26",
+      "id": "63b29260109b5145",
       "type": "text",
-      "text": "Game Mode Override\n",
+      "text": "Sprite",
       "styleAttributes": {},
-      "x": -1052,
-      "y": -1040,
-      "width": 231,
+      "x": -12700,
+      "y": -6480,
+      "width": 125,
       "height": 50
+    },
+    {
+      "id": "3b70786a00902ab8",
+      "type": "text",
+      "text": "Spring Arm",
+      "styleAttributes": {},
+      "x": -12700,
+      "y": -6261,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6b465a279413c367",
+      "type": "text",
+      "text": "Camera",
+      "styleAttributes": {},
+      "x": -12700,
+      "y": -6131,
+      "width": 250,
+      "height": 60
     },
     {
       "id": "7bb74b9fab0656c7",
       "type": "text",
       "text": "Game Mode Base\n",
       "styleAttributes": {},
-      "x": -1038,
-      "y": -1275,
+      "x": -13288,
+      "y": -5866,
       "width": 204,
       "height": 60
     },
     {
-      "id": "46039a5930e550d9",
+      "id": "d184c85c43c853e6",
       "type": "text",
-      "text": "Jump\n",
+      "text": "World Settings\n",
       "styleAttributes": {},
-      "x": -3850,
-      "y": -2340,
-      "width": 125,
+      "x": -13825,
+      "y": -5641,
+      "width": 250,
       "height": 60
     },
     {
-      "id": "3af68e88be4e5446",
-      "type": "file",
-      "file": "assets/Screenshot 2024-07-27 at 12.28.28 PM.png",
+      "id": "69520f04a2696d26",
+      "type": "text",
+      "text": "Game Mode Override\n",
       "styleAttributes": {},
-      "x": -3536,
-      "y": -2116,
-      "width": 395,
-      "height": 26
+      "x": -13302,
+      "y": -5631,
+      "width": 231,
+      "height": 50
     },
     {
-      "id": "da8e968b8f1e3b6d",
+      "id": "597915e20bec6140",
       "type": "text",
-      "text": "Input Action\n",
+      "text": "Default Pawn Class\n",
       "styleAttributes": {},
-      "x": -4115,
-      "y": -2140,
-      "width": 165,
+      "x": -13312,
+      "y": -5386,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "cd8b87c530afef59",
+      "type": "text",
+      "text": "Material Graph",
+      "styleAttributes": {},
+      "x": -11759,
+      "y": -6380,
+      "width": 250,
       "height": 60
     },
     {
-      "id": "b1ce3d904f78ee37",
+      "id": "ca2a9970b84df689",
       "type": "text",
-      "text": "Move\n",
+      "text": "Event Graph",
       "styleAttributes": {},
-      "x": -3850,
-      "y": -2140,
-      "width": 120,
+      "x": -11759,
+      "y": -6140,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "20d075ce8a3eb9fc",
+      "type": "text",
+      "text": "Launch Character",
+      "styleAttributes": {},
+      "x": -11759,
+      "y": -5940,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6e3bf2b30faf83ed",
+      "type": "text",
+      "text": "\nEnable Input",
+      "styleAttributes": {},
+      "x": -11714,
+      "y": -6020,
+      "width": 160,
+      "height": 53
+    },
+    {
+      "id": "660550654872d0a2",
+      "type": "text",
+      "text": "Construction Script\n**Called before game start**",
+      "styleAttributes": {},
+      "x": -12100,
+      "y": -6200,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "0359f17c8bd9b26e",
+      "type": "text",
+      "text": "Get Player Pawn",
+      "styleAttributes": {},
+      "x": -12100,
+      "y": -5940,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "573921f6a5dc78b7",
+      "type": "text",
+      "text": "Cast to Character",
+      "styleAttributes": {},
+      "x": -12095,
+      "y": -6080,
+      "width": 250,
       "height": 60
     },
     {
@@ -637,96 +604,50 @@
       "type": "text",
       "text": "Materials",
       "styleAttributes": {},
-      "x": -4650,
-      "y": -220,
+      "x": -12049,
+      "y": -6375,
       "width": 159,
       "height": 50
     },
     {
-      "id": "ca2a9970b84df689",
-      "type": "text",
-      "text": "Event Graph",
-      "styleAttributes": {},
-      "x": -4620,
-      "y": 950,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "f399f2f1441061fc",
-      "type": "text",
-      "text": "Skeletal Meshe",
-      "styleAttributes": {},
-      "x": -4430,
-      "y": -1330,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "cd8b87c530afef59",
-      "type": "text",
-      "text": "Material Graph",
-      "styleAttributes": {},
-      "x": -4290,
-      "y": -460,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "4effd911102b2f87",
-      "type": "text",
-      "text": "Static Mesh \n- cannot be animated",
-      "styleAttributes": {},
-      "x": -4430,
-      "y": -1140,
-      "width": 320,
-      "height": 115
-    },
-    {
-      "id": "ea99bc555b862145",
+      "id": "52a5332b317c2137",
       "type": "file",
-      "file": "unreal/Blueprint/Blueprint Class/Pawn.md",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CharacterMovement.md",
       "styleAttributes": {},
-      "x": -6605,
-      "y": 1589,
-      "width": 370,
-      "height": 71
+      "x": -7373,
+      "y": -1463,
+      "width": 640,
+      "height": 100
     },
     {
-      "id": "3fe66de1b09f77c9",
-      "type": "text",
-      "text": "Character",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -6550,
-      "y": 1798,
-      "width": 260,
-      "height": 60
+      "id": "a19a0a118e1b3a29",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/ArrowComponent.md",
+      "styleAttributes": {},
+      "x": -5800,
+      "y": -1461,
+      "width": 360,
+      "height": 92
     },
     {
-      "id": "5353396d3c45f436",
-      "type": "text",
-      "text": "PlayerController",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -6015,
-      "y": 1828,
-      "width": 260,
-      "height": 60
+      "id": "7e0281511297c86c",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Mesh/Skeletal Mesh.md",
+      "styleAttributes": {},
+      "x": -6566,
+      "y": -1557,
+      "width": 524,
+      "height": 270
     },
     {
-      "id": "c06a72d768a63a7e",
-      "type": "text",
-      "text": "AIController",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5650,
-      "y": 1828,
-      "width": 260,
-      "height": 60
+      "id": "06e4990fca24b416",
+      "type": "file",
+      "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CapsuleComponent.md",
+      "styleAttributes": {},
+      "x": -5300,
+      "y": -1506,
+      "width": 460,
+      "height": 183
     }
   ],
   "edges": [
@@ -794,20 +715,6 @@
       "toSide": "left"
     },
     {
-      "id": "e72b3311acdca530",
-      "fromNode": "b1ce3d904f78ee37",
-      "fromSide": "right",
-      "toNode": "3af68e88be4e5446",
-      "toSide": "left"
-    },
-    {
-      "id": "b271854be43d50a4",
-      "fromNode": "fa7b24f91d7f31b9",
-      "fromSide": "top",
-      "toNode": "b37ed7bd606c119d",
-      "toSide": "bottom"
-    },
-    {
       "id": "1b2d741e9e7d506d",
       "fromNode": "e67c526d47896c60",
       "fromSide": "right",
@@ -827,13 +734,6 @@
       "fromNode": "3395f9fd6debc22c",
       "fromSide": "right",
       "toNode": "63b29260109b5145",
-      "toSide": "left"
-    },
-    {
-      "id": "076ccd23680d9021",
-      "fromNode": "63b29260109b5145",
-      "fromSide": "right",
-      "toNode": "7b7b58de8150586a",
       "toSide": "left"
     },
     {
@@ -896,13 +796,6 @@
       "toSide": "left"
     },
     {
-      "id": "fb85b1a160844be4",
-      "fromNode": "f399f2f1441061fc",
-      "fromSide": "right",
-      "toNode": "feb5b2114ee902bc",
-      "toSide": "left"
-    },
-    {
       "id": "b43e934144ed987f",
       "fromNode": "13affd346e9312c0",
       "fromSide": "right",
@@ -925,64 +818,10 @@
       "toSide": "left"
     },
     {
-      "id": "0ec5c1842d5326b1",
-      "styleAttributes": {},
-      "fromNode": "0ebe80bec8ca9690",
-      "fromSide": "bottom",
-      "toNode": "e81f8dfc5ada33cc",
-      "toSide": "top"
-    },
-    {
-      "id": "7c685b9c93a1537e",
-      "styleAttributes": {},
-      "fromNode": "e81f8dfc5ada33cc",
-      "fromSide": "bottom",
-      "toNode": "e844227e385e00da",
-      "toSide": "top"
-    },
-    {
-      "id": "74407eb571042a62",
-      "styleAttributes": {},
-      "fromNode": "e81f8dfc5ada33cc",
-      "fromSide": "bottom",
-      "toNode": "73cf8b9070b9b48f",
-      "toSide": "top"
-    },
-    {
-      "id": "37057eb91c16deb5",
-      "styleAttributes": {},
-      "fromNode": "c9a85d09d9a580de",
-      "fromSide": "bottom",
-      "toNode": "5209db22e5c60838",
-      "toSide": "top"
-    },
-    {
-      "id": "ff4581fb6f8a590d",
-      "styleAttributes": {},
-      "fromNode": "13ac68003f963071",
-      "fromSide": "bottom",
-      "toNode": "d0e8c78b1979db1d",
-      "toSide": "top"
-    },
-    {
-      "id": "64be65ba226f334f",
-      "styleAttributes": {},
-      "fromNode": "5209db22e5c60838",
-      "fromSide": "bottom",
-      "toNode": "ad6f74982cc6d964",
-      "toSide": "top"
-    },
-    {
-      "id": "aa4f69066a09a369",
-      "styleAttributes": {},
-      "fromNode": "5209db22e5c60838",
-      "fromSide": "bottom",
-      "toNode": "2e479fae77d62533",
-      "toSide": "top"
-    },
-    {
       "id": "b2fd3c92185f923b",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
       "fromNode": "5209db22e5c60838",
       "fromSide": "bottom",
       "toNode": "ea99bc555b862145",
@@ -993,41 +832,180 @@
       "styleAttributes": {},
       "fromNode": "ea99bc555b862145",
       "fromSide": "bottom",
-      "toNode": "3fe66de1b09f77c9",
+      "toNode": "6c8739bb4c39abae",
       "toSide": "top"
     },
     {
       "id": "b89a0c9bebabed96",
       "styleAttributes": {},
       "fromNode": "2e479fae77d62533",
+      "fromSide": "left",
+      "toNode": "bbc14554345126bc",
+      "toSide": "right"
+    },
+    {
+      "id": "9250eee11a6e8e41",
+      "styleAttributes": {
+        "pathfindingMethod": null,
+        "arrow": "circle"
+      },
+      "fromNode": "d4b34af083a51143",
+      "fromSide": "right",
+      "toNode": "bbc14554345126bc",
+      "toSide": "left",
+      "color": "3",
+      "label": "Add to"
+    },
+    {
+      "id": "a4da11503337bcac",
+      "styleAttributes": {
+        "arrow": "thin-triangle"
+      },
+      "fromNode": "7e0281511297c86c",
       "fromSide": "bottom",
-      "toNode": "5353396d3c45f436",
+      "toNode": "feb5b2114ee902bc",
       "toSide": "top"
     },
     {
-      "id": "1638f20c5da9f62a",
-      "styleAttributes": {},
-      "fromNode": "2e479fae77d62533",
-      "fromSide": "bottom",
-      "toNode": "c06a72d768a63a7e",
-      "toSide": "top"
-    },
-    {
-      "id": "492022e7015214aa",
-      "styleAttributes": {},
-      "fromNode": "5a812eb48941a07c",
+      "id": "c02bb46be99275e3",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "fromNode": "fc789ba7f7aaff8c",
       "fromSide": "left",
       "toNode": "5209db22e5c60838",
       "toSide": "right"
     },
     {
-      "id": "a10acd6e14932503",
+      "id": "64d8c5f4432bd28a",
       "styleAttributes": {},
-      "fromNode": "c9a85d09d9a580de",
+      "fromNode": "d81dc08722b7671d",
       "fromSide": "bottom",
-      "toNode": "13ac68003f963071",
+      "toNode": "4df4bc4d7e32921e",
       "toSide": "top"
+    },
+    {
+      "id": "61a503018c92033c",
+      "styleAttributes": {},
+      "fromNode": "4df4bc4d7e32921e",
+      "fromSide": "left",
+      "toNode": "7e0281511297c86c",
+      "toSide": "right"
+    },
+    {
+      "id": "1152793129261b6f",
+      "styleAttributes": {},
+      "fromNode": "4df4bc4d7e32921e",
+      "fromSide": "right",
+      "toNode": "06e4990fca24b416",
+      "toSide": "left"
+    },
+    {
+      "id": "fe47ad90b5882067",
+      "styleAttributes": {},
+      "fromNode": "4df4bc4d7e32921e",
+      "fromSide": "bottom",
+      "toNode": "a19a0a118e1b3a29",
+      "toSide": "top"
+    },
+    {
+      "id": "c4f990f96f1f7e12",
+      "styleAttributes": {},
+      "fromNode": "4df4bc4d7e32921e",
+      "fromSide": "left",
+      "toNode": "388d4333294ce4bc",
+      "toSide": "right"
+    },
+    {
+      "id": "2ce26d0ae41451e5",
+      "styleAttributes": {},
+      "fromNode": "fc789ba7f7aaff8c",
+      "fromSide": "right",
+      "toNode": "d81dc08722b7671d",
+      "toSide": "left"
+    },
+    {
+      "id": "2d031492e5263869",
+      "styleAttributes": {},
+      "fromNode": "5209db22e5c60838",
+      "fromSide": "top",
+      "toNode": "b695e9d013bf41d9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "847428afcd8d922d",
+      "styleAttributes": {},
+      "fromNode": "5209db22e5c60838",
+      "fromSide": "left",
+      "toNode": "2e479fae77d62533",
+      "toSide": "right"
+    },
+    {
+      "id": "e86f3a351152eee5",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": null,
+        "arrow": "circle"
+      },
+      "fromNode": "bbc14554345126bc",
+      "fromSide": "bottom",
+      "toNode": "d602d13e9c0cfea0",
+      "toSide": "left",
+      "color": "1",
+      "label": "Possessing"
+    },
+    {
+      "id": "bea21aa0086a6098",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "5209db22e5c60838",
+      "fromSide": "bottom",
+      "toNode": "8e82b74d554cb05c",
+      "toSide": "left"
+    },
+    {
+      "id": "b1e829d723aaae87",
+      "styleAttributes": {},
+      "fromNode": "8e82b74d554cb05c",
+      "fromSide": "bottom",
+      "toNode": "52a5332b317c2137",
+      "toSide": "top"
+    },
+    {
+      "id": "27d1d5f8014823b1",
+      "styleAttributes": {
+        "arrow": "circle"
+      },
+      "fromNode": "6c8739bb4c39abae",
+      "fromSide": "right",
+      "toNode": "a1eced4b2729fbe6",
+      "toSide": "left",
+      "color": "1",
+      "label": "has"
+    },
+    {
+      "id": "1921caa40922b635",
+      "styleAttributes": {},
+      "fromNode": "2e479fae77d62533",
+      "fromSide": "top",
+      "toNode": "13bd658fef366d35",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b0e8c4b1de63dd4f",
+      "styleAttributes": {},
+      "fromNode": "fc789ba7f7aaff8c",
+      "fromSide": "top",
+      "toNode": "6c700fcc69e6bddb",
+      "toSide": "bottom"
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "properties": {
+      "cssclasses": [
+        "q"
+      ]
+    }
+  }
 }

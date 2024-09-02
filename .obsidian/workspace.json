@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "abb4ae022a173cb1",
+        "id": "eaa77493b828546d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa33b4fcdd341ed2",
+            "id": "6740c01915ec424d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Unreal.canvas",
+                "viewState": {
+                  "x": -6290.903747026865,
+                  "y": -1353.580731766087,
+                  "zoom": 0.22989044335588668
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e8374cfff0dfe3ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal/Blueprint/Blueprint Class/Controller.md",
+                "file": "unreal/C++/Snippets/How to create a Socket.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struc",
+                "query": "how to create a socke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5026054382324
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/Blueprint/Blueprint Class/Controller.md",
+                "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CapsuleComponent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/Blueprint/Blueprint Class/Controller.md",
+                "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CapsuleComponent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/Blueprint/Blueprint Class/Controller.md"
+                "file": "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CapsuleComponent.md"
               }
             }
           }
@@ -146,47 +163,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa33b4fcdd341ed2",
+  "active": "6740c01915ec424d",
   "lastOpenFiles": [
-    "unreal/Blueprint/Blueprint Class/Pawn.md",
-    "unreal/Blueprint/Blueprint Class/Controller.md",
+    "unreal/C++/Snippets/How to create a Socket.md",
     "Unreal.canvas",
-    "unreal/Blueprint/Blueprint Class/Blueprint Class.md",
+    "unreal/C++/UseControllerRotation.md",
+    "unreal/C++/UPROPERTY.md",
+    "unreal/How to create a Animation Instance.md",
+    "unreal/IK (Inverse Kinematics).canvas",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CapsuleComponent.md",
+    "unreal/C++/CreateDefaultSubobject.md",
+    "unreal/Blueprint/Blueprint Class/Mesh/Skeletal Mesh.md",
     "Unity.canvas",
-    "unreal/Blueprint/Blueprint Class/Actor.md",
+    "README.md",
+    "C++.canvas",
+    "MovementComponent.md",
+    "C++/CMake.md",
     "Screenshot 2024-09-01 at 8.29.33 PM.png",
-    "unreal/Blueprint/Construction Script.md",
-    "unreal/Blueprint/Set Hdden in game.md",
-    "C++/Data Types/Compound Types/C++ String/C++ String.md",
-    "C++/Data Types/Fundamental Types/int.md",
-    "unreal/Blueprint/Blueprint Class",
-    "C++/Data Types/Fundamental Types/char/00-overview.md",
-    "C++/STL/valarray/min.md",
-    "C++/IO Library/iostream/ostream.md",
-    "C++/IO Library/iostream/istream.md",
-    "C++/IO Library/iostream/overview.md",
-    "C++/Untitled/Untitled.md",
-    "C++/IO Library",
-    "C++/OOP/Inheritance/Protected Inheritance.md",
-    "C++/iostream.md",
-    "C++/IO Library/iostream",
-    "C++/OOP/Inheritance/Multiple Inheritance.md",
-    "C++/Const Qualifier.md",
-    "C++/OOP/Inheritance/Public inheritance.md",
-    "C++/OOP/Inheritance/Private Inheritance.md",
-    "C++/Type Aliases.md",
-    "C++/Macros.md",
-    "C++/extern.md",
-    "C++/Friend.md",
-    "C++/OOP/Static Class Member.md",
-    "C++/STL/<cstdlib>",
-    "C++/STL/<numeric>",
-    "C++/STL/<utility>",
-    "C++/STL/<algorithm>",
-    "C++/STL/valarray/Untitled",
-    "C++/STL/valarray",
     "Pasted image 20240831114746.png",
-    "C++/Data Types/Compound Types/Enumerations",
+    "unreal/Blueprint/Blueprint Class/Blueprint Class.md",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Actor.md",
+    "unreal/C++/AddMovementInput.md",
+    "unreal/Blueprint/Blueprint Class/Object/UEngine/UEngine.md",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Character/CharacterMovement.md",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn/Pawn.md",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/GameModeBase.md",
+    "unreal/Blueprint/Blueprint Class/Object/methods",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Untitled.md",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Controller/Controller.md",
+    "unreal/Blueprint/Blueprint Class/Object/Object.md",
+    "unreal/Blueprint/Blueprint Class/Object/UEngine/AddOnScreenDebugMessage.md",
+    "unreal/Blueprint/Blueprint Class/Object/UEngine",
+    "unreal/Blueprint/Blueprint Class/Object/Actor Component/Actor Component.md",
+    "unreal/Blueprint/Blueprint Class/Object/Actor Component/Scene Component/Scene Component.md",
+    "unreal/Blueprint/Blueprint Class/Mesh/Mesh.md",
+    "unreal/Reflection Macros.md",
+    "unreal/Reflection Macros",
+    "unreal/Blueprint/Blueprint Class/Object",
+    "unreal/Blueprint/Blueprint Class/Object/Actor Component/Scene Component",
+    "unreal/Blueprint/Blueprint Class/Object/Actor Component",
+    "unreal/Blueprint/Blueprint Class/Mesh/Static Mesh.md",
+    "unreal/Blueprint/Blueprint Class/Mesh",
+    "unreal/Blueprint/Blueprint Class/Mesh",
+    "unreal/Blueprint/Blueprint Class/Object/Actor/Pawn",
+    "unreal/Blueprint/Blueprint Class/Object/Actor",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
@@ -194,7 +214,6 @@
     "screenshots/Screenshot 2024-08-04 at 7.38.57 PM.png",
     "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
     "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png",
-    "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png",
-    "C++.canvas"
+    "screenshots/Screenshot 2024-08-03 at 3.05.51 PM.png"
   ]
 }

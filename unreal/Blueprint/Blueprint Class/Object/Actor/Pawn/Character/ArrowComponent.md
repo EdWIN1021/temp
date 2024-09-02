@@ -1,0 +1,1 @@
+- This indicates the current direction of the character.

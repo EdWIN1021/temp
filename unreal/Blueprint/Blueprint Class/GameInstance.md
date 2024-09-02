@@ -1,0 +1,2 @@
+Edit > Project Settings > Maps & Modes > GAME INSTANCE
+- The Game Instance class and its data persist between Levels because an instance of the Game Instance class is created at the beginning of the game and is only removed when the game is closed.
