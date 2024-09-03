@@ -33,28 +33,64 @@
               "state": {
                 "file": "C++.canvas",
                 "viewState": {
-                  "x": -1916.8537141721451,
-                  "y": 767.2628753290606,
-                  "zoom": -0.7455225424757573
+                  "x": 3437.1526888151243,
+                  "y": 2102.1444185310647,
+                  "zoom": -1.5941679511467093
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "73d346718acfa1b9",
+            "id": "ad9765d9c996b2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Iterators/end.md",
+                "file": "C++/Data Types/Compound Types/Pointer/pointer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d2d8eae31302c794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/STL/Iterators/iterator.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cb820d536fe6d285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/STL/Iterators/dereference and member access.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "706e996f15ae9d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Type Aliases.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "range",
+                "query": "typedef",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,11 +136,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 259.5026054382324
+    "width": 314.5026054382324
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -120,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Iterators/end.md",
+                "file": "C++/Type Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Iterators/end.md",
+                "file": "C++/Type Aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Iterators/end.md"
+                "file": "C++/Type Aliases.md"
               }
             }
           }
@@ -178,42 +215,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "73d346718acfa1b9",
+  "active": "706e996f15ae9d67",
   "lastOpenFiles": [
-    "C++/STL/Iterators/begin.md",
-    "C++/STL/Iterators/end.md",
-    "C++/STL/Iterators/Iterators.md",
-    "C++/STL/Containers/Sequence Containers/vector/vector.md",
-    "C++/STL/Containers/Sequence Containers/vector/empty.md",
-    "C++/STL/Containers/Sequence Containers/vector/size.md",
-    "C++/Range-Base for.md",
-    "C++/STL/Containers/Sequence Containers/vector/push_back.md",
-    "C++.canvas",
-    "C++/Data Types/Compound Types/Array/array.md",
-    "C++/Operator/[].md",
-    "C++/Data Types/Compound Types/Reference/Reference.md",
-    "C++/Data Types/Compound Types/String/string.md",
-    "Unity.canvas",
-    "string.md",
-    "C++/Data Types/Compound Types/Array/Untitled.md",
+    "C++/Data Types/Compound Types/Pointer/pointer.md",
+    "C++/Loop/Range-Base for.md",
+    "C++/Loop/for.md",
+    "C++/Data Types/Compound Types/Array/multidimensional array.md",
+    "C++/Data Types/Compound Types/C-Style String/strcat.md",
+    "C++/Data Types/Compound Types/C-Style String/strcmp.md",
     "C++/Data Types/Compound Types/C-Style String/C-Style String.md",
-    "C++/Data Types/Compound Types/Enumerations/Enumerations.md",
-    "C++/Operator/dynamic_cast.md",
-    "C++/Operator/delete.md",
-    "Unreal.canvas",
-    "C++/Preprocessor Directive/Preprocessor Directive.md",
-    "C++/Data Types/Fundamental Types/char/toupper.md",
-    "C++/Data Types/Fundamental Types/char/isupper.md",
-    "C++/Data Types/Fundamental Types/char/char.md",
-    "C++/Data Types/Compound Types/C-Style String/strcpy.md",
-    "C++/Data Types/Compound Types/String/substr.md",
-    "C++/Data Types/Compound Types/String/size.md",
-    "C++/Data Types/Compound Types/String/length.md",
+    "C++/Data Types/Compound Types/Array/array.md",
+    "C++/STL/Iterators/dereference and member access.md",
+    "MovementComponent.md",
+    "C++/Operator/->.md",
+    "C++/STL/Iterators/iterator.md",
     "Untitled",
+    "C++/Untitled.md",
+    "C++/STL/Iterators/end.md",
+    "C++/STL/Iterators/begin.md",
+    "C++/STL/Iterators/const _iterator.md",
+    "C++.canvas",
+    "Iterator.md",
+    "iterator.md",
+    "C++/Loop",
+    "C++/Loop.md",
+    "C++/Operator/++.md",
+    "C++/forward declaration.md",
+    "C++/Type Aliases.md",
+    "C++/Data Types/Fundamental Types/long.md",
+    "C++/CMake.md",
+    "Unreal.canvas",
+    "C++/Operator/new.md",
+    "C++/Operator/dynamic_cast.md",
+    "Untitled.canvas",
+    "Unity.canvas",
     "Pasted image 20240902124413.png",
     "C++/Friend",
     "C++/Data Types/Initialization",
@@ -226,7 +264,6 @@
     "unreal/Object",
     "unreal/Object/Actor Component/Scene Component",
     "unreal/Object/Actor Component",
-    "unreal/Mesh",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",

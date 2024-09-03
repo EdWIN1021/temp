@@ -43,3 +43,11 @@ int ival = 1024;
 int *p = &ival;
 int **pp = &p;
 ```
+
+## 2D array
+```cpp
+int ia[3][4];           // 2D array of integers: 3 rows, each with 4 columns
+int (*p)[4] = ia;       // p is a pointer to an array of 4 integers, initialized to point to ia
+p = &ia[2];             // p is now pointing to the third row of ia
+
+```
