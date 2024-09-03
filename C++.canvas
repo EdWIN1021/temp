@@ -11,6 +11,26 @@
       "label": "Data Types"
     },
     {
+      "id": "57825cb5a860b96e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2320,
+      "y": 320,
+      "width": 700,
+      "height": 1480,
+      "label": "Operators"
+    },
+    {
+      "id": "e91e6c593445bfde",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 780,
+      "width": 560,
+      "height": 970,
+      "label": "Dynamic Memory Allocation"
+    },
+    {
       "id": "a5c4fdfbf15d688c",
       "type": "group",
       "styleAttributes": {},
@@ -53,16 +73,6 @@
       "label": "Fundamental Types"
     },
     {
-      "id": "57825cb5a860b96e",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2320,
-      "y": 320,
-      "width": 700,
-      "height": 1480,
-      "label": "Operators"
-    },
-    {
       "id": "d89718f2a054020d",
       "type": "group",
       "styleAttributes": {},
@@ -71,16 +81,6 @@
       "width": 688,
       "height": 800,
       "label": "methods"
-    },
-    {
-      "id": "e91e6c593445bfde",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 780,
-      "width": 560,
-      "height": 970,
-      "label": "Dynamic Memory Allocation"
     },
     {
       "id": "a631c3d8de875164",
@@ -235,7 +235,7 @@
     {
       "id": "ce36a024a54bc411",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/size.md",
+      "file": "C++/Data Types/Compound Types/String/size.md",
       "styleAttributes": {},
       "x": -1007,
       "y": -2020,
@@ -245,7 +245,7 @@
     {
       "id": "f9fd39a715aa8675",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/length.md",
+      "file": "C++/Data Types/Compound Types/String/length.md",
       "styleAttributes": {},
       "x": -536,
       "y": -1999,
@@ -255,7 +255,7 @@
     {
       "id": "3440a5d2ccca58f1",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/find.md",
+      "file": "C++/Data Types/Compound Types/String/find.md",
       "styleAttributes": {},
       "x": -1007,
       "y": -2260,
@@ -265,7 +265,7 @@
     {
       "id": "1d878c6af015c567",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/substr.md",
+      "file": "C++/Data Types/Compound Types/String/substr.md",
       "styleAttributes": {},
       "x": -536,
       "y": -2260,
@@ -275,7 +275,7 @@
     {
       "id": "85b27c17c45ed7dc",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/erase.md",
+      "file": "C++/Data Types/Compound Types/String/erase.md",
       "styleAttributes": {},
       "x": -1005,
       "y": -2450,
@@ -285,7 +285,7 @@
     {
       "id": "b9ea18d9a31f76d4",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/clear.md",
+      "file": "C++/Data Types/Compound Types/String/clear.md",
       "styleAttributes": {},
       "x": -536,
       "y": -2450,
@@ -596,7 +596,7 @@
     {
       "id": "e35aa1b449d18b99",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/Reference/Reference Variables.md",
+      "file": "C++/Data Types/Compound Types/Reference/Reference.md",
       "styleAttributes": {},
       "x": 844,
       "y": 185,
@@ -626,7 +626,7 @@
     {
       "id": "09b3e943c73328b5",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/Array/Array.md",
+      "file": "C++/Data Types/Compound Types/Array/array.md",
       "styleAttributes": {},
       "x": -191,
       "y": -786,
@@ -656,7 +656,7 @@
     {
       "id": "de239ad2eff794ed",
       "type": "file",
-      "file": "C++/Data Types/Compound Types/C++ String/C++ String.md",
+      "file": "C++/Data Types/Compound Types/String/string.md",
       "styleAttributes": {},
       "x": -853,
       "y": -1145,

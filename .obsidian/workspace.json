@@ -16,9 +16,9 @@
               "state": {
                 "file": "Unreal.canvas",
                 "viewState": {
-                  "x": -7894.964682472356,
-                  "y": -2168.6714982365193,
-                  "zoom": -0.769173644549039
+                  "x": -11905.418379738005,
+                  "y": -4648.850428815802,
+                  "zoom": -0.7503130099715254
                 }
               },
               "pinned": true
@@ -42,31 +42,19 @@
             }
           },
           {
-            "id": "4c077d5dba5601cd",
+            "id": "73d346718acfa1b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Type Aliases.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6ce31d96be403cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Preprocessor Directive/Preprocessor Directive.md",
+                "file": "C++/STL/Iterators/end.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "const q",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5026054382324,
-    "collapsed": true
+    "width": 259.5026054382324
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Preprocessor Directive/Preprocessor Directive.md",
+                "file": "C++/STL/Iterators/end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Preprocessor Directive/Preprocessor Directive.md",
+                "file": "C++/STL/Iterators/end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Preprocessor Directive/Preprocessor Directive.md"
+                "file": "C++/STL/Iterators/end.md"
               }
             }
           }
@@ -191,43 +178,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "6ce31d96be403cb4",
+  "active": "73d346718acfa1b9",
   "lastOpenFiles": [
-    "C++/Data Types/Compound Types/Structures/Structures.md",
-    "C++/Data Types/Compound Types/Structures/Struct Template.md",
-    "C++/decltype.md",
-    "C++/Type Aliases.md",
-    "C++/constexpr.md",
-    "Unreal.canvas",
-    "C++.canvas",
-    "C++/Data Types/Compound Types/Reference/Reference Variables.md",
-    "C++/Data Types/Compound Types/Reference/R-Value Reference.md",
-    "C++/Data Types/Compound Types/Reference/L-Value Reference.md",
-    "C++/Const Qualifier.md",
-    "C++/Data Types/Compound Types/Pointer/Deferencing.md",
-    "C++/extern.md",
-    "C++/Preprocessor Directive/Preprocessor Directive.md",
-    "C++/Data Types/Compound Types/Pointer/Pointer.md",
-    "C++/Preprocessor Directive/pragma once.md",
-    "Pasted image 20240902124413.png",
-    "C++/STL/Containers/Container Adapters/stack/stack.md",
-    "C++/Data Types/Fundamental Types/double.md",
-    "C++/Data Types/Default Initialization.md",
-    "C++/Data Types/List initialization.md",
-    "C++/Operator/static_cast.md",
-    "C++/Data Types/Initialization/Initialization.md",
-    "C++/Data Types/Initialization",
-    "C++/STL/Containers/Container Adapters/stack/size.md",
+    "C++/STL/Iterators/begin.md",
+    "C++/STL/Iterators/end.md",
     "C++/STL/Iterators/Iterators.md",
-    "C++/STL/Containers/Sequence Containers/array/array.md",
-    "C++/STL/Containers/Sequence Containers/array/adjacent_find.md",
-    "C++/STL/Containers/Sequence Containers/array/accumulate.md",
-    "C++/Operator/new.md",
-    "unreal/IK (Inverse Kinematics).canvas",
+    "C++/STL/Containers/Sequence Containers/vector/vector.md",
+    "C++/STL/Containers/Sequence Containers/vector/empty.md",
+    "C++/STL/Containers/Sequence Containers/vector/size.md",
+    "C++/Range-Base for.md",
+    "C++/STL/Containers/Sequence Containers/vector/push_back.md",
+    "C++.canvas",
+    "C++/Data Types/Compound Types/Array/array.md",
+    "C++/Operator/[].md",
+    "C++/Data Types/Compound Types/Reference/Reference.md",
+    "C++/Data Types/Compound Types/String/string.md",
     "Unity.canvas",
+    "string.md",
+    "C++/Data Types/Compound Types/Array/Untitled.md",
+    "C++/Data Types/Compound Types/C-Style String/C-Style String.md",
+    "C++/Data Types/Compound Types/Enumerations/Enumerations.md",
+    "C++/Operator/dynamic_cast.md",
+    "C++/Operator/delete.md",
+    "Unreal.canvas",
+    "C++/Preprocessor Directive/Preprocessor Directive.md",
+    "C++/Data Types/Fundamental Types/char/toupper.md",
+    "C++/Data Types/Fundamental Types/char/isupper.md",
+    "C++/Data Types/Fundamental Types/char/char.md",
+    "C++/Data Types/Compound Types/C-Style String/strcpy.md",
+    "C++/Data Types/Compound Types/String/substr.md",
+    "C++/Data Types/Compound Types/String/size.md",
+    "C++/Data Types/Compound Types/String/length.md",
+    "Untitled",
+    "Pasted image 20240902124413.png",
+    "C++/Friend",
+    "C++/Data Types/Initialization",
+    "unreal/IK (Inverse Kinematics).canvas",
     "Screenshot 2024-09-01 at 8.29.33 PM.png",
     "Pasted image 20240831114746.png",
     "unreal/Object/methods",
@@ -237,8 +227,6 @@
     "unreal/Object/Actor Component/Scene Component",
     "unreal/Object/Actor Component",
     "unreal/Mesh",
-    "unreal/Mesh",
-    "unreal/Object/Actor/Pawn",
     "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
     "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
     "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
