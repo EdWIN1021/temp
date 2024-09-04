@@ -1,0 +1,1645 @@
+{
+  "nodes": [
+    {
+      "id": "96738e7f67b2d422",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -14520,
+      "y": -5120,
+      "width": 3280,
+      "height": 1360,
+      "label": "TBD"
+    },
+    {
+      "id": "a275d8c2493a3f24",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -16233,
+      "y": -2020,
+      "width": 2227,
+      "height": 880,
+      "color": "4",
+      "label": "Reflection Macros"
+    },
+    {
+      "id": "648fcb60ec344c6d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -20280,
+      "y": 1720,
+      "width": 1600,
+      "height": 1092,
+      "color": "4",
+      "label": "Reflection System"
+    },
+    {
+      "id": "5251cddb240b95ab",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -21760,
+      "y": 3360,
+      "width": 1170,
+      "height": 1120,
+      "color": "2",
+      "label": "Animations"
+    },
+    {
+      "id": "b114a7f5c81413cf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6600,
+      "y": -2020,
+      "width": 600,
+      "height": 780,
+      "color": "6",
+      "label": "Mesh"
+    },
+    {
+      "id": "d4b34af083a51143",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -12000,
+      "y": -2640,
+      "width": 1080,
+      "height": 408,
+      "color": "3",
+      "label": "Input System"
+    },
+    {
+      "id": "6c700fcc69e6bddb",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -7125,
+      "y": -3200,
+      "width": 995,
+      "height": 330,
+      "color": "#ced115",
+      "label": "UEngine"
+    },
+    {
+      "id": "89e4b269d3c5655b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -16233,
+      "y": -2992,
+      "width": 880,
+      "height": 352,
+      "color": "6",
+      "label": "Logging System"
+    },
+    {
+      "id": "3ed8b04bf1c7b96b",
+      "type": "text",
+      "text": "UPointLightComponent",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5240,
+      "y": -2980,
+      "width": 280,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "c474bbe04387a129",
+      "type": "text",
+      "text": "UAreaLightComponent",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5240,
+      "y": -2677,
+      "width": 280,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "24fe44ef7cfc2507",
+      "type": "text",
+      "text": "USpotLightComponent",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5240,
+      "y": -2880,
+      "width": 280,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "9708951d2324b7a3",
+      "type": "text",
+      "text": "UDirectionalLightComponent",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5240,
+      "y": -2780,
+      "width": 280,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "d81dc08722b7671d",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Actor Component.md",
+      "styleAttributes": {},
+      "x": -5820,
+      "y": -2437,
+      "width": 366,
+      "height": 97,
+      "color": "4"
+    },
+    {
+      "id": "a6d38f74a02d259e",
+      "type": "text",
+      "text": "ULightComponent",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5757,
+      "y": -2840,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "4df4bc4d7e32921e",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Scene Component.md",
+      "styleAttributes": {},
+      "x": -5820,
+      "y": -1980,
+      "width": 346,
+      "height": 150,
+      "color": "4"
+    },
+    {
+      "id": "f3012667658d99ea",
+      "type": "text",
+      "text": "Animation Mode",
+      "styleAttributes": {},
+      "x": -21513,
+      "y": 4200,
+      "width": 227,
+      "height": 62
+    },
+    {
+      "id": "d3e8fe246e4024a2",
+      "type": "text",
+      "text": "Skeleton",
+      "styleAttributes": {},
+      "x": -21471,
+      "y": 3540,
+      "width": 154,
+      "height": 50
+    },
+    {
+      "id": "06553ae6dec9e7e6",
+      "type": "text",
+      "text": "Skeletal Mesh Editor",
+      "styleAttributes": {},
+      "x": -21068,
+      "y": 3389,
+      "width": 207,
+      "height": 62
+    },
+    {
+      "id": "93eee4b9f147422e",
+      "type": "file",
+      "file": "Untitled 1.canvas",
+      "styleAttributes": {},
+      "x": -21460,
+      "y": 1760,
+      "width": 556,
+      "height": 325
+    },
+    {
+      "id": "54966854fea06382",
+      "type": "text",
+      "text": "Animation Sequences\n",
+      "styleAttributes": {},
+      "x": -21500,
+      "y": 3700,
+      "width": 252,
+      "height": 50
+    },
+    {
+      "id": "ee7ed027dd1bc804",
+      "type": "text",
+      "text": "Create Blend Space\n",
+      "styleAttributes": {},
+      "x": -21524,
+      "y": 3980,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6d236684fdc2120f",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Skeletal Meshe Assets.md",
+      "styleAttributes": {},
+      "x": -21520,
+      "y": 3420,
+      "width": 252,
+      "height": 60
+    },
+    {
+      "id": "ca7e6066b78de127",
+      "type": "text",
+      "text": "Animation Blueprint",
+      "styleAttributes": {},
+      "x": -20953,
+      "y": 4320,
+      "width": 228,
+      "height": 60
+    },
+    {
+      "id": "574bd5e039af314c",
+      "type": "text",
+      "text": "Animation Asset",
+      "styleAttributes": {},
+      "x": -20917,
+      "y": 4080,
+      "width": 228,
+      "height": 60
+    },
+    {
+      "id": "7fa89c3bb5d77ae5",
+      "type": "text",
+      "text": "Walk\n",
+      "styleAttributes": {},
+      "x": -20964,
+      "y": 3532,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "a1bfdf2f5bb39079",
+      "type": "text",
+      "text": "Run\n",
+      "styleAttributes": {},
+      "x": -20964,
+      "y": 3667,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "1dc25fc32ee131af",
+      "type": "text",
+      "text": "Jump\n",
+      "styleAttributes": {},
+      "x": -20964,
+      "y": 3800,
+      "width": 125,
+      "height": 50
+    },
+    {
+      "id": "388d4333294ce4bc",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Static Mesh.md",
+      "styleAttributes": {},
+      "x": -6420,
+      "y": -1955,
+      "width": 280,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "7bb74b9fab0656c7",
+      "type": "text",
+      "text": "Game Mode Base\n",
+      "styleAttributes": {},
+      "x": -13228,
+      "y": -4426,
+      "width": 204,
+      "height": 60
+    },
+    {
+      "id": "69520f04a2696d26",
+      "type": "text",
+      "text": "Game Mode Override\n",
+      "styleAttributes": {},
+      "x": -13242,
+      "y": -4191,
+      "width": 231,
+      "height": 50
+    },
+    {
+      "id": "597915e20bec6140",
+      "type": "text",
+      "text": "Default Pawn Class\n",
+      "styleAttributes": {},
+      "x": -13252,
+      "y": -3946,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "d184c85c43c853e6",
+      "type": "text",
+      "text": "World Settings\n",
+      "styleAttributes": {},
+      "x": -13765,
+      "y": -4201,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d590f7d6a4eb0c52",
+      "type": "text",
+      "text": "Create Blueprint Class",
+      "styleAttributes": {},
+      "x": -13765,
+      "y": -4691,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "46039a5930e550d9",
+      "type": "text",
+      "text": "Jump\n",
+      "styleAttributes": {},
+      "x": -11237,
+      "y": -2562,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "fa7b24f91d7f31b9",
+      "type": "text",
+      "text": "Input Action Mapping Context\n",
+      "styleAttributes": {},
+      "x": -11917,
+      "y": -2462,
+      "width": 320,
+      "height": 50
+    },
+    {
+      "id": "5ade961e89ccf1ee",
+      "type": "text",
+      "text": "Input Action\n",
+      "styleAttributes": {},
+      "x": -11502,
+      "y": -2557,
+      "width": 180,
+      "height": 50
+    },
+    {
+      "id": "da8e968b8f1e3b6d",
+      "type": "text",
+      "text": "Input Action\n",
+      "styleAttributes": {},
+      "x": -11502,
+      "y": -2362,
+      "width": 165,
+      "height": 60
+    },
+    {
+      "id": "8e9b539436be679f",
+      "type": "text",
+      "text": "Create PlayerStart",
+      "styleAttributes": {},
+      "x": -14440,
+      "y": -4696,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3395f9fd6debc22c",
+      "type": "text",
+      "text": "Player_BP : PaperZDCharactrer",
+      "styleAttributes": {},
+      "x": -13126,
+      "y": -4920,
+      "width": 326,
+      "height": 50
+    },
+    {
+      "id": "e67c526d47896c60",
+      "type": "text",
+      "text": "Character",
+      "styleAttributes": {},
+      "x": -14078,
+      "y": -4691,
+      "width": 140,
+      "height": 55
+    },
+    {
+      "id": "465a32e159368673",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UE_LOG.md",
+      "styleAttributes": {},
+      "x": -16113,
+      "y": -2840,
+      "width": 640,
+      "height": 80
+    },
+    {
+      "id": "506c48702914ef52",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UFUNCTION.md",
+      "styleAttributes": {},
+      "x": -14898,
+      "y": -1872,
+      "width": 372,
+      "height": 92
+    },
+    {
+      "id": "63b29260109b5145",
+      "type": "text",
+      "text": "Sprite",
+      "styleAttributes": {},
+      "x": -12640,
+      "y": -5040,
+      "width": 125,
+      "height": 50
+    },
+    {
+      "id": "0359f17c8bd9b26e",
+      "type": "text",
+      "text": "Get Player Pawn",
+      "styleAttributes": {},
+      "x": -12040,
+      "y": -4500,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "8eb44dabc2e0808a",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Skeletal Mesh.md",
+      "styleAttributes": {},
+      "x": -16036,
+      "y": 751,
+      "width": 639,
+      "height": 302
+    },
+    {
+      "id": "af57b3b202db6655",
+      "type": "text",
+      "text": "Communication\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -15695,
+      "y": 2745,
+      "width": 298,
+      "height": 90
+    },
+    {
+      "id": "3e4c2373450888b9",
+      "type": "text",
+      "text": "Meshes",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -15860,
+      "y": 1552,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f3dd2cc319d64c9b",
+      "type": "text",
+      "text": "Gameplay Ability System (GAS)",
+      "styleAttributes": {
+        "shape": null,
+        "border": null
+      },
+      "x": -16169,
+      "y": 1930,
+      "width": 300,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "2bd178f1605e0b9f",
+      "type": "file",
+      "file": "unreal/Blueprint.md",
+      "styleAttributes": {},
+      "x": -16169,
+      "y": 2316,
+      "width": 212,
+      "height": 85
+    },
+    {
+      "id": "a50b4b1479b8cd79",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Blueprint Class.md",
+      "styleAttributes": {},
+      "x": -15697,
+      "y": 2322,
+      "width": 217,
+      "height": 79
+    },
+    {
+      "id": "c65e9a3e4b861fbe",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Event Dispatcher.md",
+      "styleAttributes": {},
+      "x": -15836,
+      "y": 3363,
+      "width": 580,
+      "height": 164
+    },
+    {
+      "id": "40df5954326d6518",
+      "type": "text",
+      "text": "Binding Event",
+      "styleAttributes": {},
+      "x": -15160,
+      "y": 3250,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1afb3a0c5248c5ad",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Level Blueprint.md",
+      "styleAttributes": {},
+      "x": -16397,
+      "y": 2790,
+      "width": 440,
+      "height": 600
+    },
+    {
+      "id": "7cab3a5b2de39d1e",
+      "type": "text",
+      "text": "C++ Programming",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -17380,
+      "y": 1960,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "28e08c0cc3bdc2e4",
+      "type": "file",
+      "file": "unreal/Animation.md",
+      "styleAttributes": {},
+      "x": -17977,
+      "y": 2316,
+      "width": 267,
+      "height": 120
+    },
+    {
+      "id": "da67a6a26346d414",
+      "type": "file",
+      "file": "unreal/Unreal Engine.md",
+      "styleAttributes": {},
+      "x": -16860,
+      "y": 2296,
+      "width": 380,
+      "height": 140
+    },
+    {
+      "id": "df894cfc693a8411",
+      "type": "text",
+      "text": "Game Logic\n\n",
+      "styleAttributes": {},
+      "x": -17570,
+      "y": 2889,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "03d8e07f184599e0",
+      "type": "text",
+      "text": "Visual Effects",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -17830,
+      "y": 2685,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "90f0760c853e42ea",
+      "type": "text",
+      "text": "Physics and Collisions",
+      "styleAttributes": {},
+      "x": -17061,
+      "y": 2889,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cfb8ecdd8e6e6bcd",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Scene Component.md",
+      "styleAttributes": {},
+      "x": -17893,
+      "y": 140,
+      "width": 361,
+      "height": 127
+    },
+    {
+      "id": "0d56413ad44e202d",
+      "type": "text",
+      "text": "Component\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -17611,
+      "y": 733,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dda2e97d9263f6ce",
+      "type": "file",
+      "file": "Unreal Engine/Notes/TObjectPtr.md",
+      "styleAttributes": {},
+      "x": -17351,
+      "y": 114,
+      "width": 477,
+      "height": 180
+    },
+    {
+      "id": "21f80e0163696965",
+      "type": "text",
+      "text": "Memory Management",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -17134,
+      "y": 544,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bd58dd0979e721ba",
+      "type": "text",
+      "text": "Physics System",
+      "styleAttributes": {},
+      "x": -17321,
+      "y": 3363,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f43bd24002a8c14c",
+      "type": "text",
+      "text": "Triggers",
+      "styleAttributes": {},
+      "x": -17830,
+      "y": 3303,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3cbc4383f058ef55",
+      "type": "text",
+      "text": "Particle Systems",
+      "styleAttributes": {},
+      "x": -18314,
+      "y": 3040,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b3d09ec0a1c20be7",
+      "type": "text",
+      "text": "Trigger Box",
+      "styleAttributes": {},
+      "x": -18054,
+      "y": 3624,
+      "width": 154,
+      "height": 58
+    },
+    {
+      "id": "844627a65d195777",
+      "type": "text",
+      "text": "Collision Detection",
+      "styleAttributes": {},
+      "x": -16801,
+      "y": 3363,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "816bbf5b1c5c81da",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Collision Presets.md",
+      "styleAttributes": {},
+      "x": -16841,
+      "y": 3653,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "c18118e280c97c91",
+      "type": "text",
+      "text": "Particle Effects",
+      "styleAttributes": {},
+      "x": -18590,
+      "y": 3363,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a3e43c34692bc18a",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/SetCollisionEnabled.md",
+      "styleAttributes": {},
+      "x": -18868,
+      "y": -117,
+      "width": 675,
+      "height": 137
+    },
+    {
+      "id": "ef27376d6bd1b4a5",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/SetupAttachment.md",
+      "styleAttributes": {},
+      "x": -18860,
+      "y": -400,
+      "width": 660,
+      "height": 180
+    },
+    {
+      "id": "638c8f4652053089",
+      "type": "file",
+      "file": "screenshots/bp_how to activate particle effect.png",
+      "styleAttributes": {},
+      "x": -19320,
+      "y": 3510,
+      "width": 492,
+      "height": 172
+    },
+    {
+      "id": "c121e870bb0ccee7",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Cast To.md",
+      "styleAttributes": {},
+      "x": -12035,
+      "y": -4640,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "660550654872d0a2",
+      "type": "text",
+      "text": "Construction Script\n**Called before game start**",
+      "styleAttributes": {},
+      "x": -12040,
+      "y": -4760,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "3b70786a00902ab8",
+      "type": "text",
+      "text": "Spring Arm",
+      "styleAttributes": {},
+      "x": -12640,
+      "y": -4821,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6b465a279413c367",
+      "type": "text",
+      "text": "Camera",
+      "styleAttributes": {},
+      "x": -12640,
+      "y": -4691,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "13affd346e9312c0",
+      "type": "text",
+      "text": "Materials",
+      "styleAttributes": {},
+      "x": -11989,
+      "y": -4935,
+      "width": 159,
+      "height": 50
+    },
+    {
+      "id": "cd8b87c530afef59",
+      "type": "text",
+      "text": "Material Graph",
+      "styleAttributes": {},
+      "x": -11699,
+      "y": -4940,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "ca2a9970b84df689",
+      "type": "text",
+      "text": "Event Graph",
+      "styleAttributes": {},
+      "x": -11699,
+      "y": -4700,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "10a80cdb0bd2815f",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/PrimaryActorTick.md",
+      "styleAttributes": {},
+      "x": -19224,
+      "y": 327,
+      "width": 444,
+      "height": 290
+    },
+    {
+      "id": "2e7b658dc21af15f",
+      "type": "text",
+      "text": "Tick System",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -18344,
+      "y": 793,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4d2d10953a773549",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Actor Component.md",
+      "styleAttributes": {},
+      "x": -19640,
+      "y": 980,
+      "width": 370,
+      "height": 136
+    },
+    {
+      "id": "20d075ce8a3eb9fc",
+      "type": "text",
+      "text": "Launch Character",
+      "styleAttributes": {},
+      "x": -11699,
+      "y": -4500,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6e3bf2b30faf83ed",
+      "type": "text",
+      "text": "\nEnable Input",
+      "styleAttributes": {},
+      "x": -11654,
+      "y": -4580,
+      "width": 160,
+      "height": 53
+    },
+    {
+      "id": "b1ce3d904f78ee37",
+      "type": "text",
+      "text": "Move\n",
+      "styleAttributes": {},
+      "x": -11237,
+      "y": -2362,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "2a6df66004297d23",
+      "type": "text",
+      "text": "ALight\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7840,
+      "y": -1865,
+      "width": 280,
+      "height": 91
+    },
+    {
+      "id": "fc789ba7f7aaff8c",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Object.md",
+      "styleAttributes": {},
+      "x": -7440,
+      "y": -2502,
+      "width": 220,
+      "height": 112,
+      "color": "#1182b4"
+    },
+    {
+      "id": "8e82b74d554cb05c",
+      "type": "file",
+      "file": "Unreal Engine/Notes/MovementComponent.md",
+      "styleAttributes": {},
+      "x": -7263,
+      "y": -2040,
+      "width": 420,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "c398ac3be967b0c9",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/AddOnScreenDebugMessage.md",
+      "styleAttributes": {},
+      "x": -7045,
+      "y": -3095,
+      "width": 811,
+      "height": 142
+    },
+    {
+      "id": "2b15fcb8dc1c1e94",
+      "type": "text",
+      "text": "APointLight",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -7840,
+      "y": -2296,
+      "width": 280,
+      "height": 91
+    },
+    {
+      "id": "bb9e74a4b9bfa3f7",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Static Mesh Assets.md",
+      "styleAttributes": {},
+      "x": -6840,
+      "y": -1120,
+      "width": 324,
+      "height": 59
+    },
+    {
+      "id": "1d6222b9aa8996dd",
+      "type": "file",
+      "file": "Unreal Engine/Notes/UCLASS.md",
+      "styleAttributes": {},
+      "x": -20160,
+      "y": 1786,
+      "width": 590,
+      "height": 210
+    },
+    {
+      "id": "92e67d3fbb9b85f8",
+      "type": "file",
+      "file": "Unreal Engine/Notes/USTRUCT.md",
+      "styleAttributes": {},
+      "x": -19030,
+      "y": 1799,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba0004117b5a9f09",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UFUNCTION.md",
+      "styleAttributes": {},
+      "x": -19500,
+      "y": 1799,
+      "width": 378,
+      "height": 184
+    },
+    {
+      "id": "d32f5775b5d72fdd",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UPROPERTY.md",
+      "styleAttributes": {},
+      "x": -20160,
+      "y": 2094,
+      "width": 1000,
+      "height": 595
+    },
+    {
+      "id": "1b23b89a76f16d94",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Actor.md",
+      "styleAttributes": {},
+      "x": -20086,
+      "y": 1264,
+      "width": 816,
+      "height": 200
+    },
+    {
+      "id": "2267e44cd3da01de",
+      "type": "file",
+      "file": "Unreal Engine/Notes/Object.md",
+      "styleAttributes": {},
+      "x": -19002,
+      "y": 1400,
+      "width": 264,
+      "height": 127
+    },
+    {
+      "id": "99b02812874b1de7",
+      "type": "text",
+      "text": "Sockets",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -15160,
+      "y": 1360,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "890aff9beabc3f40",
+      "fromNode": "d3e8fe246e4024a2",
+      "fromSide": "bottom",
+      "toNode": "54966854fea06382",
+      "toSide": "top"
+    },
+    {
+      "id": "6232a5d007de0228",
+      "fromNode": "54966854fea06382",
+      "fromSide": "right",
+      "toNode": "7fa89c3bb5d77ae5",
+      "toSide": "left"
+    },
+    {
+      "id": "63359e22b1690d9c",
+      "fromNode": "54966854fea06382",
+      "fromSide": "right",
+      "toNode": "a1bfdf2f5bb39079",
+      "toSide": "left"
+    },
+    {
+      "id": "d4a30a9f0016ef02",
+      "fromNode": "54966854fea06382",
+      "fromSide": "right",
+      "toNode": "1dc25fc32ee131af",
+      "toSide": "left"
+    },
+    {
+      "id": "2b897238612f7161",
+      "fromNode": "6d236684fdc2120f",
+      "fromSide": "right",
+      "toNode": "06553ae6dec9e7e6",
+      "toSide": "left"
+    },
+    {
+      "id": "3d08da11e50be8bc",
+      "fromNode": "fa7b24f91d7f31b9",
+      "fromSide": "right",
+      "toNode": "5ade961e89ccf1ee",
+      "toSide": "left"
+    },
+    {
+      "id": "895a7780f3a3c493",
+      "fromNode": "5ade961e89ccf1ee",
+      "fromSide": "right",
+      "toNode": "46039a5930e550d9",
+      "toSide": "left"
+    },
+    {
+      "id": "ad2f3e8e93b34a7e",
+      "fromNode": "fa7b24f91d7f31b9",
+      "fromSide": "right",
+      "toNode": "da8e968b8f1e3b6d",
+      "toSide": "left"
+    },
+    {
+      "id": "d1ee7cada0343dc3",
+      "fromNode": "da8e968b8f1e3b6d",
+      "fromSide": "right",
+      "toNode": "b1ce3d904f78ee37",
+      "toSide": "left"
+    },
+    {
+      "id": "1b2d741e9e7d506d",
+      "fromNode": "e67c526d47896c60",
+      "fromSide": "right",
+      "toNode": "d590f7d6a4eb0c52",
+      "toSide": "left"
+    },
+    {
+      "id": "7f7a0e6ad2ffdf08",
+      "fromNode": "d590f7d6a4eb0c52",
+      "fromSide": "right",
+      "toNode": "3395f9fd6debc22c",
+      "toSide": "left",
+      "label": "create"
+    },
+    {
+      "id": "78bb3980acc9c1b7",
+      "fromNode": "3395f9fd6debc22c",
+      "fromSide": "right",
+      "toNode": "63b29260109b5145",
+      "toSide": "left"
+    },
+    {
+      "id": "a3e982a2493f4aab",
+      "fromNode": "3395f9fd6debc22c",
+      "fromSide": "right",
+      "toNode": "3b70786a00902ab8",
+      "toSide": "left"
+    },
+    {
+      "id": "4efe7b462beaf117",
+      "fromNode": "3b70786a00902ab8",
+      "fromSide": "bottom",
+      "toNode": "6b465a279413c367",
+      "toSide": "top"
+    },
+    {
+      "id": "53ba340be4cb6de7",
+      "fromNode": "d184c85c43c853e6",
+      "fromSide": "right",
+      "toNode": "69520f04a2696d26",
+      "toSide": "left"
+    },
+    {
+      "id": "ef731fd4985af634",
+      "fromNode": "d590f7d6a4eb0c52",
+      "fromSide": "right",
+      "toNode": "7bb74b9fab0656c7",
+      "toSide": "left",
+      "label": "create\n\n"
+    },
+    {
+      "id": "3619a7319dbac549",
+      "fromNode": "69520f04a2696d26",
+      "fromSide": "bottom",
+      "toNode": "597915e20bec6140",
+      "toSide": "top",
+      "label": "set"
+    },
+    {
+      "id": "f4029c048540ad64",
+      "fromNode": "69520f04a2696d26",
+      "fromSide": "top",
+      "toNode": "7bb74b9fab0656c7",
+      "toSide": "bottom",
+      "label": "set"
+    },
+    {
+      "id": "fcc20653da7614c6",
+      "fromNode": "597915e20bec6140",
+      "fromSide": "right",
+      "toNode": "3395f9fd6debc22c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fed6b3773998a3d4",
+      "fromNode": "8e9b539436be679f",
+      "fromSide": "right",
+      "toNode": "e67c526d47896c60",
+      "toSide": "left"
+    },
+    {
+      "id": "b43e934144ed987f",
+      "fromNode": "13affd346e9312c0",
+      "fromSide": "right",
+      "toNode": "cd8b87c530afef59",
+      "toSide": "left"
+    },
+    {
+      "id": "07190b53be22c15c",
+      "fromNode": "f3012667658d99ea",
+      "fromSide": "right",
+      "toNode": "574bd5e039af314c",
+      "toSide": "left",
+      "label": "single animation"
+    },
+    {
+      "id": "2d517641f2f0349e",
+      "fromNode": "f3012667658d99ea",
+      "fromSide": "right",
+      "toNode": "ca7e6066b78de127",
+      "toSide": "left"
+    },
+    {
+      "id": "64d8c5f4432bd28a",
+      "styleAttributes": {},
+      "fromNode": "d81dc08722b7671d",
+      "fromSide": "bottom",
+      "toNode": "4df4bc4d7e32921e",
+      "toSide": "top"
+    },
+    {
+      "id": "c4f990f96f1f7e12",
+      "styleAttributes": {},
+      "fromNode": "4df4bc4d7e32921e",
+      "fromSide": "left",
+      "toNode": "388d4333294ce4bc",
+      "toSide": "right"
+    },
+    {
+      "id": "2ce26d0ae41451e5",
+      "styleAttributes": {},
+      "fromNode": "fc789ba7f7aaff8c",
+      "fromSide": "right",
+      "toNode": "d81dc08722b7671d",
+      "toSide": "left"
+    },
+    {
+      "id": "b0e8c4b1de63dd4f",
+      "styleAttributes": {},
+      "fromNode": "fc789ba7f7aaff8c",
+      "fromSide": "top",
+      "toNode": "6c700fcc69e6bddb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7f21e80cf04a01e7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "388d4333294ce4bc",
+      "fromSide": "left",
+      "toNode": "bb9e74a4b9bfa3f7",
+      "toSide": "top"
+    },
+    {
+      "id": "64c0e1837fbd5e64",
+      "styleAttributes": {},
+      "fromNode": "6d236684fdc2120f",
+      "fromSide": "bottom",
+      "toNode": "d3e8fe246e4024a2",
+      "toSide": "top"
+    },
+    {
+      "id": "9ca0daa71a597f17",
+      "styleAttributes": {},
+      "fromNode": "2a6df66004297d23",
+      "fromSide": "top",
+      "toNode": "2b15fcb8dc1c1e94",
+      "toSide": "bottom"
+    },
+    {
+      "id": "190525006d971655",
+      "styleAttributes": {},
+      "fromNode": "d81dc08722b7671d",
+      "fromSide": "top",
+      "toNode": "a6d38f74a02d259e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "62e92e1981f36150",
+      "styleAttributes": {},
+      "fromNode": "a6d38f74a02d259e",
+      "fromSide": "right",
+      "toNode": "3ed8b04bf1c7b96b",
+      "toSide": "left"
+    },
+    {
+      "id": "e91bdebc7bbcd087",
+      "styleAttributes": {},
+      "fromNode": "a6d38f74a02d259e",
+      "fromSide": "right",
+      "toNode": "24fe44ef7cfc2507",
+      "toSide": "left"
+    },
+    {
+      "id": "8fc3a3fce5b05e4e",
+      "styleAttributes": {},
+      "fromNode": "a6d38f74a02d259e",
+      "fromSide": "right",
+      "toNode": "9708951d2324b7a3",
+      "toSide": "left"
+    },
+    {
+      "id": "2e5d5b479c4c9701",
+      "styleAttributes": {},
+      "fromNode": "a6d38f74a02d259e",
+      "fromSide": "right",
+      "toNode": "c474bbe04387a129",
+      "toSide": "left"
+    },
+    {
+      "id": "9728c260d3b8ea42",
+      "styleAttributes": {},
+      "fromNode": "2bd178f1605e0b9f",
+      "fromSide": "right",
+      "toNode": "a50b4b1479b8cd79",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "08a3dbf7223a6e39",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "right",
+      "toNode": "2bd178f1605e0b9f",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "871834289beb8fd3",
+      "styleAttributes": {},
+      "fromNode": "a50b4b1479b8cd79",
+      "fromSide": "bottom",
+      "toNode": "af57b3b202db6655",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "50a8fa1415fa9780",
+      "styleAttributes": {},
+      "fromNode": "2bd178f1605e0b9f",
+      "fromSide": "bottom",
+      "toNode": "1afb3a0c5248c5ad",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "db4913f3c7fce0b8",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "bottom",
+      "toNode": "df894cfc693a8411",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "307a1bdbbc3713c2",
+      "styleAttributes": {},
+      "fromNode": "df894cfc693a8411",
+      "fromSide": "bottom",
+      "toNode": "f43bd24002a8c14c",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "24a16aed7a34aab2",
+      "styleAttributes": {},
+      "fromNode": "f43bd24002a8c14c",
+      "fromSide": "bottom",
+      "toNode": "b3d09ec0a1c20be7",
+      "toSide": "top"
+    },
+    {
+      "id": "3982572da296d8fa",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "bottom",
+      "toNode": "03d8e07f184599e0",
+      "toSide": "top"
+    },
+    {
+      "id": "d033af33a3be3417",
+      "styleAttributes": {},
+      "fromNode": "03d8e07f184599e0",
+      "fromSide": "bottom",
+      "toNode": "3cbc4383f058ef55",
+      "toSide": "top"
+    },
+    {
+      "id": "e410a213686bb661",
+      "styleAttributes": {},
+      "fromNode": "3cbc4383f058ef55",
+      "fromSide": "bottom",
+      "toNode": "c18118e280c97c91",
+      "toSide": "top"
+    },
+    {
+      "id": "b204904fd507b567",
+      "styleAttributes": {},
+      "fromNode": "c18118e280c97c91",
+      "fromSide": "left",
+      "toNode": "638c8f4652053089",
+      "toSide": "right"
+    },
+    {
+      "id": "535eb3a15466454b",
+      "styleAttributes": {},
+      "fromNode": "af57b3b202db6655",
+      "fromSide": "bottom",
+      "toNode": "c65e9a3e4b861fbe",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "a75208f7b63abb20",
+      "styleAttributes": {},
+      "fromNode": "af57b3b202db6655",
+      "fromSide": "bottom",
+      "toNode": "1afb3a0c5248c5ad",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "cc5ab972e6431ac8",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "bottom",
+      "toNode": "90f0760c853e42ea",
+      "toSide": "top"
+    },
+    {
+      "id": "999956656ef95471",
+      "styleAttributes": {},
+      "fromNode": "90f0760c853e42ea",
+      "fromSide": "bottom",
+      "toNode": "bd58dd0979e721ba",
+      "toSide": "top"
+    },
+    {
+      "id": "98625616e6f984c4",
+      "styleAttributes": {},
+      "fromNode": "90f0760c853e42ea",
+      "fromSide": "bottom",
+      "toNode": "844627a65d195777",
+      "toSide": "top"
+    },
+    {
+      "id": "b9d93e38e7f7ea3f",
+      "styleAttributes": {},
+      "fromNode": "844627a65d195777",
+      "fromSide": "bottom",
+      "toNode": "816bbf5b1c5c81da",
+      "toSide": "top"
+    },
+    {
+      "id": "1980b5d2c6d0bb02",
+      "styleAttributes": {},
+      "fromNode": "af57b3b202db6655",
+      "fromSide": "bottom",
+      "toNode": "40df5954326d6518",
+      "toSide": "top"
+    },
+    {
+      "id": "40b8545dc51cfef6",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "left",
+      "toNode": "28e08c0cc3bdc2e4",
+      "toSide": "right"
+    },
+    {
+      "id": "b58477d7d73e17b5",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "top",
+      "toNode": "f3dd2cc319d64c9b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b0a142a4f9a5c1c0",
+      "styleAttributes": {},
+      "fromNode": "7cab3a5b2de39d1e",
+      "fromSide": "bottom",
+      "toNode": "da67a6a26346d414",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "82d25054e050138f",
+      "styleAttributes": {},
+      "fromNode": "7cab3a5b2de39d1e",
+      "fromSide": "top",
+      "toNode": "21f80e0163696965",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "ca417264f2f4d245",
+      "styleAttributes": {},
+      "fromNode": "21f80e0163696965",
+      "fromSide": "top",
+      "toNode": "dda2e97d9263f6ce",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3dedaad0b8b6cb54",
+      "styleAttributes": {},
+      "fromNode": "2e7b658dc21af15f",
+      "fromSide": "bottom",
+      "toNode": "7cab3a5b2de39d1e",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "3e3315d32bb5d764",
+      "styleAttributes": {},
+      "fromNode": "2e7b658dc21af15f",
+      "fromSide": "top",
+      "toNode": "10a80cdb0bd2815f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b173733607376227",
+      "styleAttributes": {},
+      "fromNode": "da67a6a26346d414",
+      "fromSide": "top",
+      "toNode": "3e4c2373450888b9",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "89eb755b12075f27",
+      "styleAttributes": {},
+      "fromNode": "3e4c2373450888b9",
+      "fromSide": "right",
+      "toNode": "99b02812874b1de7",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "6989d3488d4c47c4",
+      "styleAttributes": {},
+      "fromNode": "7cab3a5b2de39d1e",
+      "fromSide": "top",
+      "toNode": "0d56413ad44e202d",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "5b732ae270c9ee2a",
+      "styleAttributes": {},
+      "fromNode": "0d56413ad44e202d",
+      "fromSide": "left",
+      "toNode": "cfb8ecdd8e6e6bcd",
+      "toSide": "bottom"
+    },
+    {
+      "id": "48145f5129412a9e",
+      "styleAttributes": {},
+      "fromNode": "cfb8ecdd8e6e6bcd",
+      "fromSide": "left",
+      "toNode": "ef27376d6bd1b4a5",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "9b4f11e56e8b2adb",
+      "styleAttributes": {},
+      "fromNode": "cfb8ecdd8e6e6bcd",
+      "fromSide": "left",
+      "toNode": "a3e43c34692bc18a",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "7b602df1e397ad4e",
+      "styleAttributes": {},
+      "fromNode": "3e4c2373450888b9",
+      "fromSide": "top",
+      "toNode": "8eb44dabc2e0808a",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "4e7649a49eec8e53",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "99b02812874b1de7",
+      "fromSide": "top",
+      "toNode": "8eb44dabc2e0808a",
+      "toSide": "right",
+      "label": "add socket to bone"
+    },
+    {
+      "id": "93868fd34dc46692",
+      "styleAttributes": {},
+      "fromNode": "7cab3a5b2de39d1e",
+      "fromSide": "left",
+      "toNode": "648fcb60ec344c6d",
+      "toSide": "right",
+      "toEnd": "none"
+    },
+    {
+      "id": "54b4f2df6240833c",
+      "styleAttributes": {},
+      "fromNode": "2267e44cd3da01de",
+      "fromSide": "right",
+      "toNode": "7cab3a5b2de39d1e",
+      "toSide": "left"
+    },
+    {
+      "id": "20d0e1a8fdff14ac",
+      "styleAttributes": {},
+      "fromNode": "2267e44cd3da01de",
+      "fromSide": "bottom",
+      "toNode": "1d6222b9aa8996dd",
+      "toSide": "top"
+    },
+    {
+      "id": "fdbfc540e7a15e6c",
+      "styleAttributes": {},
+      "fromNode": "1b23b89a76f16d94",
+      "fromSide": "right",
+      "toNode": "2267e44cd3da01de",
+      "toSide": "left",
+      "label": "extend"
+    },
+    {
+      "id": "34b1f6871e2767b1",
+      "styleAttributes": {},
+      "fromNode": "4d2d10953a773549",
+      "fromSide": "right",
+      "toNode": "2267e44cd3da01de",
+      "toSide": "left",
+      "label": "extend"
+    }
+  ],
+  "metadata": {
+    "properties": {
+      "cssclasses": [
+        ""
+      ]
+    }
+  }
+}

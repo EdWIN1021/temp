@@ -14,11 +14,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Unreal.canvas",
+                "file": "unreal/Unreal.canvas",
                 "viewState": {
-                  "x": -11905.418379738005,
-                  "y": -4648.850428815802,
-                  "zoom": -0.7503130099715254
+                  "x": -17513.802725078214,
+                  "y": 807.984679532766,
+                  "zoom": -1.3737806840145956
                 }
               },
               "pinned": true
@@ -31,66 +31,54 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "C++.canvas",
+                "file": "C++/C++.canvas",
                 "viewState": {
-                  "x": 3437.1526888151243,
-                  "y": 2102.1444185310647,
-                  "zoom": -1.5941679511467093
+                  "x": 5000.661037834519,
+                  "y": 527.7141879178639,
+                  "zoom": -1.728665675739486
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "ad9765d9c996b2d6",
+            "id": "64a14f9871a1e85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Data Types/Compound Types/Pointer/pointer.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d2d8eae31302c794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/STL/Iterators/iterator.md",
+                "file": "Unreal Engine/Notes/Cast To.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "cb820d536fe6d285",
+            "id": "05b58b916f7584df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Iterators/dereference and member access.md",
+                "file": "Unreal Engine/Notes/Scene Component.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "706e996f15ae9d67",
+            "id": "6a7b284a98d233d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Type Aliases.md",
+                "file": "unreal/How to play montage.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typedef",
+                "query": "Scene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,12 +124,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5026054382324
+    "width": 403.5026054382324
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Type Aliases.md",
+                "file": "unreal/How to play montage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Type Aliases.md",
+                "file": "unreal/How to play montage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Type Aliases.md"
+                "file": "unreal/How to play montage.md"
               }
             }
           }
@@ -218,58 +205,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706e996f15ae9d67",
+  "active": "6a7b284a98d233d8",
   "lastOpenFiles": [
-    "C++/Data Types/Compound Types/Pointer/pointer.md",
-    "C++/Loop/Range-Base for.md",
-    "C++/Loop/for.md",
-    "C++/Data Types/Compound Types/Array/multidimensional array.md",
-    "C++/Data Types/Compound Types/C-Style String/strcat.md",
-    "C++/Data Types/Compound Types/C-Style String/strcmp.md",
-    "C++/Data Types/Compound Types/C-Style String/C-Style String.md",
-    "C++/Data Types/Compound Types/Array/array.md",
-    "C++/STL/Iterators/dereference and member access.md",
-    "MovementComponent.md",
-    "C++/Operator/->.md",
-    "C++/STL/Iterators/iterator.md",
-    "Untitled",
-    "C++/Untitled.md",
-    "C++/STL/Iterators/end.md",
-    "C++/STL/Iterators/begin.md",
-    "C++/STL/Iterators/const _iterator.md",
-    "C++.canvas",
-    "Iterator.md",
-    "iterator.md",
-    "C++/Loop",
-    "C++/Loop.md",
-    "C++/Operator/++.md",
-    "C++/forward declaration.md",
-    "C++/Type Aliases.md",
-    "C++/Data Types/Fundamental Types/long.md",
-    "C++/CMake.md",
-    "Unreal.canvas",
-    "C++/Operator/new.md",
-    "C++/Operator/dynamic_cast.md",
-    "Untitled.canvas",
+    "Unreal Engine/Canvas/HowTo/How to attach a item to a socket/How to attach a item to a socket.canvas",
+    "Unreal Engine/Canvas/HowTo/How to attach a item to a socket/How to attach a item to a socket.png",
+    "unreal/How to attach a item to a socket.md",
+    "Unreal Engine/Canvas/HowTo/How to attach a item to a socket",
+    "unreal/How to activate particle effect.md",
+    "Unreal Engine/Canvas/HowTo/Untitled.md",
+    "Unreal Engine/Canvas/Blueprint Class.canvas",
+    "unreal/Unreal.canvas",
+    "C++/Functions/Function Templates.md",
+    "C++/Function Template.md",
+    "screenshots/Screenshot 2024-07-26 at 1.48.44 PM.png",
+    "unreal/How to trace and get hit result.md",
+    "unreal/How to play montage.md",
+    "unreal/How to play a montage.md",
+    "unreal/How to make Character Turn.md",
+    "unreal/How to make Character MoveRight.md",
+    "unreal/How to make Character MoveForward.md",
+    "unreal/How to make Character LookUp.md",
+    "unreal/How to make Character Jump.md",
+    "unreal/How to make Character Jump 1.md",
+    "unreal/How to make a montage notify.md",
+    "unreal/How to get Ground Speed.md",
+    "unreal/How to get Character Movement.md",
+    "unreal/How to get Character Movement 1.md",
+    "unreal/How to get Character GroundSpeed.md",
+    "unreal/How to create Enum.md",
+    "unreal/How to create a USkeletalMeshComponent.md",
+    "unreal/How to create a SpringArm.md",
+    "unreal/How to create a Socket.md",
+    "unreal/How to create a Pure Function.md",
+    "unreal/How to create a Camera.md",
+    "Unreal Engine/Canvas/Mesh.canvas",
+    "Unreal Engine/Canvas/HowTo",
+    "Unreal Engine/Notes/C++",
+    "C++/C++.canvas",
     "Unity.canvas",
+    "Unreal Engine/How",
+    "Unreal Engine/Canvas",
+    "Unreal Engine/Untitled.canvas",
+    "Unreal Engine/Notes",
+    "Unreal Engine/Notes/C++",
+    "Unreal Engine/Notes/Blueprint",
+    "Unreal Engine",
+    "Untitled 1.canvas",
+    "Test.canvas",
+    "screenshots/bp_how to activate particle effect.png",
+    "Screenshot 2024-09-03 at 8.04.54 PM.png",
+    "screenshots/bp_open_level_blueprint.png",
+    "Screenshot 2024-09-03 at 8.00.47 PM.png",
+    "Blueprint_Assets/bp_acticate_particle_effect.png",
+    "Blueprint_Assets/BP_Activate.png",
+    "Blueprint_Assets",
+    "Screenshot 2024-09-03 at 7.20.18 PM.png",
     "Pasted image 20240902124413.png",
-    "C++/Friend",
-    "C++/Data Types/Initialization",
-    "unreal/IK (Inverse Kinematics).canvas",
-    "Screenshot 2024-09-01 at 8.29.33 PM.png",
-    "Pasted image 20240831114746.png",
-    "unreal/Object/methods",
-    "unreal/Object/UEngine",
-    "unreal/Reflection Macros",
-    "unreal/Object",
-    "unreal/Object/Actor Component/Scene Component",
-    "unreal/Object/Actor Component",
-    "screenshots/Screenshot 2024-08-15 at 9.28.08 AM.png",
-    "screenshots/Screenshot 2024-08-09 at 11.04.37 AM.png",
-    "screenshots/Screenshot 2024-08-15 at 4.48.48 PM.png",
-    "screenshots/Screenshot 2024-08-06 at 12.28.50 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 7.38.57 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 3.10.44 PM.png",
-    "screenshots/Screenshot 2024-08-04 at 3.10.20 PM.png"
+    "unreal/IK (Inverse Kinematics).canvas"
   ]
 }

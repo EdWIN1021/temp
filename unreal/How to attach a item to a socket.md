@@ -1,0 +1,1 @@
+![[How to attach a item to a socket.png]]
