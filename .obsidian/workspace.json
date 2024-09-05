@@ -10,58 +10,19 @@
           {
             "id": "bd0b0fade35dea00",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "209112a3f20e4b59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal Engine/Notes/C++/SetupAttachment.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5a98430ad3447a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal Engine/Notes/C++/GetRootComponent.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "548bc6f62f408c2f",
-            "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+                "file": "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
                 "viewState": {
-                  "x": 912.1023910002997,
-                  "y": -228.34932538416882,
-                  "zoom": -1.0692992455234094
+                  "x": 901.26619971634,
+                  "y": 21.227239201799165,
+                  "zoom": -0.45118325028941875
                 }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how to make ca",
+                "query": "bUseControllerRotationRoll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5026054382324,
-    "collapsed": true
+    "width": 314.5026054382324
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -128,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+                "file": "Unreal Engine/Notes/C++/BindAxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+                "file": "Unreal Engine/Notes/C++/BindAxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas"
+                "file": "Unreal Engine/Notes/C++/BindAxis.md"
               }
             }
           }
@@ -189,12 +149,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "548bc6f62f408c2f",
+  "active": "bd0b0fade35dea00",
   "lastOpenFiles": [
+    "Unreal Engine/Notes/C++/BindAxis.md",
     "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
-    "Unreal Engine/Notes/C++/SetupAttachment.md",
-    "Unreal Engine/Notes/C++/GetRootComponent.md",
+    "Unreal Engine/Notes/C++/TargetArmLength.md",
+    "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
+    "Unreal Engine/Canvas/How/How to make Character LookUp/screenshot_01.png",
+    "Unreal Engine/Notes/C++/BindAction.md",
+    "Unreal Engine/Notes/C++/GetCharacterMovement.md",
+    "Unreal Engine/Notes/C++/bOrientRotationToMovement.md",
+    "Unreal Engine/Notes/C++/bUseControllerRotationPitch.md",
+    "Unreal Engine/Notes/C++/bUseControllerRotationRoll.md",
+    "Unreal Engine/Notes/C++/bUseControllerRotationYaw.md",
+    "Unreal Engine/Notes/C++/UseControllerRotation.md",
     "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+    "Unreal Engine/Notes/C++/SetupAttachment.md",
+    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
+    "UCameraComponent.md",
+    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.md",
+    "unreal/How to get Character Movement 1.md",
+    "unreal/How to get Character GroundSpeed.md",
+    "unreal/How to create Enum.md",
+    "Unreal Engine/Notes/C++/GetRootComponent.md",
     "Unreal Engine/Notes/C++/Untitled 3.md",
     "Unreal Engine/Notes/C++/Untitled 2.md",
     "Unreal Engine/Notes/C++/Untitled 1.md",
@@ -203,36 +180,19 @@
     "Unreal Engine/Notes/C++/USkeletalMeshComponent.md",
     "Unreal Engine/Notes/C++/USpringArmComponent.md",
     "Unreal Engine/Canvas/How/How to make Character Jump/How to make Character Jump.canvas",
-    "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
     "Unreal Engine/Notes/C++/UCameraComponnet.md",
-    "unreal/How to create a Camera.md",
-    "unreal/How to attach a item to a socket.md",
-    "unreal/How to activate particle effect.md",
-    "Unreal Engine/Notes/Actor.md",
-    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
-    "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.md",
     "Unreal Engine/Canvas/How/How to create a SpringArm",
     "Unreal Engine/Canvas/How/How to create a Camera",
-    "unreal/How to create a CapsuleComponent.md",
     "Unreal Engine/Canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
     "Unreal Engine/Canvas/How/How to attach a item to a socket/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
     "Unreal Engine/Canvas/How/How to create a Material/How to create a Material.canvas",
-    "Unreal Engine/Notes/C++/BindAction.md",
     "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to create a Material/screenshot_02.png",
     "Unreal Engine/Canvas/How/How to create a Material/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_02.png",
-    "Unreal Engine/Canvas/How/How to make Character LookUp/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to make Character LookUp.md",
-    "Unreal Engine/Notes/C++/AddControllerPitchInput.md",
     "Unreal Engine/Canvas/How/How to make Character LookUp",
-    "unreal/How to make a montage notify.md",
-    "unreal/How to make Character MoveForward.md",
-    "unreal/How to make Character MoveRight.md",
-    "unreal/How to make Character Turn.md",
-    "unreal/How to play a montage.md",
     "Unreal Engine/Canvas/What/Mesh.canvas",
     "screenshots/Screenshot 2024-08-01 at 10.17.26 AM 1.png",
     "screenshots/Screenshot 2024-08-01 at 10.17.26 AM.png",
