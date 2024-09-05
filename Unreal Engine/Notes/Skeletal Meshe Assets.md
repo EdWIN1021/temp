@@ -1,2 +1,1 @@
-Skeletal Meshe Assets
 

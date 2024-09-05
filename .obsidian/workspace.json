@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
+                "file": "C++/Statements/Statements.canvas",
                 "viewState": {
-                  "x": 901.26619971634,
-                  "y": 21.227239201799165,
-                  "zoom": -0.45118325028941875
+                  "x": -938.0061462606516,
+                  "y": 382.39245183835465,
+                  "zoom": -1.47887796827424
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Notes/C++/BindAxis.md",
+                "file": "C++/Statements/Statements.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Notes/C++/BindAxis.md",
+                "file": "C++/Statements/Statements.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Notes/C++/BindAxis.md"
+                "file": "C++/Statements/Statements.canvas"
               }
             }
           }
@@ -151,36 +151,42 @@
   },
   "active": "bd0b0fade35dea00",
   "lastOpenFiles": [
-    "Unreal Engine/Notes/C++/BindAxis.md",
-    "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
-    "Unreal Engine/Notes/C++/TargetArmLength.md",
+    "C++/break.md",
+    "C++/Statements/Statements.canvas",
+    "C++/Exception Handling/throw.md",
+    "C++/Exception Handling/Exception Handling.canvas",
+    "C++/Exception Handling/try-catch-finally.md",
+    "try-catch.md",
+    "C++/continue.md",
+    "C++/goto.md",
+    "Exception Handling/Exception Handling.md",
+    "C++/Exception Handling",
+    "C++/switch.md",
+    "C++/if.md",
+    "C++/Loop/do while.md",
+    "C++/Loop/while.md",
+    "C++/Statements",
+    "Unreal Engine/Notes/VectorParameter.md",
+    "Unreal Engine/Notes/USTRUCT.md",
+    "Unreal Engine/Notes/UEngine.md",
+    "Unreal Engine/Notes/UCLASS.md",
+    "Unreal Engine/Notes/TObjectPtr.md",
+    "Unreal Engine/Notes/Static Mesh Assets.md",
+    "Unreal Engine/Notes/Static Mesh.md",
+    "Unreal Engine/Notes/Skeletal Meshe Assets.md",
+    "Unreal Engine/Notes/Skeletal Mesh.md",
+    "Unreal Engine/Notes/Scene Component.md",
+    "Unreal Engine/Notes/ScalarParameter.md",
+    "Unreal Engine/Notes/Pure function.md",
+    "Unreal Engine/Notes/PlayerController.md",
+    "Unreal Engine/Notes/Pawn.md",
+    "screenshots/bp_how to activate particle effect.png",
+    "unreal/Unreal.canvas",
     "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
     "Unreal Engine/Canvas/How/How to make Character LookUp/screenshot_01.png",
-    "Unreal Engine/Notes/C++/BindAction.md",
-    "Unreal Engine/Notes/C++/GetCharacterMovement.md",
-    "Unreal Engine/Notes/C++/bOrientRotationToMovement.md",
-    "Unreal Engine/Notes/C++/bUseControllerRotationPitch.md",
-    "Unreal Engine/Notes/C++/bUseControllerRotationRoll.md",
-    "Unreal Engine/Notes/C++/bUseControllerRotationYaw.md",
-    "Unreal Engine/Notes/C++/UseControllerRotation.md",
     "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
-    "Unreal Engine/Notes/C++/SetupAttachment.md",
     "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
-    "UCameraComponent.md",
-    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.md",
-    "unreal/How to get Character Movement 1.md",
-    "unreal/How to get Character GroundSpeed.md",
-    "unreal/How to create Enum.md",
-    "Unreal Engine/Notes/C++/GetRootComponent.md",
-    "Unreal Engine/Notes/C++/Untitled 3.md",
-    "Unreal Engine/Notes/C++/Untitled 2.md",
-    "Unreal Engine/Notes/C++/Untitled 1.md",
-    "Unreal Engine/Notes/C++/UCapsuleComponent.md",
-    "Unreal Engine/Notes/C++/SetCollisionEnabled.md",
-    "Unreal Engine/Notes/C++/USkeletalMeshComponent.md",
-    "Unreal Engine/Notes/C++/USpringArmComponent.md",
     "Unreal Engine/Canvas/How/How to make Character Jump/How to make Character Jump.canvas",
-    "Unreal Engine/Notes/C++/UCameraComponnet.md",
     "Unreal Engine/Canvas/How/How to create a SpringArm",
     "Unreal Engine/Canvas/How/How to create a Camera",
     "Unreal Engine/Canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
@@ -193,18 +199,12 @@
     "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_02.png",
     "Unreal Engine/Canvas/How/How to make Character LookUp",
-    "Unreal Engine/Canvas/What/Mesh.canvas",
     "screenshots/Screenshot 2024-08-01 at 10.17.26 AM 1.png",
     "screenshots/Screenshot 2024-08-01 at 10.17.26 AM.png",
-    "screenshots/Screenshot 2024-08-01 at 10.16.45 AM.png",
     "Unreal Engine/Canvas/How/How to make Character Jump",
     "Unreal Engine/Canvas/How/How to change the material color when an object is hit",
     "Unreal Engine/Canvas/How/How to create a Material",
-    "C++/C++.canvas",
-    "unreal/Unreal.canvas",
     "Unreal Engine/Canvas/What",
-    "Unreal Engine/Canvas/How/How to attach a item to a socket",
-    "Unreal Engine/Canvas/How",
-    "Unreal Engine/Notes/C++"
+    "Unreal Engine/Canvas/How/How to attach a item to a socket"
   ]
 }

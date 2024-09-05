@@ -1,1 +1,1 @@
-![[bp_acticate_particle_effect.png]]
+![[bp_how to activate particle effect.png]]
