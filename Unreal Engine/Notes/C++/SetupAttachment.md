@@ -1,5 +1,3 @@
-## Attach a socket to a mesh
-
 ```cpp
-Weapon->SetupAttachment(GetMesh(), FName("WeaponHandSocket"));
+void SetupAttachment(USceneComponent* InParent, FName InSocketName = NAME_None)
 ```

@@ -1,0 +1,135 @@
+{
+  "nodes": [
+    {
+      "id": "878e123c1bf47634",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/AddControllerPitchInput.md",
+      "styleAttributes": {},
+      "x": -186,
+      "y": 560,
+      "width": 433,
+      "height": 154
+    },
+    {
+      "id": "3e319ebb1334abf3",
+      "type": "file",
+      "file": "Unreal Engine/Canvas/How/How to make Character LookUp/screenshot_01.png",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 115,
+      "width": 398,
+      "height": 59
+    },
+    {
+      "id": "7ef8ff13df67d0c8",
+      "type": "text",
+      "text": "```cpp\nvoid ASlashCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)\n{\n\tSuper::SetupPlayerInputComponent(PlayerInputComponent);\n\tPlayerInputComponent->BindAxis(FName(\"LookUp\"), this, &ASlashCharacter::LookUp);\n}\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 395,
+      "y": -360,
+      "width": 800,
+      "height": 155
+    },
+    {
+      "id": "b487231684d9a83b",
+      "type": "text",
+      "text": "```cpp\nprotected:\n  void LookUp(float Value);\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -186,
+      "y": -40,
+      "width": 326,
+      "height": 80
+    },
+    {
+      "id": "16a9efed771ac37b",
+      "type": "text",
+      "text": "[[BindAction#Look Up]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 627,
+      "y": 300,
+      "width": 336,
+      "height": 79
+    },
+    {
+      "id": "a289ec994895a734",
+      "type": "text",
+      "text": "```cpp\nvoid ASlashCharacter::LookUp(float Value){\n  AddControllerPitchInput(Value);\n}\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -186,
+      "y": 300,
+      "width": 433,
+      "height": 103
+    },
+    {
+      "id": "6df5c0ea30b7e20d",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/SetupPlayerInputComponent.md",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -40,
+      "width": 870,
+      "height": 214
+    }
+  ],
+  "edges": [
+    {
+      "id": "db5e8405d2cd2d58",
+      "styleAttributes": {},
+      "fromNode": "16a9efed771ac37b",
+      "fromSide": "top",
+      "toNode": "6df5c0ea30b7e20d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dbb1cb09753ef9df",
+      "styleAttributes": {},
+      "fromNode": "3e319ebb1334abf3",
+      "fromSide": "right",
+      "toNode": "b487231684d9a83b",
+      "toSide": "left",
+      "label": ".h"
+    },
+    {
+      "id": "0b8d38f46eed640d",
+      "styleAttributes": {},
+      "fromNode": "3e319ebb1334abf3",
+      "fromSide": "right",
+      "toNode": "a289ec994895a734",
+      "toSide": "left",
+      "label": ".cpp"
+    },
+    {
+      "id": "3f2f41d8d5fc9bb7",
+      "styleAttributes": {},
+      "fromNode": "878e123c1bf47634",
+      "fromSide": "top",
+      "toNode": "a289ec994895a734",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9f1d8669946880ef",
+      "styleAttributes": {},
+      "fromNode": "6df5c0ea30b7e20d",
+      "fromSide": "top",
+      "toNode": "7ef8ff13df67d0c8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "72c409106b4d0ec7",
+      "styleAttributes": {},
+      "fromNode": "a289ec994895a734",
+      "fromSide": "top",
+      "toNode": "6df5c0ea30b7e20d",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

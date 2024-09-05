@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "b912fdf34308dfaa",
+      "type": "text",
+      "text": "[[CreateDefaultSubobject#UCameraComponnet]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -249,
+      "y": 120,
+      "width": 408,
+      "height": 50
+    },
+    {
+      "id": "02e91ffe8c305dc7",
+      "type": "text",
+      "text": "```cpp\nUCameraComponnet* ViewCamera;\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -249,
+      "y": -60,
+      "width": 329,
+      "height": 65
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

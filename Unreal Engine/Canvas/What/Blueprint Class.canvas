@@ -11,16 +11,6 @@
       "height": 197
     },
     {
-      "id": "56c04e4434da4bde",
-      "type": "file",
-      "file": "Unreal Engine/Notes/GameModeBase.md",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 560,
-      "width": 717,
-      "height": 254
-    },
-    {
       "id": "1e13abb6a3a93821",
       "type": "file",
       "file": "Unreal Engine/Notes/Controller.md",
@@ -71,12 +61,22 @@
       "height": 240
     },
     {
+      "id": "56c04e4434da4bde",
+      "type": "file",
+      "file": "Unreal Engine/Notes/GameModeBase.md",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 326,
+      "width": 717,
+      "height": 254
+    },
+    {
       "id": "3e5cd9a0e797f740",
       "type": "file",
       "file": "Unreal Engine/Notes/Blueprint Class.md",
       "styleAttributes": {},
-      "x": -2240,
-      "y": 487,
+      "x": -2320,
+      "y": 440,
       "width": 400,
       "height": 513
     },
@@ -85,8 +85,8 @@
       "type": "file",
       "file": "Unreal Engine/Notes/Actor Component.md",
       "styleAttributes": {},
-      "x": -1120,
-      "y": 1360,
+      "x": -1280,
+      "y": 880,
       "width": 400,
       "height": 400
     },
@@ -95,10 +95,28 @@
       "type": "file",
       "file": "Unreal Engine/Notes/Scene Component.md",
       "styleAttributes": {},
-      "x": -240,
-      "y": 1360,
+      "x": -320,
+      "y": 1020,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "58413aea3c5531e1",
+      "x": 451,
+      "y": 1360,
+      "width": 392,
+      "height": 160,
+      "type": "file",
+      "file": "Unreal Engine/Notes/ArrowComponent.md"
+    },
+    {
+      "id": "78f7bd6efc9709c1",
+      "x": 451,
+      "y": 880,
+      "width": 392,
+      "height": 280,
+      "type": "file",
+      "file": "Unreal Engine/Notes/CapsuleComponent.md"
     }
   ],
   "edges": [
@@ -194,6 +212,22 @@
       "fromNode": "03666a175970d629",
       "fromSide": "right",
       "toNode": "6f0395a72ba46cc5",
+      "toSide": "left"
+    },
+    {
+      "id": "e979dbf97734d534",
+      "styleAttributes": {},
+      "fromNode": "6f0395a72ba46cc5",
+      "fromSide": "right",
+      "toNode": "78f7bd6efc9709c1",
+      "toSide": "left"
+    },
+    {
+      "id": "6c81de9333d2b6dc",
+      "styleAttributes": {},
+      "fromNode": "6f0395a72ba46cc5",
+      "fromSide": "right",
+      "toNode": "58413aea3c5531e1",
       "toSide": "left"
     }
   ],

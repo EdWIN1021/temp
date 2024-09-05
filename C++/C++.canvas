@@ -12,66 +12,6 @@
       "label": "STL"
     },
     {
-      "id": "e9f4fff5d3f44e95",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 960,
-      "y": 2944,
-      "width": 4240,
-      "height": 1560,
-      "label": "Object-Oriented Programming"
-    },
-    {
-      "id": "2f5b4e54b708b83e",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 152,
-      "width": 920,
-      "height": 2368,
-      "label": "Containers"
-    },
-    {
-      "id": "6e0cb822c8e084a1",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2950,
-      "y": 1440,
-      "width": 490,
-      "height": 640,
-      "label": "Sequence Containers"
-    },
-    {
-      "id": "f1c3c03132c70374",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2950,
-      "y": 836,
-      "width": 560,
-      "height": 440,
-      "label": "Container Adapters"
-    },
-    {
-      "id": "888cbf633a067df1",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2950,
-      "y": 283,
-      "width": 550,
-      "height": 417,
-      "label": "Associative Container"
-    },
-    {
-      "id": "2b9bef99940dd0dd",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2000,
-      "y": 3094,
-      "width": 1320,
-      "height": 530,
-      "label": "Constructor"
-    },
-    {
       "id": "7bd8d99d25643445",
       "type": "group",
       "styleAttributes": {},
@@ -80,6 +20,16 @@
       "width": 3280,
       "height": 2063,
       "label": "Data Types"
+    },
+    {
+      "id": "e9f4fff5d3f44e95",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 960,
+      "y": 2944,
+      "width": 4240,
+      "height": 1560,
+      "label": "Object-Oriented Programming"
     },
     {
       "id": "f8cd99e6e373f296",
@@ -101,6 +51,16 @@
       "height": 1780,
       "color": "1",
       "label": "Compound Types"
+    },
+    {
+      "id": "2f5b4e54b708b83e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2880,
+      "y": 152,
+      "width": 920,
+      "height": 2368,
+      "label": "Containers"
     },
     {
       "id": "80bd83fc25f2f387",
@@ -153,6 +113,16 @@
       "label": "Operator Overloading"
     },
     {
+      "id": "2b9bef99940dd0dd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2000,
+      "y": 3094,
+      "width": 1320,
+      "height": 530,
+      "label": "Constructor"
+    },
+    {
       "id": "b1ed495db54b59a5",
       "type": "group",
       "styleAttributes": {},
@@ -193,6 +163,16 @@
       "label": "I/O Library"
     },
     {
+      "id": "6e0cb822c8e084a1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2950,
+      "y": 1440,
+      "width": 490,
+      "height": 640,
+      "label": "Sequence Containers"
+    },
+    {
       "id": "a2c5b8454fff49d9",
       "type": "group",
       "styleAttributes": {},
@@ -211,6 +191,26 @@
       "width": 640,
       "height": 400,
       "label": "Methods"
+    },
+    {
+      "id": "f1c3c03132c70374",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2950,
+      "y": 836,
+      "width": 560,
+      "height": 440,
+      "label": "Container Adapters"
+    },
+    {
+      "id": "888cbf633a067df1",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2950,
+      "y": 283,
+      "width": 550,
+      "height": 417,
+      "label": "Associative Container"
     },
     {
       "id": "58ba7109710c1435",

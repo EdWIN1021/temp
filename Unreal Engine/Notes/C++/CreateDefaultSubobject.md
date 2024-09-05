@@ -1,9 +1,3 @@
-## USkeletalMeshComponent
 ```cpp
-Weapon = CreateDefaultSubobject<USkeletalMeshComponent>("Weapon");
-```
-
-## UCapsuleComponent
-```cpp
-Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
+TReturnType* CreateDefaultSubobject<TReturnType>(FName SubobjectName, bool bTransient = false)
 ```

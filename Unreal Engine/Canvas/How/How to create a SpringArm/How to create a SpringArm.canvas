@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "53809323b4fc308d",
+      "type": "text",
+      "text": "```cpp\nUSpringArmComponent* CameraBoom;\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -320,
+      "y": -140,
+      "width": 346,
+      "height": 60
+    },
+    {
+      "id": "e5ee7ce8859e5072",
+      "type": "text",
+      "text": "```cpp\nCameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT(\"CameraBoom\"));\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 260,
+      "y": -140,
+      "width": 764,
+      "height": 60
+    },
+    {
+      "id": "e5f0f7c97d9daf02",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
+      "styleAttributes": {},
+      "x": -443,
+      "y": -501,
+      "width": 939,
+      "height": 136
+    },
+    {
+      "id": "784a12cf322e4653",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/USpringArmComponent.md",
+      "styleAttributes": {},
+      "x": 660,
+      "y": -469,
+      "width": 274,
+      "height": 72
+    },
+    {
+      "id": "e53eec6b270cd999",
+      "x": 2040,
+      "y": -469,
+      "width": 620,
+      "height": 140,
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/GetRootComponent.md"
+    },
+    {
+      "id": "5e251b2718948c7c",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/SetupAttachment.md",
+      "styleAttributes": {},
+      "x": 1056,
+      "y": -469,
+      "width": 904,
+      "height": 140
+    },
+    {
+      "id": "4d001d8038c60f59",
+      "type": "text",
+      "text": "```cpp\nCameraBoom->SetupAttachment(GetRootComponent());\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1600,
+      "y": -147,
+      "width": 520,
+      "height": 67
+    }
+  ],
+  "edges": [
+    {
+      "id": "212316a240e43380",
+      "styleAttributes": {},
+      "fromNode": "53809323b4fc308d",
+      "fromSide": "right",
+      "toNode": "e5ee7ce8859e5072",
+      "toSide": "left"
+    },
+    {
+      "id": "85b2cde855ee08cb",
+      "styleAttributes": {},
+      "fromNode": "e5f0f7c97d9daf02",
+      "fromSide": "bottom",
+      "toNode": "e5ee7ce8859e5072",
+      "toSide": "top"
+    },
+    {
+      "id": "9d7cd315e0c821a6",
+      "styleAttributes": {},
+      "fromNode": "784a12cf322e4653",
+      "fromSide": "bottom",
+      "toNode": "e5ee7ce8859e5072",
+      "toSide": "top"
+    },
+    {
+      "id": "0b7a3b1239bdcfa8",
+      "styleAttributes": {},
+      "fromNode": "e5ee7ce8859e5072",
+      "fromSide": "right",
+      "toNode": "4d001d8038c60f59",
+      "toSide": "left"
+    },
+    {
+      "id": "6cdbe422f3858185",
+      "styleAttributes": {},
+      "fromNode": "5e251b2718948c7c",
+      "fromSide": "bottom",
+      "toNode": "4d001d8038c60f59",
+      "toSide": "top"
+    },
+    {
+      "id": "5d30ec243687205d",
+      "styleAttributes": {},
+      "fromNode": "e53eec6b270cd999",
+      "fromSide": "bottom",
+      "toNode": "4d001d8038c60f59",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

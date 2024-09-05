@@ -4,81 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "eaa77493b828546d",
+        "id": "173d8dd6e3290c19",
         "type": "tabs",
         "children": [
           {
-            "id": "6740c01915ec424d",
+            "id": "bd0b0fade35dea00",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "unreal/Unreal.canvas",
-                "viewState": {
-                  "x": -17513.802725078214,
-                  "y": 807.984679532766,
-                  "zoom": -1.3737806840145956
-                }
+                "file": "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
+                "mode": "preview",
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "bd83b52d149a343a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "C++/C++.canvas",
-                "viewState": {
-                  "x": 5000.661037834519,
-                  "y": 527.7141879178639,
-                  "zoom": -1.728665675739486
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "64a14f9871a1e85f",
+            "id": "209112a3f20e4b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Notes/Cast To.md",
+                "file": "Unreal Engine/Notes/C++/SetupAttachment.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "05b58b916f7584df",
+            "id": "5a98430ad3447a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Notes/Scene Component.md",
+                "file": "Unreal Engine/Notes/C++/GetRootComponent.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6a7b284a98d233d8",
+            "id": "548bc6f62f408c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "unreal/How to play montage.md",
-                "mode": "preview",
-                "source": true
+                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+                "viewState": {
+                  "x": 912.1023910002997,
+                  "y": -228.34932538416882,
+                  "zoom": -1.0692992455234094
+                }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Scene",
+                "query": "how to make ca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5026054382324
+    "width": 343.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -144,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/How to play montage.md",
+                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/How to play montage.md",
+                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/How to play montage.md"
+                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas"
               }
             }
           }
@@ -205,62 +189,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7b284a98d233d8",
+  "active": "548bc6f62f408c2f",
   "lastOpenFiles": [
-    "Unreal Engine/Canvas/HowTo/How to attach a item to a socket/How to attach a item to a socket.canvas",
-    "Unreal Engine/Canvas/HowTo/How to attach a item to a socket/How to attach a item to a socket.png",
-    "unreal/How to attach a item to a socket.md",
-    "Unreal Engine/Canvas/HowTo/How to attach a item to a socket",
-    "unreal/How to activate particle effect.md",
-    "Unreal Engine/Canvas/HowTo/Untitled.md",
-    "Unreal Engine/Canvas/Blueprint Class.canvas",
-    "unreal/Unreal.canvas",
-    "C++/Functions/Function Templates.md",
-    "C++/Function Template.md",
-    "screenshots/Screenshot 2024-07-26 at 1.48.44 PM.png",
-    "unreal/How to trace and get hit result.md",
-    "unreal/How to play montage.md",
-    "unreal/How to play a montage.md",
-    "unreal/How to make Character Turn.md",
-    "unreal/How to make Character MoveRight.md",
-    "unreal/How to make Character MoveForward.md",
-    "unreal/How to make Character LookUp.md",
-    "unreal/How to make Character Jump.md",
-    "unreal/How to make Character Jump 1.md",
-    "unreal/How to make a montage notify.md",
-    "unreal/How to get Ground Speed.md",
-    "unreal/How to get Character Movement.md",
-    "unreal/How to get Character Movement 1.md",
-    "unreal/How to get Character GroundSpeed.md",
-    "unreal/How to create Enum.md",
-    "unreal/How to create a USkeletalMeshComponent.md",
-    "unreal/How to create a SpringArm.md",
-    "unreal/How to create a Socket.md",
-    "unreal/How to create a Pure Function.md",
+    "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
+    "Unreal Engine/Notes/C++/SetupAttachment.md",
+    "Unreal Engine/Notes/C++/GetRootComponent.md",
+    "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+    "Unreal Engine/Notes/C++/Untitled 3.md",
+    "Unreal Engine/Notes/C++/Untitled 2.md",
+    "Unreal Engine/Notes/C++/Untitled 1.md",
+    "Unreal Engine/Notes/C++/UCapsuleComponent.md",
+    "Unreal Engine/Notes/C++/SetCollisionEnabled.md",
+    "Unreal Engine/Notes/C++/USkeletalMeshComponent.md",
+    "Unreal Engine/Notes/C++/USpringArmComponent.md",
+    "Unreal Engine/Canvas/How/How to make Character Jump/How to make Character Jump.canvas",
+    "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
+    "Unreal Engine/Notes/C++/UCameraComponnet.md",
     "unreal/How to create a Camera.md",
-    "Unreal Engine/Canvas/Mesh.canvas",
-    "Unreal Engine/Canvas/HowTo",
-    "Unreal Engine/Notes/C++",
+    "unreal/How to attach a item to a socket.md",
+    "unreal/How to activate particle effect.md",
+    "Unreal Engine/Notes/Actor.md",
+    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
+    "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.md",
+    "Unreal Engine/Canvas/How/How to create a SpringArm",
+    "Unreal Engine/Canvas/How/How to create a Camera",
+    "unreal/How to create a CapsuleComponent.md",
+    "Unreal Engine/Canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
+    "Unreal Engine/Canvas/How/How to attach a item to a socket/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
+    "Unreal Engine/Canvas/How/How to create a Material/How to create a Material.canvas",
+    "Unreal Engine/Notes/C++/BindAction.md",
+    "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to create a Material/screenshot_02.png",
+    "Unreal Engine/Canvas/How/How to create a Material/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_02.png",
+    "Unreal Engine/Canvas/How/How to make Character LookUp/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to make Character LookUp.md",
+    "Unreal Engine/Notes/C++/AddControllerPitchInput.md",
+    "Unreal Engine/Canvas/How/How to make Character LookUp",
+    "unreal/How to make a montage notify.md",
+    "unreal/How to make Character MoveForward.md",
+    "unreal/How to make Character MoveRight.md",
+    "unreal/How to make Character Turn.md",
+    "unreal/How to play a montage.md",
+    "Unreal Engine/Canvas/What/Mesh.canvas",
+    "screenshots/Screenshot 2024-08-01 at 10.17.26 AM 1.png",
+    "screenshots/Screenshot 2024-08-01 at 10.17.26 AM.png",
+    "screenshots/Screenshot 2024-08-01 at 10.16.45 AM.png",
+    "Unreal Engine/Canvas/How/How to make Character Jump",
+    "Unreal Engine/Canvas/How/How to change the material color when an object is hit",
+    "Unreal Engine/Canvas/How/How to create a Material",
     "C++/C++.canvas",
-    "Unity.canvas",
-    "Unreal Engine/How",
-    "Unreal Engine/Canvas",
-    "Unreal Engine/Untitled.canvas",
-    "Unreal Engine/Notes",
-    "Unreal Engine/Notes/C++",
-    "Unreal Engine/Notes/Blueprint",
-    "Unreal Engine",
-    "Untitled 1.canvas",
-    "Test.canvas",
-    "screenshots/bp_how to activate particle effect.png",
-    "Screenshot 2024-09-03 at 8.04.54 PM.png",
-    "screenshots/bp_open_level_blueprint.png",
-    "Screenshot 2024-09-03 at 8.00.47 PM.png",
-    "Blueprint_Assets/bp_acticate_particle_effect.png",
-    "Blueprint_Assets/BP_Activate.png",
-    "Blueprint_Assets",
-    "Screenshot 2024-09-03 at 7.20.18 PM.png",
-    "Pasted image 20240902124413.png",
-    "unreal/IK (Inverse Kinematics).canvas"
+    "unreal/Unreal.canvas",
+    "Unreal Engine/Canvas/What",
+    "Unreal Engine/Canvas/How/How to attach a item to a socket",
+    "Unreal Engine/Canvas/How",
+    "Unreal Engine/Notes/C++"
   ]
 }
