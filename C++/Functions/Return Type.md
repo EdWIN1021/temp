@@ -1,8 +1,8 @@
-## Returning a Pointer
+- ! Cannot return an array directly from a function.
+- ! Never return a pointer to a local variable
 
-```ad-warning
-Never return a pointer to a local variable
-```
+
+## Returning a Pointer
 
 ```cpp
 int *largest_int(int* int_ptr1, int* int_ptr2){

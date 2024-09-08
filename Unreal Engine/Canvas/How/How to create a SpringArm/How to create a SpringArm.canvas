@@ -78,12 +78,13 @@
     },
     {
       "id": "5b1602451fcd0e3c",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/TargetArmLength.md",
+      "styleAttributes": {},
       "x": 2328,
       "y": 100,
       "width": 381,
-      "height": 125,
-      "type": "file",
-      "file": "Unreal Engine/Notes/C++/TargetArmLength.md"
+      "height": 125
     },
     {
       "id": "4d001d8038c60f59",
