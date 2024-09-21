@@ -1,3 +1,0 @@
-# HTML
-
-- [script](script.md)

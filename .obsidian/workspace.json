@@ -11,14 +11,11 @@
             "id": "bd0b0fade35dea00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
-                "viewState": {
-                  "x": 384.07617137326,
-                  "y": -68.55605440363266,
-                  "zoom": -0.49487958610916466
-                }
+                "file": "programming-languages/go/The Zero Value.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+                "file": "programming-languages/go/The Zero Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+                "file": "programming-languages/go/The Zero Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas"
+                "file": "programming-languages/go/The Zero Value.md"
               }
             }
           }
@@ -149,62 +146,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd0b0fade35dea00",
+  "active": "906761a8f911bb3b",
   "lastOpenFiles": [
-    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.md",
-    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb.md",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb/switch to a database 938ad7a168a44c9386e83664373a8161.md",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb/shell aedb5a75dd9d43848e03a0bccfdf2015.md",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb/lists all the databases 5c7f527430a144a98cd9900952ca38f5.md",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb/list all users cf411f4e4d2741a19cc2094c6a2d502c.md",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb/authenticate 9fbea6b60eee4bc18fa288050c6f4726.md",
+    "legacy/mongoDB Import Aug 15, 2024 584d4e017ca548bd974500877fafb6cb",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/input ef068fd892f94ec48d75ca41bf02e3d4/input focus invalid 31eee0c193a74525bbade68edb67bb75.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/input ef068fd892f94ec48d75ca41bf02e3d4/input checked 4de5318c237d487b9e0b9c4c60c83995.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/input ef068fd892f94ec48d75ca41bf02e3d4/input placeholder-shown 32b8e8a0197f454baa56816908a9ca2a.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Elements ed9c8d2f0b6b4ab291ffb2aee316f620/input placeholder b6f4b1117ec34af3a1928807ba6b4b61.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Elements ed9c8d2f0b6b4ab291ffb2aee316f620/first-line 717b59e5cd964432ae0095c85aca7c44.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Elements ed9c8d2f0b6b4ab291ffb2aee316f620/first-letter be016c4f83f44f12a88c68e4a0aedfa6.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Elements ed9c8d2f0b6b4ab291ffb2aee316f620/before bef20e4676a341c9990e91a27a6320a2.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Elements ed9c8d2f0b6b4ab291ffb2aee316f620/after 4fc62c2695c4449b9b64c0db9fb365be.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/nth-child e97a7ae251714cceac5ebae28c4cd15e.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/last-child 1d583620bff94483a9e07b87a63626a6.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/input ef068fd892f94ec48d75ca41bf02e3d4.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/input ef068fd892f94ec48d75ca41bf02e3d4",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/hover c80be969c32d4405a1494f5a58142a64.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/first-child cc55732fbd114836b1f7724a11fde21c.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51/a a2f446a2d2c84de39467f0bdf7f21051.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/display 734d4474314a4ca18b82213152d665bc/grid ab622876c4ef493aae4fdaeeedcb760d/justify-self e68a417f0c714f4687a8eb50f279e80f.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/display 734d4474314a4ca18b82213152d665bc/grid ab622876c4ef493aae4fdaeeedcb760d/justify-items 27f29c5ede814309a9c7074dc3c15f2a.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/display 734d4474314a4ca18b82213152d665bc/grid ab622876c4ef493aae4fdaeeedcb760d/justify-content b496277b8e5a43b89ca60de635ec82f2.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/display 734d4474314a4ca18b82213152d665bc/grid ab622876c4ef493aae4fdaeeedcb760d/grid-template-rows a76ddbeac6a8490c94ab2a4fafd34d60.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/display 734d4474314a4ca18b82213152d665bc/grid ab622876c4ef493aae4fdaeeedcb760d/grid-template-columns 8c3f2d276b8542ed9821828fb494f0f0.md",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useReducer f5ff2c36ffc7410babec79c0adae494d/Screenshot_2023-11-12_at_10.49.41_AM.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useContext 560934936d5b481a83843f4a0de644c0/Screenshot_2023-11-12_at_1.42.47_PM.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/Javascript 352bea2673014447af897ef2c8bb0a1d/Expressions & Operators c41aee8127bb4923ade37bc965b7c7b6/new fb7ffe82e17d42f0966c771437ba39e0/classnew一个对象imageimage_DrhA7VeFWQ.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/Javascript 352bea2673014447af897ef2c8bb0a1d/Built-in 44cd7d0076d744cca4e4218ecae6f50c/Promise ae89a37a26d849b0a30977396e083f31/asynchronouspromiseimageqh60y8ukw-_MEQLP9xC4v.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/vue 81363cdfbcc3431a8a2b9455e68766bc/vuex c44438bb30b1434781b0e4f689ea23d9/Transitionsimageimage_KUqRdOuwqg.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/vue 81363cdfbcc3431a8a2b9455e68766bc/vuex c44438bb30b1434781b0e4f689ea23d9/Transitionsimageimage_KUqRdOuwqg 1.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/vue 81363cdfbcc3431a8a2b9455e68766bc/types eed3d88faf1b41bb952e69bb96899643/Transitionsimageimage_KUqRdOuwqg.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/vue 81363cdfbcc3431a8a2b9455e68766bc/types eed3d88faf1b41bb952e69bb96899643/Transitionsimageimage_KUqRdOuwqg 2.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/vue 81363cdfbcc3431a8a2b9455e68766bc/types eed3d88faf1b41bb952e69bb96899643/Transitionsimageimage_KUqRdOuwqg 1.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/vue 81363cdfbcc3431a8a2b9455e68766bc/route 06d3acd38b744fb4b553745f66695292/Transitionsimageimage_KUqRdOuwqg.png",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Elements ed9c8d2f0b6b4ab291ffb2aee316f620",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/selector 8f4215e14bb248f3bdc54d82eb69072c/Pseudo-Classes 6cf144d9465f473a9a71eb74ab8cdc51",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/css 93b506eb18f24fafb39d483d4efadc49/display 734d4474314a4ca18b82213152d665bc/grid ab622876c4ef493aae4fdaeeedcb760d",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Lifecycle d8d943b6195b4c779b1472719ecb2acd/methods a429974c748f4e689ae1f07775a5edc2",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useReducer f5ff2c36ffc7410babec79c0adae494d",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useContext 560934936d5b481a83843f4a0de644c0",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Events f8c86885f64b438b8aca2258a8478680/onChange 21afb7a9e2794922b745acfe324b3e6f",
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/Javascript 352bea2673014447af897ef2c8bb0a1d/Expressions & Operators c41aee8127bb4923ade37bc965b7c7b6/new fb7ffe82e17d42f0966c771437ba39e0",
     "Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
-    "Unreal Engine/Notes/TObjectPtr.md",
-    "C++/Functions/Function.canvas",
-    "C++/Static.md",
-    "C++/Functions/Return Type.md",
-    "C++/Operator/().md",
-    "C++/Functions/Function Templates.md",
-    "C++/Functions/Inline Function.md",
-    "C++/Functions/Passing by Reference.md",
-    "C++/Functions/Passing by Pointer.md",
-    "C++/Statements/Statements.canvas",
-    "C++/break.md",
-    "C++/Exception Handling/throw.md",
-    "C++/Exception Handling/Exception Handling.canvas",
-    "C++/Exception Handling/try-catch-finally.md",
-    "try-catch.md",
-    "C++/continue.md",
-    "C++/goto.md",
-    "Exception Handling/Exception Handling.md",
-    "C++/Exception Handling",
-    "C++/switch.md",
-    "C++/if.md",
-    "C++/Loop/do while.md",
-    "C++/Loop/while.md",
-    "C++/Statements",
-    "Unreal Engine/Notes/VectorParameter.md",
-    "Unreal Engine/Notes/USTRUCT.md",
-    "Unreal Engine/Notes/UEngine.md",
-    "Unreal Engine/Notes/UCLASS.md",
-    "Unreal Engine/Notes/Static Mesh Assets.md",
-    "screenshots/bp_how to activate particle effect.png",
+    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
+    "programming-languages/c++/Functions/Function.canvas",
+    "programming-languages/c++/Statements/Statements.canvas",
+    "programming-languages/c++/Exception Handling/Exception Handling.canvas",
     "unreal/Unreal.canvas",
     "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
-    "Unreal Engine/Canvas/How/How to make Character LookUp/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to make Character Jump/How to make Character Jump.canvas",
-    "Unreal Engine/Canvas/How/How to create a SpringArm",
-    "Unreal Engine/Canvas/How/How to create a Camera",
     "Unreal Engine/Canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
-    "Unreal Engine/Canvas/How/How to attach a item to a socket/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
-    "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to create a Material/screenshot_02.png",
-    "Unreal Engine/Canvas/How/How to create a Material/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to make Character Jump/screenshot_02.png",
-    "Unreal Engine/Canvas/How/How to make Character LookUp",
-    "screenshots/Screenshot 2024-08-01 at 10.17.26 AM 1.png",
-    "screenshots/Screenshot 2024-08-01 at 10.17.26 AM.png",
-    "Unreal Engine/Canvas/How/How to make Character Jump",
-    "Unreal Engine/Canvas/How/How to change the material color when an object is hit",
-    "Unreal Engine/Canvas/How/How to create a Material",
-    "Unreal Engine/Canvas/What",
-    "Unreal Engine/Canvas/How/How to attach a item to a socket"
+    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas"
   ]
 }
