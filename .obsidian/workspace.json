@@ -15,9 +15,9 @@
               "state": {
                 "file": "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
                 "viewState": {
-                  "x": 22,
-                  "y": 360.8577776609545,
-                  "zoom": -0.13398903957369832
+                  "x": 176.72282079398803,
+                  "y": 762.9332238551829,
+                  "zoom": -0.9260838520662276
                 }
               }
             }
@@ -151,12 +151,12 @@
   },
   "active": "fe3fbcc4c9a22ae9",
   "lastOpenFiles": [
+    "Unreal Engine/Notes/C++/APawn.md",
+    "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
     "Unreal Engine/Notes/C++/AddMovementInput.md",
-    "Unreal Engine/Notes/C++/Untitled.md",
     "Unreal Engine/Notes/C++/Untitled 1.md",
     "Unreal Engine/Notes/C++/AddMappingContext.md",
     "Unreal Engine/Notes/C++/AddOnScreenDebugMessage.md",
-    "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
     "Unreal Engine/Notes/C++/GetPawn.md",
     "Unreal Engine/Notes/C++/GetUnitAxis.md",
     "Unreal Engine/Notes/C++/FRotationMatrix.md",
@@ -181,7 +181,6 @@
     "Unreal Engine/Notes/C++/BeginPlay.md",
     "Unreal Engine/Notes/C++/bReplicates.md",
     "Unreal Engine/Notes/C++/bShowMouseCursor.md",
-    "Unreal Engine/Notes/C++/bUseControllerRotationPitch.md",
     "Unreal Engine/Canvas/What/Blueprint Class.canvas",
     "Unreal Engine/Canvas/What/Mesh.canvas",
     "Unreal Engine/Canvas/How/How to make Character Jump/How to make Character Jump.canvas",

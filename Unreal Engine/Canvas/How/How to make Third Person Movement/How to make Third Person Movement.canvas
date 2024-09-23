@@ -8,57 +8,9 @@
         "textAlign": "center"
       },
       "x": -217,
-      "y": 200,
+      "y": 220,
       "width": 477,
       "height": 80
-    },
-    {
-      "id": "1f2d67fba614d302",
-      "type": "text",
-      "text": "```cpp\nconst FRotator YawRotation(0.f, Rotation.Yaw, 0.f); \n```",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -261,
-      "y": 340,
-      "width": 565,
-      "height": 60
-    },
-    {
-      "id": "5fbac5cffe4986be",
-      "type": "text",
-      "text": "```cpp\nconst FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);\nconst FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y); \n```",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -384,
-      "y": 500,
-      "width": 812,
-      "height": 80
-    },
-    {
-      "id": "78e93aeff8d18f5e",
-      "type": "text",
-      "text": "```cpp\nAPawn* ControlledPawn = GetPawn<APawn>()\n```",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -177,
-      "y": 640,
-      "width": 399,
-      "height": 60
-    },
-    {
-      "id": "45617395c621e983",
-      "type": "text",
-      "text": "```cpp\nif (ControlledPawn)  \n{  \n    ControlledPawn->AddMovementInput(ForwardDirection, InputAxisVector.Y);  \n    ControlledPawn->AddMovementInput(RightDirection, InputAxisVector.X);  \n}\n```",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -323,
-      "y": 780,
-      "width": 692,
-      "height": 120
     },
     {
       "id": "ed56702e02a200a9",
@@ -68,9 +20,144 @@
         "textAlign": "center"
       },
       "x": -350,
-      "y": 60,
+      "y": 80,
       "width": 743,
       "height": 67
+    },
+    {
+      "id": "514131d31dc9edb8",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/FVector2D.md",
+      "styleAttributes": {},
+      "x": -700,
+      "y": 74,
+      "width": 160,
+      "height": 80
+    },
+    {
+      "id": "8b2789dc1165e482",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/FRotator.md",
+      "styleAttributes": {},
+      "x": -683,
+      "y": 220,
+      "width": 143,
+      "height": 84
+    },
+    {
+      "id": "98db94f623e3566b",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/GetControlRotation.md",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 224,
+      "width": 295,
+      "height": 73
+    },
+    {
+      "id": "1f2d67fba614d302",
+      "type": "text",
+      "text": "```cpp\nconst FRotator YawRotation(0.f, Rotation.Yaw, 0.f); \n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -259,
+      "y": 366,
+      "width": 565,
+      "height": 60
+    },
+    {
+      "id": "1547689ab1282359",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/YawRotation.md",
+      "styleAttributes": {},
+      "x": -726,
+      "y": 360,
+      "width": 342,
+      "height": 71
+    },
+    {
+      "id": "78e93aeff8d18f5e",
+      "type": "text",
+      "text": "```cpp\nAPawn* ControlledPawn = GetPawn<APawn>()\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -175,
+      "y": 680,
+      "width": 399,
+      "height": 60
+    },
+    {
+      "id": "5fbac5cffe4986be",
+      "type": "text",
+      "text": "```cpp\nconst FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);\nconst FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y); \n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -381,
+      "y": 520,
+      "width": 812,
+      "height": 80
+    },
+    {
+      "id": "8712ee97b52b59bc",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/FRotationMatrix.md",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 529,
+      "width": 287,
+      "height": 62
+    },
+    {
+      "id": "e07a1f71ee7d5dfc",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/GetUnitAxis.md",
+      "styleAttributes": {},
+      "x": 628,
+      "y": 512,
+      "width": 347,
+      "height": 88
+    },
+    {
+      "id": "bda38a518008a516",
+      "x": -726,
+      "y": 663,
+      "width": 294,
+      "height": 94,
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/APawn.md"
+    },
+    {
+      "id": "dda89783139c1ee2",
+      "x": 420,
+      "y": 680,
+      "width": 357,
+      "height": 78,
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/GetPawn.md"
+    },
+    {
+      "id": "45617395c621e983",
+      "type": "text",
+      "text": "```cpp\nif (ControlledPawn)  \n{  \n    ControlledPawn->AddMovementInput(ForwardDirection, InputAxisVector.Y);  \n    ControlledPawn->AddMovementInput(RightDirection, InputAxisVector.X);  \n}\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -321,
+      "y": 920,
+      "width": 692,
+      "height": 120
+    },
+    {
+      "id": "2d35d271c8181da0",
+      "x": 540,
+      "y": 878,
+      "width": 435,
+      "height": 204,
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/AddMovementInput.md"
     }
   ],
   "edges": [
@@ -113,6 +200,78 @@
       "fromSide": "bottom",
       "toNode": "78e93aeff8d18f5e",
       "toSide": "top"
+    },
+    {
+      "id": "665febde3712d0a5",
+      "styleAttributes": {},
+      "fromNode": "514131d31dc9edb8",
+      "fromSide": "right",
+      "toNode": "ed56702e02a200a9",
+      "toSide": "left"
+    },
+    {
+      "id": "b52395bfba39b859",
+      "styleAttributes": {},
+      "fromNode": "8b2789dc1165e482",
+      "fromSide": "right",
+      "toNode": "dd664f838ddd9722",
+      "toSide": "left"
+    },
+    {
+      "id": "9792a89c78b85072",
+      "styleAttributes": {},
+      "fromNode": "98db94f623e3566b",
+      "fromSide": "left",
+      "toNode": "dd664f838ddd9722",
+      "toSide": "right"
+    },
+    {
+      "id": "dbb0319ed27b1180",
+      "styleAttributes": {},
+      "fromNode": "1547689ab1282359",
+      "fromSide": "right",
+      "toNode": "1f2d67fba614d302",
+      "toSide": "left"
+    },
+    {
+      "id": "944fa70a3508e377",
+      "styleAttributes": {},
+      "fromNode": "8712ee97b52b59bc",
+      "fromSide": "right",
+      "toNode": "5fbac5cffe4986be",
+      "toSide": "left"
+    },
+    {
+      "id": "4b547cf469c7cd12",
+      "styleAttributes": {},
+      "fromNode": "e07a1f71ee7d5dfc",
+      "fromSide": "left",
+      "toNode": "5fbac5cffe4986be",
+      "toSide": "right"
+    },
+    {
+      "id": "0ba1e2f42779e8eb",
+      "styleAttributes": {},
+      "fromNode": "bda38a518008a516",
+      "fromSide": "right",
+      "toNode": "78e93aeff8d18f5e",
+      "toSide": "left"
+    },
+    {
+      "id": "1574a0e8dbe75162",
+      "styleAttributes": {},
+      "fromNode": "dda89783139c1ee2",
+      "fromSide": "left",
+      "toNode": "78e93aeff8d18f5e",
+      "toSide": "right"
+    },
+    {
+      "id": "5457d7d8f794f98c",
+      "styleAttributes": {},
+      "fromNode": "2d35d271c8181da0",
+      "fromSide": "left",
+      "toNode": "45617395c621e983",
+      "toSide": "right"
     }
   ],
   "metadata": {}

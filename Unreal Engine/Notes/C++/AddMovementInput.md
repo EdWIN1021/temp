@@ -1,4 +1,6 @@
 ```cpp
-FVector Forward = GetForwardVector();
-AddMovementInput(Forward,10)
+virtual void AddMovementInput(
+    FVector WorldDirection, 
+    float ScaleValue = 1, 
+    bool bForce = false)
 ```
