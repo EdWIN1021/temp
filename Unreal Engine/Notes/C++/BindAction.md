@@ -1,5 +1,10 @@
-## Jump
+
 
 ```cpp
-PlayerInputComponent->BindAction(FName("Jump"), IE_Pressed, this, &ACharacter::Jump);
+FEnhancedInputActionEventBinding& BindAction<UserClass, VarTypes...>(
+    const UInputAction* Action, 
+    ETriggerEvent TriggerEvent, 
+    UserClass* Object, 
+    FEnhancedInputActionHandlerValueSignature::TMethodPtr<UserClass, VarTypes...> Func, 
+    VarTypes... Vars)
 ```

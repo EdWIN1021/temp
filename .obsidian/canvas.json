@@ -3,5 +3,5 @@
   "snapToGrid": true,
   "zoomBreakpoint": 0,
   "cardLabelVisibility": "always",
-  "defaultWheelBehavior": "zoom"
+  "defaultWheelBehavior": "pan"
 }
