@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "id": "1a18805b6b17422b",
+      "type": "text",
+      "text": "```cpp\nconst FVector2D InputAxisVector = InputActionValue.Get<FVector2D>();  \nconst FRotator Rotation = GetControlRotation();  \nconst FRotator YawRotation(0.f, Rotation.Yaw, 0.f);  \n  \nconst FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);  \nconst FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);  \n  \nif (APawn* ControlledPawn = GetPawn<APawn>())  \n{  \n    ControlledPawn->AddMovementInput(ForwardDirection, InputAxisVector.Y);  \n    ControlledPawn->AddMovementInput(RightDirection, InputAxisVector.X);  \n}\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -355,
+      "y": -208,
+      "width": 1135,
+      "height": 328
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

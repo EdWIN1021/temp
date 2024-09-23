@@ -6,29 +6,61 @@
       "styleAttributes": {},
       "x": -3370,
       "y": 320,
-      "width": 2600,
-      "height": 840,
+      "width": 2610,
+      "height": 880,
       "label": "BeginPlay"
     },
     {
       "id": "d789fdef213355ca",
       "type": "group",
       "styleAttributes": {},
-      "x": -3840,
-      "y": 1480,
-      "width": 2500,
-      "height": 560,
+      "x": -3190,
+      "y": 1600,
+      "width": 2230,
+      "height": 760,
       "label": "SetupInputComponent"
     },
     {
       "id": "53e0482cea28e2e4",
       "type": "group",
       "styleAttributes": {},
-      "x": -2880,
-      "y": -520,
+      "x": -2720,
+      "y": -420,
       "width": 1620,
-      "height": 480,
+      "height": 420,
       "label": ".h"
+    },
+    {
+      "id": "4b5054e7db257b49",
+      "type": "file",
+      "file": "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 1740,
+      "width": 740,
+      "height": 390
+    },
+    {
+      "id": "6e430ed046da7400",
+      "type": "text",
+      "text": "```cpp\nUEnhancedInputComponent* EnhancedInputComponent = CastChecked<UEnhancedInputComponent>(InputComponent);\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2150,
+      "y": 1700,
+      "width": 1080,
+      "height": 80
+    },
+    {
+      "id": "4c70ad4e78891ab5",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UEnhancedInputComponent.md",
+      "styleAttributes": {},
+      "x": -2820,
+      "y": 1698,
+      "width": 400,
+      "height": 82
     },
     {
       "id": "ea5c5171222087e0",
@@ -63,6 +95,38 @@
       "height": 80
     },
     {
+      "id": "fbcf8a510e696462",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UEnhancedInputLocalPlayerSubsystem.md",
+      "styleAttributes": {},
+      "x": -2750,
+      "y": 480,
+      "width": 400,
+      "height": 103
+    },
+    {
+      "id": "4e1adb866a8c2b5b",
+      "type": "text",
+      "text": "```cpp\nEnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &APlayerController::Move);\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2100,
+      "y": 1880,
+      "width": 980,
+      "height": 100
+    },
+    {
+      "id": "3e03c479d56813a7",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/BindAction.md",
+      "styleAttributes": {},
+      "x": -3050,
+      "y": 1810,
+      "width": 860,
+      "height": 240
+    },
+    {
       "id": "f6bacd45e527b1ab",
       "type": "text",
       "text": "```cpp\nSubsystem->AddMappingContext(Context, 0);\n```",
@@ -75,107 +139,70 @@
       "height": 100
     },
     {
-      "id": "77af976b3f6c8c3b",
+      "id": "e8180067be87662b",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UInputMappingContext.md",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 1100,
+      "width": 264,
+      "height": 84
+    },
+    {
+      "id": "cae7493d61c836b8",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/TObjectPtr.md",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 700,
+      "width": 760,
+      "height": 120
+    },
+    {
+      "id": "3d7aecfbbaa70b5b",
       "type": "text",
       "text": "```cpp\nTObjectPtr<UInputMappingContext> Context;\n```",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -1840,
-      "y": -340,
+      "x": -700,
+      "y": 954,
       "width": 460,
       "height": 80
     },
     {
-      "id": "e3f9de7df5539ca9",
+      "id": "22841fc0304daac0",
+      "x": -2480,
+      "y": 2720,
+      "width": 197,
+      "height": 62,
       "type": "file",
-      "file": "Unreal Engine/Notes/C++/UInputMappingContext.md",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -240,
-      "width": 264,
-      "height": 84
+      "file": "Unreal Engine/Notes/C++/UInputAction.md"
     },
     {
-      "id": "a33ea184a61b940c",
+      "id": "54652844c1900de9",
       "type": "file",
       "file": "Unreal Engine/Notes/C++/TObjectPtr.md",
       "styleAttributes": {},
-      "x": -2819,
-      "y": -460,
+      "x": -2860,
+      "y": 2440,
       "width": 760,
       "height": 120
     },
     {
-      "id": "fbcf8a510e696462",
-      "type": "file",
-      "file": "Unreal Engine/Notes/C++/UEnhancedInputLocalPlayerSubsystem.md",
-      "styleAttributes": {},
-      "x": -2750,
-      "y": 480,
-      "width": 400,
-      "height": 103
-    },
-    {
-      "id": "6e430ed046da7400",
+      "id": "621fc09dcbde5ea0",
       "type": "text",
-      "text": "```cpp\nUEnhancedInputComponent* EnhancedInputComponent = CastChecked<UEnhancedInputComponent>(InputComponent);\n```",
+      "text": "```cpp\nTObjectPtr<UInputAction> MoveAction;\n```",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -2800,
-      "y": 1580,
-      "width": 1080,
-      "height": 80
-    },
-    {
-      "id": "4e1adb866a8c2b5b",
-      "type": "text",
-      "text": "```cpp\nEnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &AAuraPlayerController::Move);\n```",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2750,
-      "y": 1760,
-      "width": 980,
-      "height": 100
-    },
-    {
-      "id": "3e03c479d56813a7",
-      "x": -3700,
-      "y": 1690,
-      "width": 860,
-      "height": 240,
-      "type": "file",
-      "file": "Unreal Engine/Notes/C++/BindAction.md"
-    },
-    {
-      "id": "4c70ad4e78891ab5",
-      "x": -3470,
-      "y": 1578,
-      "width": 400,
-      "height": 82,
-      "type": "file",
-      "file": "Unreal Engine/Notes/C++/UEnhancedInputComponent.md"
+      "x": -1987,
+      "y": 2500,
+      "width": 754,
+      "height": 89
     }
   ],
   "edges": [
-    {
-      "id": "e790d355834c6a77",
-      "styleAttributes": {},
-      "fromNode": "a33ea184a61b940c",
-      "fromSide": "right",
-      "toNode": "77af976b3f6c8c3b",
-      "toSide": "left"
-    },
-    {
-      "id": "b7d776f7fd0a8ca2",
-      "styleAttributes": {},
-      "fromNode": "e3f9de7df5539ca9",
-      "fromSide": "right",
-      "toNode": "77af976b3f6c8c3b",
-      "toSide": "left"
-    },
     {
       "id": "caf5942d58000418",
       "styleAttributes": {},
@@ -246,6 +273,62 @@
       "fromNode": "3e03c479d56813a7",
       "fromSide": "right",
       "toNode": "4e1adb866a8c2b5b",
+      "toSide": "left"
+    },
+    {
+      "id": "35bc4adbb669095b",
+      "styleAttributes": {},
+      "fromNode": "4b5054e7db257b49",
+      "fromSide": "left",
+      "toNode": "4e1adb866a8c2b5b",
+      "toSide": "right"
+    },
+    {
+      "id": "0099f757557f09a5",
+      "styleAttributes": {},
+      "fromNode": "621fc09dcbde5ea0",
+      "fromSide": "top",
+      "toNode": "4e1adb866a8c2b5b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "98c6aefe3fe8940a",
+      "styleAttributes": {},
+      "fromNode": "cae7493d61c836b8",
+      "fromSide": "left",
+      "toNode": "3d7aecfbbaa70b5b",
+      "toSide": "right"
+    },
+    {
+      "id": "aea659cdc962fd0d",
+      "styleAttributes": {},
+      "fromNode": "e8180067be87662b",
+      "fromSide": "left",
+      "toNode": "3d7aecfbbaa70b5b",
+      "toSide": "right"
+    },
+    {
+      "id": "d3e547928c68e69b",
+      "styleAttributes": {},
+      "fromNode": "3d7aecfbbaa70b5b",
+      "fromSide": "left",
+      "toNode": "f6bacd45e527b1ab",
+      "toSide": "right"
+    },
+    {
+      "id": "9127ba2b20015228",
+      "styleAttributes": {},
+      "fromNode": "54652844c1900de9",
+      "fromSide": "right",
+      "toNode": "621fc09dcbde5ea0",
+      "toSide": "left"
+    },
+    {
+      "id": "0ecd573f56de3da4",
+      "styleAttributes": {},
+      "fromNode": "22841fc0304daac0",
+      "fromSide": "right",
+      "toNode": "621fc09dcbde5ea0",
       "toSide": "left"
     }
   ],
