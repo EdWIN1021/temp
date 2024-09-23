@@ -1,18 +1,119 @@
 {
   "nodes": [
     {
-      "id": "1a18805b6b17422b",
+      "id": "dd664f838ddd9722",
       "type": "text",
-      "text": "```cpp\nconst FVector2D InputAxisVector = InputActionValue.Get<FVector2D>();  \nconst FRotator Rotation = GetControlRotation();  \nconst FRotator YawRotation(0.f, Rotation.Yaw, 0.f);  \n  \nconst FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);  \nconst FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);  \n  \nif (APawn* ControlledPawn = GetPawn<APawn>())  \n{  \n    ControlledPawn->AddMovementInput(ForwardDirection, InputAxisVector.Y);  \n    ControlledPawn->AddMovementInput(RightDirection, InputAxisVector.X);  \n}\n```",
+      "text": "```cpp\nconst FRotator Rotation = GetControlRotation();  \n```",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -355,
-      "y": -208,
-      "width": 1135,
-      "height": 328
+      "x": -217,
+      "y": 200,
+      "width": 477,
+      "height": 80
+    },
+    {
+      "id": "1f2d67fba614d302",
+      "type": "text",
+      "text": "```cpp\nconst FRotator YawRotation(0.f, Rotation.Yaw, 0.f); \n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -261,
+      "y": 340,
+      "width": 565,
+      "height": 60
+    },
+    {
+      "id": "5fbac5cffe4986be",
+      "type": "text",
+      "text": "```cpp\nconst FVector ForwardDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);\nconst FVector RightDirection = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y); \n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -384,
+      "y": 500,
+      "width": 812,
+      "height": 80
+    },
+    {
+      "id": "78e93aeff8d18f5e",
+      "type": "text",
+      "text": "```cpp\nAPawn* ControlledPawn = GetPawn<APawn>()\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -177,
+      "y": 640,
+      "width": 399,
+      "height": 60
+    },
+    {
+      "id": "45617395c621e983",
+      "type": "text",
+      "text": "```cpp\nif (ControlledPawn)  \n{  \n    ControlledPawn->AddMovementInput(ForwardDirection, InputAxisVector.Y);  \n    ControlledPawn->AddMovementInput(RightDirection, InputAxisVector.X);  \n}\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -323,
+      "y": 780,
+      "width": 692,
+      "height": 120
+    },
+    {
+      "id": "ed56702e02a200a9",
+      "type": "text",
+      "text": "```cpp\nconst FVector2D InputAxisVector = InputActionValue.Get<FVector2D>();\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -350,
+      "y": 60,
+      "width": 743,
+      "height": 67
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "2e3133d3425107fe",
+      "styleAttributes": {},
+      "fromNode": "ed56702e02a200a9",
+      "fromSide": "bottom",
+      "toNode": "dd664f838ddd9722",
+      "toSide": "top"
+    },
+    {
+      "id": "6188711eac0bccc4",
+      "styleAttributes": {},
+      "fromNode": "dd664f838ddd9722",
+      "fromSide": "bottom",
+      "toNode": "1f2d67fba614d302",
+      "toSide": "top"
+    },
+    {
+      "id": "889a599a0c5ae0be",
+      "styleAttributes": {},
+      "fromNode": "1f2d67fba614d302",
+      "fromSide": "bottom",
+      "toNode": "5fbac5cffe4986be",
+      "toSide": "top"
+    },
+    {
+      "id": "ff9bb4f1c6eb9908",
+      "styleAttributes": {},
+      "fromNode": "78e93aeff8d18f5e",
+      "fromSide": "bottom",
+      "toNode": "45617395c621e983",
+      "toSide": "top"
+    },
+    {
+      "id": "0a7a57c67d8027d6",
+      "styleAttributes": {},
+      "fromNode": "5fbac5cffe4986be",
+      "fromSide": "bottom",
+      "toNode": "78e93aeff8d18f5e",
+      "toSide": "top"
+    }
+  ],
   "metadata": {}
 }

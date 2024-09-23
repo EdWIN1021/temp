@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f31ea72cea2e3f",
+        "id": "d87dcf4d33824111",
         "type": "tabs",
         "children": [
           {
-            "id": "ef235d3c786c4621",
+            "id": "fe3fbcc4c9a22ae9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
                 "viewState": {
-                  "x": 222.54325402533152,
-                  "y": 13.811626287424971,
-                  "zoom": -0.15295613606770891
+                  "x": 22,
+                  "y": 360.8577776609545,
+                  "zoom": -0.13398903957369832
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -150,14 +149,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef235d3c786c4621",
+  "active": "fe3fbcc4c9a22ae9",
   "lastOpenFiles": [
+    "Unreal Engine/Notes/C++/AddMovementInput.md",
+    "Unreal Engine/Notes/C++/Untitled.md",
+    "Unreal Engine/Notes/C++/Untitled 1.md",
+    "Unreal Engine/Notes/C++/AddMappingContext.md",
+    "Unreal Engine/Notes/C++/AddOnScreenDebugMessage.md",
+    "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
+    "Unreal Engine/Notes/C++/GetPawn.md",
+    "Unreal Engine/Notes/C++/GetUnitAxis.md",
+    "Unreal Engine/Notes/C++/FRotationMatrix.md",
+    "Unreal Engine/Notes/C++/AddControllerPitchInput.md",
+    "Unreal Engine/Notes/C++/FVector.md",
+    "Unreal Engine/Notes/C++/YawRotation.md",
+    "Unreal Engine/Notes/C++/GetControlRotation.md",
+    "Unreal Engine/Notes/C++/FRotator.md",
+    "Unreal Engine/Notes/C++/FVector2D.md",
     "Unreal Engine/Canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
     "Unreal Engine/Canvas/How/How to set Cursor Behavior/How to set Cursor Behavior.canvas",
     "Unreal Engine/Notes/C++/UInputAction.md",
-    "Unreal Engine/Canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
     "Unreal Engine/Canvas/How/How to make Third Person Movement",
-    "Unreal Engine/Notes/C++/Untitled.md",
     "Unreal Engine/Notes/C++/CastChecked.md",
     "Unreal Engine/Notes/C++/UEnhancedInputComponent.md",
     "Unreal Engine/Notes/C++/FInputModeGameAndUI.md",
@@ -170,21 +182,9 @@
     "Unreal Engine/Notes/C++/bReplicates.md",
     "Unreal Engine/Notes/C++/bShowMouseCursor.md",
     "Unreal Engine/Notes/C++/bUseControllerRotationPitch.md",
-    "Unreal Engine/Notes/C++/bUseControllerRotationRoll.md",
-    "Unreal Engine/Notes/C++/bUseControllerRotationYaw.md",
-    "Unreal Engine/Notes/C++/AddControllerPitchInput.md",
-    "Unreal Engine/Notes/C++/AddMovementInput.md",
-    "Unreal Engine/Notes/C++/bOrientRotationToMovement.md",
-    "Unreal Engine/Notes/C++/CreateDefaultSubobject.md",
-    "Unreal Engine/Notes/C++/check.md",
-    "Unreal Engine/Notes/C++/AddMappingContext.md",
-    "Unreal Engine/Notes/C++/GetLocalPlayer.md",
     "Unreal Engine/Canvas/What/Blueprint Class.canvas",
     "Unreal Engine/Canvas/What/Mesh.canvas",
-    "Unreal Engine/Notes/C++/GetSubsystem.md",
-    "Unreal Engine/Notes/C++/UEnhancedInputLocalPlayerSubsystem.md",
     "Unreal Engine/Canvas/How/How to make Character Jump/How to make Character Jump.canvas",
-    "Unreal Engine/Notes/C++/UInputMappingContext.md",
     "Unreal Engine/Canvas/How/How to make Character LookUp/How to make Character LookUp.canvas",
     "Unreal Engine/Canvas/How/How to create a Enhanced Input System",
     "Unreal Engine/Canvas/How/How to create a Socket/How to create a Socket.canvas",
