@@ -68,12 +68,13 @@
     },
     {
       "id": "5e7a04e2b258ce88",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/BindAxis.md",
+      "styleAttributes": {},
       "x": 500,
       "y": 331,
       "width": 1259,
-      "height": 144,
-      "type": "file",
-      "file": "Unreal Engine/Notes/C++/BindAxis.md"
+      "height": 144
     }
   ],
   "edges": [

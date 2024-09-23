@@ -2,5 +2,6 @@
   "snapToObjects": true,
   "snapToGrid": true,
   "zoomBreakpoint": 0,
-  "cardLabelVisibility": "always"
+  "cardLabelVisibility": "always",
+  "defaultWheelBehavior": "zoom"
 }

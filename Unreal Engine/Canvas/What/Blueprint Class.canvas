@@ -102,21 +102,23 @@
     },
     {
       "id": "58413aea3c5531e1",
+      "type": "file",
+      "file": "Unreal Engine/Notes/ArrowComponent.md",
+      "styleAttributes": {},
       "x": 451,
       "y": 1360,
       "width": 392,
-      "height": 160,
-      "type": "file",
-      "file": "Unreal Engine/Notes/ArrowComponent.md"
+      "height": 160
     },
     {
       "id": "78f7bd6efc9709c1",
+      "type": "file",
+      "file": "Unreal Engine/Notes/CapsuleComponent.md",
+      "styleAttributes": {},
       "x": 451,
       "y": 880,
       "width": 392,
-      "height": 280,
-      "type": "file",
-      "file": "Unreal Engine/Notes/CapsuleComponent.md"
+      "height": 280
     }
   ],
   "edges": [

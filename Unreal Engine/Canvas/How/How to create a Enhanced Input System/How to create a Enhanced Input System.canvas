@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    {
+      "id": "53e0482cea28e2e4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": -320,
+      "width": 1620,
+      "height": 480,
+      "label": ".h"
+    },
+    {
+      "id": "77af976b3f6c8c3b",
+      "type": "text",
+      "text": "```cpp\nTObjectPtr<UInputMappingContext> Context;\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -420,
+      "y": -120,
+      "width": 460,
+      "height": 80
+    },
+    {
+      "id": "a33ea184a61b940c",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/TObjectPtr.md",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -260,
+      "width": 760,
+      "height": 120
+    },
+    {
+      "id": "e3f9de7df5539ca9",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UInputMappingContext.md",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": -40,
+      "width": 264,
+      "height": 84
+    },
+    {
+      "id": "bcc932dfca4da657",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/BeginPlay.md",
+      "styleAttributes": {},
+      "x": -2060,
+      "y": 363,
+      "width": 545,
+      "height": 154
+    },
+    {
+      "id": "8fdcf8e35142c24e",
+      "type": "text",
+      "text": "```cpp\nUEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(GetLocalPlayer());\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2365,
+      "y": 700,
+      "width": 1156,
+      "height": 80
+    },
+    {
+      "id": "ea5c5171222087e0",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/GetSubsystem.md",
+      "styleAttributes": {},
+      "x": -3671,
+      "y": 667,
+      "width": 971,
+      "height": 146
+    },
+    {
+      "id": "fbcf8a510e696462",
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/UEnhancedInputLocalPlayerSubsystem.md",
+      "styleAttributes": {},
+      "x": -3100,
+      "y": 517,
+      "width": 400,
+      "height": 83
+    },
+    {
+      "id": "ee01df62228bba02",
+      "x": -3169,
+      "y": 880,
+      "width": 469,
+      "height": 127,
+      "type": "file",
+      "file": "Unreal Engine/Notes/C++/GetLocalPlayer.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e790d355834c6a77",
+      "styleAttributes": {},
+      "fromNode": "a33ea184a61b940c",
+      "fromSide": "right",
+      "toNode": "77af976b3f6c8c3b",
+      "toSide": "left"
+    },
+    {
+      "id": "b7d776f7fd0a8ca2",
+      "styleAttributes": {},
+      "fromNode": "e3f9de7df5539ca9",
+      "fromSide": "right",
+      "toNode": "77af976b3f6c8c3b",
+      "toSide": "left"
+    },
+    {
+      "id": "807002ebe2ec5c17",
+      "styleAttributes": {},
+      "fromNode": "bcc932dfca4da657",
+      "fromSide": "bottom",
+      "toNode": "8fdcf8e35142c24e",
+      "toSide": "top"
+    },
+    {
+      "id": "caf5942d58000418",
+      "styleAttributes": {},
+      "fromNode": "fbcf8a510e696462",
+      "fromSide": "right",
+      "toNode": "8fdcf8e35142c24e",
+      "toSide": "left"
+    },
+    {
+      "id": "fe7abf1f7495a6f7",
+      "styleAttributes": {},
+      "fromNode": "ea5c5171222087e0",
+      "fromSide": "right",
+      "toNode": "8fdcf8e35142c24e",
+      "toSide": "left"
+    },
+    {
+      "id": "0cd27b406f4b11c5",
+      "styleAttributes": {},
+      "fromNode": "ee01df62228bba02",
+      "fromSide": "right",
+      "toNode": "8fdcf8e35142c24e",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

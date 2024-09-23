@@ -1,3 +1,3 @@
 ```cpp
-Weapon->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+virtual void SetCollisionEnabled(ECollisionEnabled::Type NewType)
 ```
