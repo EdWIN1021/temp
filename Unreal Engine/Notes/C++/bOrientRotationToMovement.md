@@ -1,5 +1,4 @@
 ```cpp
-#include "GameFramework/CharacterMovementComponent.h"
 GetCharacterMovement()->bOrientRotationToMovement = true;
 ```
 
