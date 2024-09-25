@@ -1,80 +1,113 @@
 {
-	"nodes":[
-		{
-			"id":"02e91ffe8c305dc7",
-			"type":"text",
-			"text":"```cpp\nUCameraComponnet* ViewCamera;\n```",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-249,
-			"y":-60,
-			"width":329,
-			"height":65
-		},
-		{
-			"id":"be088ddf84770675",
-			"type":"text",
-			"text":"```cpp\nViewCamera = CreateDefaultSubobject<UCameraComponent>(TEXT(\"ViewCamera\"));\n```",
-			"styleAttributes":{"textAlign":"center"},
-			"x":209,
-			"y":-56,
-			"width":731,
-			"height":56
-		},
-		{
-			"id":"f21eeb3a9db4088a",
-			"type":"text",
-			"text":"```cpp\nViewCamera->SetupAttachment(CameraBoom);\n```",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1166,
-			"y":-60,
-			"width":374,
-			"height":60
-		},
-		{"id":"6fa5f13f8de970da","type":"file","file":"Unreal Engine/CreateDefaultSubobject.md","x":105,"y":-360,"width":940,"height":200},
-		{"id":"6b7741dc668445ef","type":"file","file":"Unreal Engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas","portalToFile":"Unreal Engine/Canvas/How/How to create a SpringArm/How to create a SpringArm.canvas","x":-100,"y":-1360,"width":400,"height":400},
-		{"id":"96c5625b5bd284cd","type":"file","file":"Unreal Engine/UCameraComponent.md","x":451,"y":140,"width":249,"height":80}
-	],
-	"edges":[
-		{
-			"id":"c9651bcd3efb6551",
-			"styleAttributes":{},
-			"fromNode":"02e91ffe8c305dc7",
-			"fromSide":"right",
-			"toNode":"be088ddf84770675",
-			"toSide":"left"
-		},
-		{
-			"id":"534ecf4a275d729a",
-			"styleAttributes":{},
-			"fromNode":"be088ddf84770675",
-			"fromSide":"right",
-			"toNode":"f21eeb3a9db4088a",
-			"toSide":"left"
-		},
-		{
-			"id":"ccfd3cf168956a6a",
-			"styleAttributes":{},
-			"fromNode":"6fa5f13f8de970da",
-			"fromSide":"bottom",
-			"toNode":"be088ddf84770675",
-			"toSide":"top"
-		},
-		{
-			"id":"08eada664730627e",
-			"styleAttributes":{},
-			"fromNode":"96c5625b5bd284cd",
-			"fromSide":"top",
-			"toNode":"be088ddf84770675",
-			"toSide":"bottom"
-		},
-		{
-			"id":"2415db73f1c5b3f8",
-			"styleAttributes":{},
-			"fromNode":"6b7741dc668445ef",
-			"fromSide":"bottom",
-			"toNode":"f21eeb3a9db4088a",
-			"toSide":"top"
-		}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "02e91ffe8c305dc7",
+      "type": "text",
+      "text": "```cpp\nUCameraComponnet* ViewCamera;\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -249,
+      "y": -60,
+      "width": 329,
+      "height": 65
+    },
+    {
+      "id": "be088ddf84770675",
+      "type": "text",
+      "text": "```cpp\nViewCamera = CreateDefaultSubobject<UCameraComponent>(TEXT(\"ViewCamera\"));\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 209,
+      "y": -56,
+      "width": 731,
+      "height": 61
+    },
+    {
+      "id": "96c5625b5bd284cd",
+      "type": "file",
+      "file": "Unreal Engine/UCameraComponent.md",
+      "styleAttributes": {},
+      "x": 451,
+      "y": 140,
+      "width": 249,
+      "height": 80
+    },
+    {
+      "id": "f21eeb3a9db4088a",
+      "type": "text",
+      "text": "```cpp\nViewCamera->SetupAttachment(CameraBoom);\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1173,
+      "y": -55,
+      "width": 374,
+      "height": 60
+    },
+    {
+      "id": "6b7741dc668445ef",
+      "type": "file",
+      "file": "Unreal Engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": -400,
+      "width": 480,
+      "height": 240
+    },
+    {
+      "id": "6fa5f13f8de970da",
+      "type": "file",
+      "file": "Unreal Engine/CreateDefaultSubobject.md",
+      "styleAttributes": {},
+      "x": 105,
+      "y": -400,
+      "width": 940,
+      "height": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "c9651bcd3efb6551",
+      "styleAttributes": {},
+      "fromNode": "02e91ffe8c305dc7",
+      "fromSide": "right",
+      "toNode": "be088ddf84770675",
+      "toSide": "left"
+    },
+    {
+      "id": "534ecf4a275d729a",
+      "styleAttributes": {},
+      "fromNode": "be088ddf84770675",
+      "fromSide": "right",
+      "toNode": "f21eeb3a9db4088a",
+      "toSide": "left"
+    },
+    {
+      "id": "ccfd3cf168956a6a",
+      "styleAttributes": {},
+      "fromNode": "6fa5f13f8de970da",
+      "fromSide": "bottom",
+      "toNode": "be088ddf84770675",
+      "toSide": "top"
+    },
+    {
+      "id": "08eada664730627e",
+      "styleAttributes": {},
+      "fromNode": "96c5625b5bd284cd",
+      "fromSide": "top",
+      "toNode": "be088ddf84770675",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2415db73f1c5b3f8",
+      "styleAttributes": {},
+      "fromNode": "6b7741dc668445ef",
+      "fromSide": "bottom",
+      "toNode": "f21eeb3a9db4088a",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }

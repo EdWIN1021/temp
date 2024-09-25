@@ -20,5 +20,5 @@ UPROPERTY(VisibleInstanceOnly)
 
 UPROPERTY(VisibleAnywhere)
 
-
+UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_Health, Category = "Vital Attributes")
 ```

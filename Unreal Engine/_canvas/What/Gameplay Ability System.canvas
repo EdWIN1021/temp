@@ -8,15 +8,16 @@
       "y": -400,
       "width": 4570,
       "height": 2240,
+      "color": "4",
       "label": "PlayerState/CharacterClass"
     },
     {
       "id": "ea765d4c22934b4a",
       "type": "group",
-      "x": -7122,
-      "y": 2080,
-      "width": 3825,
-      "height": 1080,
+      "x": -7490,
+      "y": 2480,
+      "width": 3510,
+      "height": 1320,
       "color": "5",
       "label": "AttributeSet"
     },
@@ -26,7 +27,7 @@
       "x": -320,
       "y": -540,
       "width": 2040,
-      "height": 1080,
+      "height": 1020,
       "color": "1",
       "label": "Player State"
     },
@@ -42,17 +43,18 @@
     {
       "id": "45815432cf757c72",
       "type": "group",
-      "x": -320,
-      "y": 1120,
-      "width": 1600,
+      "x": -100,
+      "y": 1080,
+      "width": 1400,
       "height": 760,
+      "color": "3",
       "label": "AIController"
     },
     {
       "id": "424661f6027b6201",
       "type": "group",
-      "x": -160,
-      "y": 1240,
+      "x": -40,
+      "y": 1200,
       "width": 1300,
       "height": 560,
       "label": "BeginPlay"
@@ -60,10 +62,10 @@
     {
       "id": "694a4c5e1f39fa62",
       "type": "group",
-      "x": -5402,
-      "y": 2580,
-      "width": 1140,
-      "height": 460,
+      "x": -5417,
+      "y": 2830,
+      "width": 1120,
+      "height": 620,
       "label": "GetLifetimeReplicatedProps"
     },
     {
@@ -95,36 +97,112 @@
       "label": "Client"
     },
     {
-      "id": "c5602c6b14d65333",
+      "id": "d37b97cd6ef50c72",
       "type": "file",
-      "file": "Unreal Engine/_canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
+      "file": "Unreal Engine/_canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
+      "portalToFile": "Unreal Engine/_canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
       "styleAttributes": {},
-      "portalToFile": "Unreal Engine/_canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
-      "x": -4910,
-      "y": -280,
-      "width": 1820,
-      "height": 660
+      "x": -4980,
+      "y": 1120,
+      "width": 1380,
+      "height": 595
     },
     {
-      "id": "deafbd5873c00450",
+      "id": "41776edc16f15b61",
       "type": "text",
-      "text": "```cpp\nPrivateDependencyModuleNames.AddRange(new string[] { \"GameplayAbilities\", \"GameplayTags\", \"GameplayTasks\" });\n```",
+      "text": "```cpp\nUAttributeSet* GetAttributeSet() const { return AttributeSet; };\n```",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 3200,
-      "y": -666,
-      "width": 959,
-      "height": 60
+      "x": -3130,
+      "y": 1382,
+      "width": 600,
+      "height": 72
     },
     {
-      "id": "2c3bfdcdd312d2ad",
+      "id": "c817a5cee36b0cac",
       "type": "file",
-      "file": "Unreal Engine/Ability System Component/SetIsReplicated.md",
+      "file": "Unreal Engine/SetReplicationMode.md",
       "x": -2680,
-      "y": 620,
-      "width": 556,
-      "height": 150
+      "y": 860,
+      "width": 861,
+      "height": 142
+    },
+    {
+      "id": "b30b89924e72fce5",
+      "type": "file",
+      "file": "Unreal Engine/GetAbilitySystemComponent.md",
+      "styleAttributes": {},
+      "x": -4850,
+      "y": 600,
+      "width": 809,
+      "height": 260
+    },
+    {
+      "id": "f2a728e4f43ad549",
+      "type": "file",
+      "file": "Unreal Engine/OnRep_<attribute>.md",
+      "x": -6435,
+      "y": 2840,
+      "width": 817,
+      "height": 219
+    },
+    {
+      "id": "541bb84ceef6e0f2",
+      "type": "file",
+      "file": "GAMEPLAYATTRIBUTE_REPNOTIFY.md",
+      "x": -7330,
+      "y": 3281,
+      "width": 700,
+      "height": 221
+    },
+    {
+      "id": "a09e6fafa52212c9",
+      "type": "text",
+      "text": "```cpp\nvoid UAuraAttributeSet::OnRep_Health(const FGameplayAttributeData& OldHealth) const  \n{  \n    GAMEPLAYATTRIBUTE_REPNOTIFY(UAuraAttributeSet, Health, OldHealth);  \n}\n```",
+      "styleAttributes": {},
+      "x": -6453,
+      "y": 3313,
+      "width": 853,
+      "height": 158
+    },
+    {
+      "id": "b2604e438723dd31",
+      "type": "file",
+      "file": "DOREPLIFETIME_CONDITION_NOTIFY.md",
+      "x": -5282,
+      "y": 3163,
+      "width": 850,
+      "height": 220
+    },
+    {
+      "id": "7c0df03ba69fdd78",
+      "type": "file",
+      "file": "Unreal Engine/AttributeSet/GetLifetimeReplicatedProps.md",
+      "x": -5337,
+      "y": 2909,
+      "width": 960,
+      "height": 192
+    },
+    {
+      "id": "07c85206c394c6d1",
+      "type": "text",
+      "text": "```cpp\nUPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_Health, Category = \"Vital Attributes\")  \nFGameplayAttributeData Health;\n```",
+      "styleAttributes": {},
+      "x": -5930,
+      "y": 2560,
+      "width": 880,
+      "height": 102
+    },
+    {
+      "id": "10d2fb051f2e3837",
+      "type": "text",
+      "text": "```cpp\nEGameplayEffectReplicationMode::Minimal\n```",
+      "styleAttributes": {},
+      "x": -1451,
+      "y": 1030,
+      "width": 438,
+      "height": 90
     },
     {
       "id": "364758874000b52e",
@@ -137,61 +215,64 @@
       "height": 100
     },
     {
-      "id": "c817a5cee36b0cac",
+      "id": "2c3bfdcdd312d2ad",
       "type": "file",
-      "file": "Unreal Engine/SetReplicationMode.md",
+      "file": "Unreal Engine/AbilitySystemComponent/SetIsReplicated.md",
       "x": -2680,
-      "y": 860,
-      "width": 861,
-      "height": 142
+      "y": 620,
+      "width": 556,
+      "height": 150
     },
     {
-      "id": "b8650f1c4e2bf3b3",
-      "type": "text",
-      "text": "Gameplay Ability",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 3549,
-      "y": -535,
+      "id": "a0755a692275ece9",
+      "type": "file",
+      "file": "Unreal Engine/IAbilitySystemInterface.md",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": 660,
       "width": 260,
-      "height": 60
+      "height": 85
     },
     {
-      "id": "5fe75b503429f05b",
-      "type": "text",
-      "text": "Gameplay Ability System",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 4388,
-      "y": -666,
-      "width": 260,
-      "height": 60
+      "id": "c5602c6b14d65333",
+      "type": "file",
+      "file": "Unreal Engine/_canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
+      "styleAttributes": {},
+      "portalToFile": "Unreal Engine/_canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
+      "x": -4910,
+      "y": -280,
+      "width": 1820,
+      "height": 660
     },
     {
-      "id": "79f33fb75f025a0d",
+      "id": "4342bc7578ac27b0",
       "type": "text",
-      "text": "Ability Task",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 4518,
-      "y": -475,
-      "width": 260,
-      "height": 60
+      "text": "```cpp\nvoid AAuraCharacter::PossessedBy(AController* NewController)  \n{  \n    Super::PossessedBy(NewController);  \n      \n    // Init ability actor info for the server  \n    InitAbilityActorInfo();  \n}\n```",
+      "styleAttributes": {},
+      "x": -135,
+      "y": 60,
+      "width": 625,
+      "height": 240
     },
     {
-      "id": "5dbf8552bead4c93",
+      "id": "8d6719cd671a8b44",
       "type": "text",
-      "text": "Edit -> Plugins -> Gameplay Abilities",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 3658,
-      "y": -965,
-      "width": 353,
-      "height": 65
+      "text": "```cpp\nAAuraPlayerState* AuraPlayerState = GetPlayerState<AAuraPlayerState>();  \ncheck(AuraPlayerState);  \nAuraPlayerState->GetAbilitySystemComponent()->InitAbilityActorInfo(AuraPlayerState, this);  \nAbilitySystemComponent = AuraPlayerState->GetAbilitySystemComponent();  \nAttributeSet = AuraPlayerState->GetAttributeSet();\n```",
+      "styleAttributes": {},
+      "x": 182,
+      "y": -420,
+      "width": 1078,
+      "height": 200
+    },
+    {
+      "id": "fdd1369d5646403d",
+      "type": "text",
+      "text": "```cpp\nvoid AAuraCharacter::OnRep_PlayerState()  \n{  \n    Super::OnRep_PlayerState();  \n      \n    // Init ability actor info for the client  \n    InitAbilityActorInfo();  \n}\n```",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 71,
+      "width": 520,
+      "height": 219
     },
     {
       "id": "c662433f1963dd32",
@@ -218,204 +299,92 @@
       "height": 60
     },
     {
-      "id": "d37b97cd6ef50c72",
-      "type": "file",
-      "file": "Unreal Engine/_canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
-      "portalToFile": "Unreal Engine/_canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
-      "styleAttributes": {},
-      "x": -4980,
-      "y": 1120,
-      "width": 1380,
-      "height": 595
-    },
-    {
-      "id": "b30b89924e72fce5",
-      "type": "file",
-      "file": "Unreal Engine/GetAbilitySystemComponent.md",
-      "styleAttributes": {},
-      "x": -4850,
-      "y": 600,
-      "width": 809,
-      "height": 260
-    },
-    {
-      "id": "41776edc16f15b61",
+      "id": "b8650f1c4e2bf3b3",
       "type": "text",
-      "text": "```cpp\nUAttributeSet* GetAttributeSet() const { return AttributeSet; };\n```",
+      "text": "Gameplay Ability",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -3130,
-      "y": 1382,
-      "width": 600,
-      "height": 72
+      "x": 3549,
+      "y": -535,
+      "width": 260,
+      "height": 60
     },
     {
-      "id": "10d2fb051f2e3837",
+      "id": "5dbf8552bead4c93",
       "type": "text",
-      "text": "```cpp\nEGameplayEffectReplicationMode::Minimal\n```",
-      "styleAttributes": {},
-      "x": -1451,
-      "y": 1030,
-      "width": 438,
-      "height": 90
+      "text": "Edit -> Plugins -> Gameplay Abilities",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 3658,
+      "y": -965,
+      "width": 353,
+      "height": 65
+    },
+    {
+      "id": "5fe75b503429f05b",
+      "type": "text",
+      "text": "Gameplay Ability System",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 4388,
+      "y": -666,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "79f33fb75f025a0d",
+      "type": "text",
+      "text": "Ability Task",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 4518,
+      "y": -475,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f806a62cc4f3d9b0",
+      "type": "file",
+      "file": "Unreal Engine/Gameplay Effect.md",
+      "x": -2975,
+      "y": 2360,
+      "width": 215,
+      "height": 80
     },
     {
       "id": "0cd3fdfba110fe17",
       "type": "text",
       "text": "```cpp\nAbilitySystemComponent->InitAbilityActorInfo(this, this);\n```",
       "styleAttributes": {},
-      "x": -60,
-      "y": 1320,
+      "x": 60,
+      "y": 1280,
       "width": 1020,
       "height": 80
     },
     {
       "id": "bd3fc069eefcdf71",
       "type": "file",
-      "file": "Unreal Engine/Ability System Component/InitAbilityActorInfo.md",
-      "x": 30,
-      "y": 1556,
-      "width": 840,
-      "height": 144
-    },
-    {
-      "id": "8d6719cd671a8b44",
-      "type": "text",
-      "text": "```cpp\nAAuraPlayerState* AuraPlayerState = GetPlayerState<AAuraPlayerState>();  \ncheck(AuraPlayerState);  \nAuraPlayerState->GetAbilitySystemComponent()->InitAbilityActorInfo(AuraPlayerState, this);  \nAbilitySystemComponent = AuraPlayerState->GetAbilitySystemComponent();  \nAttributeSet = AuraPlayerState->GetAttributeSet();\n```",
-      "styleAttributes": {},
-      "x": 182,
-      "y": -420,
-      "width": 1078,
+      "file": "Unreal Engine/AbilitySystemComponent/InitAbilityActorInfo.md",
+      "x": 175,
+      "y": 1480,
+      "width": 790,
       "height": 200
     },
     {
-      "id": "4342bc7578ac27b0",
+      "id": "deafbd5873c00450",
       "type": "text",
-      "text": "```cpp\nvoid AAuraCharacter::PossessedBy(AController* NewController)  \n{  \n    Super::PossessedBy(NewController);  \n      \n    // Init ability actor info for the server  \n    InitAbilityActorInfo();  \n}\n```",
-      "styleAttributes": {},
-      "x": -135,
-      "y": 60,
-      "width": 625,
-      "height": 240
-    },
-    {
-      "id": "fdd1369d5646403d",
-      "type": "text",
-      "text": "```cpp\nvoid AAuraCharacter::OnRep_PlayerState()  \n{  \n    Super::OnRep_PlayerState();  \n      \n    // Init ability actor info for the client  \n    InitAbilityActorInfo();  \n}\n```",
-      "styleAttributes": {},
-      "x": 1000,
-      "y": 71,
-      "width": 520,
-      "height": 219
-    },
-    {
-      "id": "a0755a692275ece9",
-      "type": "file",
-      "file": "Unreal Engine/IAbilitySystemInterface.md",
-      "styleAttributes": {},
-      "x": -6120,
-      "y": 675,
-      "width": 320,
-      "height": 110
-    },
-    {
-      "id": "f806a62cc4f3d9b0",
-      "type": "file",
-      "file": "Gameplay Effect.md",
-      "x": -2975,
-      "y": 2131,
-      "width": 290,
-      "height": 80
-    },
-    {
-      "id": "a09e6fafa52212c9",
-      "type": "text",
-      "text": "```cpp\nvoid UAuraAttributeSet::OnRep_Health(const FGameplayAttributeData& OldHealth) const  \n{  \n    GAMEPLAYATTRIBUTE_REPNOTIFY(UAuraAttributeSet, Health, OldHealth);  \n}\n```",
-      "styleAttributes": {},
-      "x": -6478,
-      "y": 2881,
-      "width": 954,
-      "height": 158
-    },
-    {
-      "id": "474e7cb6e464bece",
-      "type": "text",
-      "text": "```cpp\nUFUNCTION()  \nvoid OnRep_Health(const FGameplayAttributeData& OldHealth) const;\n```",
-      "styleAttributes": {},
-      "x": -6362,
-      "y": 2600,
-      "width": 722,
-      "height": 120
-    },
-    {
-      "id": "fd939f37418ba5d1",
-      "type": "text",
-      "text": "function will be called on clients when the property changes on the server",
-      "styleAttributes": {},
-      "x": -7082,
-      "y": 2618,
-      "width": 401,
-      "height": 84
-    },
-    {
-      "id": "06dd765c8d810b32",
-      "type": "text",
-      "text": "GAMEPLAYATTRIBUTE_REPNOTIFY macro handles notifying other systems (like UI or gameplay logic) that the attribute has changed, allowing for appropriate updates.",
-      "styleAttributes": {},
-      "x": -7082,
-      "y": 2895,
-      "width": 458,
-      "height": 130
-    },
-    {
-      "id": "07c85206c394c6d1",
-      "type": "text",
-      "text": "```cpp\nUPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_Health, Category = \"Vital Attributes\")  \nFGameplayAttributeData Health;\n```",
-      "styleAttributes": {},
-      "x": -5942,
-      "y": 2200,
-      "width": 880,
-      "height": 102
-    },
-    {
-      "id": "4e1c9df8e487e351",
-      "type": "text",
-      "text": "```cpp\nDOREPLIFETIME_CONDITION_NOTIFY(UAuraAttributeSet, Health, COND_None, REPNOTIFY_Always);\n```",
-      "styleAttributes": {},
-      "x": -5272,
-      "y": 2880,
-      "width": 860,
-      "height": 100
-    },
-    {
-      "id": "7c0df03ba69fdd78",
-      "type": "file",
-      "file": "Unreal Engine/AttributeSet/GetLifetimeReplicatedProps.md",
-      "x": -5322,
-      "y": 2618,
-      "width": 960,
-      "height": 152
-    },
-    {
-      "id": "f7bab4a2fac6dafd",
-      "type": "text",
-      "text": "This function is responsible for defining which properties should be replicated over the network.",
-      "styleAttributes": {},
-      "x": -4030,
-      "y": 2650,
-      "width": 474,
-      "height": 89
-    },
-    {
-      "id": "e91ddca18d6ef370",
-      "type": "text",
-      "text": "`DOREPLIFETIME_CONDITION_NOTIFY`: Specifies that the `Health` property should be replicated without any conditions, and will notify clients whenever it changes (`REPNOTIFY_Always`).",
-      "styleAttributes": {},
-      "x": -4162,
-      "y": 2900,
-      "width": 800,
-      "height": 80
+      "text": "```cpp\nPrivateDependencyModuleNames.AddRange(new string[] { \"GameplayAbilities\", \"GameplayTags\", \"GameplayTasks\" });\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2961,
+      "y": -696,
+      "width": 959,
+      "height": 60
     }
   ],
   "edges": [
@@ -533,7 +502,7 @@
       "styleAttributes": {},
       "fromNode": "07c85206c394c6d1",
       "fromSide": "bottom",
-      "toNode": "474e7cb6e464bece",
+      "toNode": "f2a728e4f43ad549",
       "toSide": "top"
     },
     {
@@ -545,52 +514,28 @@
       "toSide": "top"
     },
     {
-      "id": "f39a139067b0081b",
-      "styleAttributes": {},
-      "fromNode": "474e7cb6e464bece",
-      "fromSide": "bottom",
-      "toNode": "a09e6fafa52212c9",
-      "toSide": "top"
-    },
-    {
       "id": "13bef1181dff5581",
       "styleAttributes": {},
       "fromNode": "7c0df03ba69fdd78",
       "fromSide": "bottom",
-      "toNode": "4e1c9df8e487e351",
+      "toNode": "b2604e438723dd31",
       "toSide": "top"
     },
     {
-      "id": "e42016fc20d746e2",
+      "id": "69212edf7decdeb3",
       "styleAttributes": {},
-      "fromNode": "06dd765c8d810b32",
+      "fromNode": "541bb84ceef6e0f2",
       "fromSide": "right",
       "toNode": "a09e6fafa52212c9",
       "toSide": "left"
     },
     {
-      "id": "0ee9dbbb7c3d3021",
+      "id": "f970de704161346b",
       "styleAttributes": {},
-      "fromNode": "fd939f37418ba5d1",
-      "fromSide": "right",
-      "toNode": "474e7cb6e464bece",
-      "toSide": "left"
-    },
-    {
-      "id": "72a159c35016e16e",
-      "styleAttributes": {},
-      "fromNode": "f7bab4a2fac6dafd",
-      "fromSide": "left",
-      "toNode": "7c0df03ba69fdd78",
-      "toSide": "right"
-    },
-    {
-      "id": "c9717ccd98668c30",
-      "styleAttributes": {},
-      "fromNode": "e91ddca18d6ef370",
-      "fromSide": "left",
-      "toNode": "4e1c9df8e487e351",
-      "toSide": "right"
+      "fromNode": "f2a728e4f43ad549",
+      "fromSide": "bottom",
+      "toNode": "a09e6fafa52212c9",
+      "toSide": "top"
     }
   ],
   "metadata": {}

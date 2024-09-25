@@ -1,16 +1,18 @@
 {
-	"nodes":[
-		{
-			"id":"5fb50d8d11a50633",
-			"type":"text",
-			"text":"![[Unreal Engine/_canvas/How/How to attach a item to a socket/screenshot_01.png]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-130,
-			"y":-30,
-			"width":370,
-			"height":190
-		}
-	],
-	"edges":[],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "5fb50d8d11a50633",
+      "type": "text",
+      "text": "![[Unreal Engine/_canvas/How/How to attach a item to a socket/screenshot_01.png]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -130,
+      "y": -30,
+      "width": 370,
+      "height": 190
+    }
+  ],
+  "edges": [],
+  "metadata": {}
 }
