@@ -8,53 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "259a7e4922ac9ee4",
+            "id": "5678fa7717eecce1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Unreal Engine/Canvas/What/Gameplay Ability System.canvas",
+                "file": "Unreal Engine/_canvas/What/Gameplay Ability System.canvas",
                 "viewState": {
-                  "x": -595.1588694362545,
-                  "y": 274.09777300705673,
-                  "zoom": -0.9061816313267935
+                  "x": -4145.97160844113,
+                  "y": 1248.2493831199517,
+                  "zoom": -1.0407280850410485
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "fed9045de6d8fbdb",
+            "id": "6381abd63bb31a39",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unreal Engine/Canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
-                "viewState": {
-                  "x": 375.78928819387863,
-                  "y": -47.54011362956305,
-                  "zoom": -0.373070888966322
-                }
-              }
-            }
-          },
-          {
-            "id": "5a4af810439068c5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Unreal Engine/Canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
-                "viewState": {
-                  "x": 349.28296552159964,
-                  "y": 69.37317359393187,
-                  "zoom": -0.20227994680404662
-                }
+                "file": "Unreal Engine/AddMovementInput.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "getAbili",
+                "query": "Uproper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5,
-    "collapsed": true
+    "width": 418.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -121,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/Canvas/What/Gameplay Ability System.canvas",
+                "file": "Unreal Engine/AddMovementInput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/Canvas/What/Gameplay Ability System.canvas",
+                "file": "Unreal Engine/AddMovementInput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/Canvas/What/Gameplay Ability System.canvas"
+                "file": "Unreal Engine/AddMovementInput.md"
               }
             }
           }
@@ -179,65 +162,67 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "259a7e4922ac9ee4",
+  "active": "906761a8f911bb3b",
   "lastOpenFiles": [
-    "Unreal Engine/Canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
+    "Unreal Engine/AddOnScreenDebugMessage.md",
+    "Unreal Engine/AddMovementInput.md",
+    "Unreal Engine/AddControllerPitchInput.md",
+    "Unreal Engine/YawRotation.md",
+    "Unreal Engine/Ability System Component/UAbilitySystemComponent.md",
+    "Unreal Engine/AttributeSet/AttributeSet.md",
+    "Unreal Engine/AttributeSet/FGameplayAttributeData.md",
+    "Unreal Engine/AttributeSet/GetLifetimeReplicatedProps.md",
+    "Unreal Engine/AttributeSet/UAttributeSet.md",
+    "Unreal Engine/AttributeSet/screenshots/screenshot_01.png",
+    "Unreal Engine/Ability System Component/screenshots/screenshot_01.png",
+    "Unreal Engine/_canvas/What/Gameplay Ability System.canvas",
+    "Unreal Engine/AttributeSet/screenshots",
+    "Unreal Engine/_canvas/What/Blueprint Class.canvas",
+    "Unreal Engine/_canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
+    "Unreal Engine/_canvas/How/How to create Ability System Component/How to create Ability System Component.canvas",
+    "Unreal Engine/_canvas/How/How to make Character Jump/How to make Character Jump.canvas",
+    "Unreal Engine/_canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
+    "Unreal Engine/AttributeSet/Untitled.md",
+    "Unreal Engine/Ability System Component/AbilitySystemComponent.md",
+    "Unreal Engine/UPROPERTY.md",
+    "Unreal Engine/_canvas/How/How to create a Camera/How to create a Camera.md",
+    "Unreal Engine/Ability System Component/SetIsReplicated.md",
+    "Unreal Engine/Ability System Component/InitAbilityActorInfo.md",
+    "home/home.canvas",
+    "Unreal Engine/AIController.md",
+    "Unreal Engine/Actor Component.md",
+    "Unreal Engine/Actor.md",
+    "Unreal Engine/UEngine.md",
+    "Unreal Engine/VectorParameter.md",
     "Unreal Engine/Canvas/What/Gameplay Ability System.canvas",
-    "Unreal Engine/Canvas/How/How to create AttributeSet/How to create AttributeSet.canvas",
-    "Unreal Engine/Notes/AttributeSet/screenshot_01.png",
-    "Unreal Engine/Notes/AttributeSet/AttributeSet.md",
-    "Unreal Engine/Canvas/How/How to create AttributeAsset/How to create AttributeAsset.canvas",
-    "Unreal Engine/Canvas/How/How to create AttributeAsset/screenshot_01.png",
-    "Unreal Engine/Notes/C++/GetAbilitySystemComponent.md",
-    "Unreal Engine/Canvas/How/How to create AttributeSet/Untitled.md",
-    "Unreal Engine/Canvas/How/How to create AttributeSet",
-    "Unreal Engine/Notes/C++/IAbilitySystemInterface.md",
-    "Unreal Engine/Canvas/How/How to create Ability System Component",
-    "Unreal Engine/Notes/C++/SetIsReplicated.md",
-    "Unreal Engine/Notes/Ability System Component/SetIsReplicated.md",
     "Unreal Engine/Canvas/What/Blueprint Class.canvas",
-    "Unreal Engine/Notes/Cast To.md",
-    "Unreal Engine/Notes/Skeletal Mesh.md",
-    "Unreal Engine/Canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
-    "Unreal Engine/Notes/Blueprint Class.md",
-    "Unreal Engine/Notes/AIController.md",
-    "Unreal Engine/Notes/Collision Presets.md",
-    "Unreal Engine/Notes/GameModeBase.md",
-    "Unreal Engine/Notes/Level Blueprint.md",
-    "Unreal Engine/Notes/GameInstance.md",
-    "Unreal Engine/Notes/PlayerController.md",
-    "Unreal Engine/Notes/Scene Component.md",
-    "Unreal Engine/Notes/Pure function.md",
-    "Unreal Engine/Notes/Object.md",
-    "Unreal Engine/Notes/C++/GetPawn.md",
-    "Unreal Engine/Canvas/How/How to create a Camera/How to create a Camera.canvas",
-    "README.md",
-    "Unreal Engine/Notes/Ability System Component/Ability System Component.md",
-    "Unreal Engine/Notes/Ability System Component/screenshot_01.png",
-    "Unreal Engine/Notes/Actor.md",
-    "Unreal Engine/Notes/Ability System Component",
-    "Unreal Engine/Notes/AttributeSet",
-    "Unreal Engine/Canvas/How/How to create AbilitySystemComponent/How to create AbilitySystemComponent.canvas",
-    "Unreal Engine/Canvas/How/How to create AttributeAsset",
-    "Unreal Engine/Canvas/How/How to create a Material/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to create AbilitySystemComponent/Untitled.md",
-    "Unreal Engine/Canvas/How/How to create AbilitySystemComponent",
-    "Unreal Engine/Settings.md",
-    "Unreal Engine/Canvas/What/Mesh.canvas",
-    "Unreal Engine/Notes/C++/NetUpdateFrequency.md",
-    "Unreal Engine/Canvas/How/How to attach a item to a socket/screenshot_01.png",
+    "Untitled.md",
+    "home",
     "Unreal Engine/Canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
-    "Unreal Engine/Canvas/How/How to make Third Person Movement",
-    "Unreal Engine/Canvas/How/How to set Cursor Behavior",
-    "Unreal Engine/Canvas/How/How to create a Enhanced Input System",
-    "Unreal Engine/Canvas/How/How to create a Socket",
+    "Unreal Engine/Ability System Component/Ability System Component.md",
+    "Unreal Engine/Ability System Component/screenshot_01.png",
+    "Unreal Engine/SetReplicationMode.md",
+    "Unreal Engine/bReplicates.md",
+    "Unreal Engine/Settings.md",
+    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png",
+    "README.md",
+    "journals",
+    "whiteboards/66f2e89d-02a0-4f8c-a336-b5152253d8b4.edn",
+    "pages",
+    "logseq/custom.css",
+    "logseq/config.edn",
+    "logseq",
+    "Unreal Engine/Canvas/How/How to create AttributeAsset/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to create AttributeSet",
+    "Unreal Engine/Canvas/How/How to create Ability System Component",
+    "Unreal Engine/Canvas/How/How to create a Material/screenshot_01.png",
+    "Unreal Engine/Canvas/How/How to attach a item to a socket/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to create a Material/screenshot_02.png",
     "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useReducer f5ff2c36ffc7410babec79c0adae494d/Screenshot_2023-11-12_at_10.49.41_AM.png",
-    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useContext 560934936d5b481a83843f4a0de644c0/Screenshot_2023-11-12_at_1.42.47_PM.png",
-    "legacy/wiki dd315096754f4c31848b6d083c4082d8/Javascript 352bea2673014447af897ef2c8bb0a1d/Expressions & Operators c41aee8127bb4923ade37bc965b7c7b6/new fb7ffe82e17d42f0966c771437ba39e0/classnew一个对象imageimage_DrhA7VeFWQ.png",
-    "legacy/wiki dd315096754f4c31848b6d083c4082d8/Javascript 352bea2673014447af897ef2c8bb0a1d/Built-in 44cd7d0076d744cca4e4218ecae6f50c/Promise ae89a37a26d849b0a30977396e083f31/asynchronouspromiseimageqh60y8ukw-_MEQLP9xC4v.png"
+    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useContext 560934936d5b481a83843f4a0de644c0/Screenshot_2023-11-12_at_1.42.47_PM.png"
   ]
 }

@@ -1,0 +1,53 @@
+{
+	"nodes":[
+		{
+			"id":"340b69ab86cd999a",
+			"type":"file",
+			"file":"Unreal Engine/Skeletal Mesh.md",
+			"styleAttributes":{},
+			"x":160,
+			"y":-240,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"ea83c45eaf23f006",
+			"type":"file",
+			"file":"Unreal Engine/Mesh.md",
+			"styleAttributes":{},
+			"x":-480,
+			"y":80,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"abfa1b8ca59d6c5f",
+			"type":"file",
+			"file":"Unreal Engine/Static Mesh.md",
+			"styleAttributes":{},
+			"x":160,
+			"y":360,
+			"width":400,
+			"height":400
+		}
+	],
+	"edges":[
+		{
+			"id":"cc0efbe9f65871ad",
+			"styleAttributes":{},
+			"fromNode":"ea83c45eaf23f006",
+			"fromSide":"right",
+			"toNode":"abfa1b8ca59d6c5f",
+			"toSide":"left"
+		},
+		{
+			"id":"30ec610b46efe99d",
+			"styleAttributes":{},
+			"fromNode":"ea83c45eaf23f006",
+			"fromSide":"right",
+			"toNode":"340b69ab86cd999a",
+			"toSide":"left"
+		}
+	],
+	"metadata":{}
+}
