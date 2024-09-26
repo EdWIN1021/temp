@@ -206,11 +206,11 @@
 			"height":85
 		},
 		{"id":"f806a62cc4f3d9b0","type":"file","file":"unreal-engine/Gameplay Effect.md","x":-2094,"y":2233,"width":215,"height":80},
-		{"id":"541bb84ceef6e0f2","type":"file","file":"GAMEPLAYATTRIBUTE_REPNOTIFY.md","x":-6920,"y":2910,"width":700,"height":221},
-		{"id":"73ff381417d06721","type":"file","file":"Attribute Accessors.md","x":-6840,"y":2172,"width":913,"height":417},
+		{"id":"541bb84ceef6e0f2","type":"file","file":"unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY.md","x":-6920,"y":2910,"width":700,"height":221},
+		{"id":"73ff381417d06721","type":"file","file":"unreal-engine/Attribute Accessors.md","x":-6840,"y":2172,"width":913,"height":417},
 		{"id":"f2a728e4f43ad549","type":"file","file":"unreal-engine/AttributeSet/OnRep_<Attribute>.md","x":-6075,"y":2800,"width":817,"height":440},
 		{"id":"7c0df03ba69fdd78","type":"file","file":"unreal-engine/AttributeSet/GetLifetimeReplicatedProps.md","x":-4980,"y":2879,"width":960,"height":192},
-		{"id":"b2604e438723dd31","type":"file","file":"DOREPLIFETIME_CONDITION_NOTIFY.md","x":-4925,"y":3130,"width":850,"height":220},
+		{"id":"b2604e438723dd31","type":"file","file":"unreal-engine/DOREPLIFETIME_CONDITION_NOTIFY.md","x":-4925,"y":3130,"width":850,"height":220},
 		{"id":"4dd7bc92b1524e62","type":"file","file":"unreal-engine/AttributeSet/FGameplayAttributeData.md","x":-5620,"y":2221,"width":840,"height":319},
 		{"id":"b41b5e19d715ee2c","type":"file","file":"unreal-engine/AttributeSet/Init<Attribute>.md","x":-4480,"y":2320,"width":477,"height":146}
 	],

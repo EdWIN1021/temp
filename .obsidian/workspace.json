@@ -11,14 +11,12 @@
             "id": "2626d80b82ec3170",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "home/home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "unreal-engine/Actor.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -72,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 444.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/home.canvas",
+                "file": "unreal-engine/Actor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/home.canvas",
+                "file": "unreal-engine/Actor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/home.canvas"
+                "file": "unreal-engine/Actor.md"
               }
             }
           }
@@ -152,6 +150,25 @@
   },
   "active": "906761a8f911bb3b",
   "lastOpenFiles": [
+    "unreal-engine/Character/Character.md",
+    "unreal-engine/Character/PossessedBy.md",
+    "unreal-engine/Character/ACharacter.md",
+    "unreal-engine/Pawn/OnRep_PlayerState.md",
+    "unreal-engine/Pawn/APawn.md",
+    "unreal-engine/Actor Component.md",
+    "unreal-engine/bConstrainToPlane.md",
+    "unreal-engine/bOrientRotationToMovement.md",
+    "unreal-engine/bReplicates.md",
+    "unreal-engine/bUseControllerRotationPitch.md",
+    "unreal-engine/bSnapToPlaneAtStart.md",
+    "unreal-engine/AddOnScreenDebugMessage.md",
+    "unreal-engine/AddMappingContext.md",
+    "unreal-engine/AddControllerPitchInput.md",
+    "unreal-engine/AbilitySystemComponent/InitAbilityActorInfo.md",
+    "unreal-engine/AbilitySystemComponent/SetIsReplicated.md",
+    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
+    "unreal-engine/ReplicatedUsing.md",
+    "home/home.canvas",
     "unreal-engine/UI/Slate.md",
     "unreal-engine/UI/UMG.md",
     "unreal-engine/_canvas/What/Blueprint Class.canvas",
@@ -166,36 +183,17 @@
     "unreal-engine/UserWidget/UserWidget.md",
     "unreal-engine/WidgetController/screenshots",
     "Unreal Engine/WidgetController/screenshots.md",
-    "Attribute Accessors.md",
     "Screenshot 2024-09-25 at 2.35.16 PM.png",
     "Screenshot 2024-09-25 at 2.39.13 PM.png",
     "Screenshot 2024-09-25 at 2.35.16 PM 1.png",
     "unreal-engine/WidgetController",
     "unreal-engine/UserWidget/screenshots",
-    "Unreal Engine/UserWidget/screenshoots.md",
-    "unreal-engine/Skeletal Meshe Assets.md",
-    "Unreal Engine/UserWidget.md",
     "unreal-engine/UserWidget",
     "unreal-engine/_canvas/What/Gameplay Ability System.canvas",
-    "unreal-engine/AbilitySystemComponent/InitAbilityActorInfo.md",
-    "unreal-engine/AttributeSet/Init<Attribute>.md",
-    "GAMEPLAYATTRIBUTE_REPNOTIFY.md",
-    "unreal-engine/SpringArmComponent/USpringArmComponent.md",
-    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
-    "unreal-engine/AbilitySystemComponent/SetIsReplicated.md",
-    "unreal-engine/AttributeSet/FGameplayAttributeData.md",
-    "ReplicatedUsing.md",
-    "Unreal Engine/AttributeSet/OnRep_<attribute>-Implement.md",
-    "DOREPLIFETIME_CONDITION_NOTIFY.md",
-    "unreal-engine/AttributeSet/GetLifetimeReplicatedProps.md",
-    "unreal-engine/UPROPERTY.md",
-    "unity/Collider/Box Collider 2D.md",
-    "unreal-engine/check.md",
     "Untitled",
     "unreal-engine/_canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
     "unreal-engine/_canvas/How/How to create a Material/How to create a Material.canvas",
     "Unreal Engine/test",
-    "home/home.canvas",
     "unreal-engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
     "unreal-engine/SpringArmComponent",
     "unreal-engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
