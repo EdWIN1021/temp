@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e716beeb564dac4",
+        "id": "5e7f6a1ab9cf34f3",
         "type": "tabs",
         "children": [
           {
-            "id": "2626d80b82ec3170",
+            "id": "9aaebc8d2c123541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal-engine/Actor.md",
+                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BrakingDecelerationWalking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 437.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal-engine/Actor.md",
+                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal-engine/Actor.md",
+                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal-engine/Actor.md"
+                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md"
               }
             }
           }
@@ -150,6 +150,27 @@
   },
   "active": "906761a8f911bb3b",
   "lastOpenFiles": [
+    "unreal-engine/CharacterMovement/bOrientRotationToMovement.md",
+    "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
+    "unreal-engine/CharacterMovement/GetCharacterMovement.md",
+    "unreal-engine/CharacterMovement/MaxWalkSpeed.md",
+    "unreal-engine/CharacterMovement/RotationRate.md",
+    "unreal-engine/bUsePawnControlRotation.md",
+    "unreal-engine/CharacterMovement",
+    "unreal-engine/SpringArmComponent/SpringArmComponent.md",
+    "unreal-engine/SpringArmComponent/USpringArmComponent.md",
+    "unreal-engine/SocketOffset.md",
+    "README.md",
+    "unreal-engine/bReceivesDecals.md",
+    "unreal-engine/bStartWithTickEnabled.md",
+    "home/home.canvas",
+    "unreal-engine/Settings.md",
+    "unreal-engine/YawRotation.md",
+    "unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png",
+    "unreal-engine/AbilitySystemComponent/SetIsReplicated.md",
+    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
+    "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
+    "unreal-engine/Actor.md",
     "unreal-engine/Character/Character.md",
     "unreal-engine/Character/PossessedBy.md",
     "unreal-engine/Character/ACharacter.md",
@@ -157,32 +178,13 @@
     "unreal-engine/Pawn/APawn.md",
     "unreal-engine/Actor Component.md",
     "unreal-engine/bConstrainToPlane.md",
-    "unreal-engine/bOrientRotationToMovement.md",
     "unreal-engine/bReplicates.md",
     "unreal-engine/bUseControllerRotationPitch.md",
-    "unreal-engine/bSnapToPlaneAtStart.md",
-    "unreal-engine/AddOnScreenDebugMessage.md",
-    "unreal-engine/AddMappingContext.md",
-    "unreal-engine/AddControllerPitchInput.md",
-    "unreal-engine/AbilitySystemComponent/InitAbilityActorInfo.md",
-    "unreal-engine/AbilitySystemComponent/SetIsReplicated.md",
-    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
-    "unreal-engine/ReplicatedUsing.md",
-    "home/home.canvas",
-    "unreal-engine/UI/Slate.md",
-    "unreal-engine/UI/UMG.md",
     "unreal-engine/_canvas/What/Blueprint Class.canvas",
     "unreal-engine/UI",
-    "unreal-engine/AttributeSet/OnRep_<Attribute>.md",
-    "Unreal Engine/_canvas/What/UI.md",
     "unreal-engine/UI",
-    "unreal-engine/UFUNCTION.md",
     "unreal-engine/UserWidget/screenshots/Screenshot 2024-09-25 at 2.35.16 PM.png",
-    "unreal-engine/WidgetController/WidgetController.md",
-    "unreal-engine/WidgetController/screenshots/Screenshot 2024-09-25 at 2.39.13 PM.png",
-    "unreal-engine/UserWidget/UserWidget.md",
     "unreal-engine/WidgetController/screenshots",
-    "Unreal Engine/WidgetController/screenshots.md",
     "Screenshot 2024-09-25 at 2.35.16 PM.png",
     "Screenshot 2024-09-25 at 2.39.13 PM.png",
     "Screenshot 2024-09-25 at 2.35.16 PM 1.png",
@@ -200,9 +202,7 @@
     "unreal-engine/_canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
     "unreal-engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png",
     "unreal-engine/_canvas/How/How to create a Camera/How to create a Camera.canvas",
-    "Unreal Engine/whiteboards/66f43886-2034-4905-b48a-3d4cab479f38.edn",
     "unreal-engine/AttributeSet/screenshots/screenshot_01.png",
-    "unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png",
     "unreal-engine/_canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
     "Unreal Engine/Ability System Component/screenshot_01.png",
     "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png"
