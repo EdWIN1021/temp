@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbbf4bc366a1ab67",
+        "id": "4e716beeb564dac4",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c98dfc81bac7de",
+            "id": "2626d80b82ec3170",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Unreal Engine/_canvas/What/Gameplay Ability System.canvas",
+                "file": "home/home.canvas",
                 "viewState": {
-                  "x": -2836.134741946607,
-                  "y": 1509.709024137397,
-                  "zoom": -0.35381137539943025
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
-              }
-            }
-          },
-          {
-            "id": "15ff05a6b963294b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAMEPLAYATTRIBUTE_REPNOTIFY.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -64,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OnRep",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unreal Engine/_canvas/What/Gameplay Ability System.canvas",
+                "file": "home/home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unreal Engine/_canvas/What/Gameplay Ability System.canvas",
+                "file": "home/home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/_canvas/What/Gameplay Ability System.canvas"
+                "file": "home/home.canvas"
               }
             }
           }
@@ -163,62 +150,63 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e9c98dfc81bac7de",
+  "active": "906761a8f911bb3b",
   "lastOpenFiles": [
-    "Unreal Engine/OnRep_<attribute>.md",
+    "unreal-engine/UI/Slate.md",
+    "unreal-engine/UI/UMG.md",
+    "unreal-engine/_canvas/What/Blueprint Class.canvas",
+    "unreal-engine/UI",
+    "unreal-engine/AttributeSet/OnRep_<Attribute>.md",
+    "Unreal Engine/_canvas/What/UI.md",
+    "unreal-engine/UI",
+    "unreal-engine/UFUNCTION.md",
+    "unreal-engine/UserWidget/screenshots/Screenshot 2024-09-25 at 2.35.16 PM.png",
+    "unreal-engine/WidgetController/WidgetController.md",
+    "unreal-engine/WidgetController/screenshots/Screenshot 2024-09-25 at 2.39.13 PM.png",
+    "unreal-engine/UserWidget/UserWidget.md",
+    "unreal-engine/WidgetController/screenshots",
+    "Unreal Engine/WidgetController/screenshots.md",
+    "Attribute Accessors.md",
+    "Screenshot 2024-09-25 at 2.35.16 PM.png",
+    "Screenshot 2024-09-25 at 2.39.13 PM.png",
+    "Screenshot 2024-09-25 at 2.35.16 PM 1.png",
+    "unreal-engine/WidgetController",
+    "unreal-engine/UserWidget/screenshots",
+    "Unreal Engine/UserWidget/screenshoots.md",
+    "unreal-engine/Skeletal Meshe Assets.md",
+    "Unreal Engine/UserWidget.md",
+    "unreal-engine/UserWidget",
+    "unreal-engine/_canvas/What/Gameplay Ability System.canvas",
+    "unreal-engine/AbilitySystemComponent/InitAbilityActorInfo.md",
+    "unreal-engine/AttributeSet/Init<Attribute>.md",
     "GAMEPLAYATTRIBUTE_REPNOTIFY.md",
-    "Unreal Engine/_canvas/What/Gameplay Ability System.canvas",
+    "unreal-engine/SpringArmComponent/USpringArmComponent.md",
+    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
+    "unreal-engine/AbilitySystemComponent/SetIsReplicated.md",
+    "unreal-engine/AttributeSet/FGameplayAttributeData.md",
+    "ReplicatedUsing.md",
+    "Unreal Engine/AttributeSet/OnRep_<attribute>-Implement.md",
     "DOREPLIFETIME_CONDITION_NOTIFY.md",
-    "Unreal Engine/AttributeSet/GetLifetimeReplicatedProps.md",
-    "Unreal Engine/UPROPERTY.md",
+    "unreal-engine/AttributeSet/GetLifetimeReplicatedProps.md",
+    "unreal-engine/UPROPERTY.md",
     "unity/Collider/Box Collider 2D.md",
-    "Unreal Engine/check.md",
-    "Unreal Engine/check 1.md",
+    "unreal-engine/check.md",
     "Untitled",
-    "Unreal Engine/GetPlayerState.md",
-    "Unreal Engine/_canvas/What/Blueprint Class.canvas",
-    "Unreal Engine/AbilitySystemComponent/SetIsReplicated.md",
-    "Unreal Engine/AbilitySystemComponent/InitAbilityActorInfo.md",
-    "Unreal Engine/AbilitySystemComponent/AbilitySystemComponent.md",
-    "Unreal Engine/SpringArmComponent/USpringArmComponent.md",
-    "Unreal Engine/SpringArmComponent/SpringArmComponent.md",
-    "Unreal Engine/Actor Component.md",
-    "Unreal Engine/Actor.md",
-    "Unreal Engine/Pawn/OnRep_PlayerState.md",
-    "Unreal Engine/Pawn/APawn.md",
-    "Unreal Engine/AddMappingContext.md",
-    "Unreal Engine/_canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
-    "Unreal Engine/_canvas/How/How to create a Material/How to create a Material.canvas",
-    "unreal/How to get Ground Speed.md",
+    "unreal-engine/_canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
+    "unreal-engine/_canvas/How/How to create a Material/How to create a Material.canvas",
     "Unreal Engine/test",
-    "Unreal Engine/AttributeSet/AttributeSet.md",
-    "Unreal Engine/AbilitySystemComponent/UAbilitySystemComponent.md",
-    "Unreal Engine/AttributeSet/UAttributeSet.md",
-    "Unreal Engine/AttributeSet/FGameplayAttributeData.md",
-    "Unreal Engine/IAbilitySystemInterface.md",
     "home/home.canvas",
-    "Unreal Engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
-    "Unreal Engine/SpringArmComponent",
-    "Unreal Engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
-    "Unreal Engine/_canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
-    "Unreal Engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png",
-    "Unreal Engine/_canvas/How/How to create a Camera/How to create a Camera.canvas",
+    "unreal-engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
+    "unreal-engine/SpringArmComponent",
+    "unreal-engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
+    "unreal-engine/_canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
+    "unreal-engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png",
+    "unreal-engine/_canvas/How/How to create a Camera/How to create a Camera.canvas",
     "Unreal Engine/whiteboards/66f43886-2034-4905-b48a-3d4cab479f38.edn",
-    "Unreal Engine/whiteboards",
-    "Unreal Engine/logseq/custom.css",
-    "Unreal Engine/pages",
-    "Unreal Engine/logseq/config.edn",
-    "Unreal Engine/journals",
-    "Unreal Engine/logseq",
-    "Unreal Engine/AttributeSet/screenshots/screenshot_01.png",
-    "Unreal Engine/AbilitySystemComponent/screenshots/screenshot_01.png",
-    "Unreal Engine/_canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
+    "unreal-engine/AttributeSet/screenshots/screenshot_01.png",
+    "unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png",
+    "unreal-engine/_canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
     "Unreal Engine/Ability System Component/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to create AttributeAsset/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to create a Material/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to attach a item to a socket/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to create a Material/screenshot_02.png",
-    "legacy/wiki dd315096754f4c31848b6d083c4082d8/React 85ac680e861549a2bc8be6ab005b0fe9/Hooks 3c38631fd2cc448cbfdfe1aa579f714e/useReducer f5ff2c36ffc7410babec79c0adae494d/Screenshot_2023-11-12_at_10.49.41_AM.png"
+    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png"
   ]
 }
