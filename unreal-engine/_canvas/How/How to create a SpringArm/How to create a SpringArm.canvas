@@ -33,7 +33,7 @@
 		{
 			"id":"e5f0f7c97d9daf02",
 			"type":"file",
-			"file":"unreal-engine/CreateDefaultSubobject.md",
+			"file":"unreal-engine/CreateDefaultSubobject/CreateDefaultSubobject.md",
 			"styleAttributes":{},
 			"x":27,
 			"y":-505,
@@ -43,7 +43,7 @@
 		{
 			"id":"5e251b2718948c7c",
 			"type":"file",
-			"file":"unreal-engine/SetupAttachment.md",
+			"file":"unreal-engine/SetupAttachment/SetupAttachment.md",
 			"styleAttributes":{},
 			"x":1076,
 			"y":-501,
@@ -73,7 +73,7 @@
 		{
 			"id":"5b1602451fcd0e3c",
 			"type":"file",
-			"file":"unreal-engine/TargetArmLength.md",
+			"file":"unreal-engine/TargetArmLength/TargetArmLength.md",
 			"styleAttributes":{},
 			"x":2328,
 			"y":100,

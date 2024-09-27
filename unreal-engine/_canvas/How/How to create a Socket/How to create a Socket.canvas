@@ -13,7 +13,7 @@
 		{
 			"id":"880bec7de74673b0",
 			"type":"file",
-			"file":"unreal-engine/CreateDefaultSubobject.md",
+			"file":"unreal-engine/CreateDefaultSubobject/CreateDefaultSubobject.md",
 			"styleAttributes":{},
 			"x":-864,
 			"y":142,
@@ -33,7 +33,7 @@
 		{
 			"id":"d59506b291854d4b",
 			"type":"file",
-			"file":"unreal-engine/SetupAttachment.md",
+			"file":"unreal-engine/SetupAttachment/SetupAttachment.md",
 			"styleAttributes":{},
 			"x":-864,
 			"y":340,

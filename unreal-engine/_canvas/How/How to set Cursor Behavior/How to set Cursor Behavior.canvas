@@ -23,7 +23,7 @@
 		{
 			"id":"0cc61276ea2dba47",
 			"type":"file",
-			"file":"unreal-engine/SetLockMouseToViewportBehavior.md",
+			"file":"unreal-engine/SetLockMouseToViewportBehavior/SetLockMouseToViewportBehavior.md",
 			"styleAttributes":{},
 			"x":-96,
 			"y":-40,
@@ -53,7 +53,7 @@
 		{
 			"id":"127203f1fc8a4d2f",
 			"type":"file",
-			"file":"unreal-engine/SetHideCursorDuringCapture.md",
+			"file":"unreal-engine/SetHideCursorDuringCapture/SetHideCursorDuringCapture.md",
 			"styleAttributes":{},
 			"x":-44,
 			"y":119,
@@ -63,7 +63,7 @@
 		{
 			"id":"9b0c13e543a67906",
 			"type":"file",
-			"file":"unreal-engine/FInputModeGameAndUI.md",
+			"file":"unreal-engine/FInputModeGameAndUI/FInputModeGameAndUI.md",
 			"styleAttributes":{},
 			"x":-2,
 			"y":-196,
@@ -73,7 +73,7 @@
 		{
 			"id":"9c3f8c7dad4aa318",
 			"type":"file",
-			"file":"unreal-engine/DefaultMouseCursor.md",
+			"file":"unreal-engine/DefaultMouseCursor/DefaultMouseCursor.md",
 			"styleAttributes":{},
 			"x":-243,
 			"y":-392,
@@ -93,7 +93,7 @@
 		{
 			"id":"83ba844ff628e77a",
 			"type":"file",
-			"file":"unreal-engine/SetInputMode.md",
+			"file":"unreal-engine/SetInputMode/SetInputMode.md",
 			"styleAttributes":{},
 			"x":-2,
 			"y":334,

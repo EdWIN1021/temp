@@ -1,1 +1,0 @@
-- This Component is used to define various types of character movements, such as walking, running, jumping, swimming, and flying.

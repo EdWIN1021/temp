@@ -213,7 +213,7 @@
 		{
 			"id":"c817a5cee36b0cac",
 			"type":"file",
-			"file":"unreal-engine/SetReplicationMode.md",
+			"file":"unreal-engine/SetReplicationMode/SetReplicationMode.md",
 			"styleAttributes":{},
 			"x":-2740,
 			"y":600,
@@ -303,7 +303,7 @@
 		{
 			"id":"541bb84ceef6e0f2",
 			"type":"file",
-			"file":"unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY.md",
+			"file":"unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY/GAMEPLAYATTRIBUTE_REPNOTIFY.md",
 			"styleAttributes":{},
 			"x":-6860,
 			"y":2960,
@@ -325,7 +325,7 @@
 		{
 			"id":"b30b89924e72fce5",
 			"type":"file",
-			"file":"unreal-engine/GetAbilitySystemComponent.md",
+			"file":"unreal-engine/GetAbilitySystemComponent/GetAbilitySystemComponent.md",
 			"styleAttributes":{},
 			"x":-4070,
 			"y":510,
@@ -366,7 +366,7 @@
 		{
 			"id":"b2604e438723dd31",
 			"type":"file",
-			"file":"unreal-engine/DOREPLIFETIME_CONDITION_NOTIFY.md",
+			"file":"unreal-engine/DOREPLIFETIME_CONDITION_NOTIFY/DOREPLIFETIME_CONDITION_NOTIFY.md",
 			"collapsed":false,
 			"styleAttributes":{},
 			"x":-4905,

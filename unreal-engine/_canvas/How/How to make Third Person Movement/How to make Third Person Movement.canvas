@@ -63,7 +63,7 @@
 		{
 			"id":"514131d31dc9edb8",
 			"type":"file",
-			"file":"unreal-engine/FVector2D.md",
+			"file":"unreal-engine/FVector2D/FVector2D.md",
 			"styleAttributes":{},
 			"x":-688,
 			"y":-160,
@@ -73,7 +73,7 @@
 		{
 			"id":"8b2789dc1165e482",
 			"type":"file",
-			"file":"unreal-engine/FRotator.md",
+			"file":"unreal-engine/FRotator/FRotator.md",
 			"styleAttributes":{},
 			"x":-708,
 			"y":140,
@@ -93,7 +93,7 @@
 		{
 			"id":"8712ee97b52b59bc",
 			"type":"file",
-			"file":"unreal-engine/FRotationMatrix.md",
+			"file":"unreal-engine/FRotationMatrix/FRotationMatrix.md",
 			"styleAttributes":{},
 			"x":-846,
 			"y":560,
