@@ -1,0 +1,3 @@
+- Instant
+- Has Duration
+- Infinite

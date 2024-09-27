@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7f6a1ab9cf34f3",
+        "id": "f220f5a6a3e73e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "9aaebc8d2c123541",
+            "id": "f065edebc412698e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
+                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0bd1f4078e16921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unreal-engine/GameplayAbilitySystem/GameplayAbilitySystem.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BrakingDecelerationWalking",
+                "query": "UInputAction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 359.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
+                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
+                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md"
+                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md"
               }
             }
           }
@@ -150,61 +163,61 @@
   },
   "active": "906761a8f911bb3b",
   "lastOpenFiles": [
-    "unreal-engine/CharacterMovement/bOrientRotationToMovement.md",
-    "unreal-engine/CharacterMovement/BrakingDecelerationWalking.md",
-    "unreal-engine/CharacterMovement/GetCharacterMovement.md",
-    "unreal-engine/CharacterMovement/MaxWalkSpeed.md",
-    "unreal-engine/CharacterMovement/RotationRate.md",
-    "unreal-engine/bUsePawnControlRotation.md",
-    "unreal-engine/CharacterMovement",
-    "unreal-engine/SpringArmComponent/SpringArmComponent.md",
-    "unreal-engine/SpringArmComponent/USpringArmComponent.md",
-    "unreal-engine/SocketOffset.md",
+    "unreal-engine/EnhancedInputComponent/Screenshot 2024-09-26 at 10.49.56 PM.png",
+    "Screenshot 2024-09-26 at 10.49.56 PM.png",
+    "unreal-engine/_canvas/What/Gameplay Ability System.canvas",
+    "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
+    "unreal-engine/EnhancedInputComponent",
+    "unreal-engine/Untitled",
+    "unreal-engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
+    "unreal-engine/UInputAction/UInputAction.md",
+    "unreal-engine/DataAsset/DataAsset.md",
+    "unreal-engine/BindAction.md",
+    "unreal-engine/UInputAction.md",
+    "unreal-engine/FGameplayTag/FGameplayTag.md",
+    "unreal-engine/UInputAction",
+    "unreal-engine/USTRUCT/USTRUCT.md",
+    "unreal-engine/FGameplayTag",
+    "unreal-engine/USTRUCT",
+    "unreal-engine/GameplayAbilitySystem/GameplayAbilitySystem.md",
+    "unreal-engine/DataAsset/Screenshot 2024-09-26 at 10.18.18 PM.png",
+    "unreal-engine/DataAsset",
+    "unreal-engine/GameplayTag/GameplayTag.md",
+    "unreal-engine/GameplayAbilitySystem",
     "README.md",
-    "unreal-engine/bReceivesDecals.md",
-    "unreal-engine/bStartWithTickEnabled.md",
-    "home/home.canvas",
-    "unreal-engine/Settings.md",
-    "unreal-engine/YawRotation.md",
-    "unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png",
-    "unreal-engine/AbilitySystemComponent/SetIsReplicated.md",
-    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
-    "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
-    "unreal-engine/Actor.md",
-    "unreal-engine/Character/Character.md",
-    "unreal-engine/Character/PossessedBy.md",
-    "unreal-engine/Character/ACharacter.md",
-    "unreal-engine/Pawn/OnRep_PlayerState.md",
-    "unreal-engine/Pawn/APawn.md",
-    "unreal-engine/Actor Component.md",
-    "unreal-engine/bConstrainToPlane.md",
-    "unreal-engine/bReplicates.md",
-    "unreal-engine/bUseControllerRotationPitch.md",
+    "unreal/How to activate particle effect.md",
+    "unreal-engine/GameplayTag",
+    "unreal-engine/GameplayEffect/GameplayEffect.md",
+    "unreal-engine/DurationPolicy/DurationPolicy.md",
+    "unreal-engine/GameplayEffectSpec/GameplayEffectSpec.md",
+    "unreal-engine/Executions/Executions.md",
+    "unreal-engine/GameplayEffectSpec",
+    "unreal-engine/DurationPolicy",
+    "unreal-engine/Magnitude Calculation Type/Magnitude Calculation Type.md",
+    "unreal-engine/Modifier/Modifier.md",
     "unreal-engine/_canvas/What/Blueprint Class.canvas",
-    "unreal-engine/UI",
-    "unreal-engine/UI",
+    "unreal-engine/GetAbilitySystemComponent.md",
+    "unreal-engine/AddDynamic/AddDynamic.md",
+    "unreal-engine/AddUObject/AddUObject.md",
+    "unreal-engine/UserWidget/UserWidget.md",
+    "unreal-engine/UI/HUD.md",
+    "unreal-engine/HUD/HUD.canvas",
+    "UserWidget.md",
+    "home/home.canvas",
+    "unreal-engine/UI/UI.canvas",
+    "unreal-engine/bUsePawnControlRotation/bUsePawnControlRotation.md",
+    "unreal-engine/UI/Untitled.md",
+    "unreal-engine/Untitled.canvas",
+    "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
+    "unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png",
     "unreal-engine/UserWidget/screenshots/Screenshot 2024-09-25 at 2.35.16 PM.png",
-    "unreal-engine/WidgetController/screenshots",
     "Screenshot 2024-09-25 at 2.35.16 PM.png",
     "Screenshot 2024-09-25 at 2.39.13 PM.png",
     "Screenshot 2024-09-25 at 2.35.16 PM 1.png",
-    "unreal-engine/WidgetController",
-    "unreal-engine/UserWidget/screenshots",
-    "unreal-engine/UserWidget",
-    "unreal-engine/_canvas/What/Gameplay Ability System.canvas",
-    "Untitled",
     "unreal-engine/_canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
     "unreal-engine/_canvas/How/How to create a Material/How to create a Material.canvas",
-    "Unreal Engine/test",
     "unreal-engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
-    "unreal-engine/SpringArmComponent",
-    "unreal-engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
-    "unreal-engine/_canvas/How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
     "unreal-engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png",
-    "unreal-engine/_canvas/How/How to create a Camera/How to create a Camera.canvas",
-    "unreal-engine/AttributeSet/screenshots/screenshot_01.png",
-    "unreal-engine/_canvas/How/How to make Third Person Movement/How to make Third Person Movement.canvas",
-    "Unreal Engine/Ability System Component/screenshot_01.png",
-    "Unreal Engine/Canvas/How/How to change the material color when an object is hit/screenshot_01.png"
+    "unreal-engine/AttributeSet/screenshots/screenshot_01.png"
   ]
 }

@@ -7,7 +7,7 @@ void OnRep_<Attribute>(const FGameplayAttributeData& <OldAttribute>) const;
 
 ---
 
-## Implement
+## implement
 ```cpp
 void <Project>AttributeSet::OnRep_<Attribute>(const FGameplayAttributeData& Old<Attribute>) const  
 {  
