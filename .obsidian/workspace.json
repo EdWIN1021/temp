@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f220f5a6a3e73e3c",
+        "id": "39c1bf967b3ad28b",
         "type": "tabs",
         "children": [
           {
-            "id": "f065edebc412698e",
+            "id": "1d4f28d083bdc48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e0bd1f4078e16921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unreal-engine/GameplayAbilitySystem/GameplayAbilitySystem.md",
+                "file": "unreal-engine/Tick/Tick.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 629.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
+                "file": "unreal-engine/Tick/Tick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
+                "file": "unreal-engine/Tick/Tick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md"
+                "file": "unreal-engine/Tick/Tick.md"
               }
             }
           }
@@ -163,61 +150,61 @@
   },
   "active": "906761a8f911bb3b",
   "lastOpenFiles": [
+    "unreal-engine/Tick",
+    "unreal-engine/UCameraComponent/UCameraComponent.md",
+    "unreal-engine/UCameraComponent",
+    "unreal-engine/UCapsuleComponent/UCapsuleComponent.md",
+    "unreal-engine/UCapsuleComponent",
+    "unreal-engine/UCLASS/UCLASS.md",
+    "unreal-engine/UCLASS",
+    "unreal-engine/UE_LOG/UE_LOG.md",
+    "unreal-engine/UE_LOG",
+    "unreal-engine/bUseControllerRotationRoll.md",
+    "unreal-engine/bUseControllerRotationPitch/bUseControllerRotationPitch.md",
+    "unreal-engine/bUseControllerRotationPitch",
+    "unreal-engine/Settings.md",
+    "unreal-engine/UEngine/UEngine.md",
+    "unreal-engine/UEngine",
+    "unreal-engine/UEnhancedInputComponent/UEnhancedInputComponent.md",
+    "unreal-engine/UEnhancedInputComponent",
+    "unreal-engine/UEnhancedInputLocalPlayerSubsystem/UEnhancedInputLocalPlayerSubsystem.md",
+    "unreal-engine/UEnhancedInputLocalPlayerSubsystem",
+    "unreal-engine/UFUNCTION/UFUNCTION.md",
+    "unreal-engine/UFUNCTION",
+    "unreal-engine/UseControllerRotation.md",
+    "unreal-engine/bStartWithTickEnabled/bStartWithTickEnabled.md",
+    "unreal-engine/bStartWithTickEnabled",
+    "unreal-engine/bShowMouseCursor/bShowMouseCursor.md",
+    "unreal-engine/bReplicates/bReplicates.md",
+    "unreal-engine/Cast To/Cast To.md",
+    "unreal-engine/bReceivesDecals/bReceivesDecals.md",
+    "unreal-engine/Mesh.md",
+    "unreal-engine/Skeletal Mesh/Skeletal Mesh.md",
+    "unreal-engine/Skeletal Meshe Assets.md",
+    "unreal-engine/GetPawn/GetPawn.md",
+    "unreal-engine/bSnapToPlaneAtStart/bSnapToPlaneAtStart.md",
+    "unreal-engine/BlueprintClass/BlueprintClass.md",
+    "unreal-engine/DOREPLIFETIME_CONDITION_NOTIFY.md",
+    "unreal-engine/BindAxis/BindAxis.md",
+    "unreal-engine/UserWidget/Screenshot 2024-09-25 at 2.35.16 PM.png",
+    "unreal-engine/UI/UI.canvas",
+    "unreal-engine/HUD/HUD.canvas",
+    "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
+    "unreal-engine/AbilitySystemComponent/screenshot_01.png",
     "unreal-engine/EnhancedInputComponent/Screenshot 2024-09-26 at 10.49.56 PM.png",
     "Screenshot 2024-09-26 at 10.49.56 PM.png",
     "unreal-engine/_canvas/What/Gameplay Ability System.canvas",
-    "unreal-engine/EnhancedInputComponent/EnhancedInputComponent.md",
-    "unreal-engine/EnhancedInputComponent",
-    "unreal-engine/Untitled",
     "unreal-engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
-    "unreal-engine/UInputAction/UInputAction.md",
-    "unreal-engine/DataAsset/DataAsset.md",
-    "unreal-engine/BindAction.md",
-    "unreal-engine/UInputAction.md",
-    "unreal-engine/FGameplayTag/FGameplayTag.md",
-    "unreal-engine/UInputAction",
-    "unreal-engine/USTRUCT/USTRUCT.md",
-    "unreal-engine/FGameplayTag",
-    "unreal-engine/USTRUCT",
-    "unreal-engine/GameplayAbilitySystem/GameplayAbilitySystem.md",
     "unreal-engine/DataAsset/Screenshot 2024-09-26 at 10.18.18 PM.png",
-    "unreal-engine/DataAsset",
-    "unreal-engine/GameplayTag/GameplayTag.md",
-    "unreal-engine/GameplayAbilitySystem",
-    "README.md",
-    "unreal/How to activate particle effect.md",
-    "unreal-engine/GameplayTag",
-    "unreal-engine/GameplayEffect/GameplayEffect.md",
-    "unreal-engine/DurationPolicy/DurationPolicy.md",
-    "unreal-engine/GameplayEffectSpec/GameplayEffectSpec.md",
-    "unreal-engine/Executions/Executions.md",
-    "unreal-engine/GameplayEffectSpec",
-    "unreal-engine/DurationPolicy",
-    "unreal-engine/Magnitude Calculation Type/Magnitude Calculation Type.md",
-    "unreal-engine/Modifier/Modifier.md",
     "unreal-engine/_canvas/What/Blueprint Class.canvas",
-    "unreal-engine/GetAbilitySystemComponent.md",
-    "unreal-engine/AddDynamic/AddDynamic.md",
-    "unreal-engine/AddUObject/AddUObject.md",
-    "unreal-engine/UserWidget/UserWidget.md",
-    "unreal-engine/UI/HUD.md",
-    "unreal-engine/HUD/HUD.canvas",
-    "UserWidget.md",
     "home/home.canvas",
-    "unreal-engine/UI/UI.canvas",
-    "unreal-engine/bUsePawnControlRotation/bUsePawnControlRotation.md",
-    "unreal-engine/UI/Untitled.md",
     "unreal-engine/Untitled.canvas",
-    "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
-    "unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png",
-    "unreal-engine/UserWidget/screenshots/Screenshot 2024-09-25 at 2.35.16 PM.png",
     "Screenshot 2024-09-25 at 2.35.16 PM.png",
     "Screenshot 2024-09-25 at 2.39.13 PM.png",
     "Screenshot 2024-09-25 at 2.35.16 PM 1.png",
     "unreal-engine/_canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
     "unreal-engine/_canvas/How/How to create a Material/How to create a Material.canvas",
     "unreal-engine/_canvas/How/How to create a SpringArm/How to create a SpringArm.canvas",
-    "unreal-engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png",
-    "unreal-engine/AttributeSet/screenshots/screenshot_01.png"
+    "unreal-engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png"
   ]
 }

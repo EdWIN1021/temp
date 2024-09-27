@@ -53,7 +53,7 @@
 		{
 			"id":"fe811e1ffc656730",
 			"type":"file",
-			"file":"unreal-engine/USkeletalMeshComponent.md",
+			"file":"unreal-engine/USkeletalMeshComponent/USkeletalMeshComponent.md",
 			"styleAttributes":{},
 			"x":-658,
 			"y":-320,
@@ -63,7 +63,7 @@
 		{
 			"id":"b1d73cbd584ac031",
 			"type":"file",
-			"file":"unreal-engine/TObjectPtr.md",
+			"file":"unreal-engine/TObjectPtr/TObjectPtr.md",
 			"styleAttributes":{},
 			"x":-1813,
 			"y":460,

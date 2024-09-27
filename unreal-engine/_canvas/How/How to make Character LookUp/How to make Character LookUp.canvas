@@ -3,7 +3,7 @@
 		{
 			"id":"878e123c1bf47634",
 			"type":"file",
-			"file":"unreal-engine/AddControllerPitchInput.md",
+			"file":"unreal-engine/AddControllerPitchInput/AddControllerPitchInput.md",
 			"styleAttributes":{},
 			"x":-186,
 			"y":560,
@@ -63,7 +63,7 @@
 		{
 			"id":"5e7a04e2b258ce88",
 			"type":"file",
-			"file":"unreal-engine/BindAxis.md",
+			"file":"unreal-engine/BindAxis/BindAxis.md",
 			"styleAttributes":{},
 			"x":500,
 			"y":331,

@@ -1,1 +1,1 @@
-![[unreal-engine/AbilitySystemComponent/screenshots/screenshot_01.png]]
+![[unreal-engine/AbilitySystemComponent/screenshot_01.png]]

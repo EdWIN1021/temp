@@ -250,7 +250,7 @@
 		{
 			"id":"465a32e159368673",
 			"type":"file",
-			"file":"unreal-engine/UE_LOG.md",
+			"file":"unreal-engine/UE_LOG/UE_LOG.md",
 			"styleAttributes":{},
 			"x":-16113,
 			"y":-2840,
@@ -260,7 +260,7 @@
 		{
 			"id":"506c48702914ef52",
 			"type":"file",
-			"file":"unreal-engine/UFUNCTION.md",
+			"file":"unreal-engine/UFUNCTION/UFUNCTION.md",
 			"styleAttributes":{},
 			"x":-14898,
 			"y":-1872,
@@ -380,7 +380,7 @@
 		{
 			"id":"c121e870bb0ccee7",
 			"type":"file",
-			"file":"unreal-engine/Cast To.md",
+			"file":"unreal-engine/Cast To/Cast To.md",
 			"styleAttributes":{},
 			"x":-12035,
 			"y":-4640,
@@ -470,7 +470,7 @@
 		{
 			"id":"dda2e97d9263f6ce",
 			"type":"file",
-			"file":"unreal-engine/TObjectPtr.md",
+			"file":"unreal-engine/TObjectPtr/TObjectPtr.md",
 			"styleAttributes":{},
 			"x":-17351,
 			"y":114,
@@ -532,7 +532,7 @@
 		{
 			"id":"c398ac3be967b0c9",
 			"type":"file",
-			"file":"unreal-engine/AddOnScreenDebugMessage.md",
+			"file":"unreal-engine/AddOnScreenDebugMessage/AddOnScreenDebugMessage.md",
 			"styleAttributes":{},
 			"x":-7045,
 			"y":-3095,
@@ -582,7 +582,7 @@
 		{
 			"id":"a50b4b1479b8cd79",
 			"type":"file",
-			"file":"unreal-engine/Blueprint Class.md",
+			"file":"unreal-engine/BlueprintClass/BlueprintClass.md",
 			"styleAttributes":{},
 			"x":-15697,
 			"y":2322,
@@ -652,7 +652,7 @@
 		{
 			"id":"4d2d10953a773549",
 			"type":"file",
-			"file":"unreal-engine/Actor Component.md",
+			"file":"unreal-engine/Actor Component/Actor Component.md",
 			"styleAttributes":{},
 			"x":-19640,
 			"y":980,
@@ -762,7 +762,7 @@
 		{
 			"id":"8eb44dabc2e0808a",
 			"type":"file",
-			"file":"unreal-engine/Skeletal Mesh.md",
+			"file":"unreal-engine/Skeletal Mesh/Skeletal Mesh.md",
 			"styleAttributes":{},
 			"x":-16036,
 			"y":751,
@@ -866,7 +866,7 @@
 		{
 			"id":"1d6222b9aa8996dd",
 			"type":"file",
-			"file":"unreal-engine/UCLASS.md",
+			"file":"unreal-engine/UCLASS/UCLASS.md",
 			"styleAttributes":{},
 			"x":-20160,
 			"y":1786,
@@ -876,7 +876,7 @@
 		{
 			"id":"92e67d3fbb9b85f8",
 			"type":"file",
-			"file":"unreal-engine/USTRUCT.md",
+			"file":"unreal-engine/USTRUCT/USTRUCT 1.md",
 			"styleAttributes":{},
 			"x":-19030,
 			"y":1799,
@@ -886,7 +886,7 @@
 		{
 			"id":"ba0004117b5a9f09",
 			"type":"file",
-			"file":"unreal-engine/UFUNCTION.md",
+			"file":"unreal-engine/UFUNCTION/UFUNCTION.md",
 			"styleAttributes":{},
 			"x":-19500,
 			"y":1799,
@@ -896,7 +896,7 @@
 		{
 			"id":"d32f5775b5d72fdd",
 			"type":"file",
-			"file":"unreal-engine/UPROPERTY.md",
+			"file":"unreal-engine/UPROPERTY/UPROPERTY.md",
 			"styleAttributes":{},
 			"x":-20160,
 			"y":2094,
@@ -937,7 +937,7 @@
 		{
 			"id":"d81dc08722b7671d",
 			"type":"file",
-			"file":"unreal-engine/Actor Component.md",
+			"file":"unreal-engine/Actor Component/Actor Component.md",
 			"styleAttributes":{},
 			"x":-5820,
 			"y":-2437,
