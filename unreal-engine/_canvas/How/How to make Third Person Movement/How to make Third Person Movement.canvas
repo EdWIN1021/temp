@@ -113,7 +113,7 @@
 		{
 			"id":"98db94f623e3566b",
 			"type":"file",
-			"file":"unreal-engine/GetControlRotation.md",
+			"file":"unreal-engine/GetControlRotation/GetControlRotation.md",
 			"styleAttributes":{},
 			"x":654,
 			"y":7,
@@ -123,7 +123,7 @@
 		{
 			"id":"e07a1f71ee7d5dfc",
 			"type":"file",
-			"file":"unreal-engine/GetUnitAxis.md",
+			"file":"unreal-engine/GetUnitAxis/GetUnitAxis.md",
 			"styleAttributes":{},
 			"x":758,
 			"y":426,

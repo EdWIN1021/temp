@@ -23,7 +23,7 @@
 		{
 			"id":"ea5c5171222087e0",
 			"type":"file",
-			"file":"unreal-engine/GetSubsystem.md",
+			"file":"unreal-engine/GetSubsystem/GetSubsystem.md",
 			"styleAttributes":{},
 			"x":-3321,
 			"y":787,
@@ -73,7 +73,7 @@
 		{
 			"id":"ee01df62228bba02",
 			"type":"file",
-			"file":"unreal-engine/GetLocalPlayer.md",
+			"file":"unreal-engine/GetLocalPlayer/GetLocalPlayer.md",
 			"styleAttributes":{},
 			"x":-2819,
 			"y":1000,

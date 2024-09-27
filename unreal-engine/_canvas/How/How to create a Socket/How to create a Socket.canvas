@@ -43,7 +43,7 @@
 		{
 			"id":"242f8ff0385150ef",
 			"type":"file",
-			"file":"unreal-engine/SetCollisionEnabled.md",
+			"file":"unreal-engine/SetCollisionEnabled/SetCollisionEnabled.md",
 			"styleAttributes":{},
 			"x":-864,
 			"y":535,
@@ -93,7 +93,7 @@
 		{
 			"id":"2e15b16b98fbe43c",
 			"type":"file",
-			"file":"unreal-engine/GetMesh.md",
+			"file":"unreal-engine/GetMesh/GetMesh.md",
 			"styleAttributes":{},
 			"x":1120,
 			"y":343,

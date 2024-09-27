@@ -170,7 +170,7 @@
 		{
 			"id":"2267e44cd3da01de",
 			"type":"file",
-			"file":"unreal-engine/Object.md",
+			"file":"unreal-engine/Object/Object.md",
 			"styleAttributes":{},
 			"x":-19002,
 			"y":1400,
@@ -333,7 +333,7 @@
 		{
 			"id":"4df4bc4d7e32921e",
 			"type":"file",
-			"file":"unreal-engine/Scene Component.md",
+			"file":"unreal-engine/Scene Component/Scene Component.md",
 			"styleAttributes":{},
 			"x":-5820,
 			"y":-1980,
@@ -395,7 +395,7 @@
 		{
 			"id":"fc789ba7f7aaff8c",
 			"type":"file",
-			"file":"unreal-engine/Object.md",
+			"file":"unreal-engine/Object/Object.md",
 			"styleAttributes":{},
 			"x":-7440,
 			"y":-2502,
@@ -406,7 +406,7 @@
 		{
 			"id":"8e82b74d554cb05c",
 			"type":"file",
-			"file":"unreal-engine/MovementComponent.md",
+			"file":"unreal-engine/MovementComponent/MovementComponent.md",
 			"styleAttributes":{},
 			"x":-7263,
 			"y":-2040,
@@ -710,7 +710,7 @@
 		{
 			"id":"1afb3a0c5248c5ad",
 			"type":"file",
-			"file":"unreal-engine/Level Blueprint.md",
+			"file":"unreal-engine/Level Blueprint/Level Blueprint.md",
 			"styleAttributes":{},
 			"x":-16397,
 			"y":2790,
@@ -760,7 +760,7 @@
 		{
 			"id":"cfb8ecdd8e6e6bcd",
 			"type":"file",
-			"file":"unreal-engine/Scene Component.md",
+			"file":"unreal-engine/Scene Component/Scene Component.md",
 			"styleAttributes":{},
 			"x":-17893,
 			"y":140,
@@ -924,7 +924,7 @@
 		{
 			"id":"a3e43c34692bc18a",
 			"type":"file",
-			"file":"unreal-engine/SetCollisionEnabled.md",
+			"file":"unreal-engine/SetCollisionEnabled/SetCollisionEnabled.md",
 			"styleAttributes":{},
 			"x":-18868,
 			"y":-117,
@@ -944,7 +944,7 @@
 		{
 			"id":"10a80cdb0bd2815f",
 			"type":"file",
-			"file":"unreal-engine/PrimaryActorTick.md",
+			"file":"unreal-engine/PrimaryActorTick/PrimaryActorTick.md",
 			"styleAttributes":{},
 			"x":-19224,
 			"y":327,

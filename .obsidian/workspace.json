@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal-engine/GetActorForwardVector/GetActorForwardVector.md",
-                "mode": "preview",
+                "file": "unreal-engine/Settings/Settings.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal-engine/GetActorForwardVector/GetActorForwardVector.md",
+                "file": "unreal-engine/Settings/Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal-engine/GetActorForwardVector/GetActorForwardVector.md",
+                "file": "unreal-engine/Settings/Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal-engine/GetActorForwardVector/GetActorForwardVector.md"
+                "file": "unreal-engine/Settings/Settings.md"
               }
             }
           }
@@ -150,43 +150,43 @@
   },
   "active": "906761a8f911bb3b",
   "lastOpenFiles": [
-    "unreal-engine/GetActorLocation",
-    "unreal-engine/GetActorForwardVector",
-    "unreal-engine/GetAbilitySystemComponent/GetAbilitySystemComponent.md",
-    "unreal-engine/GetAbilitySystemComponent",
-    "unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY/GAMEPLAYATTRIBUTE_REPNOTIFY.md",
-    "unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY",
-    "unreal-engine/GameModeBase/GameModeBase.md",
-    "unreal-engine/GameModeBase",
-    "unreal-engine/GameInstance/GameInstance.md",
-    "unreal-engine/GameInstance",
-    "unreal-engine/FRotator/FRotator.md",
-    "unreal-engine/FVector2D",
-    "unreal-engine/FVector",
-    "unreal-engine/FRotator",
-    "unreal-engine/FORCEINLINE/FORCEINLINE.md",
-    "unreal-engine/FRotationMatrix",
-    "unreal-engine/FORCEINLINE",
-    "unreal-engine/FInputModeGameAndUI/FInputModeGameAndUI.md",
-    "unreal-engine/Event Dispatcher/Event Dispatcher.md",
-    "unreal-engine/DOREPLIFETIME_CONDITION_NOTIFY/DOREPLIFETIME_CONDITION_NOTIFY.md",
+    "unreal-engine/Settings",
+    "unreal-engine/SetCollisionResponseToChannel/SetCollisionResponseToChannel.md",
+    "unreal-engine/SetCollisionResponseToChannel",
+    "unreal-engine/SetCollisionEnabled/SetCollisionEnabled.md",
+    "unreal-engine/SetCollisionEnabled",
+    "unreal-engine/SetActorRotation/SetActorRotation.md",
+    "unreal-engine/SetActorRotation",
+    "unreal-engine/SetActorLocation/SetActorLocation.md",
+    "unreal-engine/SetActorLocation",
+    "unreal-engine/Scene Component/Scene Component.md",
+    "unreal-engine/Scene Component",
+    "unreal-engine/Settings/Settings.md",
+    "unreal-engine/ScalarParameter",
     "unreal-engine/Untitled.md",
-    "unreal-engine/DefaultMouseCursor/DefaultMouseCursor.md",
-    "unreal-engine/Controller/Controller.md",
-    "unreal-engine/SetCollisionEnabled.md",
-    "unreal-engine/SetCollisionResponseToChannel.md",
-    "unreal-engine/CreateDefaultSubobject/CreateDefaultSubobject.md",
-    "unreal-engine/Collision Presets/Collision Presets.md",
-    "unreal-engine/check/check.md",
+    "unreal-engine/ReplicatedUsing/ReplicatedUsing.md",
+    "unreal-engine/ReplicatedUsing",
+    "programming-languages/c++/Pure function.md",
+    "unreal-engine/PrimaryActorTick/PrimaryActorTick.md",
+    "unreal-engine/PrimaryActorTick",
+    "unreal-engine/Object/Object.md",
+    "unreal-engine/Object",
+    "unreal-engine/NetUpdateFrequency/NetUpdateFrequency.md",
+    "unreal-engine/NetUpdateFrequency",
+    "unreal-engine/NativeInitializeAnimation/NativeInitializeAnimation.md",
+    "unreal-engine/MovementComponent/MovementComponent.md",
+    "unreal-engine/Mesh/Mesh.md",
+    "unreal-engine/Level Blueprint/Level Blueprint.md",
+    "unreal-engine/GetUnitAxis/GetUnitAxis.md",
+    "unreal-engine/GetSubsystem/GetSubsystem.md",
+    "unreal-engine/GetPlayerState/GetPlayerState.md",
+    "unreal-engine/GetName/GetName.md",
+    "unreal-engine/GetLocalPlayer/GetLocalPlayer.md",
+    "unreal-engine/GetControlRotation/GetControlRotation.md",
+    "unreal-engine/GetActorForwardVector/GetActorForwardVector.md",
+    "unreal-engine/GetAbilitySystemComponent/GetAbilitySystemComponent.md",
+    "unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY/GAMEPLAYATTRIBUTE_REPNOTIFY.md",
     "unreal/Unreal.canvas",
-    "unreal-engine/PlayerController/PlayerController.md",
-    "unreal-engine/CharacterMovement/CharacterMovement.md",
-    "unreal-engine/CharacterMovement/CharacterMovement.md",
-    "unreal-engine/CastChecked/CastChecked.md",
-    "unreal-engine/CapsuleComponent/CapsuleComponent.md",
-    "unreal-engine/bUseControllerRotationYaw/bUseControllerRotationYaw.md",
-    "unreal-engine/bUseControllerRotationRoll/bUseControllerRotationRoll.md",
-    "unreal-engine/Object.md",
     "unreal-engine/UserWidget/Screenshot 2024-09-25 at 2.35.16 PM.png",
     "unreal-engine/UI/UI.canvas",
     "unreal-engine/HUD/HUD.canvas",
