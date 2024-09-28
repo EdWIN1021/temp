@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "21483e4ce695e326",
+        "id": "8a27a010551df3a2",
         "type": "tabs",
         "children": [
           {
-            "id": "6d3c4aeebb59c762",
+            "id": "9cc01a1f089d12ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unreal/How to get Character Movement.md",
-                "mode": "preview",
+                "file": "unreal-engine/SetReplicationMode/SetReplicationMode.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "f3547f8b0e1b2785",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "home/home.canvas",
+                "viewState": {
+                  "x": -41.5,
+                  "y": 22,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UInputAction",
+                "query": "tag:#UAbilitySystemComponent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 629.5
+    "width": 486.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unreal/How to get Character Movement.md",
+                "file": "home/home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unreal/How to get Character Movement.md",
+                "file": "home/home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unreal/How to get Character Movement.md"
+                "file": "home/home.canvas"
               }
             }
           }
@@ -148,8 +164,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d3c4aeebb59c762",
+  "active": "f3547f8b0e1b2785",
   "lastOpenFiles": [
+    "unreal-engine/Gameplay Ability System/Gameplay Ability System.canvas",
+    "unreal-engine/SetReplicationMode/SetReplicationMode.md",
+    "unreal-engine/AttributeSet/AttributeSet.md",
+    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.canvas",
+    "unreal-engine/_How/How to create AttributeSet/How to create AttributeSet.canvas",
+    "unreal-engine/SetIsReplicated/SetIsReplicated.md",
+    "unreal-engine/Gameplay Ability System/GameplayAbilitySystem.md",
+    "unreal-engine/BlueprintClass/Blueprint Class.canvas",
+    "unreal-engine/Gameplay Ability System",
+    "unreal-engine/BlueprintClass/BlueprintClass.md",
+    "unreal-engine/Mesh/Mesh.canvas",
+    "unreal-engine/Mesh/Mesh.md",
+    "home/home.canvas",
+    "unreal-engine/AbilitySystemComponent/screenshot_01.png",
+    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
+    "unreal-engine/GetAbilitySystemComponent/GetAbilitySystemComponent.md",
     "unreal/How to get Character Movement 1.md",
     "unreal/How to get Character Movement.md",
     "unreal/How to get Ground Speed.md",
@@ -175,36 +207,19 @@
     "unreal-engine/Scene Component/Scene Component.md",
     "unreal-engine/Scene Component",
     "unreal-engine/ScalarParameter",
-    "unreal-engine/Untitled.md",
-    "unreal-engine/ReplicatedUsing/ReplicatedUsing.md",
     "unreal-engine/ReplicatedUsing",
-    "programming-languages/c++/Pure function.md",
-    "unreal-engine/PrimaryActorTick/PrimaryActorTick.md",
     "unreal-engine/PrimaryActorTick",
-    "unreal-engine/Object/Object.md",
-    "unreal-engine/Object",
-    "unreal-engine/NetUpdateFrequency/NetUpdateFrequency.md",
-    "unreal-engine/NativeInitializeAnimation/NativeInitializeAnimation.md",
-    "unreal-engine/MovementComponent/MovementComponent.md",
-    "unreal-engine/Mesh/Mesh.md",
     "unreal-engine/UserWidget/Screenshot 2024-09-25 at 2.35.16 PM.png",
     "unreal-engine/UI/UI.canvas",
     "unreal-engine/HUD/HUD.canvas",
     "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
-    "unreal-engine/AbilitySystemComponent/screenshot_01.png",
     "unreal-engine/EnhancedInputComponent/Screenshot 2024-09-26 at 10.49.56 PM.png",
     "Screenshot 2024-09-26 at 10.49.56 PM.png",
-    "unreal-engine/_canvas/What/Gameplay Ability System.canvas",
-    "unreal-engine/_canvas/How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
+    "unreal-engine/_How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
     "unreal-engine/DataAsset/Screenshot 2024-09-26 at 10.18.18 PM.png",
-    "unreal-engine/_canvas/What/Blueprint Class.canvas",
-    "home/home.canvas",
-    "unreal-engine/Untitled.canvas",
     "Screenshot 2024-09-25 at 2.35.16 PM.png",
     "Screenshot 2024-09-25 at 2.39.13 PM.png",
     "Screenshot 2024-09-25 at 2.35.16 PM 1.png",
-    "unreal-engine/_canvas/How/How to attach a item to a socket/How to attach a item to a socket.canvas",
-    "unreal-engine/_canvas/How/How to create a Material/How to create a Material.canvas",
-    "unreal-engine/_canvas/How/How to change the material color when an object is hit/screenshot_01.png"
+    "unreal-engine/_How/How to change the material color when an object is hit/screenshot_01.png"
   ]
 }

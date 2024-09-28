@@ -1,0 +1,566 @@
+{
+  "nodes": [
+    {
+      "id": "692fd40c42c8afa9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5160,
+      "y": 0,
+      "width": 4920,
+      "height": 3100,
+      "color": "4",
+      "label": "PlayerState/CharacterClass"
+    },
+    {
+      "id": "ea765d4c22934b4a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6920,
+      "y": 3240,
+      "width": 3260,
+      "height": 1800,
+      "color": "5",
+      "label": "AttributeSet"
+    },
+    {
+      "id": "df6076009bbc2f02",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2640,
+      "y": 120,
+      "width": 2080,
+      "height": 1140,
+      "color": "1",
+      "label": "PlayerCharacter"
+    },
+    {
+      "id": "694a4c5e1f39fa62",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4940,
+      "y": 4040,
+      "width": 1120,
+      "height": 920,
+      "label": "GetLifetimeReplicatedProps"
+    },
+    {
+      "id": "45815432cf757c72",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2180,
+      "y": 1425,
+      "width": 1320,
+      "height": 764,
+      "color": "3",
+      "label": "Character"
+    },
+    {
+      "id": "b9764cca2118f329",
+      "type": "group",
+      "styleAttributes": {},
+      "collapsed": false,
+      "x": -4840,
+      "y": 1150,
+      "width": 1220,
+      "height": 550,
+      "label": "Override"
+    },
+    {
+      "id": "424661f6027b6201",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2110,
+      "y": 1629,
+      "width": 1180,
+      "height": 440,
+      "label": "BeginPlay"
+    },
+    {
+      "id": "c9a92e3b0b3c159f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2460,
+      "y": 600,
+      "width": 800,
+      "height": 400,
+      "label": "Server"
+    },
+    {
+      "id": "4a6dc0387b0e2436",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1520,
+      "y": 600,
+      "width": 680,
+      "height": 400,
+      "label": "Client"
+    },
+    {
+      "id": "78961c82db492073",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4440,
+      "y": 3420,
+      "width": 580,
+      "height": 459,
+      "label": "Constructor"
+    },
+    {
+      "id": "b6f9bde1e33c438f",
+      "type": "file",
+      "file": "UserWidget.md",
+      "styleAttributes": {},
+      "x": -4660,
+      "y": -210,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "46bc5e29cf50e80d",
+      "type": "text",
+      "text": "Widget Controller\n\n- PlayerController\n- PlayerState\n- AbilitySystemComponent\n- AttributeSet",
+      "styleAttributes": {},
+      "x": -4270,
+      "y": -260,
+      "width": 340,
+      "height": 200
+    },
+    {
+      "id": "dd9729f2800b55b7",
+      "type": "file",
+      "file": "unreal-engine/HUD/HUD.md",
+      "styleAttributes": {},
+      "x": -3696,
+      "y": -250,
+      "width": 372,
+      "height": 180
+    },
+    {
+      "id": "4dd7bc92b1524e62",
+      "type": "file",
+      "file": "unreal-engine/FGameplayAttributeData/FGameplayAttributeData.md",
+      "styleAttributes": {},
+      "x": -5500,
+      "y": 3461,
+      "width": 840,
+      "height": 379
+    },
+    {
+      "id": "73ff381417d06721",
+      "type": "file",
+      "file": "unreal-engine/AttributeAccessors/AttributeAccessors.md",
+      "styleAttributes": {},
+      "x": -6720,
+      "y": 3412,
+      "width": 913,
+      "height": 468
+    },
+    {
+      "id": "541bb84ceef6e0f2",
+      "type": "file",
+      "file": "unreal-engine/GAMEPLAYATTRIBUTE_REPNOTIFY/GAMEPLAYATTRIBUTE_REPNOTIFY.md",
+      "styleAttributes": {},
+      "x": -6740,
+      "y": 4200,
+      "width": 700,
+      "height": 290
+    },
+    {
+      "id": "f2a728e4f43ad549",
+      "type": "file",
+      "file": "unreal-engine/OnRep_<Attribute>/OnRep_<Attribute>.md",
+      "styleAttributes": {},
+      "x": -5897,
+      "y": 4125,
+      "width": 817,
+      "height": 515
+    },
+    {
+      "id": "7c0df03ba69fdd78",
+      "type": "file",
+      "file": "unreal-engine/GetLifetimeReplicatedProps/GetLifetimeReplicatedProps.md",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 4119,
+      "width": 960,
+      "height": 321
+    },
+    {
+      "id": "b30b89924e72fce5",
+      "type": "file",
+      "file": "unreal-engine/GetAbilitySystemComponent/GetAbilitySystemComponent.md",
+      "styleAttributes": {},
+      "x": -4800,
+      "y": 1160,
+      "width": 1060,
+      "height": 445
+    },
+    {
+      "id": "41776edc16f15b61",
+      "type": "text",
+      "text": "```cpp\nUAttributeSet* GetAttributeSet() const { return AttributeSet; };\n```",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2940,
+      "y": 2010,
+      "width": 600,
+      "height": 72
+    },
+    {
+      "id": "b2604e438723dd31",
+      "type": "file",
+      "file": "unreal-engine/DOREPLIFETIME_CONDITION_NOTIFY/DOREPLIFETIME_CONDITION_NOTIFY.md",
+      "collapsed": false,
+      "styleAttributes": {},
+      "x": -4785,
+      "y": 4560,
+      "width": 850,
+      "height": 310
+    },
+    {
+      "id": "d37b97cd6ef50c72",
+      "type": "file",
+      "file": "unreal-engine/_How/How to create AttributeSet/How to create AttributeSet.canvas",
+      "styleAttributes": {},
+      "x": -4820,
+      "y": 1785,
+      "width": 1380,
+      "height": 595
+    },
+    {
+      "id": "b41b5e19d715ee2c",
+      "type": "file",
+      "file": "unreal-engine/Init<Attribute>/Init<Attribute>.md",
+      "styleAttributes": {},
+      "x": -4397,
+      "y": 3539,
+      "width": 477,
+      "height": 220
+    },
+    {
+      "id": "a0755a692275ece9",
+      "type": "file",
+      "file": "unreal-engine/IAbilitySystemInterface/IAbilitySystemInterface.md",
+      "styleAttributes": {},
+      "x": -5760,
+      "y": 1320,
+      "width": 300,
+      "height": 172
+    },
+    {
+      "id": "31d3c6b03bbedfd9",
+      "type": "text",
+      "text": "[[AbilitySystemComponent.canvas|AbilitySystemComponent]]",
+      "styleAttributes": {},
+      "x": -4210,
+      "y": 710,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "2c3bfdcdd312d2ad",
+      "type": "file",
+      "file": "unreal-engine/SetIsReplicated/SetIsReplicated.md",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 320,
+      "width": 560,
+      "height": 260
+    },
+    {
+      "id": "c817a5cee36b0cac",
+      "type": "file",
+      "file": "unreal-engine/SetReplicationMode/SetReplicationMode.md",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 720,
+      "width": 861,
+      "height": 440
+    },
+    {
+      "id": "4342bc7578ac27b0",
+      "type": "text",
+      "text": "```cpp\nvoid AAuraCharacter::PossessedBy(AController* NewController)  \n{  \n    Super::PossessedBy(NewController);  \n      \n    // Init ability actor info for the server  \n    InitAbilityActorInfo();  \n}\n```",
+      "styleAttributes": {},
+      "x": -2395,
+      "y": 680,
+      "width": 625,
+      "height": 240
+    },
+    {
+      "id": "8d6719cd671a8b44",
+      "type": "text",
+      "text": "```cpp\nAAuraPlayerState* AuraPlayerState = GetPlayerState<AAuraPlayerState>();  \ncheck(AuraPlayerState);  \nAuraPlayerState->GetAbilitySystemComponent()->InitAbilityActorInfo(AuraPlayerState, this);  \nAbilitySystemComponent = AuraPlayerState->GetAbilitySystemComponent();  \nAttributeSet = AuraPlayerState->GetAttributeSet();\n```",
+      "styleAttributes": {},
+      "x": -2339,
+      "y": 210,
+      "width": 1078,
+      "height": 260
+    },
+    {
+      "id": "fdd1369d5646403d",
+      "type": "text",
+      "text": "```cpp\nvoid AAuraCharacter::OnRep_PlayerState()  \n{  \n    Super::OnRep_PlayerState();  \n      \n    // Init ability actor info for the client  \n    InitAbilityActorInfo();  \n}\n```",
+      "styleAttributes": {},
+      "x": -1430,
+      "y": 691,
+      "width": 520,
+      "height": 219
+    },
+    {
+      "id": "bd3fc069eefcdf71",
+      "type": "file",
+      "file": "unreal-engine/InitAbilityActorInfo/InitAbilityActorInfo.md",
+      "styleAttributes": {},
+      "x": -1930,
+      "y": 1709,
+      "width": 790,
+      "height": 300
+    },
+    {
+      "id": "f806a62cc4f3d9b0",
+      "type": "file",
+      "file": "unreal-engine/GameplayEffect/GameplayEffect.md",
+      "styleAttributes": {},
+      "x": -3180,
+      "y": 2480,
+      "width": 635,
+      "height": 460
+    },
+    {
+      "id": "5507518fba4bfc67",
+      "type": "file",
+      "file": "unreal-engine/GameplayTag/GameplayTag.md",
+      "styleAttributes": {},
+      "x": 3470,
+      "y": 1720,
+      "width": 840,
+      "height": 520
+    },
+    {
+      "id": "2bed446165bf3707",
+      "type": "file",
+      "file": "unreal-engine/Gameplay Ability System/GameplayAbilitySystem.md",
+      "styleAttributes": {},
+      "x": 3360,
+      "y": 1361,
+      "width": 1060,
+      "height": 185
+    },
+    {
+      "id": "79f33fb75f025a0d",
+      "type": "text",
+      "text": "Ability Task",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2220,
+      "y": 1179,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c662433f1963dd32",
+      "type": "text",
+      "text": "Gameplay Cue",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2220,
+      "y": 1272,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b8650f1c4e2bf3b3",
+      "type": "text",
+      "text": "Gameplay Ability",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2220,
+      "y": 1394,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0ad906acc429203f",
+      "type": "file",
+      "file": "unreal-engine/DataAsset/DataAsset.md",
+      "styleAttributes": {},
+      "x": 2860,
+      "y": 1840,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "2783bfc9cc4389e6",
+      "styleAttributes": {},
+      "fromNode": "a0755a692275ece9",
+      "fromSide": "right",
+      "toNode": "b9764cca2118f329",
+      "toSide": "left",
+      "label": "Implement"
+    },
+    {
+      "id": "9d807d7b5a793b3d",
+      "styleAttributes": {},
+      "fromNode": "d37b97cd6ef50c72",
+      "fromSide": "right",
+      "toNode": "41776edc16f15b61",
+      "toSide": "left",
+      "label": "Getter"
+    },
+    {
+      "id": "33c2acdace7d4a6e",
+      "styleAttributes": {},
+      "fromNode": "8d6719cd671a8b44",
+      "fromSide": "bottom",
+      "toNode": "c9a92e3b0b3c159f",
+      "toSide": "top"
+    },
+    {
+      "id": "3846b7aae6a883b5",
+      "styleAttributes": {},
+      "fromNode": "8d6719cd671a8b44",
+      "fromSide": "bottom",
+      "toNode": "4a6dc0387b0e2436",
+      "toSide": "top"
+    },
+    {
+      "id": "9cb9cb0bb1661b46",
+      "styleAttributes": {},
+      "fromNode": "f806a62cc4f3d9b0",
+      "fromSide": "top",
+      "toNode": "d37b97cd6ef50c72",
+      "toSide": "bottom",
+      "label": "Change"
+    },
+    {
+      "id": "13bef1181dff5581",
+      "styleAttributes": {},
+      "fromNode": "7c0df03ba69fdd78",
+      "fromSide": "bottom",
+      "toNode": "b2604e438723dd31",
+      "toSide": "top"
+    },
+    {
+      "id": "c05a1b570c43a239",
+      "styleAttributes": {},
+      "fromNode": "541bb84ceef6e0f2",
+      "fromSide": "right",
+      "toNode": "f2a728e4f43ad549",
+      "toSide": "left"
+    },
+    {
+      "id": "99e818cd9233a5b2",
+      "styleAttributes": {},
+      "fromNode": "73ff381417d06721",
+      "fromSide": "right",
+      "toNode": "4dd7bc92b1524e62",
+      "toSide": "left"
+    },
+    {
+      "id": "34f7cd6fe3814da3",
+      "styleAttributes": {},
+      "fromNode": "4dd7bc92b1524e62",
+      "fromSide": "bottom",
+      "toNode": "f2a728e4f43ad549",
+      "toSide": "top"
+    },
+    {
+      "id": "3d2b4789efe9b277",
+      "styleAttributes": {},
+      "fromNode": "4dd7bc92b1524e62",
+      "fromSide": "bottom",
+      "toNode": "694a4c5e1f39fa62",
+      "toSide": "top"
+    },
+    {
+      "id": "86804802d8859432",
+      "styleAttributes": {},
+      "fromNode": "4dd7bc92b1524e62",
+      "fromSide": "right",
+      "toNode": "78961c82db492073",
+      "toSide": "left"
+    },
+    {
+      "id": "99b5d1e959a1aac4",
+      "styleAttributes": {},
+      "fromNode": "ea765d4c22934b4a",
+      "fromSide": "top",
+      "toNode": "d37b97cd6ef50c72",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e690d42d2ef7a49d",
+      "styleAttributes": {},
+      "fromNode": "46bc5e29cf50e80d",
+      "fromSide": "right",
+      "toNode": "dd9729f2800b55b7",
+      "toSide": "left",
+      "label": "Delegates"
+    },
+    {
+      "id": "0f210b4561161b88",
+      "styleAttributes": {},
+      "fromNode": "b6f9bde1e33c438f",
+      "fromSide": "right",
+      "toNode": "46bc5e29cf50e80d",
+      "toSide": "left",
+      "label": "has"
+    },
+    {
+      "id": "ed027e0e3a4808e8",
+      "styleAttributes": {},
+      "fromNode": "dd9729f2800b55b7",
+      "fromSide": "top",
+      "toNode": "46bc5e29cf50e80d",
+      "toSide": "top"
+    },
+    {
+      "id": "af9a6f5b740f98fe",
+      "styleAttributes": {},
+      "fromNode": "2bed446165bf3707",
+      "fromSide": "bottom",
+      "toNode": "5507518fba4bfc67",
+      "toSide": "top"
+    },
+    {
+      "id": "85e13128cfe137ea",
+      "styleAttributes": {},
+      "fromNode": "31d3c6b03bbedfd9",
+      "fromSide": "right",
+      "toNode": "2c3bfdcdd312d2ad",
+      "toSide": "left"
+    },
+    {
+      "id": "c7a1858c0110b68d",
+      "styleAttributes": {},
+      "fromNode": "31d3c6b03bbedfd9",
+      "fromSide": "right",
+      "toNode": "c817a5cee36b0cac",
+      "toSide": "left"
+    },
+    {
+      "id": "65be769ab1fb8b49",
+      "styleAttributes": {},
+      "fromNode": "2c3bfdcdd312d2ad",
+      "fromSide": "right",
+      "toNode": "df6076009bbc2f02",
+      "toSide": "left"
+    },
+    {
+      "id": "1450823a34c43921",
+      "styleAttributes": {},
+      "fromNode": "c817a5cee36b0cac",
+      "fromSide": "right",
+      "toNode": "df6076009bbc2f02",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

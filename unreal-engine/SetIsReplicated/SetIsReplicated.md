@@ -1,4 +1,11 @@
+
+#UAbilitySystemComponent
+
+
 ```cpp
 void SetIsReplicated(bool ShouldReplicate)
 ```
-#UAbilitySystemComponent
+
+```cpp title:constructor
+AbilitySystemComponent->SetIsReplicated(true);
+```
