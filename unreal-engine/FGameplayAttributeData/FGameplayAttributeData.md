@@ -1,6 +1,7 @@
 #UAttributeSet
 
 - [[ReplicatedUsing]]
+- [[AttributeAccessors]]
 
 ```cpp
 UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_<Attribute>)  

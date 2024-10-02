@@ -9,6 +9,8 @@ UAbilitySystemComponent* AAuraCharacterBase::GetAbilitySystemComponent() const
 }
 ```
 
+^767dce
+
 ## AbilitySystemBlueprintLibrary
 ```cpp 
 static UAbilitySystemComponent* GetAbilitySystemComponent(AActor* Actor);

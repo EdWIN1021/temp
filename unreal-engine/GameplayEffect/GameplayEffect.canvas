@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "58bd3720e7ad3af5",
+      "type": "file",
+      "file": "unreal-engine/GameplayEffect/GameplayEffect.md",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0217b69c18fcd4d0",
+      "type": "text",
+      "text": "Instant Gameplay Effect",
+      "styleAttributes": {},
+      "x": 180,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d1b535d908a163d3",
+      "type": "text",
+      "text": "Duration Gameplay Effect",
+      "styleAttributes": {},
+      "x": 180,
+      "y": -110,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "12ca7705a7abd491",
+      "styleAttributes": {},
+      "fromNode": "58bd3720e7ad3af5",
+      "fromSide": "right",
+      "toNode": "0217b69c18fcd4d0",
+      "toSide": "left"
+    },
+    {
+      "id": "1175fe9ff202eacc",
+      "styleAttributes": {},
+      "fromNode": "58bd3720e7ad3af5",
+      "fromSide": "right",
+      "toNode": "d1b535d908a163d3",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
