@@ -7,5 +7,6 @@
   "defaultViewMode": "preview",
   "tabSize": 2,
   "readableLineLength": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "promptDelete": false
 }

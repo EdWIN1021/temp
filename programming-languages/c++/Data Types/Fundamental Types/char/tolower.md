@@ -1,1 +1,0 @@
-> [!info] if c is an uppercase letter, returns its lowercase equivalent
