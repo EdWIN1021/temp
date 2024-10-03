@@ -21,6 +21,10 @@
     {
       "folder": "Function",
       "template": "Templates/Function.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

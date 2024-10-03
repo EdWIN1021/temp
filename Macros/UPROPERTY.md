@@ -1,3 +1,18 @@
+---
+tags:
+  - Macro
+Description: 
+Class:
+---
+
+## Declaration
+
+```cpp
+
+```
+
+## Example
+
 ```cpp
 // blueprint
 UPROPERTY(EditDefaultsOnly)
@@ -22,3 +37,6 @@ UPROPERTY(VisibleAnywhere)
 
 UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_Health, Category = "Vital Attributes")
 ```
+
+## Options
+- 

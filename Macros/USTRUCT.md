@@ -1,3 +1,13 @@
+---
+tags:
+  - Macro
+Description: 
+Class:
+---
+
+## Declaration
+
+```cpp
 ```cpp
 USTRUCT(BlueprintType)  
 struct FMyStruct  
@@ -6,3 +16,13 @@ struct FMyStruct
       
 };
 ```
+
+```
+
+## Example
+
+```cpp
+```
+
+## Options
+- 

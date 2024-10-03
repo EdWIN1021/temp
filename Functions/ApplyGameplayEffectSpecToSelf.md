@@ -2,10 +2,11 @@
 tags:
   - Function
 Class: 
-Parameters: 
+Parameters:
+  - "[[FGameplayEffectSpecHandle]]"
 Return: 
 Interface: 
-Description:
+Description: This applies the effect specification to the target actor
 ---
 
 ## Declaration
@@ -20,4 +21,4 @@ TargetASC->ApplyGameplayEffectSpecToSelf(*EffectSpecHandle.Data.Get());
 ```
 
 ## Options
-- 
+- [[GE_GameplayEffect]]

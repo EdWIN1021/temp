@@ -1,5 +1,28 @@
-- GAMEPLAYATTRIBUTE_REPNOTIFY macro handles <font color="#c0504d">notifying other systems</font> (like UI or gameplay logic) that the attribute has changed, allowing for appropriate updates.
+---
+tags:
+  - Macro
+Description: GAMEPLAYATTRIBUTE_REPNOTIFY macro handles  (like UI or gameplay logic) that the attribute has changed, allowing for appropriate updates.
+Class:
+---
+
+## Declaration
 
 ```cpp
-GAMEPLAYATTRIBUTE_REPNOTIFY(UAuraAttributeSet, Health, OldHealth);
+#define GAMEPLAYATTRIBUTE_REPNOTIFY(ClassName, PropertyName, OldValue) \
+{ \
+	static FProperty* ThisProperty = FindFieldChecked<FProperty>(ClassName::StaticClass(), GET_MEMBER_NAME_CHECKED(ClassName, PropertyName)); \
+	GetOwningAbilitySystemComponentChecked()->SetBaseAttributeValueFromReplication(FGameplayAttribute(ThisProperty), PropertyName, OldValue); \
+}
 ```
+
+## Example
+
+```cpp
+void <Project>AttributeSet::OnRep_<Attribute>(const FGameplayAttributeData& Old<Attribute>) const
+{
+  GAMEPLAYATTRIBUTE_REPNOTIFY(<Project>AttributeSet, Attribute, Old<Attribute>);
+}
+```
+
+## Options
+- 

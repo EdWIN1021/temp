@@ -1,10 +1,26 @@
-```cpp
-//.h
-virtual void NativeUpdateAnimation(float DeltaTime) override;
+---
+tags:
+  - Function
+Class: 
+Parameters: 
+Return: 
+Interface: 
+Description:
+---
 
-//.cpp
-void USlashAnimInstance::NativeUpdateAnimation(float DeltaTime)
-{
+## Declaration
+
+```cpp
+virtual void NativeUpdateAnimation(float DeltaTime) override;
+```
+
+## Example
+
+```cpp
+void USlashAnimInstance::NativeUpdateAnimation(float DeltaTime){    
 	Super::NativeUpdateAnimation(DeltaTime);
 }
 ```
+
+## Options
+- GroundSpeed

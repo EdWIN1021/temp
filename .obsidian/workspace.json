@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2de4020496dd0b",
+        "id": "337e6b943f1776c3",
         "type": "tabs",
         "children": [
           {
-            "id": "2a03214e5df9a9b9",
+            "id": "4f2d4e2ae3b15347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/SetCapsuleHalfHeight.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5c0a20faa87d035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/SetCapsuleRadius.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8266999a83572cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/AddMappingContext.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f981b3e532d0f6a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/CreateDefaultSubobject.md",
+                "file": "Blueprints/GE_GameplayEffect.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CreateDefaultSubobject",
+                "query": "Definitions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/CreateDefaultSubobject.md",
+                "file": "Blueprints/GE_GameplayEffect.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/CreateDefaultSubobject.md",
+                "file": "Blueprints/GE_GameplayEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions/CreateDefaultSubobject.md"
+                "file": "Blueprints/GE_GameplayEffect.md"
               }
             }
           },
@@ -201,34 +161,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "906761a8f911bb3b",
+  "active": "4f2d4e2ae3b15347",
   "lastOpenFiles": [
-    "Classes/AbilitySystemComponent.md",
-    "Functions/GetRootComponent.md",
-    "Functions/EndOverlap.md",
-    "Functions/AddDynamic.md",
-    "Functions/AddMovementInput.md",
-    "Functions/SetupAttachment.md",
-    "_How/How to create a Camera/How to create a Camera.md",
-    "Functions/Init<Attribute>.md",
-    "Functions/Init<Attribute>1.md",
-    "Functions/OnOverlap.md",
-    "Functions/ApplyGameplayEffectSpecToSelf.md",
-    "Functions/InitAbilityActorInfo.md",
-    "Functions/AddUObject.md",
-    "Functions/SetCollisionEnabled.md",
-    "Functions/SetCollisionEnabled.md",
-    "Functions/AddMappingContext.md",
-    "Functions/GetPlayerState.md",
-    "Functions/AddControllerYawInput.md",
-    "Functions/SetCapsuleRadius.md",
-    "Functions/SetCapsuleHalfHeight.md",
-    "Functions/SetCapsuleHalfHeight1.md",
-    "_How/How to create a CapsuleComponent.md",
-    "Functions/Tick.md",
-    "IDiffControl.md",
-    "Functions/Constructor.md",
-    "Templates/Function.md",
+    "Blueprints/DT_DataTable.md",
+    "Definitions/Construction Script.md",
+    "Definitions/Level Blueprint.md",
+    "Definitions/GameModeBase.md",
+    "Definitions/Curve Table.md",
+    "Definitions/Blueprint Class.md",
+    "Definitions/Event Dispatcher.md",
+    "Definitions/Gameplay Tags.md",
+    "Gameplay Tag Manager.md",
+    "Definitions/Gameplay Ability System.md",
+    "Macros/check.md",
+    "Templates/Definition.md",
+    "Templates/Class.md",
+    "Structs/FGameplayTag.md",
+    "Definitions/Gameplay Effect.md",
+    "Definitions/Game Instance.md",
+    "Blueprints/GE_GameplayEffect.md",
+    "Blueprints",
+    "ETriggerEvent.md",
+    "Functions/BindAction.md",
+    "EGameplayEffectReplicationMode.md",
+    "Enums/EGameplayEffectReplicationMode.md",
+    "FActorTickFunction.md",
+    "Enums",
+    "Properties/bCanEverTick.md",
+    "Structs/FInputModeGameAndUI.md",
+    "FGameplayEffectSpec.md",
+    "Macros/TObjectPtr.md",
+    "_How/How to make Character LookUp/How to make Character LookUp.canvas",
+    "_How/How to make Character Jump/How to make Character Jump.canvas",
     "_Legacy/BlueprintClass/Blueprint Class.canvas",
     "_Legacy/DataAsset/Screenshot 2024-09-26 at 10.18.18 PM.png",
     "_Legacy/EnhancedInputComponent/Screenshot 2024-09-26 at 10.49.56 PM.png",
@@ -248,14 +212,10 @@
     "AbilitySystemComponent/screenshot_01.png",
     "AbilitySystemComponent/AbilitySystemComponent.canvas",
     "Templates",
-    "Classes",
-    "Functions",
     "_Legacy/Mesh/Mesh.canvas",
     "_Legacy/HUD/HUD.canvas",
     "_Legacy/AttributeSet/AttributeSet.canvas",
     "_Legacy/AttributeSet/screenshot_01.png",
-    "_How/How to set Cursor Behavior/How to set Cursor Behavior.canvas",
-    "_How/How to make Third Person Movement/How to make Third Person Movement.canvas",
     "_How/How to make Character LookUp/screenshot_01.png",
     "_How/How to make Character Jump/screenshot_02.png",
     "_How/How to make Character Jump/screenshot_01.png"

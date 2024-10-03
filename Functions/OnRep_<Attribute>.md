@@ -1,12 +1,28 @@
-- function will be called on clients when the property changes on the server
-- [[GAMEPLAYATTRIBUTE_REPNOTIFY]]
+---
+tags:
+  - Function
+Class: 
+Parameters: 
+Return: 
+Interface: 
+Description: function will be called on clients when the property changes on the server
+---
+
+## Declaration
 
 ```cpp
-UFUNCTION()  
-void OnRep_<Attribute>(const FGameplayAttributeData& <OldAttribute>) const;
+UFUNCTION()
+void <Project>AttributeSet::OnRep_<Attribute>(const FGameplayAttributeData& Old<Attribute>) const
+```
 
-void <Project>AttributeSet::OnRep_<Attribute>(const FGameplayAttributeData& Old<Attribute>) const  
-{  
-  GAMEPLAYATTRIBUTE_REPNOTIFY(<Project>AttributeSet, Attribute, Old<Attribute>);  
+## Example
+
+```cpp
+void <Project>AttributeSet::OnRep_<Attribute>(const FGameplayAttributeData& Old<Attribute>) const
+{
+  GAMEPLAYATTRIBUTE_REPNOTIFY(<Project>AttributeSet, Attribute, Old<Attribute>);
 }
 ```
+
+## Options
+- [[GAMEPLAYATTRIBUTE_REPNOTIFY]]

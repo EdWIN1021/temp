@@ -1,6 +1,24 @@
+---
+tags:
+  - Function
+Class: 
+Parameters: 
+Return: 
+Interface: 
+Description:
+---
+
+## Declaration
+
 ```cpp
-void ASlashCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
-{
-	Super::SetupPlayerInputComponent(PlayerInputComponent);
-}
+
 ```
+
+## Example
+
+```cpp
+void ASlashCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent){    Super::SetupPlayerInputComponent(PlayerInputComponent);}
+```
+
+## Options
+- 

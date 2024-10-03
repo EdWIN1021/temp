@@ -8,7 +8,7 @@ Has:
   - "[[UBoxComponent]]"
 Declaration: 
 Description: 
-Definition: "[[GameplayEffect]]"
+Definition: "[[Gameplay Effect]]"
 ---
 
 ## Declaration

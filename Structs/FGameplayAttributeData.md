@@ -1,10 +1,23 @@
-#UAttributeSet
+---
+tags:
+  - Struct
+Description: 
+Properties: 
+Class:
+---
 
-- [[ReplicatedUsing]]
-- [[AttributeAccessors]]
+## Declaration
 
 ```cpp
-UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_<Attribute>)  
+UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_<Attribute>) 
 FGameplayAttributeData Attribute;
-ATTRIBUTE_ACCESSORS(UAuraAttributeSet, Attribute);
 ```
+
+## Example
+
+```cpp
+```
+
+## Options
+- [[OnRep_<Attribute>]]
+- [[ATTRIBUTE_ACCESSORS]]

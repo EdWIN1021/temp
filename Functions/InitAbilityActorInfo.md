@@ -5,7 +5,9 @@ Class:
 Parameters: 
 Return: 
 Interface: 
-Description:
+Description: 
+Initialization:
+  - "[[BeginPlay]]"
 ---
 
 ## Declaration
@@ -16,11 +18,12 @@ virtual void InitAbilityActorInfo(AActor* InOwnerActor, AActor* InAvatarActor)ï¼
 
 ## Example
 
+### Owner Actor is a Character
+
 ```cpp
-//Owner Actor is a Character
+// beginplay
 AbilitySystemComponent->InitAbilityActorInfo(this, this);
 ```
-
-```
-## Options
-- 
+### Owner Actor is a PlayerState
+- Client: [[OnRep_PlayerState]]
+- Server: [[PossessedBy]]

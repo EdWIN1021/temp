@@ -25,4 +25,4 @@ Subsystem->AddMappingContext(AuraContext, 0);
 ```
 
 ## Options
-- 
+- [[Curve Table]]

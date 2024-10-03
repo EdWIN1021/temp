@@ -9,6 +9,9 @@
     "Has": "multitext",
     "Type": "multitext",
     "Initialization": "multitext",
-    "Parameters": "multitext"
+    "Parameters": "multitext",
+    "Class": "multitext",
+    "Properties": "multitext",
+    "Creation": "multitext"
   }
 }
