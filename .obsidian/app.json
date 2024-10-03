@@ -6,7 +6,7 @@
   "showInlineTitle": true,
   "defaultViewMode": "preview",
   "tabSize": 2,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showRibbon": true,
   "promptDelete": false
 }

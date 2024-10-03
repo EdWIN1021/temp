@@ -1,12 +1,12 @@
 ---
 tags:
   - Class
-Base: "[[ULocalPlayerSubsystem]]"
+Base: "[[ULocalPlayerSubsystem 1]]"
 Initialization:
   - "[[BeginPlay]]"
 Has: 
 Declaration: 
-Description:
+Description: 
 ---
 
 ## Declaration
