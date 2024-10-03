@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d905a2f28e471b75",
+        "id": "e920188278794b27",
         "type": "tabs",
         "children": [
           {
-            "id": "2b68282dd135b633",
+            "id": "cfa16126d4af6147",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/GetAbilitySystemComponent.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 335.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/GetAbilitySystemComponent.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/GetAbilitySystemComponent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Functions/GetAbilitySystemComponent.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,34 +153,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b68282dd135b633",
+  "active": "cfa16126d4af6147",
   "lastOpenFiles": [
-    "Functions/GetAnimInstance.md",
-    "Functions/GetCharacterMovement.md",
-    "Classes/UActorComponent.md",
-    "Classes/UArrowComponent.md",
-    "Classes/UAbilitySystemBlueprintLibrary.md",
+    "Classes/UAbilitySystemComponent.md",
     "Classes/APawn.md",
-    "Classes/ACharacter.md",
-    "Classes/AController.md",
-    "Classes/AGameModeBase.md",
-    "Classes/AHUD.md",
-    "Functions/SetCollisionResponseToAllChannels.md",
-    "Functions/SetCollisionEnabled.md",
-    "Functions/SetCapsuleHalfHeight.md",
-    "Functions/SetActorLocation.md",
-    "Functions/PreAttributeChange.md",
-    "Functions/OnRep_<Attribute>.md",
-    "Functions/NativeUpdateAnimation.md",
-    "Functions/MakeOutgoingSpec.md",
-    "Functions/GetRootComponent.md",
-    "Functions/GetPawn.md",
-    "Functions/GetName.md",
-    "Functions/GetMesh.md",
-    "Functions/GetActorLocation.md",
-    "Functions/EndOverlap.md",
+    "Classes/APlayerState.md",
+    "Classes/UAnimMontage.md",
+    "Functions/BindAction.md",
     "Functions/BeginPlay.md",
-    "Functions/AddControllerYawInput.md",
+    "Functions/AddUObject.md",
+    "Functions/AddSourceObject.md",
+    "Functions/AddOnScreenDebugMessage.md",
+    "Functions/AddDynamic.md",
+    "Classes/UObjectBaseUtility.md",
+    "Classes/UWorld.md",
+    "Classes/UWidgetController.md",
+    "Classes/UUserWidget.md",
+    "Classes/UStaticMeshComponent.md",
+    "Classes/USceneComponent.md",
+    "Classes/UObject.md",
+    "Classes/ULocalPlayer.md",
+    "Classes/UInputMappingContext.md",
+    "Classes/UGameplayEffect.md",
+    "Classes/UEnhancedInputComponent.md",
+    "Classes/UDataAsset.md",
+    "Classes/UEngine.md",
+    "Classes/UCharacterMovementComponent.md",
+    "Classes/UBoxComponent.md",
+    "Classes/UAnimInstance.md",
     "Assets",
     "Assets/bp_open_level_blueprint.png",
     "Assets/bp_how to activate particle effect.png",
