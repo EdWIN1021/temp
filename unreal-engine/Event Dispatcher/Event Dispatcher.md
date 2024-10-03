@@ -1,1 +1,0 @@
-- & An Event Dispatcher allows a Blueprint to inform other Blueprints when an Event happens.

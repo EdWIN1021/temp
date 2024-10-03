@@ -1,4 +1,0 @@
-- Scalable Float
-- Attribute Based
-- Custom Calculation Class (MMC)
-- Set by Caller

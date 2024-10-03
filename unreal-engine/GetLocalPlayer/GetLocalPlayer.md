@@ -1,3 +1,0 @@
-```cpp
-ULocalPlayer* GetLocalPlayer() const
-```
