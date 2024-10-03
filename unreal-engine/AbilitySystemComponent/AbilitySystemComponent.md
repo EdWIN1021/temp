@@ -1,8 +1,11 @@
 ---
 tags:
-  - Class
+  - "#CharacterMovement"
+  - blueprint
 Base: "[[AddMovementInput]]"
+jj: "#xsdxsdx"
 ---
+#sxsxsx
 
 
 

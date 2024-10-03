@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Base": "text",
-    "List": "text"
+    "List": "text",
+    "Declaration": "multitext"
   }
 }
