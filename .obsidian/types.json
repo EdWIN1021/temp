@@ -5,6 +5,10 @@
     "tags": "tags",
     "Base": "text",
     "List": "text",
-    "Declaration": "multitext"
+    "Declaration": "multitext",
+    "Has": "multitext",
+    "Type": "multitext",
+    "Initialization": "multitext",
+    "Parameters": "multitext"
   }
 }
