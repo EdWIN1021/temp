@@ -1,12 +1,12 @@
 ---
 tags:
   - Function
-Class: "[[UAbilitySystemBlueprintLibrary]]"
+Class:
+  - "[[UAbilitySystemBlueprintLibrary]]"
 Parameters: 
 Return: 
 Interface: "[[IAbilitySystemInterface]]"
-Description: 
-Type:
+Description:
 ---
 
 ## Declaration

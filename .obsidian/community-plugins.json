@@ -1,8 +1,7 @@
 [
-  "obsidian-list-callouts",
   "obsidian-outliner",
   "dataview",
-  "templater-obsidian",
   "quickadd",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "code-styler"
 ]
