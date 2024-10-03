@@ -15,7 +15,7 @@ virtual void NativeUpdateAnimation(float DeltaTime) override;
 ```
 
 ## Example
-
+\
 ```cpp
 void USlashAnimInstance::NativeUpdateAnimation(float DeltaTime){    
 	Super::NativeUpdateAnimation(DeltaTime);
@@ -24,3 +24,4 @@ void USlashAnimInstance::NativeUpdateAnimation(float DeltaTime){
 
 ## Options
 - GroundSpeed
+- IsFalling

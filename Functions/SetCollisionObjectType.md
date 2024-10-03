@@ -5,14 +5,12 @@ Class:
 Parameters: 
 Return: 
 Interface: 
-Description: 
-Type:
+Description:
 ---
 
 ## Declaration
 
 ```cpp
-inline USkeletalMeshComponent* GetMesh() const 
 ```
 
 ## Example
@@ -20,10 +18,5 @@ inline USkeletalMeshComponent* GetMesh() const
 ```cpp
 ```
 
-## Getter
-
-```cpp
-```
-
 ## Options
-- [[GetAnimInstance]]
+- 

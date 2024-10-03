@@ -4,23 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "faa3f21389d57a6c",
+        "id": "3bddee672d689c65",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6de3ec862d0345",
+            "id": "279862b2935f052c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/GetAbilitySystemComponent.md",
+                "file": "Classes/UFieldNodeFloat.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3301665cc1e48be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macros/UE_LOG.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250b78014d5185b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Tick.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1621fb681d7b3343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/NativeInitializeAnimation.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01b3262ae44445e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Montage_Play.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fce683980afdda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions/Montage_JumpToSection.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e45f09c28ef796d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/UMovementComponent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Definitions",
+                "query": "GetActorLocation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +144,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "09f088e565bc35b5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 260.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -86,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/GetAbilitySystemComponent.md",
+                "file": "Functions/NativeInitializeAnimation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/GetAbilitySystemComponent.md",
+                "file": "Functions/NativeInitializeAnimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions/GetAbilitySystemComponent.md"
+                "file": "Functions/NativeInitializeAnimation.md"
               }
             }
           },
@@ -159,37 +247,39 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "6b6de3ec862d0345",
+  "active": "808f427b7585f066",
   "lastOpenFiles": [
-    "Functions/GetActorForwardVector.md",
-    "Functions/EndOverlap.md",
-    "Functions/CreateDefaultSubobject.md",
-    "Functions/Constructor.md",
-    "Functions/BindAction.md",
-    "Functions/BeginPlay.md",
-    "Functions/AddUObject.md",
-    "Functions/AddOnScreenDebugMessage.md",
-    "Functions/AddDynamic.md",
-    "Functions/AddControllerYawInput.md",
-    "Functions/AddControllerPitchInput.md",
-    "Classes/APlayerController.md",
-    "Classes/APlayerState.md",
-    "Classes/UAbilitySystemBlueprintLibrary.md",
-    "Classes/UAbilitySystemComponent.md",
-    "Classes/UAnimInstance.md",
-    "Classes/UAttributeSet.md",
-    "Classes/UArrowComponent.md",
-    "Classes/UCapsuleComponent.md",
-    "Classes/UActorComponent.md",
+    "Functions/Montage_Play.md",
+    "Functions/Montage_JumpToSection.md",
+    "Functions/NativeInitializeAnimation.md",
+    "Functions/GetAnimInstance.md",
+    "Functions/GetMesh.md",
+    "Functions/SetCollisionObjectType.md",
+    "Functions/Tick.md",
+    "Functions/IsFalling.md",
+    "Macros/UE_LOG.md",
+    "Classes/UFieldNodeFloat.md",
+    "Classes/UMovementComponent.md",
+    "Classes/UNavMovementComponent.md",
+    "Functions/NativeUpdateAnimation.md",
     "Classes/UAnimMontage.md",
-    "Classes/UBoxComponent.md",
-    "Classes/AGameModeBase.md",
-    "Classes/APawn.md",
-    "Functions/AddSourceObject.md",
-    "Classes/UObjectBaseUtility.md",
+    "Macros/UENUM.md",
+    "Functions/SetupPlayerInputComponent.md",
+    "Classes/UInputComponent.md",
+    "Classes/UCharacterMovementComponent.md",
+    "Macros/Untitled.md",
+    "Macros/GAMEPLAYATTRIBUTE_REPNOTIFY.md",
+    "Macros/DOREPLIFETIME_CONDITION_NOTIFY.md",
+    "Classes/UGeometryCollectionComponent.md",
+    "Macros/USTRUCT.md",
+    "Enums/EGameplayEffectReplicationMode.md",
+    "Structs/Untitled.md",
+    "Enums/ETriggerEvent.md",
+    "Delegates",
+    "Tags",
     "Assets",
     "Assets/bp_open_level_blueprint.png",
     "Assets/bp_how to activate particle effect.png",
@@ -217,8 +307,6 @@
     "Interfaces",
     "Properties",
     "Macros",
-    "Structs",
-    "Views",
-    "_Legacy"
+    "Structs"
   ]
 }

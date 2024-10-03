@@ -12,12 +12,15 @@ Type:
 ## Declaration
 
 ```cpp
-virtual void SetCollisionResponseToChannel(ECollisionChannel Channel, ECollisionResponse NewResponse)
+ENGINE_API virtual void SetCollisionResponseToChannel(
+	ECollisionChannel Channel, 
+	ECollisionResponse NewResponse);
 ```
 
 ## Example
 
 ```cpp
+GeometryCollection->SetCollisionResponseToChannel(ECC_Camera, ECR_Ignore);
 ```
 
 ## Getter

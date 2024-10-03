@@ -1,17 +1,18 @@
 ---
 tags:
   - Function
-Class: 
+Class:
+  - "[[AActor]]"
 Parameters: 
 Return: 
-Interface: "[[IDiffControl]]"
+Interface: 
 Description: Called each frame by the engine
 ---
 
 ## Declaration
 
 ```cpp
-Tick()
+ENGINE_API virtual void Tick( float DeltaSeconds );
 ```
 
 ## Example

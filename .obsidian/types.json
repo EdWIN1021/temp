@@ -12,6 +12,7 @@
     "Parameters": "multitext",
     "Class": "multitext",
     "Properties": "multitext",
-    "Creation": "multitext"
+    "Creation": "multitext",
+    "Struct": "text"
   }
 }

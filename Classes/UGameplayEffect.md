@@ -30,4 +30,4 @@ TSubclassOf<UGameplayEffect> InstantGameplayEffectClass;
 ```
 
 ## Options
-- 
+- [[OnGameplayEffectAppliedDelegateToSelf]]

@@ -1,12 +1,12 @@
 ---
 tags:
-  - Function
-Class: 
-Parameters: 
-Return: 
-Interface: 
+  - Class
+Base: 
+Initialization: 
+Has: 
+Declaration: 
 Description: 
-Type:
+Blueprint: "[[BP_FieldSystemActor]]"
 ---
 
 ## Declaration
@@ -17,7 +17,6 @@ Type:
 ## Example
 
 ```cpp
-GetMesh()->GetAnimInstance()
 ```
 
 ## Getter

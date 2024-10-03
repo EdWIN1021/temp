@@ -29,3 +29,5 @@ virtual void NativeInitializeAnimation() override
 ## Options
 - [[TryGetPawnOwner]]
 - [[GetCharacterMovement]]
+- [[Montage_Play]]
+- [[Montage_JumpToSection]]

@@ -1,18 +1,18 @@
 ---
 tags:
   - Function
-Class: 
+Class:
+  - "[[UPrimitiveComponent]]"
 Parameters: 
 Return: 
 Interface: 
-Description: 
-Type:
+Description:
 ---
 
 ## Declaration
 
 ```cpp
-inline USkeletalMeshComponent* GetMesh() const 
+ENGINE_API void SetGenerateOverlapEvents(bool bInGenerateOverlapEvents);
 ```
 
 ## Example
@@ -20,10 +20,5 @@ inline USkeletalMeshComponent* GetMesh() const
 ```cpp
 ```
 
-## Getter
-
-```cpp
-```
-
 ## Options
-- [[GetAnimInstance]]
+- 

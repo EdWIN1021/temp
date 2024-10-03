@@ -1,12 +1,13 @@
 {
-  "accentColor": "",
+  "accentColor": "#f7c618",
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Avenir",
   "textFontFamily": "Avenir",
   "monospaceFontFamily": "Cascadia Code",
   "enabledCssSnippets": [
-    "snippet"
+    "snippet",
+    "style"
   ],
   "nativeMenus": true
 }

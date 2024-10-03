@@ -1,0 +1,20 @@
+.theme-dark {
+  /* --background-primary: rgba(30, 34, 39, 1);
+  --background-secondary: rgb(27, 30, 35); */
+}
+
+body {
+  /* One Dark Pro Theme */
+  --code-size: var(--font-smaller);
+  --code-background: #282c34; /* Dark background */
+  --code-normal: #abb2bf; /* Normal text color */
+  --code-comment: #5c6370; /* Faint, grayish color for comments */
+  --code-function: #61afef; /* Blue for functions */
+  --code-important: #e06c75; /* Red for important elements */
+  --code-keyword: #c678dd; /* Purple for keywords */
+  --code-property: #d19a66; /* Orange for properties */
+  --code-punctuation: #abb2bf; /* Same as normal text for punctuation */
+  --code-string: #98c379; /* Green for strings */
+  --code-tag: #e06c75; /* Red for tags */
+  --code-value: #56b6c2; /* Cyan for values */
+}

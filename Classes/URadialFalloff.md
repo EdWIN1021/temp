@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: 
+Base: "[[UFieldNodeFloat]]"
 Initialization: 
 Has: 
 Declaration: 
@@ -24,4 +24,4 @@ Description:
 ```
 
 ## Options
-- [[AFieldSystemActor | Create Destructible Mesh]]
+- 

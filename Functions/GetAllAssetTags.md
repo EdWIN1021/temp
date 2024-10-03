@@ -6,24 +6,20 @@ Parameters:
 Return: 
 Interface: 
 Description: 
-Type:
+Struct: "[[FGameplayEffectSpec]]"
 ---
 
 ## Declaration
 
 ```cpp
-inline USkeletalMeshComponent* GetMesh() const 
 ```
 
 ## Example
 
 ```cpp
-```
-
-## Getter
-
-```cpp
+FGameplayTagContainer TagContainer;   
+EffectSpec.GetAllAssetTags(TagContainer);
 ```
 
 ## Options
-- [[GetAnimInstance]]
+- 
