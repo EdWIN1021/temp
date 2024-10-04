@@ -28,4 +28,5 @@ namespace <Project>GameplayTags
 ```
 
 ## Options
-- 
+- [[RequestGameplayTag]]
+- [[MatchesTag]]

@@ -5,7 +5,6 @@ Base:
 Initialization:
   - "[[Constructor]]"
 Has: 
-Declaration: 
 Description:
 ---
 
@@ -21,11 +20,7 @@ UGeometryCollectionComponent* GeometryCollection;
 GeometryCollection = CreateDefaultSubobject<UGeometryCollectionComponent>(TEXT("GeometryCollection"));
 ```
 
-## Getter
-
-```cpp
-```
-
 ## Options
+
 - [[OnChaosBreakEvent]]
 - [[PlaySoundAtLocation]]

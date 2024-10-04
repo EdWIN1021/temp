@@ -1,7 +1,6 @@
 ---
 tags:
-  - Function
-  - Blueprint
+  - Function/Blueprint
 Class: 
 Parameters: 
 Return: 

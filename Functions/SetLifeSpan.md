@@ -1,8 +1,7 @@
 ---
 tags:
-  - Function
-  - Blueprint
-Class: []
+  - Function/Blueprint
+Class: 
 Description:
 ---
 ## Options

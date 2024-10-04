@@ -27,4 +27,4 @@ AbilitySystemComponent = CreateDefaultSubobject<UAuraAbilitySystemComponent>(TEX
 ```
 
 ## Options
-- 
+- [[GetGameplayAttributeValueChangeDelegate]]

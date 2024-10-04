@@ -18,4 +18,4 @@ FGameplayTagContainer TagContainer;
 ```
 
 ## Options
-- 
+- [[GetAllAssetTags]]
