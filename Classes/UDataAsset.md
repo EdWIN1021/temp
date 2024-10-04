@@ -6,7 +6,7 @@ Initialization:
 Has: 
 Declaration: 
 Description: 
-Blueprint: Miscellaneous -> Data Asset
+Creation: Miscellaneous -> Data Asset
 ---
 
 ## Declaration

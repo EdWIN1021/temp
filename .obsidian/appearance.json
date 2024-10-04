@@ -1,5 +1,5 @@
 {
-  "accentColor": "#f7c618",
+  "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Avenir",
@@ -9,5 +9,7 @@
     "snippet",
     "style"
   ],
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 16,
+  "showViewHeader": true
 }

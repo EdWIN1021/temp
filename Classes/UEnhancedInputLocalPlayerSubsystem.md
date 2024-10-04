@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: "[[ULocalPlayerSubsystem 1]]"
+Base: "[[ULocalPlayerSubsystem]]"
 Initialization:
   - "[[BeginPlay]]"
 Has: 

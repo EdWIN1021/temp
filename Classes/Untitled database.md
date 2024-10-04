@@ -41,7 +41,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 137
+    width: 293
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -81,7 +81,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 250
+    width: 217
     config:
       enable_media_view: true
       link_alias_enabled: true

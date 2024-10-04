@@ -5,9 +5,9 @@
   "darkScheme": "minimal-default-dark",
   "editorFont": "",
   "lineHeight": 1.5,
-  "lineWidth": 60,
+  "lineWidth": 40,
   "lineWidthWide": 50,
-  "maxWidth": 90,
+  "maxWidth": 88,
   "textNormal": 16,
   "textSmall": 13,
   "imgGrid": false,
@@ -18,7 +18,7 @@
   "chartWidth": "chart-default-width",
   "colorfulHeadings": false,
   "colorfulFrame": false,
-  "colorfulActiveStates": false,
+  "colorfulActiveStates": true,
   "trimNames": true,
   "labeledNav": false,
   "fullWidthMedia": true,
@@ -29,6 +29,6 @@
   "underlineExternal": false,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "devBlockWidth": false
 }

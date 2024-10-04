@@ -1,5 +1,14 @@
 {
-  "minimal-style@@base@@dark": "#1E2227",
-  "minimal-style@@bg1@@dark": "#1E2227",
-  "minimal-style@@bg2@@dark": "#1B1E23"
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-text-size": "1.2em",
+  "minimal-style@@dataview-inline-lists": false,
+  "minimal-style@@row-alt": false,
+  "minimal-style@@base@@dark": "#1E1E2E",
+  "minimal-style@@bg1@@dark": "#181825",
+  "minimal-style@@bg2@@dark": "#11111B",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
+  "minimal-style@@tag-color@@dark": "#F9E2AF",
+  "minimal-style@@link-color@@dark": "#89B4FA",
+  "minimal-style@@link-color-hover@@dark": "#74C7EC"
 }

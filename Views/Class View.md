@@ -1,3 +1,3 @@
 ```dataview 
-Table Base, Initialization FROM #Class sort file.name
+Table Base, Initialization, Has FROM #Class sort file.name
 ```
