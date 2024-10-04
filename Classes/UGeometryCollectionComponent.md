@@ -27,4 +27,5 @@ GeometryCollection = CreateDefaultSubobject<UGeometryCollectionComponent>(TEXT("
 ```
 
 ## Options
-- 
+- [[OnChaosBreakEvent]]
+- [[PlaySoundAtLocation]]

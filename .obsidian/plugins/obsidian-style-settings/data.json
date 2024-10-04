@@ -12,5 +12,16 @@
   "minimal-style@@link-color@@dark": "#89B4FA",
   "minimal-style@@link-color-hover@@dark": "#89DCEB",
   "minimal-style@@tx1@@dark": "#A6ADC8",
-  "minimal-style@@tx2@@dark": "#A6ADC8"
+  "minimal-style@@tx2@@dark": "#A6ADC8",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anp-table-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-width": true,
+  "anuppuccin-theme-settings@@anp-collapse-folders": false,
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "anuppuccin-theme-settings@@anp-table-th-highlight": false,
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater"
 }

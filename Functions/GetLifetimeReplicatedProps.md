@@ -22,10 +22,5 @@ COREUOBJECT_API virtual void GetLifetimeReplicatedProps( TArray< class FLifetime
 void U<Project>AttributeSet::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const {}
 ```
 
-## Getter
-
-```cpp
-```
-
 ## Options
 - [[DOREPLIFETIME_CONDITION_NOTIFY]]

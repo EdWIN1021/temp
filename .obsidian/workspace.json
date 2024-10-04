@@ -4,21 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "9edc71a3e3e94a51",
+        "id": "ed07c00c04de3ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "627deec330d9e57c",
+            "id": "766fac6a88e37a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Gameplay Effect.md",
+                "file": "SetLifeSpan.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
-            }
+            },
+            "group": "73b5b5af560ab3b6"
+          }
+        ]
+      },
+      {
+        "id": "6c9a3f1af82c589d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c597289bf6cfa3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "SetLifeSpan.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "73b5b5af560ab3b6"
           }
         ]
       }
@@ -49,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "view",
+                "query": "Geo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 296.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Gameplay Effect.md",
+                "file": "SetLifeSpan.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Gameplay Effect.md",
+                "file": "SetLifeSpan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/Gameplay Effect.md"
+                "file": "SetLifeSpan.md"
               }
             }
           },
@@ -170,34 +213,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "627deec330d9e57c",
+  "active": "766fac6a88e37a60",
   "lastOpenFiles": [
-    "Definitions/GameModeBase.md",
-    "Definitions/Curve Table.md",
-    "Definitions/Gameplay Ability System.md",
-    "Definitions/Collision Presets.md",
-    "Definitions/Construction Script.md",
-    "Definitions/Event Dispatcher.md",
-    "Definitions/Blueprint Class.md",
-    "Enums/ETriggerEvent.md",
-    "Enums/EGameplayEffectReplicationMode.md",
-    "Interfaces/IDiffControl.md",
-    "Functions/AddOnScreenDebugMessage.md",
-    "Functions/AddUObject.md",
-    "Functions/AddSourceObject.md",
-    "Functions/ApplyGameplayEffectSpecToSelf.md",
-    "Blueprints/GE_GameplayEffect.md",
+    "OnChaosBreakEvent.md",
+    "Classes/UGeometryCollectionComponent.md",
+    "SetLifeSpan.md",
+    "PlaySoundAtLocation.md",
     "Functions/BindAction.md",
     "Functions/BeginPlay.md",
-    "Functions/BindAxis.md",
-    "Functions/AddMovementInput.md",
+    "Functions/AddUObject.md",
+    "Functions/AddMappingContext.md",
+    "Functions/AddControllerYawInput.md",
+    "Enums/EGameplayEffectReplicationMode.md",
+    "Enums/ETriggerEvent.md",
+    "Classes/UObject.md",
+    "Classes/UActorComponent.md",
+    "Classes/APawn.md",
+    "Classes/AController.md",
+    "Classes/AAIController.md",
+    "Blueprints/DT_DataTable.md",
+    "Blueprints/GE_GameplayEffect.md",
     "Functions/AddDynamic.md",
-    "Macros/checkf.md",
-    "Macros/UENUM.md",
-    "Macros/UPROPERTY.md",
-    "Macros/UFUNCTION.md",
+    "Functions/GetLifetimeReplicatedProps.md",
     "Macros/DOREPLIFETIME_CONDITION_NOTIFY.md",
-    "Macros/TObjectPtr.md",
+    "Views/Class View.md",
+    "Functions/Constructor.md",
+    "Classes/UDataAsset.md",
+    "Classes/AbilitySystemComponent.md",
+    "Functions/EndOverlap.md",
     "Delegates",
     "Tags",
     "Assets",
