@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/AddOnScreenDebugMessage.md",
+                "file": "Definitions/Gameplay Effect.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions/AddOnScreenDebugMessage.md",
+                "file": "Definitions/Gameplay Effect.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions/AddOnScreenDebugMessage.md",
+                "file": "Definitions/Gameplay Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions/AddOnScreenDebugMessage.md"
+                "file": "Definitions/Gameplay Effect.md"
               }
             }
           },
@@ -172,6 +172,17 @@
   },
   "active": "627deec330d9e57c",
   "lastOpenFiles": [
+    "Definitions/GameModeBase.md",
+    "Definitions/Curve Table.md",
+    "Definitions/Gameplay Ability System.md",
+    "Definitions/Collision Presets.md",
+    "Definitions/Construction Script.md",
+    "Definitions/Event Dispatcher.md",
+    "Definitions/Blueprint Class.md",
+    "Enums/ETriggerEvent.md",
+    "Enums/EGameplayEffectReplicationMode.md",
+    "Interfaces/IDiffControl.md",
+    "Functions/AddOnScreenDebugMessage.md",
     "Functions/AddUObject.md",
     "Functions/AddSourceObject.md",
     "Functions/ApplyGameplayEffectSpecToSelf.md",
@@ -187,17 +198,6 @@
     "Macros/UFUNCTION.md",
     "Macros/DOREPLIFETIME_CONDITION_NOTIFY.md",
     "Macros/TObjectPtr.md",
-    "Macros/UCLASS.md",
-    "Macros/USTRUCT.md",
-    "Macros/UE_LOG.md",
-    "Macros/CastChecked.md",
-    "Functions/Constructor.md",
-    "Functions/AddOnScreenDebugMessage.md",
-    "Functions/AddMappingContext.md",
-    "Functions/CreateDefaultSubobject.md",
-    "Functions/GetAnimInstance.md",
-    "Functions/AddControllerYawInput.md",
-    "Functions/AddControllerPitchInput.md",
     "Delegates",
     "Tags",
     "Assets",

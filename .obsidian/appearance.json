@@ -4,7 +4,7 @@
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Avenir",
   "textFontFamily": "Avenir",
-  "monospaceFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "snippet",
     "style"

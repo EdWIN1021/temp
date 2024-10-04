@@ -10,5 +10,7 @@
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
   "minimal-style@@tag-color@@dark": "#F9E2AF",
   "minimal-style@@link-color@@dark": "#89B4FA",
-  "minimal-style@@link-color-hover@@dark": "#89DCEB"
+  "minimal-style@@link-color-hover@@dark": "#89DCEB",
+  "minimal-style@@tx1@@dark": "#A6ADC8",
+  "minimal-style@@tx2@@dark": "#A6ADC8"
 }
