@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: "[[UCharacterMovementComponent]]"
+Belongs to: "[[ACharacter]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -20,11 +20,3 @@ FORCEINLINE UCharacterMovementComponent* GetCharacterMovement() const { return C
 ```cpp
 OwningMovementComponent = OwningCharacter->GetCharacterMovement();
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[ACharacter]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -12,15 +12,10 @@ Type:
 ## Declaration
 
 ```cpp
-inline USkeletalMeshComponent* GetMesh() const 
+FORCEINLINE class USkeletalMeshComponent* GetMesh() const { return Mesh; }
 ```
 
 ## Example
-
-```cpp
-```
-
-## Getter
 
 ```cpp
 ```

@@ -5,7 +5,7 @@ Belongs to: "[[AController]]"
 Parameter of: 
 Return: 
 Interface: 
-Description: 
+Description: Getter for Pawn
 Type:
 ---
 
@@ -18,12 +18,5 @@ FORCEINLINE APawn* GetPawn() const { return Pawn; }
 ## Example
 
 ```cpp
+APawn* ControlledPawn = GetPawn();
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

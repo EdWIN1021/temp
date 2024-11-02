@@ -3,9 +3,9 @@ tags:
   - Function
 Belongs to: "[[APlayerController]]"
 Parameter of: 
-Return: "[[ULocalPlayer]]"
+Return: 
 Interface: 
-Description: 
+Description: Returns the ULocalPlayer for this controller if it exists, or null otherwise
 Type:
 ---
 
@@ -13,18 +13,11 @@ Type:
 ## Declaration
 
 ```cpp
-ULocalPlayer* GetLocalPlayer() const
+ENGINE_API class ULocalPlayer* GetLocalPlayer() const;
 ```
 
 ## Example
 
 ```cpp
+UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(GetLocalPlayer());
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

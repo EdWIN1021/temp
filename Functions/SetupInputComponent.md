@@ -19,11 +19,3 @@ ENGINE_API virtual void SetupInputComponent();
 
 ```cpp
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

@@ -1,17 +1,27 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[UObject]]"
 Parameter of: 
 Return: 
 Interface: 
-Description:
+Description: Create a component or subobject that will be instanced inside all instances of this class.
 ---
 
 ## Declaration
 
 ```cpp
-TReturnType* CreateDefaultSubobject<TReturnType>(FName SubobjectName, bool bTransient = false)
+template<class TReturnType> 
+TReturnType* CreateDefaultSubobject(FName SubobjectName, bool bTransient = false) {  
+	UClass* ReturnType = TReturnType::StaticClass();   
+	return static_cast<TReturnType*>(CreateDefaultSubobject(
+				SubobjectName, 
+				ReturnType, 
+				ReturnType, /*bIsRequired =*/ true, 
+				bTransient
+				)
+			); 
+}
 ```
 
 ## Example

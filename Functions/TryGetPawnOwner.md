@@ -21,9 +21,3 @@ virtual APawn* TryGetPawnOwner() const
 ```cpp
 APawn* PawnOwner = TryGetPawnOwner();
 ```
-
-## Getter
-
-```cpp
-```
-

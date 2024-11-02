@@ -26,11 +26,3 @@ FEnhancedInputActionEventBinding& BindAction<UserClass, VarTypes...>(
 ```cpp
 EnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &<Project>PlayerController::Move);
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

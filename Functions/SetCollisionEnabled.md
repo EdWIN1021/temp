@@ -1,23 +1,22 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[UPrimitiveComponent]]"
 Parameter of: 
 Return: 
 Interface: 
-Description:
+Description: Controls what kind of collision is enabled for this body
 ---
 
 ## Declaration
 
 ```cpp
-virtual void SetCollisionEnabled(ECollisionEnabled::Type NewType)
+UFUNCTION(BlueprintCallable, Category="Collision") 
+ENGINE_API virtual void SetCollisionEnabled(ECollisionEnabled::Type NewType);
 ```
 
 ## Example
 
 ```cpp
+Sphere->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
 ```
-
-## Options
-- 

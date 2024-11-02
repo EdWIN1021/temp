@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[ULocalPlayer]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -11,12 +11,19 @@ Description:
 ## Declaration
 
 ```cpp
-inline static TSubsystemClass* GetSubsystem<TSubsystemClass>(const ULocalPlayer* LocalPlayer)
+template <typename TSubsystemClass> 
+static FORCEINLINE TSubsystemClass* GetSubsystem(const ULocalPlayer* LocalPlayer) {   
+	if (LocalPlayer){     
+		return LocalPlayer->GetSubsystem<TSubsystemClass>();   
+	}   
+	return nullptr; 
+}
 ```
 
 ## Example
 
 ```cpp
+UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(GetLocalPlayer());
 ```
 
 ## Options

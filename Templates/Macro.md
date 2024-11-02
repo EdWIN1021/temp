@@ -15,6 +15,3 @@ Belongs to: []
 
 ```cpp
 ```
-
-## Options
-- 

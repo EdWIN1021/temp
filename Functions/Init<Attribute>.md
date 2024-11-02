@@ -1,11 +1,12 @@
 ---
-tags: 
-Belongs to: 
+tags:
+  - Function
+Belongs to: "[[ATTRIBUTE_ACCESSORS]]"
 Parameter of: 
 Return: 
 Interface: 
 Description: 
-Initialization: []
+Initialization:
 ---
 
 ## Declaration

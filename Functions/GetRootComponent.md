@@ -1,11 +1,11 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[AActor]]"
 Parameter of: 
 Return: 
 Interface: 
-Description:
+Description: Returns this actor's root component
 ---
 
 ## Declaration

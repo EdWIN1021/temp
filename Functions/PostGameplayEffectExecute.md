@@ -20,11 +20,3 @@ virtual void PostGameplayEffectExecute(const struct FGameplayEffectModCallbackDa
 ```cpp
 void U<Project>AttributeSet::PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data){}
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

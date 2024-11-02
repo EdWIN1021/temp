@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[FGameplayAttributeData]]"
 Parameter of: 
 Return: 
 Interface: 

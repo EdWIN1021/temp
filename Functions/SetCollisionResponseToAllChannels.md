@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[UPrimitiveComponent]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -12,21 +12,12 @@ Type:
 ## Declaration
 
 ```cpp
-ENGINE_API virtual void SetCollisionResponseToChannel(
-	ECollisionChannel Channel, 
-	ECollisionResponse NewResponse);
+UFUNCTION(BlueprintCallable, Category="Collision") 
+ENGINE_API virtual void SetCollisionResponseToAllChannels(ECollisionResponse NewResponse);
 ```
 
 ## Example
 
 ```cpp
-GeometryCollection->SetCollisionResponseToChannel(ECC_Camera, ECR_Ignore);
+Sphere->SetCollisionResponseToAllChannels(ECR_Ignore);
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

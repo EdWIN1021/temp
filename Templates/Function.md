@@ -17,6 +17,3 @@ Description:
 
 ```cpp
 ```
-
-## Options
-- 

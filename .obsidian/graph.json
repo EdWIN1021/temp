@@ -6,22 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Classes  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Functions  ",
-      "color": {
-        "a": 1,
-        "rgb": 2670630
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -32,6 +17,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 265,
-  "scale": 2.09669012755091,
+  "scale": 1.8601917225830757,
   "close": true
 }

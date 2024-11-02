@@ -1,9 +1,9 @@
 ---
 tags:
-  - Delegate
+  - Function
 Belongs to:
   - "[[UAbilitySystemComponent]]"
-Struct: []
+Struct: 
 Description:
 ---
 

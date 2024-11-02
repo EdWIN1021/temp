@@ -1,8 +1,7 @@
 ---
 tags:
   - Function
-Belongs to:
-  - "[[UCharacterMovementComponent]]"
+Belongs to: "[[UCharacterMovementComponent]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -19,6 +18,3 @@ ENGINE_API virtual bool IsFalling() const override;
 ```cpp
 GetCharacterMovement()->IsFalling();
 ```
-
-## Options
-- 

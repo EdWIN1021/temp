@@ -19,11 +19,3 @@ virtual UWorld* GetWorld() const override final
 ```cpp
 UWorld* World = GetWorld();
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

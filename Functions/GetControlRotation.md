@@ -5,14 +5,15 @@ Belongs to: "[[AController]]"
 Parameter of: 
 Return: 
 Interface: 
-Description: 
+Description: Get the control rotation
 Type:
 ---
 
 ## Declaration
 
 ```cpp
-virtual FRotator GetControlRotation() const
+UFUNCTION(BlueprintCallable, Category=Pawn) 
+ENGINE_API virtual FRotator GetControlRotation() const;
 ```
 
 ## Example
@@ -20,11 +21,3 @@ virtual FRotator GetControlRotation() const
 ```cpp
 const FRotator Rotation = GetControlRotation();
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

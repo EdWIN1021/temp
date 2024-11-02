@@ -1,8 +1,9 @@
 ---
 tags:
   - Function
-Belongs to: 
-Parameter of: "[[FGameplayEffectSpecHandle]]"
+Belongs to: "[[UAbilitySystemComponent]]"
+Parameter of:
+  - "[[FGameplayEffectSpecHandle]]"
 Return: 
 Interface: 
 Description: This applies the effect specification to the target actor
