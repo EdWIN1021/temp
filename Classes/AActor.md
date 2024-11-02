@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: "[[UObject]]"
 Initialization: 
 Has: 
 Declaration: 
@@ -11,6 +11,7 @@ Description:
 ## Declaration
 
 ```cpp
+
 ```
 
 ## Example

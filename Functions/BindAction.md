@@ -1,10 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UEnhancedInputComponent]]"
-Parameters:
-  - "[[UInputAction]]"
-  - "[[ETriggerEvent]]"
+Belongs to: "[[UEnhancedInputComponent]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 

@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UAnimInstance]]"
-Parameters: 
+Belongs to: "[[UAnimInstance]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: It is part of the UAnimInstance class and is used to get a reference to the APawn that owns the animation instance.
@@ -27,5 +27,3 @@ APawn* PawnOwner = TryGetPawnOwner();
 ```cpp
 ```
 
-## Options
-- [[GetCharacterMovement]]

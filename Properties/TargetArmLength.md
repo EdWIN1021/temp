@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: "[[USpringArmComponent]]"
+Belongs to: "[[USpringArmComponent]]"
 Getter: 
 Description: Natural length of the spring arm when there are no collisions
 ---

@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: 
+Belongs to: 
 Getter: 
 Description: how quickly the character can turn to face a new direction
 ---

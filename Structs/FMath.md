@@ -2,19 +2,11 @@
 tags:
   - Macro
 Description: 
-Class:
+Belongs to:
 ---
 
-## Declaration
+## FMath::Clamp
 
-```cpp
+^7c8c1f
 
-```
 
-## Example
-
-```cpp
-```
-
-## Options
-- 

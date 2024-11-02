@@ -1,12 +1,14 @@
 body {
+  --code-function: #89b4fa;
+  --code-keyword: #cba6f7;
+  --code-value: #cba6f7;
+  --code-property: #cba6f7;
+  --code-operator: #89dceb;
+  --code-string: #a6e3a1;
   --code-normal: #cdd6f4;
-  --code-comment: #6c7086;
-  --code-function: #b4befe;
-  --code-keyword: #f5c2e7;
-  --code-operator: #f2cdcd;
-  --code-property: #a6e3a1;
-  --code-punctuation: #bac2de;
-  --code-string: #eba0ac;
-  --code-tag: #fab387;
-  --code-value: #a6e3a1;
+  --code-important: var(--color-orange);
+  --code-background: var(--background-primary-alt);
+  --code-comment: var(--text-faint);
+  --code-punctuation: var(--text-muted);
+  --code-tag: var(--color-red);
 }

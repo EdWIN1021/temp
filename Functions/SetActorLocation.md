@@ -1,8 +1,7 @@
 ---
 tags:
   - Function
-Class: "[[AActor]]"
-Parameters: "[[FVector]]"
+Belongs to: "[[AActor]]"
 Return: 
 Interface: 
 Description: 

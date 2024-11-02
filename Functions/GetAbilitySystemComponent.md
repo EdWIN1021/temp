@@ -1,9 +1,9 @@
 ---
 tags:
   - Function
-Class:
+Belongs to:
   - "[[UAbilitySystemBlueprintLibrary]]"
-Parameters: 
+Parameter of: 
 Return: 
 Interface: "[[IAbilitySystemInterface]]"
 Description:
@@ -26,13 +26,3 @@ UAbilitySystemComponent* <Character>/<PlayerState>::GetAbilitySystemComponent() 
 
 AbilitySystemComponent* TargetASC = UAbilitySystemBlueprintLibrary::GetAbilitySystemComponent(Target);
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- [[MakeEffectContext]]
-- [[MakeOutgoingSpec]]
-- [[ApplyGameplayEffectSpecToSelf]]

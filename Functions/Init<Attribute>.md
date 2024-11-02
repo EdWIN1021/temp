@@ -1,13 +1,11 @@
 ---
-tags:
-  - Function
-Class: 
-Parameters: 
+tags: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description: 
-Initialization:
-  - "[[Constructor]]"
+Initialization: []
 ---
 
 ## Declaration
@@ -24,6 +22,3 @@ U<Project>AttributeSet::U<Project>AttributeSet()
     Init<Attribute>(50.f);
 }
 ```
-
-## Options
-- 

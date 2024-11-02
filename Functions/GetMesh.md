@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description: 
@@ -24,6 +24,3 @@ inline USkeletalMeshComponent* GetMesh() const
 
 ```cpp
 ```
-
-## Options
-- [[GetAnimInstance]]

@@ -1,12 +1,10 @@
 ---
 tags:
   - Class
-Base: "[[ULocalPlayerSubsystem]]"
-Initialization:
-  - "[[BeginPlay]]"
+Belongs to: "[[ULocalPlayerSubsystem]]"
 Has: 
 Declaration: 
-Description: 
+Description:
 ---
 
 ## Declaration
@@ -25,5 +23,3 @@ UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnha
 ```cpp
 ```
 
-## Options
-- [[AddMappingContext]]

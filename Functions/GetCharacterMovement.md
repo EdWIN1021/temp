@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UCharacterMovementComponent]]"
-Parameters: 
+Belongs to: "[[UCharacterMovementComponent]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 

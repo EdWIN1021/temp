@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: "[[FActorTickFunction]]"
-Class: 
+Belongs to: 
 Getter: 
 Description: It indicates that the actor should not receive tick updates.
 ---

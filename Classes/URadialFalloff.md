@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: "[[UFieldNodeFloat]]"
+Belongs to: "[[UFieldNodeFloat]]"
 Initialization: 
 Has: 
 Declaration: 

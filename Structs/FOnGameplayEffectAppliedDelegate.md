@@ -2,8 +2,7 @@
 tags:
   - Struct
 Description: 
-Properties: 
-typedef: "[[TMulticastDelegateBase]]"
+Properties:
 ---
 
 ## Declaration

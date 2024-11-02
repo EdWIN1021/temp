@@ -4,79 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ed07c00c04de3ea4",
+        "id": "0bd0369f4745a720",
         "type": "tabs",
-        "dimension": 73.15741583257507,
         "children": [
           {
-            "id": "766fac6a88e37a60",
+            "id": "ee7974975298f1db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/UGameplayEffect.md",
+                "file": "Classes/APlayerController.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
-            },
-            "group": "f76b0cfa1f6037ae"
-          },
-          {
-            "id": "4061914751c459e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions/MatchesTag.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "APlayerController"
             }
-          }
-        ]
-      },
-      {
-        "id": "baf6843d201b4058",
-        "type": "tabs",
-        "dimension": 26.84258416742493,
-        "children": [
-          {
-            "id": "2683f0921aa77005",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Classes/UGameplayEffect.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.3309244595090248,
-                  "close": true
-                }
-              }
-            },
-            "group": "f76b0cfa1f6037ae"
           }
         ]
       }
@@ -98,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -107,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OnGameplayEffectAppliedDelegateToSelf",
+                "query": "UCameraComponent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -121,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -129,71 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 297.5
-  },
-  "right": {
-    "id": "724c6b05ee31144f",
-    "type": "split",
-    "children": [
-      {
-        "id": "a2d8c6bbfa0103b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46fb9d4aa297dadd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Classes/UGameplayEffect.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "639e7d16189edf0e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Classes/UGameplayEffect.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1e42e8786131721c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "77072313f4dd6845",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Classes/UGameplayEffect.md"
-              }
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -205,19 +93,164 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 377.5
+  },
+  "right": {
+    "id": "724c6b05ee31144f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7797bb47faf9f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa010fa13090ed2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Classes/APlayerController.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Classes  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15961000
+                      }
+                    },
+                    {
+                      "query": "path:Functions  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10937249
+                      }
+                    },
+                    {
+                      "query": "path:Properties  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9024762
+                      }
+                    },
+                    {
+                      "query": "path:Interfaces  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13346551
+                      }
+                    },
+                    {
+                      "query": "path:Structs  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701254
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.1850341796875,
+                  "lineSizeMultiplier": 1.92972412109375,
+                  "collapse-forces": false,
+                  "centerStrength": 0.190592447916667,
+                  "repelStrength": 5.40364583333333,
+                  "linkStrength": 0.257893880208333,
+                  "linkDistance": 30,
+                  "scale": 2.434393754921811,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of APlayerController"
+            }
+          },
+          {
+            "id": "8973d8ae6842abee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/APlayerController.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for APlayerController"
+            }
+          },
+          {
+            "id": "499a42b950d0dcb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/APlayerController.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from APlayerController"
+            }
+          },
+          {
+            "id": "3d27466092d1840c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5c6cdad644240ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/APlayerController.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of APlayerController"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,37 +258,39 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
       "templates:Insert template": false,
-      "dbfolder:Create a new database table": false
+      "quickadd:QuickAdd": false
     }
   },
-  "active": "766fac6a88e37a60",
+  "active": "ee7974975298f1db",
   "lastOpenFiles": [
-    "Delegates/OnGameplayEffectAppliedDelegateToSelf.md",
-    "Functions/GetAbilitySystemComponent.md",
+    "Classes/UPrimitiveComponent.md",
+    "Classes/UWidgetComponent.md",
+    "Classes/UStaticMeshComponent.md",
+    "Classes/UCapsuleComponent.md",
+    "Classes/UAssetManager.md",
+    "Classes/UBoxComponent.md",
+    "Classes/UCharacterMovementComponent.md",
+    "Classes/UFieldNodeFloat.md",
+    "Classes/UGameplayEffect.md",
+    "Classes/UEnhancedInputComponent.md",
+    "Classes/UCameraComponent.md",
+    "Classes/UActorComponent.md",
+    "Classes/UGameplayStatics.md",
+    "Classes/UAttributeSet.md",
+    "Classes/TMulticastDelegateBase.md",
+    "Classes/TMulticastDelegate.md",
+    "Classes/UMaterialInstanceDynamic.md",
+    "Classes/UMaterialInstance.md",
+    "Classes/UGameplayEffectCalculation.md",
+    "Classes/UGameplayEffectExecutionCalculation.md",
+    "Classes/UGameplayEffectExecutionCalculation1.md",
     "Classes/UAbilitySystemComponent.md",
-    "Structs/FGameplayEffectModCallbackData.md",
-    "Functions/PostGameplayEffectExecute.md",
-    "Delegates/GetGameplayAttributeValueChangeDelegate.md",
-    "Functions/GetAllAssetTags.md",
-    "Structs/FGameplayTagContainer.md",
-    "Functions/MakeOutgoingSpec.md",
-    "Functions/ApplyGameplayEffectSpecToSelf.md",
-    "Structs/FGameplayEffectSpec.md",
-    "Structs/FOnGameplayAttributeValueChange.md",
-    "Classes/AbilitySystemComponent.md",
-    "GameplayEffectClass.md",
-    "Settings.md",
-    "README.md",
-    "Functions/SetLifeSpan.md",
-    "Functions/PlaySoundAtLocation.md",
-    "Functions/OnChaosBreakEvent.md",
-    "Structs/FGameplayTag.md",
-    "Functions/MatchesTag.md",
-    "Functions/RequestGameplayTag.md",
-    "Classes/UGeometryCollectionComponent.md",
-    "Functions/BindAction.md",
-    "Functions/BeginPlay.md",
-    "Functions/AddUObject.md",
+    "Classes/UAbilitySystemBlueprintLibrary.md",
+    "Classes/AHUD.md",
+    "Classes/AGameModeBase.md",
+    "Classes/AController.md",
+    "home.canvas",
+    "Untitled.canvas",
     "Delegates",
     "Tags",
     "Assets",
@@ -277,8 +312,6 @@
     "_How/How to create a Socket/How to create a Socket.canvas",
     "_How/How to create a Material/How to create a Material.canvas",
     "_How/How to create a Enhanced Input System/How to create a Enhanced Input System.canvas",
-    "_How/How to create a Camera/How to create a Camera.canvas",
-    "_How/How to change the material color when an object is hit/How to change the material color when an object is hit.canvas",
     "Blueprints",
     "Enums",
     "Definitions",

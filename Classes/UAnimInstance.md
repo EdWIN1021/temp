@@ -1,9 +1,8 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: "[[AActor]]"
 Initialization: 
-Has: 
 Declaration: 
 Description:
 ---
@@ -22,7 +21,3 @@ Description:
 
 ```cpp
 ```
-
-## Options
-- [[Montage_Play]]
-- [[Montage_JumpToSection]]

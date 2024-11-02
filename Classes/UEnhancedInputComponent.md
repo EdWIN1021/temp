@@ -1,10 +1,8 @@
 ---
 tags:
   - Class
-Base: 
-Initialization:
-  - "[[SetupPlayerInputComponent]]"
-  - "[[SetupInputComponent]]"
+Belongs to: 
+Initialization: []
 Has: 
 Declaration: 
 Description:
@@ -26,5 +24,3 @@ UEnhancedInputComponent* EnhancedInputComponent = CastChecked<UEnhancedInputComp
 ```cpp
 ```
 
-## Options
-- [[BindAction]]

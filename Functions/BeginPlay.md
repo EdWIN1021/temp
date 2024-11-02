@@ -2,8 +2,8 @@
 tags:
   - Function
   - Override
-Class: "[[AActor]]"
-Parameters: 
+Belongs to: "[[AActor]]"
+Parameter of: 
 Return: 
 Interface: 
 Description:

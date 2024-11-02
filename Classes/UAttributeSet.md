@@ -1,13 +1,10 @@
 ---
 tags:
   - Class
-Base: 
-Initialization: "[[Constructor]]"
+Belongs to: "[[UObject]]"
+Initialization: 
 Has: 
-Declaration:
-  - "[[ACharacter]]"
-  - "[[APlayerState]]"
-Description: 
+Description:
 ---
 
 ## Declaration
@@ -25,9 +22,3 @@ AttributeSet = CreateDefaultSubobject<UAuraAttributeSet>("AttributeSet");
 ```cpp
 UAttributeSet* GetAttributeSet() const { return AttributeSet; };
 ```
-
-## Options
-- [[FGameplayAttributeData]]
-- [[GetLifetimeReplicatedProps]]
-- [[PreAttributeChange]]
-- [[PostGameplayEffectExecute]]

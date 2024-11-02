@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[AController]]"
-Parameters: 
+Belongs to: "[[AController]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 

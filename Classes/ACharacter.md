@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: 
 Initialization: 
 Has: 
 Declaration: 
@@ -17,11 +17,3 @@ Description:
 
 ```cpp
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

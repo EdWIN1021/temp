@@ -1,9 +1,9 @@
 ---
 tags:
   - Function
-Class:
+Belongs to:
   - "[[UPrimitiveComponent]]"
-Parameters: 
+Parameter of: 
 Return: 
 Interface: 
 Description:

@@ -1,10 +1,8 @@
 ---
 tags:
   - Delegate
-Class:
+Belongs to:
   - "[[UAbilitySystemComponent]]"
-Struct:
-  - "[[FOnGameplayEffectAppliedDelegate]]"
 Description: Called on server whenever a GE is applied to self. This includes instant and duration based GEs.
 ---
 
@@ -24,5 +22,3 @@ FOnGameplayEffectAppliedDelegate OnGameplayEffectAppliedDelegateToSelf
 OnGameplayEffectAppliedDelegateToSelf.AddUObject(this, &U<Project>AbilitySystemComponent::<Function>);
 ```
 
-## Options
-- [[FGameplayTagContainer]]

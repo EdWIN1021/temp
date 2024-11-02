@@ -2,8 +2,8 @@
 tags:
   - Function
   - Override
-Class: "[[UObject]]"
-Parameters: 
+Belongs to: "[[UObject]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: This function is responsible for defining which properties should be replicated over the network
@@ -21,6 +21,3 @@ COREUOBJECT_API virtual void GetLifetimeReplicatedProps( TArray< class FLifetime
 ```cpp
 void U<Project>AttributeSet::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const {}
 ```
-
-## Options
-- [[DOREPLIFETIME_CONDITION_NOTIFY]]

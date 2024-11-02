@@ -1,6 +1,8 @@
 [
   "quickadd",
   "obsidian-outliner",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
   "dataview",
-  "obsidian-style-settings"
+  "graph-link-types"
 ]

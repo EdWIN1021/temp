@@ -1,11 +1,7 @@
 ---
 tags:
   - Function/Blueprint
-Class:
-  - "[[UGeometryCollectionComponent]]"
-Detail: NotifyBreaks -> checked
+Belongs to: "[[UGeometryCollectionComponent]]"
 Description:
 ---
 
-## Options
-- [[SetLifeSpan]]

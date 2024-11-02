@@ -1,9 +1,8 @@
 ---
 tags:
   - Class
-Base: 
-Initialization:
-  - "[[Constructor]]"
+Belongs to: 
+Initialization: []
 Has: 
 Description:
 ---
@@ -19,8 +18,3 @@ UGeometryCollectionComponent* GeometryCollection;
 ```cpp
 GeometryCollection = CreateDefaultSubobject<UGeometryCollectionComponent>(TEXT("GeometryCollection"));
 ```
-
-## Options
-
-- [[OnChaosBreakEvent]]
-- [[PlaySoundAtLocation]]

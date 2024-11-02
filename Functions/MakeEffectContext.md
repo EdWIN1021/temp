@@ -1,28 +1,22 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
-Return: 
+Belongs to: "[[UAbilitySystemComponent]]"
+Parameter of: 
+Return: "[[FGameplayEffectContextHandle]]"
 Interface: 
-Description: This creates an Effect Context, which carries information about the context of the effect (like who is applying it).
+Description: Create an EffectContext for the owner of this AbilitySystemComponent
 ---
 
 ## Declaration
 
 ```cpp
+UFUNCTION(BlueprintCallable, Category = GameplayEffects)
+virtual FGameplayEffectContextHandle MakeEffectContext() const;
 ```
 
 ## Example
 
 ```cpp
-FGameplayEffectContextHandle EffectContextHandle = TargetASC->MakeEffectContext();
+FGameplayEffectContextHandle PrimaryAttributesContextHandle = ASC->MakeEffectContext();
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- [[Functions/AddSourceObject|AddSourceObject]]

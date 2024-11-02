@@ -2,8 +2,8 @@
 tags:
   - Function
   - Override
-Class: "[[UAnimInstance]]"
-Parameters: 
+Belongs to: "[[UAnimInstance]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 
@@ -26,6 +26,3 @@ virtual void NativeInitializeAnimation() override
 ```cpp
 ```
 
-## Options
-- [[TryGetPawnOwner]]
-- [[GetCharacterMovement]]

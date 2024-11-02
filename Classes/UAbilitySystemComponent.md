@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: 
 Initialization: 
 Has: 
 Declaration: 
@@ -24,7 +24,3 @@ AbilitySystemComponent = CreateDefaultSubobject<UAuraAbilitySystemComponent>(TEX
 
 ```cpp
 ```
-
-## Options
-- [[GetAbilitySystemComponent]]
-- [[GetGameplayAttributeValueChangeDelegate]]

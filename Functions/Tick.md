@@ -1,9 +1,9 @@
 ---
 tags:
   - Function
-Class:
+Belongs to:
   - "[[AActor]]"
-Parameters: 
+Parameter of: 
 Return: 
 Interface: 
 Description: Called each frame by the engine

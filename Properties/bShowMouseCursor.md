@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: "[[APlayerController]]"
+Belongs to: "[[APlayerController]]"
 Getter: 
 Description: Whether the mouse cursor should be displayed
 ---

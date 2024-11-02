@@ -3,7 +3,7 @@ tags:
   - Struct
 Description: 
 Properties: 
-Class:
+Belongs to:
 ---
 
 ## Declaration
@@ -17,7 +17,3 @@ FGameplayAttributeData Attribute;
 
 ```cpp
 ```
-
-## Options
-- [[OnRep_<Attribute>]]
-- [[ATTRIBUTE_ACCESSORS]]

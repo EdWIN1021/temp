@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UActorComponent]]"
-Parameters: 
+Belongs to: "[[UActorComponent]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 

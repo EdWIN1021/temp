@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[APlayerController]]"
-Parameters: 
+Belongs to: "[[APlayerController]]"
+Parameter of: 
 Return: "[[ULocalPlayer]]"
 Interface: 
 Description: 

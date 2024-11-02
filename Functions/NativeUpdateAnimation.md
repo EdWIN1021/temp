@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description:
@@ -22,6 +22,3 @@ void USlashAnimInstance::NativeUpdateAnimation(float DeltaTime){
 }
 ```
 
-## Options
-- GroundSpeed
-- IsFalling

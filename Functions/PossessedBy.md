@@ -1,8 +1,10 @@
 ---
 tags:
   - Function
-Class: "[[ACharacter]]"
-Parameters: 
+  - Override
+Belongs to:
+  - "[[ACharacter]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 
@@ -24,6 +26,3 @@ virtual void PossessedBy(AController* NewController) override
 
 ```cpp
 ```
-
-## Options
-- 

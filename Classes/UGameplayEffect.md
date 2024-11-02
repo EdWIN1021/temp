@@ -1,21 +1,17 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: 
 Initialization: 
-Has:
-  - "[[UNiagaraComponent]]"
-  - "[[UBoxComponent]]"
 Declaration: 
-Description: 
-Definition: "[[Gameplay Effect]]"
+Description:
 ---
 
 ## Declaration
 
 ```cpp
-UPROPERTY(EditAnywhere, BlueprintReadOnly, Category= "Applied Effects") 
-TSubclassOf<UGameplayEffect> InstantGameplayEffectClass;
+UPROPERTY(EditDefaultsOnly, Category="Class Defaults")
+TSubclassOf<UGameplayEffect> PrimaryAttributes;
 ```
 
 ## Example
@@ -24,10 +20,5 @@ TSubclassOf<UGameplayEffect> InstantGameplayEffectClass;
 
 ```
 
-## Getter
-
-```cpp
-```
-
-## Options
-- [[OnGameplayEffectAppliedDelegateToSelf]]
+## Blueprint
+- Calculation Class -> UGameplayEffectExecutionCalculation

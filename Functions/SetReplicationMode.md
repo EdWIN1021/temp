@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UAbilitySystemComponent]]"
-Parameters: "[[EGameplayEffectReplicationMode]]"
+Belongs to: "[[UAbilitySystemComponent]]"
+Parameter of: "[[EGameplayEffectReplicationMode]]"
 Return: 
 Interface: 
 Description: 

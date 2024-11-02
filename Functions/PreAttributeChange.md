@@ -2,12 +2,12 @@
 tags:
   - Function
   - Override
-Class: 
-Parameters: 
+Belongs to:
+  - "[[UAttributeSet]]"
+Parameter of: 
 Return: 
 Interface: 
-Description: 
-Type:
+Description: Called just before any modification happens to an attribute.
 ---
 
 ## Declaration
@@ -19,13 +19,7 @@ virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewV
 ## Example
 
 ```cpp
-void UAuraAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) { }
+void UAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) { }
 ```
 
-## Getter
 
-```cpp
-```
-
-## Options
-- [[FMath]]::Clamp

@@ -1,14 +1,10 @@
 ---
 tags:
   - Function
-Class: "[[APawn]]"
-Parameters: 
+Belongs to: "[[APawn]]"
 Return: 
 Interface: 
-Description: 
-Type: 
-Declaration:
-  - "[[ACharacter]]"
+Description:
 ---
 
 ## Declaration

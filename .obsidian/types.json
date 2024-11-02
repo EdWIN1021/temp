@@ -3,16 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Base": "text",
-    "List": "text",
-    "Declaration": "multitext",
-    "Has": "multitext",
     "Type": "multitext",
-    "Initialization": "multitext",
-    "Parameters": "multitext",
-    "Class": "multitext",
-    "Properties": "multitext",
-    "Creation": "multitext",
     "Struct": "text"
   }
 }

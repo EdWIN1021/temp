@@ -2,7 +2,7 @@
 tags:
   - Macro
 Description: 
-Class:
+Belongs to:
   - "[[UAttributeSet]]"
 ---
 

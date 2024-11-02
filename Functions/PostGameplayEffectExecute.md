@@ -2,8 +2,7 @@
 tags:
   - Function
   - Override
-Class: "[[UAttributeSet]]"
-Parameters: "[[FGameplayEffectModCallbackData]]"
+Belongs to: "[[UAttributeSet]]"
 Return: 
 Interface: 
 Description: 

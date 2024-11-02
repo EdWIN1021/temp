@@ -1,13 +1,11 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
-Description: 
-Initialization:
-  - "[[BeginPlay]]"
+Description:
 ---
 
 ## Declaration
@@ -24,6 +22,3 @@ virtual void InitAbilityActorInfo(AActor* InOwnerActor, AActor* InAvatarActor)ï¼
 // beginplay
 AbilitySystemComponent->InitAbilityActorInfo(this, this);
 ```
-### Owner Actor is a PlayerState
-- Client: [[OnRep_PlayerState]]
-- Server: [[PossessedBy]]

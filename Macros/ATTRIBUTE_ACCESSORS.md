@@ -2,9 +2,9 @@
 tags:
   - Macro
 Description: 
-Class:
-  - "[[UAttributeSet]]"
+Belongs to:
 ---
+
 
 ## Declaration
 
@@ -31,5 +31,3 @@ UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_<Attribute>)
 FGameplayAttributeData Attribute; ATTRIBUTE_ACCESSORS(U<Project>AttributeSet, <Attribute>);
 ```
 
-## Options
-- [[Init<Attribute>]]

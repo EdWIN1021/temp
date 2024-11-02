@@ -2,7 +2,7 @@
 tags:
   - Macro
 Description: 
-Class:
+Belongs to:
 ---
 
 ## Declaration
@@ -14,7 +14,10 @@ Class:
 ## Example
 
 ```cpp
-// blueprint
+/* 
+	It allows you to make a property editable in the Blueprint Editor's defaults panel 
+	but prevents it from being modified during runtime or in instances of the Blueprint. 
+*/
 UPROPERTY(EditDefaultsOnly)
 
 // instance detail

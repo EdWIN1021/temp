@@ -1,12 +1,11 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: 
 Initialization: 
 Has: 
 Declaration: 
-Description: 
-Creation: Miscellaneous -> Data Asset
+Description:
 ---
 
 ## Declaration

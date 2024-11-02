@@ -3,7 +3,7 @@ tags:
   - Struct
 Description: 
 Properties: 
-Class:
+Belongs to:
 ---
 
 ## Declaration

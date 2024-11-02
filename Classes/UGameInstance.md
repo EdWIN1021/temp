@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: 
+Belongs to: 
 Initialization: 
 Has: 
 Declaration: 

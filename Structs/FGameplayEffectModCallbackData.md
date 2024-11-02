@@ -2,11 +2,8 @@
 tags:
   - Struct
 Description: 
-Properties:
-  - "[[FGameplayEffectSpec]]"
-  - "[[UAbilitySystemComponent]]"
-  - "[[FGameplayModifierEvaluatedData]]"
-Class:
+Properties: []
+Belongs to:
 ---
 
 ## Declaration

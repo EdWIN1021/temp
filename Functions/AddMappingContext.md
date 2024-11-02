@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description:
@@ -24,5 +24,3 @@ virtual void AddMappingContext(
 Subsystem->AddMappingContext(AuraContext, 0);
 ```
 
-## Options
-- [[Curve Table]]

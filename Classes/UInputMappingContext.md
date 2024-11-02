@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Base: "[[UDataAsset]]"
+Belongs to: "[[UDataAsset]]"
 Initialization: 
 Has: 
 Declaration: 

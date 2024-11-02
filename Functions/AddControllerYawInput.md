@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description:
@@ -18,5 +18,3 @@ Description:
 ```cpp
 ```
 
-## Options
-- 

@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UEngine]]"
-Parameters: 
+Belongs to: "[[UEngine]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 
@@ -23,10 +23,3 @@ if(GEngine) {
 }
 ```
 
-## Getter
-
-```cpp
-```
-
-## Options
-- 

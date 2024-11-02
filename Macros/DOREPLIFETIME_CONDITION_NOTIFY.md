@@ -2,7 +2,7 @@
 tags:
   - Macro
 Description: Specifies the property should be replicated without any conditions, and will notify clients whenever it changes REPNOTIFY_Always.
-Class:
+Belongs to:
 ---
 
 ## Declaration

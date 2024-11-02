@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: "[[UObjectBaseUtility]]"
-Parameters: 
+Belongs to: "[[UObjectBaseUtility]]"
+Parameter of: 
 Return: 
 Interface: 
 Description: 

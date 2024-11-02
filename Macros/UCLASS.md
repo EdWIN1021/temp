@@ -1,7 +1,7 @@
 ---
 tags:
   - Macro
-Class: 
+Belongs to: 
 Description: " It is a macro used to define an abstract class"
 ---
 

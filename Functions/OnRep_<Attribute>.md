@@ -1,8 +1,8 @@
 ---
 tags:
   - Function
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description: function will be called on clients when the property changes on the server
@@ -24,5 +24,3 @@ void <Project>AttributeSet::OnRep_<Attribute>(const FGameplayAttributeData& Old<
 }
 ```
 
-## Options
-- [[GAMEPLAYATTRIBUTE_REPNOTIFY]]

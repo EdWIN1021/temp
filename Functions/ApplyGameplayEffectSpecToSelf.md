@@ -1,9 +1,8 @@
 ---
 tags:
   - Function
-Class: 
-Parameters:
-  - "[[FGameplayEffectSpecHandle]]"
+Belongs to: 
+Parameter of: "[[FGameplayEffectSpecHandle]]"
 Return: 
 Interface: 
 Description: This applies the effect specification to the target actor
@@ -19,6 +18,3 @@ Description: This applies the effect specification to the target actor
 ```cpp
 TargetASC->ApplyGameplayEffectSpecToSelf(*EffectSpecHandle.Data.Get());
 ```
-
-## Options
-- [[GE_GameplayEffect]]

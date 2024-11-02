@@ -1,9 +1,7 @@
 ---
 tags:
   - Property
-Struct: 
-Class: 
-Getter: 
+Belongs to: 
 Description:
 ---
 

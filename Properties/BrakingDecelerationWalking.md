@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: "[[UCharacterMovementComponent]]"
+Belongs to: "[[UCharacterMovementComponent]]"
 Getter: 
 Description: It determines how quickly the character decelerates when it stops walking
 ---

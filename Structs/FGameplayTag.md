@@ -3,7 +3,7 @@ tags:
   - Struct
 Description: 
 Properties: 
-Class:
+Belongs to:
 ---
 
 ## Declaration
@@ -27,6 +27,3 @@ namespace <Project>GameplayTags
 }
 ```
 
-## Options
-- [[RequestGameplayTag]]
-- [[MatchesTag]]

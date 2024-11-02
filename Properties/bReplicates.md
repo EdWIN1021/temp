@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: "[[UActorComponent]]"
+Belongs to: "[[UActorComponent]]"
 Getter: 
 Description:
 ---

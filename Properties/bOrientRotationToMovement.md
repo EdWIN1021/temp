@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: 
+Belongs to: 
 Getter: "[[GetCharacterMovement]]"
 Description: When bOrientRotationToMovement is set to true, the character will automatically rotate to face the direction it is moving
 ---

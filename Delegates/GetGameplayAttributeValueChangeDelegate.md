@@ -1,10 +1,9 @@
 ---
 tags:
   - Delegate
-Class:
+Belongs to:
   - "[[UAbilitySystemComponent]]"
-Struct:
-  - "[[FOnGameplayAttributeValueChange]]"
+Struct: []
 Description:
 ---
 

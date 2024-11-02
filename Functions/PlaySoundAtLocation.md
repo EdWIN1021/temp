@@ -1,8 +1,8 @@
 ---
 tags:
   - Function/Blueprint
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description:

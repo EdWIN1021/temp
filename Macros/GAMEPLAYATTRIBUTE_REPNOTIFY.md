@@ -2,7 +2,7 @@
 tags:
   - Macro
 Description: GAMEPLAYATTRIBUTE_REPNOTIFY macro handles  (like UI or gameplay logic) that the attribute has changed, allowing for appropriate updates.
-Class:
+Belongs to:
 ---
 
 ## Declaration

@@ -1,26 +1,30 @@
 ---
 tags:
   - Function
-Class: 
-Parameters:
-  - "[[GameplayEffectClass]]"
-  - "[[EffectContextHandle]]"
-Return: 
+Belongs to: "[[UAbilitySystemComponent]]"
+Parameter of: 
+Return: "[[FGameplayEffectSpecHandle]]"
 Interface: 
-Description:
+Description: Get an outgoing GameplayEffectSpec that is ready to be applied to other things.
 ---
 
 ## Declaration
 
 ```cpp
+UFUNCTION(BlueprintCallable, Category = GameplayEffects)
+virtual FGameplayEffectSpecHandle MakeOutgoingSpec(
+  TSubclassOf<UGameplayEffect> GameplayEffectClass, 
+  float Level, 
+  FGameplayEffectContextHandle Context
+) const;
 ```
 
 ## Example
 
 ```cpp
-const FGameplayEffectSpecHandle EffectSpecHandle = TargetASC->MakeOutgoingSpec(GameplayEffectClass, 1.f, EffectContextHandle);
+const FGameplayEffectSpecHandle EffectSpecHandle = TargetASC->MakeOutgoingSpec(
+  GameplayEffectClass, 
+  ActorLevel, 
+  EffectContextHandle
+);
 ```
-
-## Options
-- Blueprint
-	- Curve Table

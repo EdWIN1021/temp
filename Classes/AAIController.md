@@ -1,8 +1,8 @@
 ---
 tags:
   - Class
-Class: 
-Parameters: 
+Belongs to: 
+Parameter of: 
 Return: 
 Interface: 
 Description: 

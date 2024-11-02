@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: "[[FTickFunction]]"
-Class: 
+Belongs to: 
 Getter: 
 Description:
 ---

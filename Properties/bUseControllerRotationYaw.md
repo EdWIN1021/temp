@@ -2,7 +2,7 @@
 tags:
   - Property
 Struct: 
-Class: "[[APawn]]"
+Belongs to: "[[APawn]]"
 Getter: 
 Description:
 ---
