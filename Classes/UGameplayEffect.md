@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: 
+Derived from: "[[UObject]]"
 Initialization: 
 Declaration: 
 Description:
@@ -22,3 +22,4 @@ TSubclassOf<UGameplayEffect> PrimaryAttributes;
 
 ## Blueprint
 - Calculation Class -> UGameplayEffectExecutionCalculation
+- Attribute Based Magnitude -> C * ( 9 + Pre ) + Post

@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: "[[UObject]]"
+Derived from: "[[UObject]]"
 Initialization: 
 Has: 
 Declaration: 

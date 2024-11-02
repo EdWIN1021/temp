@@ -1,8 +1,8 @@
 ---
 tags:
   - Class
-Belongs to: 
-Initialization: []
+Derived from: "[[UInputComponent]]"
+Initialization: 
 Has: 
 Declaration: 
 Description:
@@ -18,9 +18,3 @@ Description:
 ```cpp
 UEnhancedInputComponent* EnhancedInputComponent = CastChecked<UEnhancedInputComponent>(InputComponent);
 ```
-
-## Getter
-
-```cpp
-```
-

@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: "[[AActor]]"
+Derived from: "[[UObject]]"
 Initialization: 
 Declaration: 
 Description:

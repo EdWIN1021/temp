@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Type": "multitext",
-    "Struct": "text"
+    "Struct": "text",
+    "Parameter of": "multitext"
   }
 }

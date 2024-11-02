@@ -1,8 +1,9 @@
 ---
 tags:
   - Class
-Derived from: "[[UObject]]"
-Declaration: 
+Derived From: "[[UActorComponent]]"
+Context of: 
+Dependency of: 
 Description:
 ---
 
@@ -15,11 +16,3 @@ Description:
 
 ```cpp
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

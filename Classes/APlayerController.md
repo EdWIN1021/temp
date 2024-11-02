@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: 
+Derived from: "[[AController]]"
 Initialization: 
 Has: 
 Declaration: 

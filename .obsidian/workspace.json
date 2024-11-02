@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0bd0369f4745a720",
+        "id": "9d21cb0decbf8fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7974975298f1db",
+            "id": "525af40504aef745",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/APlayerController.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "APlayerController"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UCameraComponent",
+                "query": "UWorld",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 376.5
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -118,11 +113,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Classes/APlayerController.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -177,12 +171,12 @@
                   "repelStrength": 5.40364583333333,
                   "linkStrength": 0.257893880208333,
                   "linkDistance": 30,
-                  "scale": 2.434393754921811,
+                  "scale": 2.489100435826159,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of APlayerController"
+              "title": "Graph view"
             }
           },
           {
@@ -191,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/APlayerController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +194,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for APlayerController"
+              "title": "Backlinks"
             }
           },
           {
@@ -210,12 +203,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/APlayerController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from APlayerController"
+              "title": "Outgoing links"
             }
           },
           {
@@ -236,18 +228,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Classes/APlayerController.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of APlayerController"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,34 +251,34 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "ee7974975298f1db",
+  "active": "525af40504aef745",
   "lastOpenFiles": [
+    "Classes/UWorld.md",
+    "Classes/USpringArmComponent.md",
+    "Classes/USplineComponent.md",
+    "Classes/UShapeComponent.md",
+    "UShapeComponent.md",
+    "Classes/USceneComponent.md",
+    "Classes/UProjectileMovementComponent.md",
     "Classes/UPrimitiveComponent.md",
-    "Classes/UWidgetComponent.md",
-    "Classes/UStaticMeshComponent.md",
-    "Classes/UCapsuleComponent.md",
-    "Classes/UAssetManager.md",
-    "Classes/UBoxComponent.md",
-    "Classes/UCharacterMovementComponent.md",
-    "Classes/UFieldNodeFloat.md",
+    "Classes/UObject.md",
+    "Classes/UNiagaraComponent.md",
+    "Classes/ULocalPlayerSubsystem.md",
+    "Classes/UNavigationSystemV1.md",
+    "Classes/UKismetSystemLibrary.md",
+    "Classes/UInputMappingContext.md",
+    "Classes/UInputComponent.md",
+    "Classes/UInputAction.md",
+    "Classes/UGeometryCollectionComponent.md",
+    "UMeshComponent.md",
+    "Classes/UGameplayTasksComponent.md",
+    "Classes/UGameplayModMagnitudeCalculation.md",
+    "Classes/UGameplayTagsManager.md",
     "Classes/UGameplayEffect.md",
+    "Classes/UGameplayAbility.md",
+    "Classes/UGameInstance.md",
+    "Classes/UEnhancedInputLocalPlayerSubsystem.md",
     "Classes/UEnhancedInputComponent.md",
-    "Classes/UCameraComponent.md",
-    "Classes/UActorComponent.md",
-    "Classes/UGameplayStatics.md",
-    "Classes/UAttributeSet.md",
-    "Classes/TMulticastDelegateBase.md",
-    "Classes/TMulticastDelegate.md",
-    "Classes/UMaterialInstanceDynamic.md",
-    "Classes/UMaterialInstance.md",
-    "Classes/UGameplayEffectCalculation.md",
-    "Classes/UGameplayEffectExecutionCalculation.md",
-    "Classes/UGameplayEffectExecutionCalculation1.md",
-    "Classes/UAbilitySystemComponent.md",
-    "Classes/UAbilitySystemBlueprintLibrary.md",
-    "Classes/AHUD.md",
-    "Classes/AGameModeBase.md",
-    "Classes/AController.md",
     "home.canvas",
     "Untitled.canvas",
     "Delegates",

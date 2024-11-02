@@ -1,10 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: 
-Initialization: 
-Has: 
-Declaration: 
+Derived from: "[[USceneComponent]]"
 Description:
 ---
 

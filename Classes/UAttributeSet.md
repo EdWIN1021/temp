@@ -1,9 +1,10 @@
 ---
 tags:
   - Class
-Belongs to: "[[UObject]]"
-Initialization: 
-Has: 
+Derived from: "[[UObject]]"
+Parameter of:
+  - "[[ATTRIBUTE_ACCESSORS]]"
+  - "[[DOREPLIFETIME_CONDITION_NOTIFY]]"
 Description:
 ---
 
@@ -16,9 +17,4 @@ TObjectPtr<UAttributeSet> AttributeSet;
 ## Example
 ```cpp
 AttributeSet = CreateDefaultSubobject<UAuraAttributeSet>("AttributeSet");
-```
-
-## Getter
-```cpp
-UAttributeSet* GetAttributeSet() const { return AttributeSet; };
 ```

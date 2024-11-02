@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: 
+Derived from: "[[AActor]]"
 Initialization: 
 Has: 
 Declaration: 
