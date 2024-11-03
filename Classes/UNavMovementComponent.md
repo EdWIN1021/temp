@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Belongs to: "[[UMovementComponent]]"
+Derived From: "[[UMovementComponent]]"
 Initialization: 
 Has: 
 Declaration: 

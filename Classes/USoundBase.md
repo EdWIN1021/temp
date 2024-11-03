@@ -11,6 +11,8 @@ Description:
 ## Declaration
 
 ```cpp
+UPROPERTY(EditAnywhere)
+TObjectPtr<USoundBase> ImpactSound;
 ```
 
 ## Example

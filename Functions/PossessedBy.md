@@ -2,19 +2,18 @@
 tags:
   - Function
   - Override
-Belongs to:
-  - "[[ACharacter]]"
+Belongs to: "[[APawn]]"
 Parameter of: 
 Return: 
 Interface: 
-Description: 
+Description: Called when this Pawn is possessed. Only called on the server (or in standalone)
 Type:
 ---
 
 ## Declaration
 
 ```cpp
-virtual void PossessedBy(AController* NewController) override
+ENGINE_API virtual void PossessedBy(AController* NewController);
 ```
 
 ## Example
@@ -22,7 +21,3 @@ virtual void PossessedBy(AController* NewController) override
 ```cpp
 ```
 
-## Getter
-
-```cpp
-```

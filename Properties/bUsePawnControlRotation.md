@@ -1,17 +1,14 @@
 ---
 tags:
   - Property
-Struct: 
-Belongs to:
-  - "[[USpringArmComponent]]"
-  - "[[UCameraComponent]]"
-Getter: 
-Description: It determines whether the camera or the spring arm should use the pawn’s control rotation
+Belongs to: "[[UCameraComponent]]"
+Description: If this camera component is placed on a pawn, should it use the view/control rotation of the pawn where possible?
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = CameraOptions) uint8 bUsePawnControlRotation : 1;
 ```
 
 ## Example
@@ -20,10 +17,3 @@ Description: It determines whether the camera or the spring arm should use the p
 
 ```
 
-## Getter
-
-```cpp
-```
-
-## Options
-- 

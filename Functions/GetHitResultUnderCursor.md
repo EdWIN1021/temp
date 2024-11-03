@@ -24,5 +24,6 @@ bool GetHitResultUnderCursor(ECollisionChannel TraceChannel, bool bTraceComplex,
 ## Example
 
 ```cpp
-FHitResult CursorHit; GetHitResultUnderCursor(ECC_Visibility, false, CursorHit);
+FHitResult CursorHit; 
+GetHitResultUnderCursor(ECC_Visibility, false, CursorHit);
 ```

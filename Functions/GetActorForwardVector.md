@@ -18,6 +18,3 @@ Description:
 ```cpp
 GetActorForwardVector();
 ```
-
-## Options
-- 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[FGameplayTag]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -20,5 +20,3 @@ GAMEPLAYTAGS_API bool MatchesTag(const FGameplayTag& TagToCheck) const;
 TagA.MatchesTag(Tag)
 ```
 
-## Options
-- 

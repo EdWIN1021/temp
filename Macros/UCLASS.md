@@ -17,5 +17,3 @@ Description: " It is a macro used to define an abstract class"
 UCLASS(Abstract)
 ```
 
-## Options
-- 

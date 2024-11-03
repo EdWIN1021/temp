@@ -27,6 +27,3 @@ void U<Project>AttributeSet::GetLifetimeReplicatedProps(TArray<FLifetimeProperty
     DOREPLIFETIME_CONDITION_NOTIFY(U<Project>AttributeSet, <Attribute>, COND_None, REPNOTIFY_Always);
 }
 ```
-
-## Options
-- 

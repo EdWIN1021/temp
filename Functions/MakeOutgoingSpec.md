@@ -23,6 +23,7 @@ virtual FGameplayEffectSpecHandle MakeOutgoingSpec(
 
 ```cpp
 const FGameplayEffectSpecHandle EffectSpecHandle = TargetASC->MakeOutgoingSpec(
+  // GE blueprint
   GameplayEffectClass, 
   ActorLevel, 
   EffectContextHandle

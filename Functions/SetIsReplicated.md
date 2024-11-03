@@ -5,14 +5,15 @@ Belongs to: "[[UActorComponent]]"
 Parameter of: 
 Return: 
 Interface: 
-Description: 
+Description: Enable or disable replication. This is the equivalent of RemoteRole for actors (only a bool is required for components)
 Type:
 ---
 
 ## Declaration
 
 ```cpp
-void SetIsReplicated(bool ShouldReplicate)
+UFUNCTION(BlueprintCallable, Category="Components")
+ENGINE_API void SetIsReplicated(bool ShouldReplicate);
 ```
 
 ## Example
@@ -20,11 +21,3 @@ void SetIsReplicated(bool ShouldReplicate)
 ```cpp
 AbilitySystemComponent->SetIsReplicated(true);
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

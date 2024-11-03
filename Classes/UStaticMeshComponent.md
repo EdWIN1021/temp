@@ -1,7 +1,8 @@
 ---
 tags:
   - Class
-Belongs to: 
+Belongs to:
+  - "[[UMeshComponent]]"
 Initialization: 
 Has: 
 Declaration: 

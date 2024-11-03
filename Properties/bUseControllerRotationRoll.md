@@ -4,25 +4,19 @@ tags:
 Struct: 
 Belongs to: "[[APawn]]"
 Getter: 
-Description:
+Description: If true, this Pawn's roll will be updated to match the Controller's ControlRotation roll, if controlled by a PlayerController.
 ---
 
 ## Declaration
 
 ```cpp
-uint32 bUseControllerRotationRoll
+UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Pawn) 
+uint32 bUseControllerRotationRoll:1;  
 ```
 
 ## Example
 
 ```cpp
-
+bUseControllerRotationRoll = false;
 ```
 
-## Getter
-
-```cpp
-```
-
-## Options
-- 

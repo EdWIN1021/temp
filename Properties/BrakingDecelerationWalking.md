@@ -4,12 +4,19 @@ tags:
 Struct: 
 Belongs to: "[[UCharacterMovementComponent]]"
 Getter: 
-Description: It determines how quickly the character decelerates when it stops walking
+Description: Deceleration when walking and not applying acceleration. This is a constant opposing force that directly lowers velocity by a constant value.
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(
+	Category="Character Movement: Walking",  
+	EditAnywhere,  	
+	BlueprintReadWrite,  	
+	meta=(ClampMin="0", UIMin="0") 
+) 
+float BrakingDecelerationWalking'
 ```
 
 ## Example

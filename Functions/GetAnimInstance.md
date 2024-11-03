@@ -12,6 +12,12 @@ Type:
 ## Declaration
 
 ```cpp
+UFUNCTION(
+  BlueprintCallable, 
+  Category="Components|SkeletalMesh",
+  meta=(Keywords = "AnimBlueprint", UnsafeDuringActorConstruction = "true")
+)
+ENGINE_API class UAnimInstance * GetAnimInstance() const;
 ```
 
 ## Example
@@ -19,11 +25,3 @@ Type:
 ```cpp
 GetMesh()->GetAnimInstance()
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

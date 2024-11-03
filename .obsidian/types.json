@@ -5,6 +5,7 @@
     "tags": "tags",
     "Type": "multitext",
     "Struct": "text",
-    "Parameter of": "multitext"
+    "Parameter of": "multitext",
+    "Belongs to": "multitext"
   }
 }

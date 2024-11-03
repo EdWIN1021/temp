@@ -4,12 +4,14 @@ tags:
 Struct: "[[FActorTickFunction]]"
 Belongs to: 
 Getter: 
-Description: It indicates that the actor should not receive tick updates.
+Description: If false, this tick function will never be registered and will never tick. Only settable in defaults
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY() 
+uint8 bCanEverTick:1;
 ```
 
 ## Example
@@ -17,11 +19,3 @@ Description: It indicates that the actor should not receive tick updates.
 ```cpp
 PrimaryActorTick.bCanEverTick = false
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

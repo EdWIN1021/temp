@@ -1,29 +1,28 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[FGameplayEffectContextHandle]]"
 Parameter of: 
 Return: 
 Interface: 
-Description: This can help track who applied the effect for potential gameplay purpose
+Description: Sets the object this effect was created from.
 Type:
 ---
 
 ## Declaration
 
 ```cpp
+void AddSourceObject(const UObject* NewSourceObject)
+{
+  if (IsValid())
+  {
+    Data->AddSourceObject(NewSourceObject);
+  }
+}
 ```
 
 ## Example
 
 ```cpp
-EffectContextHandle.AddSourceObject(this);
+PrimaryAttributesContextHandle.AddSourceObject(AvatarActor);
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

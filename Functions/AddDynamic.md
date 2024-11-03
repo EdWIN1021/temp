@@ -16,7 +16,5 @@ Description:
 ## Example
 
 ```cpp
+#define AddDynamic( UserObject, FuncName ) __Internal_AddDynamic( UserObject, FuncName, STATIC_FUNCTION_FNAME( TEXT( #FuncName ) ) )
 ```
-
-## Options
-- 

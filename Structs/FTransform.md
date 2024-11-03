@@ -14,4 +14,5 @@ Belongs to:
 ## Example
 
 ```cpp
+FTransform SpawnTransform;
 ```

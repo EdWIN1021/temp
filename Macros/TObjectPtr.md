@@ -15,6 +15,7 @@ Belongs to:
 ## Example
 
 ```cpp
+TObject<USpringArmComponent> SpringArmComponent;
 ```
 
 ## Options

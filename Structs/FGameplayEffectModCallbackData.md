@@ -1,9 +1,10 @@
 ---
 tags:
   - Struct
-Description: 
-Properties: []
-Belongs to:
+Belongs to: 
+Parameter of:
+  - "[[PostGameplayEffectExecute]]"
+Description:
 ---
 
 ## Declaration
@@ -29,6 +30,3 @@ struct FGameplayEffectModCallbackData
 
 ```cpp
 ```
-
-## Options
-- 

@@ -1,27 +1,27 @@
 ---
 tags:
   - Function
-Belongs to: "[[APawn]]"
+Belongs to: "[[AController]]"
 Return: 
 Interface: 
-Description:
+Description: Replication Notification Callbacks
 ---
 
 ## Declaration
 
 ```cpp
-virtual void OnRep_PlayerState() override
+UFUNCTION()
+ENGINE_API virtual void OnRep_PlayerState();
 ```
 
 ## Example
 
 ```cpp
+void AAuraCharacter::OnRep_PlayerState()
+{
+	Super::OnRep_PlayerState();
+	
+	// Init ability actor info for the client
+	InitAbilityActorInfo();
+}
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

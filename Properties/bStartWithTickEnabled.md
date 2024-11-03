@@ -3,13 +3,14 @@ tags:
   - Property
 Struct: "[[FTickFunction]]"
 Belongs to: 
-Getter: 
-Description:
+Description: If true, this tick function will start enabled, but can be disabled later on.
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(EditDefaultsOnly, Category="Tick") 
+uint8 bStartWithTickEnabled:1;
 ```
 
 ## Example

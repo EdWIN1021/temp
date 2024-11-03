@@ -1,15 +1,15 @@
 ---
 tags:
   - Property
-Struct: 
-Belongs to: 
+Belongs to: "[[APlayerController]]"
 Getter: 
-Description:
+Description: Type of mouse cursor to show by default
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=MouseInterface) TEnumAsByte<EMouseCursor::Type> DefaultMouseCursor;
 ```
 
 ## Example
@@ -18,10 +18,3 @@ Description:
 DefaultMouseCursor = EMouseCursor::Default;
 ```
 
-## Getter
-
-```cpp
-```
-
-## Options
-- 

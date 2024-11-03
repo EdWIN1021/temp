@@ -13,7 +13,7 @@ Type:
 ## Declaration
 
 ```cpp
-virtual void NativeInitializeAnimation() override
+ENGINE_API virtual void NativeInitializeAnimation();
 ```
 
 ## Example

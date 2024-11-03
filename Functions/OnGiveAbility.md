@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[UGameplayAbility]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -17,5 +17,13 @@ virtual void OnGiveAbility(const FGameplayAbilityActorInfo* ActorInfo, const FGa
 ## Example
 
 ```cpp
-virtual void EndAbility(const FGameplayAbilitySpecHandle Handle, const FGameplayAbilityActorInfo* ActorInfo, const FGameplayAbilityActivationInfo ActivationInfo, bool bReplicateEndAbility, bool bWasCancelled);
+void UWarriorGameplayAbility::OnGiveAbility(
+	const FGameplayAbilityActorInfo* ActorInfo,
+	const FGameplayAbilitySpec& Spec) { 	
+		Super::OnGiveAbility(ActorInfo, Spec); 	 	
+		
+		if(ActorInfo && !Spec.IsActive()) { 
+			ActorInfo->AbilitySystemComponent->TryActivateAbility(Spec.Handle); 
+		} 
+}
 ```

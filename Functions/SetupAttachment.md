@@ -1,7 +1,7 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[USceneComponent]]"
 Parameter of: 
 Return: 
 Interface: 
@@ -11,13 +11,11 @@ Description:
 ## Declaration
 
 ```cpp
-void SetupAttachment(USceneComponent* InParent, FName InSocketName = NAME_None)
+ENGINE_API void SetupAttachment(USceneComponent* InParent, FName InSocketName = NAME_None);
 ```
 
 ## Example
 
 ```cpp
+HealthBar->SetupAttachment(GetRootComponent());
 ```
-
-## Options
-- 

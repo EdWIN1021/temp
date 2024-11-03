@@ -3,7 +3,7 @@ tags:
   - Struct
 Description: 
 Properties: 
-Belongs to:
+Parameter of: "[[ATTRIBUTE_ACCESSORS]]"
 ---
 
 ## Declaration

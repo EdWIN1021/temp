@@ -12,10 +12,14 @@ Description: This applies the effect specification to the target actor
 ## Declaration
 
 ```cpp
+virtual FActiveGameplayEffectHandle ApplyGameplayEffectSpecToSelf(
+  const FGameplayEffectSpec& GameplayEffect, 
+  FPredictionKey PredictionKey = FPredictionKey()
+);
 ```
 
 ## Example
 
 ```cpp
-TargetASC->ApplyGameplayEffectSpecToSelf(*EffectSpecHandle.Data.Get());
+TargetASC->ApplyGameplayEffectSpecToSelf(*DamageEffectSpecHandle.Data.Get());
 ```

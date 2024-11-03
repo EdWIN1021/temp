@@ -1,15 +1,15 @@
 ---
 tags:
   - Property
-Struct: 
-Belongs to: 
-Getter: 
-Description: restricts a character’s movement to a specific plane
+Belongs to: "[[UMovementComponent]]"
+Description: If true, movement will be constrained to a plane.
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=PlanarMovement) 
+uint8 bConstrainToPlane:1;   
 ```
 
 ## Example
@@ -17,11 +17,3 @@ Description: restricts a character’s movement to a specific plane
 ```cpp
 GetCharacterMovement()->bConstrainToPlane = true;
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

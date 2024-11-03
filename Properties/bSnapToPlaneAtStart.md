@@ -1,15 +1,21 @@
 ---
 tags:
   - Property
-Struct: 
-Belongs to: 
+Belongs to: "[[UNavMovementComponent]]"
 Getter: 
-Description: ensures the character’s position is aligned with a specific plane (like the XY plane) at the start of the game or when the character spawns. It doesn’t handle vertical alignment (e.g., snapping to terrain or the ground)
+Description: If true and plane constraints are enabled, then the updated component will be snapped to the plane when first attached.
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(
+	EditAnywhere,  	
+	BlueprintReadOnly,  	
+	Category=PlanarMovement,  	
+	meta=(editcondition=bConstrainToPlane) 
+) 
+uint8 bSnapToPlaneAtStart:1;
 ```
 
 ## Example
@@ -18,10 +24,3 @@ Description: ensures the character’s position is aligned with a specific plane
 GetCharacterMovement()->bSnapToPlaneAtStart = true;
 ```
 
-## Getter
-
-```cpp
-```
-
-## Options
-- 

@@ -3,13 +3,14 @@ tags:
   - Property
 Struct: 
 Belongs to: 
-Getter: "[[GetCharacterMovement]]"
-Description: When bOrientRotationToMovement is set to true, the character will automatically rotate to face the direction it is moving
+Getter: "[[UCharacterMovementComponent]]"
+Description: If true, rotate the Character toward the direction of acceleration, using RotationRate as the rate of rotation change. Overrides UseControllerDesiredRotation.
 ---
 
 ## Declaration
 
 ```cpp
+UPROPERTY(Category="Character Movement (Rotation Settings)", EditAnywhere, BlueprintReadWrite) uint8 bOrientRotationToMovement:1;   
 ```
 
 ## Example
@@ -17,11 +18,3 @@ Description: When bOrientRotationToMovement is set to true, the character will a
 ```cpp
 GetCharacterMovement()->bOrientRotationToMovement = true;
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

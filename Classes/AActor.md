@@ -23,6 +23,3 @@ Description:
 
 ```cpp
 ```
-
-## Options
-- 

@@ -2,8 +2,9 @@
 tags:
   - Struct
 Description: 
-Properties: 
-Belongs to:
+Belongs to: 
+Parameter of:
+  - "[[ApplyGameplayEffectSpecToSelf]]"
 ---
 
 ## Declaration

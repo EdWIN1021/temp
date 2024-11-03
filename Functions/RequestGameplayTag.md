@@ -1,11 +1,11 @@
 ---
 tags:
   - Function
-Belongs to: 
+Belongs to: "[[FGameplayTag]]"
 Parameter of: 
 Return: 
 Interface: 
-Description:
+Description: Gets the FGameplayTag that corresponds to the TagName
 ---
 
 ## Declaration
@@ -17,8 +17,5 @@ static GAMEPLAYTAGS_API FGameplayTag RequestGameplayTag(const FName& TagName, bo
 ## Example
 
 ```cpp
-FGameplayTag MessageTag = FGameplayTag::RequestGameplayTag(FName("Message"))
+FGameplayTag MessageTag = FGameplayTag::RequestGameplayTag(FName("Message"));
 ```
-
-## Options
-- 

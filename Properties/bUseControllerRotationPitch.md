@@ -10,19 +10,12 @@ Description:
 ## Declaration
 
 ```cpp
-uint32 bUseControllerRotationPitch
+UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Pawn)
+uint32 bUseControllerRotationPitch:1;
 ```
 
 ## Example
 
 ```cpp
-
+bUseControllerRotationPitch = false;
 ```
-
-## Getter
-
-```cpp
-```
-
-## Options
-- 

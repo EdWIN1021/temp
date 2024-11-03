@@ -21,6 +21,3 @@ enum class ECharacterState : uint8
 
 ```cpp
 ```
-
-## Options
-- 

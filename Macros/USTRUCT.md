@@ -17,12 +17,8 @@ struct FMyStruct
 };
 ```
 
-```
-
 ## Example
 
 ```cpp
 ```
 
-## Options
-- 

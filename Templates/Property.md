@@ -15,8 +15,3 @@ Description:
 ```cpp
 
 ```
-
-## Getter
-
-```cpp
-```

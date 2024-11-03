@@ -6,7 +6,7 @@ Belongs to:
 Parameter of: 
 Return: 
 Interface: 
-Description: Called each frame by the engine
+Description: Function called every frame on this Actor. ​Override this function to implement custom logic to be executed every frame.
 ---
 
 ## Declaration
@@ -20,5 +20,3 @@ ENGINE_API virtual void Tick( float DeltaSeconds );
 ```cpp
 ```
 
-## Options
-- 

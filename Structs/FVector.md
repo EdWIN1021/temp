@@ -15,6 +15,7 @@ Belongs to:
 ## Example
 
 ```cpp
+FVector CachedDestination = FVector::ZeroVector;
 ```
 
 ## Options

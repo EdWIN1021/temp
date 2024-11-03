@@ -18,5 +18,6 @@ ENGINE_API virtual void SetCollisionEnabled(ECollisionEnabled::Type NewType);
 ## Example
 
 ```cpp
-Sphere->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
+GetMesh()->SetCollisionEnabled(ECollisionEnabled::PhysicsOnly);
+GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
 ```
