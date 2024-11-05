@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1ef227ba16d3b2",
+        "id": "246dc8fd49c3d387",
         "type": "tabs",
         "children": [
           {
-            "id": "3e987c48442dcdd4",
+            "id": "075e562562b7bd2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions/Tick.md",
+                "file": "Functions/SetBlackboardValueAsObject.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tick"
+              "title": "SetBlackboardValueAsObject"
+            }
+          },
+          {
+            "id": "5d05ed6580402e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/UBTFunctionLibrary.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "UBTFunctionLibrary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ETriggerEvent",
+                "query": "SetBlackboardValueAsFloat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +114,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "724c6b05ee31144f",
@@ -118,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Enums/ETriggerEvent.md",
+                "file": "Classes/UBTFunctionLibrary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,12 +195,12 @@
                   "repelStrength": 4.11946614583333,
                   "linkStrength": 0.317952473958333,
                   "linkDistance": 224,
-                  "scale": 0.5879684309009073,
+                  "scale": 1.3804728760955844,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ETriggerEvent"
+              "title": "Graph of UBTFunctionLibrary"
             }
           },
           {
@@ -191,6 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Properties/AIOwner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +219,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for AIOwner"
             }
           },
           {
@@ -209,11 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Properties/AIOwner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AIOwner"
             }
           },
           {
@@ -234,16 +254,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Properties/AIOwner.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of AIOwner"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 1046.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,34 +279,35 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "906761a8f911bb3b",
+  "active": "5fa010fa13090ed2",
   "lastOpenFiles": [
-    "Enums/EGameplayEffectReplicationMode.md",
-    "Macros/UFUNCTION.md",
-    "Macros/USTRUCT.md",
-    "Macros/UENUM.md",
-    "Macros/UPROPERTY.md",
-    "Macros/UE_LOG.md",
-    "Macros/UCLASS.md",
-    "Macros/checkf.md",
+    "Functions/SetBlackboardValueAsFloat.md",
+    "Functions/SetBlackboardValueAsObject.md",
+    "Classes/UBTFunctionLibrary.md",
+    "Functions/GetDistanceTo.md",
+    "Structs/TNumericLimits.md",
+    "Structs/FActorTickFunction.md",
+    "Functions/GetAllActorsWithTag.md",
+    "Functions/ActorHasTag.md",
+    "Templates/Class.md",
+    "Templates/Function.md",
+    "Templates/Macro.md",
+    "Templates/Struct.md",
+    "Templates/Property.md",
+    "Properties/AIOwner.md",
+    "Functions/CallReplicatedTargetDataDelegatesIfSet.md",
+    "Functions/BP_ApplyGameplayEffectToOwner.md",
+    "Functions/BindAction.md",
+    "Functions/AddUObject.md",
     "Functions/AddDynamic.md",
-    "Functions/AddDynamic1.md",
-    "Untitled.md",
-    "Macros/DECLARE_ATTRIBUTE_CAPTUREDEF.md",
-    "Macros/DEFINE_ATTRIBUTE_CAPTUREDEF.md",
-    "Classes/UWidgetComponent.md",
-    "Classes/UUserWidget.md",
-    "Classes/UStaticMeshComponent.md",
-    "Classes/USoundBase.md",
-    "Classes/USkeletalMeshComponent.md",
-    "Classes/USceneComponent.md",
-    "Classes/URadialFalloff.md",
-    "Classes/UNiagaraFunctionLibrary.md",
-    "Classes/UCharacterMovementComponent.md",
-    "Classes/UCapsuleComponent.md",
-    "Classes/UAudioComponent.md",
-    "Classes/UBlackboardComponent.md",
-    "Classes/UAnimMontage.md",
+    "Functions/Add.md",
+    "Functions/AddControllerYawInput.md",
+    "Functions/AddLooseGameplayTag.md",
+    "Functions/AbilityTargetDataSetDelegate.md",
+    "Classes/AAIController.md",
+    "Properties/AvatarActor.md",
+    "Properties/DynamicAbilityTags.md",
+    "README",
     "home.canvas",
     "Untitled.canvas",
     "Delegates",
@@ -313,7 +336,6 @@
     "Definitions",
     "Interfaces",
     "Properties",
-    "Macros",
-    "Structs"
+    "Macros"
   ]
 }

@@ -1,8 +1,8 @@
 ---
 tags:
   - Macro
-Description: 
-Belongs to: []
+Belongs to: 
+Description:
 ---
 
 ## Declaration

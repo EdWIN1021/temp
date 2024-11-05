@@ -1,10 +1,10 @@
 ---
 tags:
   - Property
-Belongs to: "[[FGameplayAbilityActorInfo]]"
+Belongs to:
+  - "[[FGameplayAbilityActorInfo]]"
 Description: 
-Type:
-  - "[[AActor]]"
+Type: "[[AActor]]"
 ---
 
 ## Declaration

@@ -1,8 +1,9 @@
 ---
 tags:
-  - Property
-Belongs to: 
-Type: 
+  - Class
+Derived From: "[[UBTTaskNode]]"
+Context of: 
+Dependency of: 
 Description:
 ---
 
@@ -14,5 +15,4 @@ Description:
 ## Example
 
 ```cpp
-
 ```

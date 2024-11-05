@@ -1,8 +1,8 @@
 ---
 tags:
   - Struct
-Description: 
-Belongs to:
+Belongs to: 
+Description:
 ---
 
 ## Declaration

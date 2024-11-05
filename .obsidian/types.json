@@ -2,10 +2,6 @@
   "types": {
     "aliases": "aliases",
     "cssclasses": "multitext",
-    "tags": "tags",
-    "Type": "multitext",
-    "Struct": "text",
-    "Parameter of": "multitext",
-    "Belongs to": "multitext"
+    "tags": "tags"
   }
 }

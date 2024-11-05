@@ -1,9 +1,9 @@
 ---
 tags:
   - Property
-Belongs to: "[[FGameplayEffectSpecHandle]]"
-Type:
-  - "[[FGameplayEffectSpec]]"
+Belongs to:
+  - "[[FGameplayEffectSpecHandle]]"
+Type: "[[FGameplayEffectSpec]]"
 Description:
 ---
 
