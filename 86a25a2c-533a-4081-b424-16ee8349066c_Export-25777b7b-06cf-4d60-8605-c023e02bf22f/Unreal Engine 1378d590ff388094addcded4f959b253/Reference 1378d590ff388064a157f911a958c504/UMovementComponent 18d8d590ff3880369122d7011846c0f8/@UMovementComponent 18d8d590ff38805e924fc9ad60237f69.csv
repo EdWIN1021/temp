@@ -1,0 +1,3 @@
+﻿Name,Access Specifier,Description
+bConstrainToPlane,public,"If true, movement will be constrained to a plane"
+bSnapToPlaneAtStart,public,"If true and plane constraints are enabled, then the updated component will be snapped to the plane when first attached."

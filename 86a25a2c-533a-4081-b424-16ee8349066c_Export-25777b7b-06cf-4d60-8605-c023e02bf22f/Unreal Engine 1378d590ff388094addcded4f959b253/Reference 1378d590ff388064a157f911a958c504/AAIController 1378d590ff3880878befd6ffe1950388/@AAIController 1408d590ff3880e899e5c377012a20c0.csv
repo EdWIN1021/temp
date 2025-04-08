@@ -1,0 +1,3 @@
+﻿Name,Access Specifier,Tags,Belongs to,Description
+GetBlackboardComponent,public,,"AAIController (AAIController%201378d590ff3880878befd6ffe1950388.html) ",
+RunBehaviorTree,public,BlueprintCallable,"AAIController (AAIController%201378d590ff3880878befd6ffe1950388.html) ",Starts executing behavior tree.

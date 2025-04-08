@@ -1,0 +1,4 @@
+﻿Name,Access Specifier,Tags,Category,Description
+GetPawn,public,,Function,
+GetPlayerState,public,,Function,
+GetControlRotation,public,,Function,Get the control rotation

@@ -1,0 +1,5 @@
+﻿Name
+FOnCreateSessionCompleteDelegate
+FOnFindSessionsCompleteDelegate
+FComponentBeginOverlapSignature
+FComponentEndOverlapSignature

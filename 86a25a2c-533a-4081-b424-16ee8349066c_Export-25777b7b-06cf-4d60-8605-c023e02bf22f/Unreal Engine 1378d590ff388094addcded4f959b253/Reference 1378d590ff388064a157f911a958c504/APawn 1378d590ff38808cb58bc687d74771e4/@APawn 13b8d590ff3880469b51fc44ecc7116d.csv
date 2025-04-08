@@ -1,0 +1,12 @@
+﻿Name,Access Specifier,Category,Tags,Description
+GetController,Public,,virtual,
+Possesse,Public,,virtual,"Called when a controller (player or AI) takes control of an actor (e.g., a character).  Only called on the server (or in standalone)"
+AddControllerPitchInput,Public,,virtual,"Add input (affecting Pitch) to the Controller's ControlRotation, if it is a local PlayerController"
+AddControllerYawInput,Public,,virtual,"Add input (affecting Yaw) to the Controller's ControlRotation, if it is a local PlayerController"
+AddMovementInput,Public,,virtual,Add movement input along the given world direction vector
+IsLocallyControlled,Public,,virtual,Returns true if controlled by a local (not network) Controller.
+"
+bUseControllerRotationPitch",Public,Property,,"If true, this Pawn's pitch will be updated to match the Controller's ControlRotation pitch, if controlled by a PlayerController."
+bUseControllerRotationYaw,Public,Property,,"If true, this Pawn's yaw will be updated to match the Controller's ControlRotation yaw, if controlled by a PlayerController."
+bUseControllerRotationRoll,Public,Property,,"If true, this Pawn's roll will be updated to match the Controller's ControlRotation roll, if controlled by a PlayerController."
+AutoPossessPlayer,Public,Property,,

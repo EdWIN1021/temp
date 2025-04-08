@@ -1,0 +1,3 @@
+﻿Name,Access Specifier,Tags,Description,Belongs to
+SetBoxExtent,public,BlueprintCallable,"Change the box extent size. This is the unscaled size, before component scale is applied.","UBoxComponent (UBoxComponent%201408d590ff38806aa03ae02e257e3b69.html) "
+,,,,

@@ -1,0 +1,6 @@
+﻿Name,Access Specifier,Tags,Description
+GetSocketLocation,public,,Get world-space socket or bone location
+SetupAttachment,public,,Initializes desired Attach Parent and SocketName to be attached to when the component is registered.
+SetUsingAbsoluteRotation,public,funciton,SetUsingAbsoluteRotation is a function in Unreal Engine that controls whether a component's rotation is treated as world-space (absolute) or relative to its parent component.
+GetComponentLocation,public,funciton,"Return location of the component, in world space"
+SetWorldRotation,public,funciton,Put this component at the specified rotation in world space.

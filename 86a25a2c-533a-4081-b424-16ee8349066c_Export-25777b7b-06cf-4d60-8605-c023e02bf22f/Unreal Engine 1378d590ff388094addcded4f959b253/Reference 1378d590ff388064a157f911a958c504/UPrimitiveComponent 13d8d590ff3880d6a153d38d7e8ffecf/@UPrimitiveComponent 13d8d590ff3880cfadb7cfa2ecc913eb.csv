@@ -1,0 +1,11 @@
+﻿Name,Access Specifier,Tags,Description,Type
+SetCollisionEnabled,public,,Controls what kind of collision is enabled for this body,
+SetSimulatePhysics,public,,"Sets whether or not a single body should use physics simulation, or should be 'fixed' (kinematic)",
+SetMaterial,public,,Changes the material applied to an element of the mesh,
+SetGenerateOverlapEvents,public,BlueprintSetter,Modifies value returned by GetGenerateOverlapEvents(),
+SetCollisionResponseToChannel,public,,Changes a member of the ResponseToChannels container for this PrimitiveComponent,
+SetCollisionResponseToAllChannels,public,,Changes all ResponseToChannels container for this PrimitiveComponent. to be NewResponse,
+SetCollisionObjectType,public,,Changes the collision channel that this object uses when it moves,
+OnComponentBeginOverlap,public,,,Properites
+OnComponentEndOverlap,public,,,Properites
+AddImpulse,public,Virtual,,

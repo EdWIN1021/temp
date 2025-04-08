@@ -1,0 +1,3 @@
+﻿Name,Description
+SetLockMouseToViewportBehavior,Sets the mouse locking behavior of the viewport
+SetHideCursorDuringCapture,Whether to hide the cursor during temporary mouse capture caused by a mouse down

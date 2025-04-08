@@ -1,0 +1,5 @@
+﻿Name,Tags,Description
+GetCurrentAcceleration,,"Checking if a character is actively accelerating (e.g., pressing movement keys)."
+bOrientRotationToMovement,Property,"If true, rotate the Character toward the direction of acceleration"
+MaxWalkSpeed,Property,The maximum ground speed when walking. Also determines maximum lateral speed when falling.
+RotationRate,Property,"Change in rotation per second, used when UseControllerDesiredRotation or OrientRotationToMovement are true. Set a negative value for infinite rotation rate and instant turns."

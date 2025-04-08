@@ -1,0 +1,7 @@
+﻿Name,Access Specifier,Tags,Description
+NativeInitializeAnimation,public,virtual," It is called once when the animation instance is created, typically after the owning SkeletalMeshComponent is initialized but before the first frame update.
+
+"
+NativeUpdateAnimation,public,virtual,"Called every frame (similar to Tick() for Actors). Use it for real-time updates (e.g., velocity, jump states)."
+NativeThreadSafeUpdateAnimation,,,
+TryGetPawnOwner,public,virtual,Returns the APawn that owns the USkeletalMeshComponent associated with the UAnimInstance.

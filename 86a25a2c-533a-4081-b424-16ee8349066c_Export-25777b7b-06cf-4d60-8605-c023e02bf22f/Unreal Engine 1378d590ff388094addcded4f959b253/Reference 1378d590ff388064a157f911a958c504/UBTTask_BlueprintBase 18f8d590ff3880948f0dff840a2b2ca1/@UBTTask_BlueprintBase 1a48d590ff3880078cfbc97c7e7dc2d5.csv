@@ -1,0 +1,3 @@
+﻿Name,Access Specifier,Tags,Category
+ReceiveExecuteAI,Public,BlueprintImplementableEvent,function
+FinishExecute,Protected,BlueprintCallable,function

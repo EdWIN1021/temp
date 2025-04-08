@@ -1,0 +1,9 @@
+﻿Name,Access Specifier,Tags,Description
+GetLocalPlayer,public,,"Returns the ULocalPlayer for this controller if it exists, or null otherwise"
+SetInputMode,public,,Setup an input mode
+GetHUD,public,BlueprintCallable,Gets the HUD currently being used by this player controller
+GetHitResultUnderCursor,public,BlueprintCallable,
+bShowMouseCursor,public,property,Whether the mouse cursor should be displayed
+DefaultMouseCursor,public,property,Type of mouse cursor to show by default
+SetupInputComponent,public,,Allows the PlayerController to set up custom input bindings.
+SetupInputComponent,protected,,Allows the PlayerController to set up custom input bindings

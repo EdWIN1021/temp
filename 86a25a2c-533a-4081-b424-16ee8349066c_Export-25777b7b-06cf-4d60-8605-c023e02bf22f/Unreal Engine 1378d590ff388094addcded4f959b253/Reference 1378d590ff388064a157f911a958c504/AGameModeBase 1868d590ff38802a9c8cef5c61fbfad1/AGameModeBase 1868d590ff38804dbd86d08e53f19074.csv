@@ -1,0 +1,5 @@
+﻿Name,Access Specifier,Tags,Type,Description
+InitGame,public,virtual function,,It is called before the game world begins play but after the Game Mode has been initialized. Developers typically override this function to set up game-specific rules or configurations.
+GameSession,public,property,"AGameSession (AGameSession%201868d590ff3880a78d2cdf6c967c4e2e.html) ","Game Session handles login approval, arbitration, online game interface"
+GameState,public,property,"AGameStateBase (AGameStateBase%201868d590ff3880eeb4bef26350cfb47f.html) ",GameState is used to replicate game state relevant properties to all clients.
+bUseSeamlessTravel,public,property,,

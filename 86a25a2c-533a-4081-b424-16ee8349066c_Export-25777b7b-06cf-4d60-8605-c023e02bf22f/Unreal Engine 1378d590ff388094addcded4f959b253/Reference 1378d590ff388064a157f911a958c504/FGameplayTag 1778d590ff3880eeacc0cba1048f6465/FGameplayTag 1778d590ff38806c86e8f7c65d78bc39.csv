@@ -1,0 +1,4 @@
+﻿Name,Description,Category,Tags
+IsValid,Returns whether the tag is valid or not; Invalid tags are set to NAME_None and do not exist in the game-specific global dictionary,Fucntion,
+MatchesTag,,Fucntion,
+RequestGameplayTag,,Fucntion,Static

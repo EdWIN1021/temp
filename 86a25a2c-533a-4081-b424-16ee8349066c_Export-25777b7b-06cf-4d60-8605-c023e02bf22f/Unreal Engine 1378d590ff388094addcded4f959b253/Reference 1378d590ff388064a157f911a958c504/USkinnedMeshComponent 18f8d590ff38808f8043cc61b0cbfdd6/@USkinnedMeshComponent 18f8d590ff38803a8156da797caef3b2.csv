@@ -1,0 +1,2 @@
+﻿Name,Access Specifier,Description
+GetSocketByName,public,"SkeletalMeshSocket of named socket on the skeletal mesh component, or NULL if not found."

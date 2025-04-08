@@ -1,0 +1,4 @@
+﻿Name,Access Specifier,Tags,Description,Files & media
+SendGameplayEventToActor,public,BlueprintCallable,This function can be used to trigger an ability on the actor in question with useful payload data,UAbilitySystemBlueprintLibrary%2013e8d590ff3880ceb26cff2ec76084b9/UAbilitySystemBlueprintLibrary%2013e8d590ff3880b2ba8af8109eb7340c/SendGameplayEventToActor%2013e8d590ff3880079b00e6aab2289339/Screenshot_2025-01-09_173337.png
+AssignTagSetByCallerMagnitude,public,static,,
+GetAbilitySystemComponent,public,static,,

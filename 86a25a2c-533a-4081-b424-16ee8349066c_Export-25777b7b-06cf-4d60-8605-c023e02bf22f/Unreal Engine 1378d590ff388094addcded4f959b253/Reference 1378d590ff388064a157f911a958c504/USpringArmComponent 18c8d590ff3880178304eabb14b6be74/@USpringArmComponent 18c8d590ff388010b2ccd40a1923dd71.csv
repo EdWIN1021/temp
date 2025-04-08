@@ -1,0 +1,4 @@
+﻿Name,Access Specifier,Tags,Description
+TargetArmLength,public,property,Natural length of the spring arm when there are no collisions
+bUsePawnControlRotation,public,property,It determines whether certain components (such as the camera or movement component) should follow the Pawn's control rotation
+bDoCollisionTest,public,property,"If true, do a collision test using ProbeChannel and ProbeSize to prevent camera clipping into level."

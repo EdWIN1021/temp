@@ -1,0 +1,5 @@
+﻿Name,Access Specifier,Tags,Description
+GetOwner,public,," Follow the Outer chain to get the  AActor  that 'Owns' this component"
+SetIsReplicated,public,,Enable or disable replication. This is the equivalent of RemoteRole for actors (only a bool is required for components)
+bAutoActivate,public,property,Whether the component is currently active
+Activate,public,funciton,

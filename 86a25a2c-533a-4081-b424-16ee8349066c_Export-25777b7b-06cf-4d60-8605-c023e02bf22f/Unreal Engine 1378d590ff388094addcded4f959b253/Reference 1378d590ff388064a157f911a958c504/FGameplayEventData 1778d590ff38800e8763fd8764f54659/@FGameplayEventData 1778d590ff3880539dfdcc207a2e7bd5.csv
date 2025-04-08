@@ -1,0 +1,5 @@
+﻿Name,Description
+Instigator,The instigator of the event
+Target,The target of the event
+EventTag,Tag of the event that triggered this
+EventMagnitude,The magnitude of the triggering event

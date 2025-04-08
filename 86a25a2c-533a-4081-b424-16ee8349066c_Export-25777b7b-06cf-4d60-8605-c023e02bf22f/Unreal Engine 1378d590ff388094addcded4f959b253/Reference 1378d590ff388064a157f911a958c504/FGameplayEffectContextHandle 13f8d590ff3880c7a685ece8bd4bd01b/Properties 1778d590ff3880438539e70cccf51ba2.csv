@@ -1,0 +1,7 @@
+﻿Name,Description
+SetAbility,Sets Ability instance and CDO parameters on context
+AddSourceObject,
+AddInstigator,
+GetEffectCauser,
+AddActors,
+AddHitResult,

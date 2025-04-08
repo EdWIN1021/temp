@@ -1,0 +1,9 @@
+﻿Name,Description,Type,Access Specifier
+bIsLANMatch, it determines whether the session is a LAN (Local Area Network) match or an online match,Property,
+NumPublicConnections,used to define the maximum number of public connections allowed in an online session.,Property,
+bAllowJoinInProgress,determines whether players are allowed to join a session after it has already started the game,Property,
+bAllowJoinViaPresence,"bAllowJoinViaPresencis a flag that controls whether players can join a session using the Presence functionality provided by the Online Subsystem. Presence is a feature that allows players to see the status of their friends (e.g., online, in-game, in a specific session) and directly join their games.",Property,
+bShouldAdvertise,"It determines whether a session should be advertised to other players, making it visible in session searches.",Property,
+bUsesPresence,"When set to true, the session will use the platform's presence system to track player availability and status. This is crucial for features like matchmaking, inviting friends, or displaying player status (e.g., ""Online,"" ""Away,"" ""In Game"").",Property,
+Set,"This setting can be used to store additional information about the session, such as the type of match, and advertise it to other players so they can filter or join sessions based on this information.",Funciton,
+Get,Gets a key value pair combination that defines a session setting,Funciton,public

@@ -1,0 +1,6 @@
+﻿Name,Access Specifier,Description
+OverlapMultiByObjectType,public,"Test the collision of a shape at the supplied location using object types, and determine the set of components that it overlaps"
+SpawnActorDeferred,public,Allowing you to modify properties or set up the actor before it's fully initialized and added to the level
+GetDeltaSeconds,public,Returns the frame delta time in seconds adjusted by e.g. time dilation
+GetFirstLocalPlayerFromController,public,Get the first valid local player via the first player controller
+ServerTravel,public,"The  function is used in Unreal Engine to initiate a server-side map travel. This means that the server will load the specified map, and all connected clients will follow the server to the new map."

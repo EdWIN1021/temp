@@ -1,0 +1,5 @@
+﻿Name,Access Specifier,Tags,Description
+GetCharacterMovement,public,funciton,Returns CharacterMovement subobject
+GetMesh,public,funciton,Returns Mesh subobject
+bIsCrouched,public,property,Set by character movement to specify that this Character is currently crouched.
+LaunchCharacter,public,funciton,

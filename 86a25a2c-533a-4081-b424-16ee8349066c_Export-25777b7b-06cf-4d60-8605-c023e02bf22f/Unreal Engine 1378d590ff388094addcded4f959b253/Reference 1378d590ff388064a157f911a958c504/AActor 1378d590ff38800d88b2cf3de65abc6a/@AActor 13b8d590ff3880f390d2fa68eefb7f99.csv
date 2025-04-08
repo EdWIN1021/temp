@@ -1,0 +1,24 @@
+﻿Name,Access Specifier,Tags,Category,Type,Description
+ActorHasTag,Public,,Function,,
+AddActorWorldOffset,Public,,Function,,
+AddActorWorldRotation,Public,,Function,,
+BeginPlay,Protected,,Function,,
+Destroy,Public,,Function,,"Destroy this actor. Returns true the actor is destroyed or already marked for destruction, false if indestructible"
+Destroyed,Public,,Function,,"Called when this actor is explicitly being destroyed during gameplay or in the editor, not called during level streaming or gameplay ending"
+FinishSpawning,Private,,Function,,
+GetActorForwardVector,Public,,Function,FVector (FVector%201a78d590ff388032973ee706d8a325c8.html),
+GetActorLocation,Public,,Function,FVector (FVector%201a78d590ff388032973ee706d8a325c8.html)," Returns the location of the RootComponent of this Actor"
+GetActorNameOrLabel,Public,,Function,,
+GetDistanceTo,Public,,Function,,
+GetInstigator,Public,,Function,,"The instigator typically refers to the actor (often a pawn or character) that initiated the event, such as firing a weapon or applying an effect."
+GetRootComponent,Public,,Function,,Returns this actor's root component
+GetVelocity,Public,Virtual,Function,,Returns velocity (in cm/s (Unreal Units/second) of the rootcomponent if it is either using physics or has an associated MovementComponent
+InputComponent,Public,,Property,UInputComponent (UInputComponent%2018f8d590ff3880baa83add2e16059def.html),
+NetUpdateFrequency,Public,Virtual,Property,,"How often (per second) this actor will be considered for replication, used to determine NetUpdateTime"
+PostInitializeComponents,Public,Virtual,Function,,"Allow actors to initialize themselves on the C++ side after all of their components have been initialized, only called during gameplay"
+PrimaryActorTick,Public,,Property,FActorTickFunction (FActorTickFunction%2018c8d590ff38808aa695c9327a6b76ec.html),"Primary Actor tick function, which calls TickActor(). Tick functions can be configured to control whether ticking is enabled, at what time during a frame the update occurs, and to set up tick dependencies."
+SetActorLocation,Public,,Function,,
+SetActorRotation,Public,,Function,,
+SetLifeSpan,Public,,Function,,"Set the lifespan of this actor. When it expires the object will be destroyed. If requested lifespan is 0, the timer is cleared and the actor will not be destroyed."
+SetRootComponent,Public,,Function,,
+Tick,Public,Virtual,Function,,Function called every frame on this Actor.

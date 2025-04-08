@@ -1,0 +1,8 @@
+﻿Name,Access Specifier,Tags,Description
+GetAbilityLevel,public,,
+GetCostGameplayEffect,public,virtual,
+GetCooldownGameplayEffect,public,virtual,
+MakeOutgoingGameplayEffectSpec,public,BlueprintCallable,
+GetAvatarActorFromActorInfo,public,BlueprintCallable,
+GetAbilitySystemComponentFromActorInfo,public,BlueprintCallable,
+ActivateAbility,protected,,"Actually activate ability, do not call this directly"
