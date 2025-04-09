@@ -1,0 +1,5 @@
+﻿Name,Description,Select,Text
+empty,Return true if s is empty; otherwise returns false,,
+size,Return the number of characters in s,,string::size_type
++,Adding two strings,,"When we mix strings and sting or character literals, at least one operand to each + operator must be of string type"
+[],subscript operator,,

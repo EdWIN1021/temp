@@ -1,0 +1,14 @@
+﻿Name,Description,Select
+isalnum,true if c is a letter or digit,cctype
+isalpha,true if c is a letter,cctype
+iscntrl,true if c is a control character,cctype
+isdigit,true if c is a digit,cctype
+isgraph,true if c is not a space but is printable,cctype
+isprint,true if c is a printable character,cctype
+ispunct,true if c is a punctuation character,cctype
+isspace,true if c is whitespace,cctype
+isxdigit,true if c is a hexadecimal digit,cctype
+islower,true if c is a lowercase letter,cctype
+isupper,true if c is an uppercase letter,cctype
+tolower,"If c is an uppercase letter, returns its lowercase equivalent",cctype
+toupper,"If c is a lowercase letter, returns its uppercase equivalent",cctype
