@@ -12,24 +12,17 @@
             "id": "6f9dee5f031b1eac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "unity/Time.deltaTime.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "home/home.canvas",
+                "viewState": {
+                  "x": -41.5,
+                  "y": 39,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Time.deltaTime"
+              "icon": "lucide-layout-dashboard",
+              "title": "home"
             },
             "group": "e598710136286e11"
           }
@@ -47,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "unity/Time.deltaTime.md",
+                "file": "home/home.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +68,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Time.deltaTime"
+              "title": "Graph of home"
             },
             "group": "e598710136286e11"
           }
@@ -242,8 +235,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "906761a8f911bb3b",
+  "active": "6f9dee5f031b1eac",
   "lastOpenFiles": [
+    "legacy/mongo/cmd.md",
+    "legacy/mongo/README.md",
+    "home/home.canvas",
+    "unity/Time.deltaTime.md",
     "unity/Create Singleton Pattern.md",
     "unity/Material/Physics Material 2D.md",
     "unity/Input System/Input Actions.md",
@@ -267,16 +264,12 @@
     "unreal-engine/_How/How to attach a item to a socket/How to attach a item to a socket.canvas",
     "unreal-engine/_How/How to attach a item to a socket/screenshot_01.png",
     "README.md",
-    "home/home.canvas",
     "unreal-engine/AddMappingContext/AddMappingContext.md",
     "unreal-engine/AbilitySystemComponent/screenshot_01.png",
     "unreal-engine/AddDynamic/AddDynamic.md",
     "unreal-engine/AddControllerPitchInput/AddControllerPitchInput.md",
     "unreal-engine/Actor Component/Actor Component.md",
     "unreal-engine/Actor/Actor.md",
-    "unreal-engine/UE_LOG/UE_LOG.md",
-    "unreal-engine/UEngine/UEngine.md",
-    "unreal-engine/GameplayTag/GameplayTag.md",
     "unreal-engine/GameplayEffect/GameplayEffect.canvas",
     "unreal-engine/Gameplay Ability System/Gameplay Ability System.canvas",
     "unreal-engine/AttributeSet/AttributeSet.canvas",
