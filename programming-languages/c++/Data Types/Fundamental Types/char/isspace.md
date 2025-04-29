@@ -1,1 +1,0 @@
-> [!info] true if c is a whilte space

@@ -1,1 +1,0 @@
-> [!info] true if c is a control character
