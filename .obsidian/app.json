@@ -6,6 +6,5 @@
   "showInlineTitle": true,
   "defaultViewMode": "preview",
   "tabSize": 2,
-  "readableLineLength": false,
-  "showRibbon": true
+  "readableLineLength": false
 }
