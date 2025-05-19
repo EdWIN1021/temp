@@ -1,5 +1,0 @@
-```cpp
-cout
-cerr
-clog
-```

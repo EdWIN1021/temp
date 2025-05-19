@@ -1,83 +1,25 @@
 {
   "main": {
-    "id": "c1c1ce69f90fc23e",
+    "id": "0cbe5fd4176baf1a",
     "type": "split",
     "children": [
       {
-        "id": "e9e95b7830a35117",
+        "id": "53a1d7ff5f2fd54c",
         "type": "tabs",
-        "dimension": 72.24231464737794,
         "children": [
           {
-            "id": "6f9dee5f031b1eac",
+            "id": "ba8317cd5d040065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/aws/How-to-setup-ec2-instance.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "How-to-setup-ec2-instance"
-            },
-            "group": "e598710136286e11"
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "88595e0104fa8a35",
-        "type": "tabs",
-        "dimension": 27.75768535262206,
-        "children": [
-          {
-            "id": "a93ddc4cb285a3ac",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "tools/aws/How-to-setup-ec2-instance.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2109571226339453,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of How-to-setup-ec2-instance"
-            },
-            "group": "e598710136286e11"
+              "title": "README"
+            }
           }
         ]
       }
@@ -85,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f40538da6a96471",
+    "id": "893346de8f0996e9",
     "type": "split",
     "children": [
       {
-        "id": "2f602f09e075276b",
+        "id": "54767434f178f17a",
         "type": "tabs",
         "children": [
           {
-            "id": "906761a8f911bb3b",
+            "id": "6bf97e789df747b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,12 +48,12 @@
             }
           },
           {
-            "id": "808f427b7585f066",
+            "id": "a2196d6483dbd71a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "UAttributeSet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +65,7 @@
             }
           },
           {
-            "id": "7c3426a7a1319654",
+            "id": "8b0c8b00d8998969",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -136,51 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 300
   },
   "right": {
-    "id": "724c6b05ee31144f",
+    "id": "fd141f31e368ca7f",
     "type": "split",
     "children": [
       {
-        "id": "a2d8c6bbfa0103b0",
+        "id": "a0f640c991d51410",
         "type": "tabs",
         "children": [
           {
-            "id": "46fb9d4aa297dadd",
+            "id": "2c9ad925b31bd678",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity/Time.deltaTime.md",
+                "file": "README.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Time.deltaTime"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "639e7d16189edf0e",
+            "id": "e6154e027d98a9fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity/Time.deltaTime.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Time.deltaTime"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "1e42e8786131721c",
+            "id": "ba260bd99026dbde",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -195,109 +137,37 @@
             }
           },
           {
-            "id": "77072313f4dd6845",
+            "id": "ca7c6affdd19e273",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/Time.deltaTime.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Time.deltaTime"
-            }
-          },
-          {
-            "id": "02df9f3197b9e92b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outline of README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6f9dee5f031b1eac",
-  "lastOpenFiles": [
-    "home/home.canvas",
-    "legacy/mongo/cmd.md",
-    "legacy/mongo/README.md",
-    "unity/Time.deltaTime.md",
-    "unity/Create Singleton Pattern.md",
-    "unity/Material/Physics Material 2D.md",
-    "unity/Input System/Input Actions.md",
-    "programming-languages/java/classes/Access Control.md",
-    "programming-languages/java/classes/Abstract Class.md",
-    "programming-languages/html/script.md",
-    "programming-languages/html/inline vs block.md",
-    "Untitled.canvas",
-    "unreal-engine/UAttributeSet/UAttributeSet.md",
-    "programming-languages/java/classes/Constructor.md",
-    "unreal-engine/FGameplayAttributeData/FGameplayAttributeData.md",
-    "APlayerState.md",
-    "unreal-engine/ACharacter/ACharacter.md",
-    "unreal-engine/Character/Character.md",
-    "unreal-engine/AddMovementInput/AddMovementInput.md",
-    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.md",
-    "unreal-engine/Classes/Untitled.md",
-    "unreal-engine/Classes",
-    "unreal-engine/bOrientRotationToMovement/bOrientRotationToMovement.md",
-    "unreal-engine/AbilitySystemComponent/AbilitySystemComponent.canvas",
-    "unreal-engine/_How/How to attach a item to a socket/How to attach a item to a socket.canvas",
-    "unreal-engine/_How/How to attach a item to a socket/screenshot_01.png",
-    "README.md",
-    "unreal-engine/AddMappingContext/AddMappingContext.md",
-    "unreal-engine/AbilitySystemComponent/screenshot_01.png",
-    "unreal-engine/AddDynamic/AddDynamic.md",
-    "unreal-engine/AddControllerPitchInput/AddControllerPitchInput.md",
-    "unreal-engine/Actor Component/Actor Component.md",
-    "unreal-engine/GameplayEffect/GameplayEffect.canvas",
-    "unreal-engine/Gameplay Ability System/Gameplay Ability System.canvas",
-    "unreal-engine/AttributeSet/AttributeSet.canvas",
-    "unreal-engine/UserWidget/Screenshot 2024-09-25 at 2.35.16 PM.png",
-    "unreal-engine/AddSourceObject",
-    "unreal-engine/Untitled.canvas",
-    "unreal-engine/FGameplayEffectSpecHandle",
-    "unreal-engine/ApplyGameplayEffectSpecToSelf",
-    "unreal-engine/MakeOutgoingSpec",
-    "unreal-engine/MakeEffectContext",
-    "unreal-engine/FGameplayAttributeData/FGameplayAttributeData.canvas",
-    "unreal-engine/AttributeSet/screenshot_01.png",
-    "unreal-engine/BlueprintClass/Blueprint Class.canvas",
-    "unreal-engine/Gameplay Ability System",
-    "unreal-engine/Settings",
-    "unreal-engine/SetCollisionResponseToChannel",
-    "unreal-engine/SetCollisionEnabled",
-    "unreal-engine/WidgetController/Screenshot 2024-09-25 at 2.39.13 PM.png",
-    "unreal-engine/EnhancedInputComponent/Screenshot 2024-09-26 at 10.49.56 PM.png",
-    "Screenshot 2024-09-26 at 10.49.56 PM.png",
-    "unreal-engine/DataAsset/Screenshot 2024-09-26 at 10.18.18 PM.png",
-    "Screenshot 2024-09-25 at 2.35.16 PM.png",
-    "Screenshot 2024-09-25 at 2.39.13 PM.png"
-  ]
+  "active": "6bf97e789df747b0",
+  "lastOpenFiles": []
 }

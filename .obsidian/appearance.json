@@ -1,13 +1,1 @@
-{
-  "accentColor": "",
-  "theme": "obsidian",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "Avenir",
-  "textFontFamily": "Avenir",
-  "monospaceFontFamily": "Cascadia Code",
-  "enabledCssSnippets": [
-    "snippet"
-  ],
-  "nativeMenus": true,
-  "showRibbon": true
-}
+{}
