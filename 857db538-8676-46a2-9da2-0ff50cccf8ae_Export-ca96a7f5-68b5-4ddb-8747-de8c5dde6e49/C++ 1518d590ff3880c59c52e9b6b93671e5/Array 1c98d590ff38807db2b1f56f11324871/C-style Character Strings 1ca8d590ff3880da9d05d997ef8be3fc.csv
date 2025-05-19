@@ -1,0 +1,5 @@
+﻿Name,Text
+strlen(p),"Returns the length of p, not counting the null"
+"strcmp(p1, p2)",Compare p1 and p2 for equality
+"strcat(p1, p2)","Appends p2 to p1, returns p1"
+"strcpy(p1, p2)","Copies p2 into p1, returns p1"

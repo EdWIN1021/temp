@@ -1,0 +1,3 @@
+﻿Name,Text
+begin,pointer to the first element in arr
+end,pointer to the last element in arr

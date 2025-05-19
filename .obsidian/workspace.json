@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "0cbe5fd4176baf1a",
+    "id": "4193bd3c2f1eed96",
     "type": "split",
     "children": [
       {
-        "id": "53a1d7ff5f2fd54c",
+        "id": "298535743aa1dfb6",
         "type": "tabs",
         "children": [
           {
-            "id": "ba8317cd5d040065",
+            "id": "33844566cfe2dec1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "893346de8f0996e9",
+    "id": "f2b6e5fea503f1dc",
     "type": "split",
     "children": [
       {
-        "id": "54767434f178f17a",
+        "id": "848604cd1ecbf668",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf97e789df747b0",
+            "id": "6b46bf4cbb1cdba6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "a2196d6483dbd71a",
+            "id": "c5e8384b745d878e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "8b0c8b00d8998969",
+            "id": "1a984b1ac464a02e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "fd141f31e368ca7f",
+    "id": "9cca92b95a0d732e",
     "type": "split",
     "children": [
       {
-        "id": "a0f640c991d51410",
+        "id": "8d52fe8ed81bdcaa",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9ad925b31bd678",
+            "id": "72870b725b04325a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e6154e027d98a9fc",
+            "id": "657874c6e58243e3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ba260bd99026dbde",
+            "id": "77b71ea9b3f55257",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "ca7c6affdd19e273",
+            "id": "11add52fad6302f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -168,6 +161,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bf97e789df747b0",
-  "lastOpenFiles": []
+  "active": "33844566cfe2dec1",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
