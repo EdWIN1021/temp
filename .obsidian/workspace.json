@@ -12,17 +12,24 @@
             "id": "6f9dee5f031b1eac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "home/home.canvas",
-                "viewState": {
-                  "x": -41.5,
-                  "y": 39,
-                  "zoom": 0
+                "file": "tools/aws/How-to-setup-ec2-instance.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "home"
+              "icon": "lucide-file",
+              "title": "How-to-setup-ec2-instance"
             },
             "group": "e598710136286e11"
           }
@@ -40,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "home/home.canvas",
+                "file": "tools/aws/How-to-setup-ec2-instance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +75,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of home"
+              "title": "Graph of How-to-setup-ec2-instance"
             },
             "group": "e598710136286e11"
           }
@@ -237,9 +244,9 @@
   },
   "active": "6f9dee5f031b1eac",
   "lastOpenFiles": [
+    "home/home.canvas",
     "legacy/mongo/cmd.md",
     "legacy/mongo/README.md",
-    "home/home.canvas",
     "unity/Time.deltaTime.md",
     "unity/Create Singleton Pattern.md",
     "unity/Material/Physics Material 2D.md",
@@ -269,7 +276,6 @@
     "unreal-engine/AddDynamic/AddDynamic.md",
     "unreal-engine/AddControllerPitchInput/AddControllerPitchInput.md",
     "unreal-engine/Actor Component/Actor Component.md",
-    "unreal-engine/Actor/Actor.md",
     "unreal-engine/GameplayEffect/GameplayEffect.canvas",
     "unreal-engine/Gameplay Ability System/Gameplay Ability System.canvas",
     "unreal-engine/AttributeSet/AttributeSet.canvas",
